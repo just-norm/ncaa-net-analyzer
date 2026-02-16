@@ -1,6 +1,4 @@
 {
-  "buildCommand": "python3 build.py",
-  "installCommand": "pip install -r requirements.txt",
   "outputDirectory": "public",
   "cleanUrls": true,
   "trailingSlash": false

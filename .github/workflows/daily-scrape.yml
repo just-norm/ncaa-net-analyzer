@@ -33,10 +33,15 @@ jobs:
           echo "🏀 Scraping team schedules..."
           python scrapers/batch_scraper.py --batch-size 30 --delay 10
 
+      - name: Build website
+        run: |
+          echo "🔨 Building website with latest data..."
+          python build.py
+
       - name: Check for changes
         id: git-check
         run: |
-          if [[ -n $(git status --porcelain data/) ]]; then
+          if [[ -n $(git status --porcelain data/ public/) ]]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
@@ -45,8 +50,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "NCAA NET Bot"
-          git add data/
-          git commit -m "🤖 Auto-update NCAA data - $(date +'%Y-%m-%d %H:%M UTC')"
+          git add data/ public/
+          git commit -m "🤖 Auto-update NCAA data and rebuild site - $(date +'%Y-%m-%d %H:%M UTC')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

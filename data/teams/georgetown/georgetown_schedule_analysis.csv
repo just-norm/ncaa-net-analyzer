@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Morgan State,Home,W,87-70,,NR,Q4
+Nov 7,Maryland,Away,W,70-60,151,NR,Q3
+Nov 12,Binghamton,Home,W,83-70,362,NR,Q4
+Nov 15,Clemson,Home,W,79-74,31,NR,Q2
+Nov 22,Wagner,Home,W,92-75,315,NR,Q4
+Nov 27,Dayton,Neutral,L,84-79,89,NR,Q2
+Nov 28,Miami (FL),Neutral,L,78-65,35,NR,Q1
+Dec 3,Maryland-Baltimore County,Home,W,90-81,,NR,Q4
+Dec 7,North Carolina,Away,L,81-61,25,NR,Q1
+Dec 13,Saint Peter's,Home,W,76-68,226,NR,Q4
+Dec 17,Marquette,Away,W,78-69,111,NR,Q2
+Dec 20,Xavier,Home,L,80-77,97,NR,Q3
+Dec 22,Coppin State,Home,W,97-67,,NR,Q4
+Dec 31,St. John's (NY),Home,L,95-83,24,NR,Q1
+Jan 6,DePaul,Away,L,56-50,108,NR,Q2
+Jan 10,Seton Hall,Home,L,76-67,49,NR,Q2
+Jan 13,Creighton,Away,L,86-83,81,NR,Q2
+Jan 17,Connecticut,Home,L,64-62,10,NR,Q1
+Jan 21,Villanova,Away,L,66-51,30,NR,Q1
+Jan 24,Providence,Away,W,81-78,79,NR,Q2
+Jan 28,DePaul,Home,W,70-61,108,NR,Q3
+Jan 31,Butler,Away,W,77-64,80,NR,Q2
+Feb 4,Creighton,Home,W,76-68,81,NR,Q3
+Feb 7,Villanova,Home,L,80-73,30,NR,Q1
+Feb 14,Connecticut,Away,L,79-75,10,NR,Q1
+Feb 18,Butler,Home,TBD,,80,NR,Q3
+Feb 21,Seton Hall,Away,TBD,,49,NR,Q1
+Feb 24,Marquette,Home,TBD,,111,NR,Q3
+Feb 28,Xavier,Away,TBD,,97,NR,Q2
+Mar 3,St. John's (NY),Away,TBD,,24,NR,Q1
+Mar 7,Providence,Home,TBD,,79,NR,Q3

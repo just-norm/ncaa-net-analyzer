@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,West Coast Baptist,Home,W,116-35,,NR,Q4
+Nov 8,Boise State,Away,L,101-77,60,NR,Q1
+Nov 12,Westminster (UT),Home,W,91-60,,NR,Q4
+Nov 15,Fresno State,Away,L,75-74,137,NR,Q3
+Nov 19,UC Irvine,Home,W,79-72,120,NR,Q3
+Nov 25,South Dakota State,Neutral,W,75-52,204,NR,Q4
+Nov 26,Samford,Neutral,W,89-45,210,NR,Q4
+Dec 3,San Diego State,Away,L,77-66,41,NR,Q1
+Dec 6,Bowling Green,Away,W,82-71,141,NR,Q3
+Dec 10,Idaho State,Home,W,73-69,,NR,Q4
+Dec 13,UC Santa Barbara,Neutral,W,68-53,133,NR,Q3
+Dec 17,Weber State,Home,W,90-74,,NR,Q4
+Dec 20,Bethesda University (CA),Home,W,109-48,,NR,Q4
+Dec 29,California Baptist,Home,W,73-66,109,NR,Q3
+Jan 1,Tarleton State,Away,W,91-85,,NR,Q4
+Jan 3,Abilene Christian,Away,L,85-68,231,NR,Q3
+Jan 8,Southern Utah,Home,W,89-72,282,NR,Q4
+Jan 10,Utah Tech,Home,W,92-76,156,NR,Q3
+Jan 17,UT Arlington,Home,W,86-74,158,NR,Q3
+Jan 21,Southern Utah,Away,L,84-70,282,NR,Q4
+Jan 24,California Baptist,Away,L,78-71,109,NR,Q2
+Jan 29,Tarleton State,Away,W,83-55,,NR,Q4
+Feb 5,Abilene Christian,Home,W,68-55,231,NR,Q4
+Feb 7,UT Arlington,Home,W,81-60,158,NR,Q3
+Feb 12,Utah Tech,Away,L,81-77,156,NR,Q3
+Feb 19,California Baptist,Home,TBD,,109,NR,Q3
+Feb 21,UT Arlington,Away,TBD,,158,NR,Q3
+Feb 26,Tarleton State,Home,TBD,,,NR,Q4
+Feb 28,Abilene Christian,Home,TBD,,231,NR,Q4
+Mar 5,Southern Utah,Away,TBD,,282,NR,Q4
+Mar 7,Utah Tech,Away,TBD,,156,NR,Q3

@@ -11,17 +11,16 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from scrapers.bballnet_scraper import scrape_team_data, save_team_data, scrape_ap_rankings
+from scrapers.combined_scraper import scrape_team_complete, save_team_data
 from utils.team_config import load_teams
 
 
-def scrape_single_team(team, ap_rankings, output_base_dir):
+def scrape_single_team(team, output_base_dir):
     """
-    Scrape data for a single team
+    Scrape data for a single team using combined scraper
 
     Args:
         team: Team dict from teams.json
-        ap_rankings: Dict of AP rankings
         output_base_dir: Base directory for output (data/teams/)
 
     Returns:
@@ -30,28 +29,23 @@ def scrape_single_team(team, ap_rankings, output_base_dir):
     team_name = team['name']
     team_slug = team['slug']
 
-    # Map team names for scraping (some teams need different names for bballnet URLs)
-    scrape_name_map = {
-        'UConn': 'Connecticut'
-    }
-    scrape_name = scrape_name_map.get(team_name, team_name)
-
     try:
         print(f"📥 Scraping {team_name}...")
 
-        # Scrape team data
-        team_data = scrape_team_data(scrape_name)
+        # Scrape team data using combined scraper
+        team_data = scrape_team_complete(team_name, year=2026)
 
         if not team_data:
             return (team_name, False, "No data returned from scraper")
 
         # Create output directory
         output_dir = output_base_dir / team_slug
-        output_dir.mkdir(parents=True, exist_ok=True)
 
         # Save data
-        output_prefix = str(output_dir / team_slug)
-        save_team_data(team_data, output_prefix)
+        success = save_team_data(team_data, output_dir)
+
+        if not success:
+            return (team_name, False, "Failed to save data")
 
         return (team_name, True, None)
 
@@ -111,40 +105,30 @@ def scrape_all_teams(max_workers=3, retry_failed=True, batch_size=None, delay=1)
 
     print(f"🔄 Scraping {len(teams_to_scrape)} teams this run\n")
 
-    # Scrape AP rankings once (shared by all teams)
-    print("📊 Scraping AP Poll rankings...")
-    ap_rankings = scrape_ap_rankings()
-    print()
-
     # Track results
     results = {
         'successful': already_scraped.copy(),  # Include already-scraped teams
         'failed': []
     }
 
-    # Scrape teams in parallel
-    print(f"🔄 Scraping teams (max {max_workers} parallel, {delay}s delay)...")
+    # Scrape teams sequentially (combined scraper handles all data sources)
+    print(f"🔄 Scraping teams (sequential, {delay}s delay)...")
     print("-" * 50)
 
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        # Submit all scraping tasks
-        future_to_team = {
-            executor.submit(scrape_single_team, team, ap_rankings, output_base_dir): team
-            for team in teams_to_scrape
-        }
+    for i, team in enumerate(teams_to_scrape, 1):
+        print(f"\n[{i}/{len(teams_to_scrape)}] ", end='')
 
-        # Process completed tasks
-        for future in as_completed(future_to_team):
-            team_name, success, error = future.result()
+        team_name, success, error = scrape_single_team(team, output_base_dir)
 
-            if success:
-                results['successful'].append(team_name)
-                print(f"  ✅ {team_name}")
-            else:
-                results['failed'].append((team_name, error))
-                print(f"  ❌ {team_name}: {error}")
+        if success:
+            results['successful'].append(team_name)
+            print(f"  ✅ {team_name}")
+        else:
+            results['failed'].append((team_name, error))
+            print(f"  ❌ {team_name}: {error}")
 
-            # Configurable delay to be respectful to servers
+        # Configurable delay to be respectful to servers
+        if i < len(teams_to_scrape):  # Don't delay after last team
             time.sleep(delay)
 
     print("-" * 50)
@@ -167,7 +151,7 @@ def scrape_all_teams(max_workers=3, retry_failed=True, batch_size=None, delay=1)
             print(f"📥 Retrying {team_name}...")
             time.sleep(delay * 2)  # Longer delay for retries
 
-            name, success, error = scrape_single_team(team, ap_rankings, output_base_dir)
+            name, success, error = scrape_single_team(team, output_base_dir)
 
             if success:
                 results['successful'].append(name)

@@ -1,5 +1,6 @@
 {
   "buildCommand": "bash build.sh",
+  "installCommand": "echo 'Skipping auto-install, using build.sh instead'",
   "outputDirectory": "public",
   "framework": null,
   "cleanUrls": true,

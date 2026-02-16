@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Old Dominion,Home,W,87-72,256,NR,Q4
+Nov 7,Trinity Christian,Home,W,129-49,,NR,Q4
+Nov 15,Air Force,Away,W,76-61,346,NR,Q4
+Nov 20,Mercyhurst,Home,W,76-71,283,NR,Q4
+Nov 23,Arkansas-Pine Bluff,Home,W,111-84,,NR,Q4
+Nov 26,UNC Greensboro,Neutral,W,82-71,294,NR,Q4
+Dec 2,IU East,Home,W,109-65,,NR,Q4
+Dec 6,Maine,Home,W,93-61,343,NR,Q4
+Dec 10,UNC Asheville,Away,W,90-87,228,NR,Q3
+Dec 13,Eastern Kentucky,Away,W,79-69,281,NR,Q4
+Dec 16,Wright State,Away,W,83-76,,NR,Q4
+Dec 20,Ball State,Away,W,86-77,,NR,Q4
+Dec 22,Milligan,Home,W,135-81,,NR,Q4
+Dec 30,Bowling Green,Away,W,93-83,141,NR,Q3
+Jan 3,Akron,Home,W,76-73,62,NR,Q2
+Jan 6,Western Michigan,Home,W,87-76,,NR,Q4
+Jan 9,Toledo,Away,W,87-73,172,NR,Q3
+Jan 13,Central Michigan,Home,W,100-61,,NR,Q4
+Jan 17,Buffalo,Home,W,105-102,177,NR,Q4
+Jan 20,Kent State,Away,W,107-101,144,NR,Q3
+Jan 27,Massachusetts,Home,W,86-84,191,NR,Q4
+Jan 31,Northern Illinois,Home,W,85-61,,NR,Q4
+Feb 3,Buffalo,Away,W,73-71,177,NR,Q3
+Feb 7,Marshall,Away,W,90-74,149,NR,Q3
+Feb 13,Ohio,Home,W,90-74,213,NR,Q4
+Feb 17,Massachusetts,Away,TBD,,191,NR,Q3
+Feb 21,Bowling Green,Home,TBD,,141,NR,Q3
+Feb 24,Eastern Michigan,Away,TBD,,,NR,Q4
+Feb 27,Western Michigan,Away,TBD,,,NR,Q4
+Mar 3,Toledo,Home,TBD,,172,NR,Q4
+Mar 6,Ohio,Away,TBD,,213,NR,Q3

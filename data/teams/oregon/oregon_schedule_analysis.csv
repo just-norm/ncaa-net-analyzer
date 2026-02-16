@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Hawaii,Home,W,60-59,98,NR,Q3
+Nov 7,Rice,Home,W,67-63,248,NR,Q4
+Nov 12,South Dakota State,Home,W,83-69,204,NR,Q4
+Nov 17,Oregon State,Home,W,87-75,184,NR,Q4
+Nov 24,Auburn,Neutral,L,84-73,32,NR,Q1
+Nov 25,San Diego State,Neutral,L,97-80,41,NR,Q1
+Nov 27,Creighton,Neutral,L,76-66,81,NR,Q2
+Dec 2,Southern California,Home,L,82-77,48,NR,Q2
+Dec 6,UCLA,Away,L,74-63,40,NR,Q1
+Dec 13,UC Davis,Home,W,104-62,166,NR,Q4
+Dec 17,Portland,Home,W,94-69,208,NR,Q4
+Dec 21,Gonzaga,Neutral,L,91-82,6,NR,Q1
+Dec 28,Omaha,Home,W,80-57,249,NR,Q4
+Jan 2,Maryland,Away,W,64-54,151,NR,Q3
+Jan 5,Rutgers,Away,L,88-85,155,NR,Q3
+Jan 8,Ohio State,Home,L,72-62,38,NR,Q2
+Jan 13,Nebraska,Away,L,90-55,11,NR,Q1
+Jan 17,Michigan,Home,L,81-71,1,NR,Q1
+Jan 20,Michigan State,Home,L,68-52,15,NR,Q1
+Jan 25,Washington,Away,L,72-57,52,NR,Q1
+Jan 28,UCLA,Home,L,73-57,40,NR,Q2
+Feb 1,Iowa,Home,L,84-66,27,NR,Q1
+Feb 7,Purdue,Away,L,68-64,7,NR,Q1
+Feb 9,Indiana,Away,L,92-74,34,NR,Q1
+Feb 14,Penn State,Home,W,83-72,122,NR,Q3
+Feb 17,Minnesota,Home,TBD,,86,NR,Q3
+Feb 21,Southern California,Away,TBD,,48,NR,Q1
+Feb 25,Wisconsin,Home,TBD,,33,NR,Q2
+Feb 28,Northwestern,Away,TBD,,77,NR,Q2
+Mar 3,Illinois,Away,TBD,,5,NR,Q1
+Mar 7,Washington,Home,TBD,,52,NR,Q2

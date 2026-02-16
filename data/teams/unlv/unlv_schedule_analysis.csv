@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Tennessee-Martin,Home,L,86-81,,NR,Q4
+Nov 8,Chattanooga,Home,W,101-69,300,NR,Q4
+Nov 11,Montana,Home,L,102-93,182,NR,Q4
+Nov 16,Memphis,Away,W,92-78,105,NR,Q2
+Nov 20,Saint Joseph's,Home,W,99-85,157,NR,Q3
+Nov 25,Maryland,Neutral,L,74-67,151,NR,Q3
+Nov 26,Alabama,Neutral,L,115-76,21,NR,Q1
+Nov 27,Rutgers,Neutral,L,80-65,155,NR,Q3
+Dec 7,Stanford,Away,W,75-74,70,NR,Q1
+Dec 13,Tennessee State,Home,L,63-60,235,NR,Q4
+Dec 20,Fresno State,Home,W,84-72,137,NR,Q3
+Dec 29,La Sierra,Home,W,89-47,,NR,Q4
+Jan 3,Air Force,Home,W,67-39,346,NR,Q4
+Jan 6,Wyoming,Away,L,98-66,101,NR,Q2
+Jan 9,Colorado State,Away,L,70-62,95,NR,Q2
+Jan 13,Boise State,Home,W,89-85,60,NR,Q2
+Jan 17,San Jose State,Away,W,76-62,265,NR,Q4
+Jan 20,Utah State,Away,W,86-76,23,NR,Q1
+Jan 24,San Diego State,Home,L,82-71,41,NR,Q2
+Jan 27,New Mexico,Home,L,89-61,44,NR,Q2
+Jan 30,Nevada,Away,L,89-76,59,NR,Q1
+Feb 3,Fresno State,Away,L,98-96,137,NR,Q3
+Feb 7,Grand Canyon,Home,W,80-78,76,NR,Q3
+Feb 10,San Jose State,Home,W,82-75,265,NR,Q4
+Feb 13,Boise State,Away,W,86-83,60,NR,Q1
+Feb 18,Colorado State,Home,TBD,,95,NR,Q3
+Feb 21,Air Force,Away,TBD,,346,NR,Q4
+Feb 25,Grand Canyon,Away,TBD,,76,NR,Q2
+Feb 28,Nevada,Home,TBD,,59,NR,Q2
+Mar 3,Utah State,Home,TBD,,23,NR,Q1
+Mar 6,San Diego State,Away,TBD,,41,NR,Q1

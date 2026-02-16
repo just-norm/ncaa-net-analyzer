@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Fairfield,Home,W,76-68,242,NR,Q4
+Nov 8,New Haven,Away,W,87-43,329,NR,Q4
+Nov 11,Navy,Home,W,80-71,150,NR,Q3
+Nov 15,La Salle,Neutral,W,83-69,241,NR,Q4
+Nov 19,Harvard,Home,W,84-80,160,NR,Q3
+Nov 22,Providence,Neutral,L,77-65,79,NR,Q2
+Nov 25,Boston University,Home,W,96-87,152,NR,Q3
+Nov 29,Sacred Heart,Home,W,90-59,297,NR,Q4
+Dec 2,Campbell,Home,W,87-76,207,NR,Q4
+Dec 9,Indiana,Away,L,113-72,34,NR,Q1
+Dec 13,Michigan State,Home,L,76-72,15,NR,Q1
+Dec 21,Pittsburgh,Neutral,L,80-46,124,NR,Q3
+Dec 29,North Carolina Central,Home,W,90-67,340,NR,Q4
+Jan 3,Illinois,Home,L,73-65,5,NR,Q1
+Jan 6,Michigan,Home,L,74-72,1,NR,Q1
+Jan 10,Purdue,Away,L,93-85,7,NR,Q1
+Jan 14,UCLA,Home,L,71-60,40,NR,Q2
+Jan 18,Maryland,Away,L,96-73,151,NR,Q3
+Jan 22,Wisconsin,Home,L,98-71,33,NR,Q2
+Jan 26,Ohio State,Away,L,84-78,38,NR,Q1
+Jan 29,Northwestern,Away,L,94-73,77,NR,Q2
+Feb 1,Minnesota,Home,W,77-75,86,NR,Q3
+Feb 5,Michigan,Away,L,110-69,1,NR,Q1
+Feb 8,Southern California,Home,L,77-75,48,NR,Q2
+Feb 11,Washington,Away,W,63-60,52,NR,Q1
+Feb 14,Oregon,Away,L,83-72,107,NR,Q2
+Feb 18,Rutgers,Home,TBD,,155,NR,Q3
+Feb 21,Nebraska,Away,TBD,,11,NR,Q1
+Feb 28,Iowa,Home,TBD,,27,NR,Q1
+Mar 4,Ohio State,Home,TBD,,38,NR,Q2
+Mar 8,Rutgers,Away,TBD,,155,NR,Q3

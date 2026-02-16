@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Mississippi Valley State,Home,W,106-55,,NR,Q4
+Nov 7,NC State,Away,L,94-70,29,NR,Q1
+Nov 11,Alabama State,Home,L,77-74,,NR,Q4
+Nov 14,High Point,Home,W,91-74,75,NR,Q2
+Nov 17,Rhodes,Home,W,112-56,,NR,Q4
+Nov 21,South Alabama,Home,W,80-72,168,NR,Q4
+Nov 24,Southern Illinois,Neutral,W,81-73,126,NR,Q3
+Nov 25,UTEP,Neutral,W,75-59,264,NR,Q4
+Dec 1,Middle Tennessee,Away,L,76-61,159,NR,Q3
+Dec 5,Drake,Away,W,74-69,200,NR,Q3
+Dec 14,Troy,Home,L,86-85,132,NR,Q3
+Dec 17,Cleveland State,Home,W,101-77,,NR,Q4
+Dec 21,UNC Asheville,Home,W,72-47,228,NR,Q4
+Dec 31,Wichita State,Home,L,75-70,,NR,Q4
+Jan 4,South Florida,Away,W,109-106,,NR,Q4
+Jan 7,Florida Atlantic,Home,L,76-71,,NR,Q4
+Jan 11,East Carolina,Away,W,87-85,269,NR,Q4
+Jan 14,Tulane,Away,W,82-69,190,NR,Q3
+Jan 18,Tulsa,Home,L,99-77,53,NR,Q2
+Jan 22,South Florida,Home,L,82-69,,NR,Q4
+Jan 28,UTSA,Away,W,83-73,341,NR,Q4
+Jan 31,North Texas,Away,W,72-68,148,NR,Q3
+Feb 5,Memphis,Home,L,90-80,105,NR,Q3
+Feb 8,Rice,Home,W,71-65,248,NR,Q4
+Feb 11,Tulsa,Away,W,68-63,53,NR,Q1
+Feb 15,Tulane,Home,L,55-54,190,NR,Q4
+Feb 18,Temple,Away,TBD,,162,NR,Q3
+Feb 22,Memphis,Away,TBD,,105,NR,Q2
+Mar 1,North Texas,Home,TBD,,148,NR,Q3
+Mar 4,Charlotte,Away,TBD,,189,NR,Q3
+Mar 8,East Carolina,Home,TBD,,269,NR,Q4

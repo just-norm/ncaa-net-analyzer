@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Albany (NY),Home,W,80-53,,NR,Q4
+Nov 5,Southern,Home,W,100-82,279,NR,Q4
+Nov 9,Indiana,Neutral,L,100-77,34,NR,Q1
+Nov 12,Little Rock,Home,W,89-49,307,NR,Q4
+Nov 15,Maryland,Home,L,89-82,151,NR,Q3
+Nov 19,Dayton,Home,L,77-71,89,NR,Q3
+Nov 22,Central Michigan,Home,W,85-71,,NR,Q4
+Nov 28,Oklahoma,Neutral,L,75-74,68,NR,Q2
+Dec 2,Valparaiso,Home,W,75-72,163,NR,Q4
+Dec 6,Wisconsin,Away,L,96-76,33,NR,Q1
+Dec 13,Purdue,Away,L,79-59,7,NR,Q1
+Dec 17,Georgetown,Home,L,78-69,90,NR,Q3
+Dec 20,Creighton,Away,L,84-63,81,NR,Q2
+Dec 30,Seton Hall,Home,L,79-73,49,NR,Q2
+Jan 4,Connecticut,Away,L,73-57,10,NR,Q1
+Jan 7,Xavier,Home,W,66-65,97,NR,Q3
+Jan 10,Villanova,Home,L,76-73,30,NR,Q1
+Jan 13,St. John's (NY),Away,L,92-68,24,NR,Q1
+Jan 16,DePaul,Away,L,80-75,108,NR,Q2
+Jan 19,Providence,Home,W,105-104,79,NR,Q3
+Jan 23,Butler,Away,L,87-76,80,NR,Q2
+Jan 27,Creighton,Home,W,86-62,81,NR,Q3
+Jan 31,Seton Hall,Away,L,69-64,49,NR,Q1
+Feb 7,Butler,Home,W,70-55,80,NR,Q3
+Feb 10,Villanova,Away,L,77-74,30,NR,Q1
+Feb 14,Xavier,Away,L,96-88,97,NR,Q2
+Feb 18,St. John's (NY),Home,TBD,,24,NR,Q1
+Feb 24,Georgetown,Away,TBD,,90,NR,Q2
+Mar 1,DePaul,Home,TBD,,108,NR,Q3
+Mar 4,Providence,Away,TBD,,79,NR,Q2
+Mar 7,Connecticut,Home,TBD,,10,NR,Q1

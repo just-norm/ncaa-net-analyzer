@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Chicago State,Home,W,92-62,,NR,Q4
+Nov 7,Stonehill,Home,W,72-64,339,NR,Q4
+Nov 11,Buffalo,Home,L,66-53,177,NR,Q4
+Nov 14,Northwestern,Home,L,81-79,77,NR,Q3
+Nov 18,Gardner-Webb,Home,W,93-62,363,NR,Q4
+Nov 23,Detroit Mercy,Home,W,95-75,250,NR,Q4
+Nov 28,Georgia Tech,Neutral,W,75-61,165,NR,Q3
+Nov 29,Louisiana State,Neutral,L,96-63,67,NR,Q2
+Dec 6,Arkansas-Pine Bluff,Home,W,76-72,,NR,Q4
+Dec 9,Morgan State,Home,W,92-49,,NR,Q4
+Dec 13,Wichita State,Away,W,61-58,,NR,Q4
+Dec 16,St. John's (NY),Away,L,79-66,24,NR,Q1
+Dec 21,Connecticut,Home,L,72-54,10,NR,Q1
+Dec 31,Villanova,Away,L,71-66,30,NR,Q1
+Jan 3,Xavier,Home,W,86-77,97,NR,Q3
+Jan 6,Georgetown,Home,W,56-50,90,NR,Q3
+Jan 10,Connecticut,Away,L,72-60,10,NR,Q1
+Jan 16,Marquette,Home,W,80-75,111,NR,Q3
+Jan 20,Butler,Away,L,87-80,80,NR,Q2
+Jan 24,Seton Hall,Home,W,67-60,49,NR,Q2
+Jan 28,Georgetown,Away,L,70-61,90,NR,Q2
+Jan 31,Xavier,Away,L,68-66,97,NR,Q2
+Feb 3,St. John's (NY),Home,L,68-56,24,NR,Q1
+Feb 7,Providence,Away,L,90-72,79,NR,Q2
+Feb 11,Creighton,Home,W,72-71,81,NR,Q3
+Feb 18,Seton Hall,Away,TBD,,49,NR,Q1
+Feb 21,Providence,Home,TBD,,79,NR,Q3
+Feb 25,Creighton,Away,TBD,,81,NR,Q2
+Mar 1,Marquette,Away,TBD,,111,NR,Q2
+Mar 4,Villanova,Home,TBD,,30,NR,Q1
+Mar 7,Butler,Home,TBD,,80,NR,Q3

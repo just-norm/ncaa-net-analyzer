@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Kent State,Away,W,103-97,144,NR,Q3
+Nov 7,Furman,Away,W,64-61,194,NR,Q3
+Nov 11,Pensacola Christian,Home,W,121-56,,NR,Q4
+Nov 14,Loyola Marymount,Away,L,74-63,,NR,Q4
+Nov 16,Cal State Northridge,Away,L,94-85,,NR,Q4
+Nov 18,San Diego State,Away,W,108-107,41,NR,Q1
+Nov 20,Southern California,Away,L,107-106,48,NR,Q1
+Nov 24,Toledo,Neutral,L,75-68,172,NR,Q3
+Nov 26,Saint Francis (PA),Neutral,W,74-64,,NR,Q4
+Dec 1,West Georgia,Home,L,93-89,,NR,Q4
+Dec 6,LaGrange,Home,W,101-47,,NR,Q4
+Dec 14,UAB,Away,W,86-85,119,NR,Q2
+Dec 20,Marshall,Home,W,70-63,149,NR,Q3
+Dec 31,Texas State,Home,W,100-80,,NR,Q4
+Jan 3,South Alabama,Home,W,59-49,168,NR,Q4
+Jan 7,Arkansas State,Away,L,86-74,,NR,Q4
+Jan 10,Louisiana,Away,W,90-70,312,NR,Q4
+Jan 14,Southern Mississippi,Home,W,91-65,,NR,Q4
+Jan 17,Arkansas State,Home,W,99-74,,NR,Q4
+Jan 21,Old Dominion,Away,W,83-77,256,NR,Q4
+Jan 24,Georgia Southern,Away,W,83-78,,NR,Q4
+Jan 29,James Madison,Home,L,73-64,219,NR,Q4
+Jan 31,Appalachian State,Home,L,66-44,,NR,Q4
+Feb 4,Georgia State,Away,W,74-63,,NR,Q4
+Feb 7,Akron,Home,W,79-69,62,NR,Q2
+Feb 11,Texas State,Away,L,74-62,,NR,Q4
+Feb 14,Southern Mississippi,Away,L,69-65,,NR,Q4
+Feb 18,Louisiana-Monroe,Away,TBD,,,NR,Q4
+Feb 21,South Alabama,Away,TBD,,168,NR,Q3
+Feb 24,Louisiana,Home,TBD,,312,NR,Q4
+Feb 27,Louisiana-Monroe,Home,TBD,,,NR,Q4

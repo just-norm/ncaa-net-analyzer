@@ -21,9 +21,17 @@ def scrape_ap_poll():
     Scrape AP Poll rankings from NCAA.com
 
     Returns:
-        dict: {'team_name': rank}
+        dict: {'team_name': rank} - team names normalized to match our config
     """
     print("🔍 Scraping AP Poll from NCAA.com...")
+
+    # Name mapping from AP Poll to our team config naming conventions
+    NAME_MAPPING = {
+        'Iowa State': 'Iowa St.',
+        'Michigan State': 'Michigan St.',
+        "St. John's": "St. John's (NY)",
+        'Saint Mary\'s (CA)': 'Saint Mary\'s (CA)',
+    }
 
     url = "https://www.ncaa.com/rankings/basketball-men/d1/associated-press"
 
@@ -57,7 +65,10 @@ def scrape_ap_poll():
                     # Second column is school name (may include votes in parentheses)
                     school_text = cols[1].get_text(strip=True)
                     # Remove vote count in parentheses if present
-                    team = re.sub(r'\s*\(\d+\)\s*$', '', school_text).strip()
+                    team_raw = re.sub(r'\s*\(\d+\)\s*$', '', school_text).strip()
+
+                    # Apply name mapping to match our config
+                    team = NAME_MAPPING.get(team_raw, team_raw)
 
                     rankings[team] = rank
                 except (ValueError, IndexError):

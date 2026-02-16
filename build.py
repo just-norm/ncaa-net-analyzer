@@ -14,8 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from generators.home_page_generator import generate_home_page
 from generators.dashboard_generator import generate_team_dashboard
-from generators.comparison_page_generator import generate_comparison_page
-from generators.comparison_generator import load_team_data
+from generators.comparison_generator import generate_comparison_page, load_team_data
 from utils.team_config import load_teams
 
 

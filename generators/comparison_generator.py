@@ -580,17 +580,17 @@ def generate_comparison_page(output_dir='public'):
             `).join('') || '<p style="color: #999;">No top wins recorded</p>';
 
             // Build losses lists
-            const team1LossesHTML = team1.losses.map(loss => `
+            const team1LossesHTML = team1.worst_losses.map(loss => `
                 <div class="win-item" style="border-left-color: #d32f2f;">
                     <strong>${{loss.opponent}}</strong> (#${{loss.net_rank}} NET) - ${{loss.location}} - ${{loss.quad}}
                 </div>
-            `).join('') || '<p style="color: #999;">No losses</p>';
+            `).join('') || '<p style="color: #999;">No bad losses</p>';
 
-            const team2LossesHTML = team2.losses.map(loss => `
+            const team2LossesHTML = team2.worst_losses.map(loss => `
                 <div class="win-item" style="border-left-color: #d32f2f;">
                     <strong>${{loss.opponent}}</strong> (#${{loss.net_rank}} NET) - ${{loss.location}} - ${{loss.quad}}
                 </div>
-            `).join('') || '<p style="color: #999;">No losses</p>';
+            `).join('') || '<p style="color: #999;">No bad losses</p>';
 
             return `
                 <div class="comparison-grid">
@@ -676,12 +676,12 @@ def generate_comparison_page(output_dir='public'):
 
                 <div class="comparison-grid">
                     <div class="wins-list">
-                        <h4>${{team1Name}} - Losses</h4>
+                        <h4>${{team1Name}} - Worst Losses</h4>
                         ${{team1LossesHTML}}
                     </div>
 
                     <div class="wins-list">
-                        <h4>${{team2Name}} - Losses</h4>
+                        <h4>${{team2Name}} - Worst Losses</h4>
                         ${{team2LossesHTML}}
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pip install --break-system-packages -r requirements.txt && python3 build.py",
+  "buildCommand": "bash build.sh",
   "outputDirectory": "public",
   "framework": null,
   "cleanUrls": true,

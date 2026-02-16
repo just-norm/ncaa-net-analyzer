@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Mercer,Home,W,76-61,154,NR,Q3
+Nov 8,Northern Kentucky,Home,W,95-56,201,NR,Q4
+Nov 12,North Florida,Home,W,99-66,337,NR,Q4
+Nov 17,Rice,Home,W,91-66,246,NR,Q4
+Nov 20,Tennessee State,Home,W,89-60,236,NR,Q4
+Nov 24,Rutgers,Neutral,W,85-60,165,NR,Q3
+Nov 25,Houston,Neutral,W,76-73,4,NR,Q1
+Nov 26,Kansas,Neutral,L,81-76,14,NR,Q1
+Dec 2,Syracuse,Away,L,62-60,69,NR,Q1
+Dec 6,Illinois,Neutral,L,75-62,7,NR,Q1
+Dec 16,Louisville,Home,W,83-62,12,NR,Q1
+Dec 21,Gardner-Webb,Home,W,94-52,363,NR,Q4
+Dec 30,South Carolina State,Home,W,105-54,358,NR,Q4
+Jan 3,Arkansas,Away,L,86-75,18,NR,Q1
+Jan 6,Texas,Home,W,85-71,37,NR,Q2
+Jan 10,Florida,Away,L,91-67,9,NR,Q1
+Jan 13,Texas A&M,Home,W,87-82,43,NR,Q2
+Jan 17,Kentucky,Home,L,80-78,28,NR,Q1
+Jan 24,Alabama,Away,W,79-73,21,NR,Q1
+Jan 28,Georgia,Away,W,86-85,39,NR,Q1
+Jan 31,Auburn,Home,W,77-69,34,NR,Q2
+Feb 3,Mississippi,Home,W,84-66,92,NR,Q3
+Feb 7,Kentucky,Away,L,74-71,28,NR,Q1
+Feb 11,Mississippi State,Away,W,73-64,96,NR,Q2
+Feb 14,Louisiana State,Home,W,73-63,67,NR,Q2
+Feb 18,Oklahoma,Home,TBD,,68,NR,Q2
+Feb 21,Vanderbilt,Away,TBD,,13,NR,Q1
+Feb 24,Missouri,Away,TBD,,66,NR,Q1
+Feb 28,Alabama,Home,TBD,,21,NR,Q1
+Mar 3,South Carolina,Away,TBD,,112,NR,Q2
+Mar 7,Vanderbilt,Home,TBD,,13,NR,Q1

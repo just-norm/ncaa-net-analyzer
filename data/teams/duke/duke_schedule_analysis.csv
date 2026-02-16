@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Texas,Neutral,W,75-60,37,NR,Q1
+Nov 8,Western Carolina,Home,W,95-54,263,NR,Q4
+Nov 11,Army,Away,W,114-59,332,NR,Q4
+Nov 14,Indiana State,Home,W,100-62,217,NR,Q4
+Nov 18,Kansas,Neutral,W,78-66,14,NR,Q1
+Nov 21,Niagara,Home,W,100-42,346,NR,Q4
+Nov 23,Howard,Home,W,93-56,229,NR,Q4
+Nov 27,Arkansas,Neutral,W,80-71,18,NR,Q1
+Dec 2,Florida,Home,W,67-66,9,NR,Q1
+Dec 6,Michigan State,Away,W,66-60,15,NR,Q1
+Dec 16,Lipscomb,Home,W,97-73,186,NR,Q4
+Dec 20,Texas Tech,Neutral,L,82-81,16,NR,Q1
+Dec 31,Georgia Tech,Home,W,85-79,163,NR,Q4
+Jan 3,Florida State,Away,W,91-87,82,NR,Q2
+Jan 6,Louisville,Away,W,84-73,12,NR,Q1
+Jan 10,Southern Methodist,Home,W,82-75,36,NR,Q2
+Jan 14,California,Away,W,71-56,60,NR,Q1
+Jan 17,Stanford,Away,W,80-50,70,NR,Q1
+Jan 24,Wake Forest,Home,W,90-69,64,NR,Q2
+Jan 26,Louisville,Home,W,83-52,12,NR,Q1
+Jan 31,Virginia Tech,Away,W,72-58,56,NR,Q1
+Feb 3,Boston College,Home,W,67-49,153,NR,Q3
+Feb 7,North Carolina,Away,L,71-68,25,NR,Q1
+Feb 10,Pittsburgh,Away,W,70-54,122,NR,Q2
+Feb 14,Clemson,Home,W,67-54,32,NR,Q2
+Feb 16,Syracuse,Home,TBD,,69,NR,Q2
+Feb 21,Michigan,Neutral,TBD,,1,NR,Q1
+Feb 24,Notre Dame,Away,TBD,,87,NR,Q2
+Feb 28,Virginia,Home,TBD,,19,NR,Q1
+Mar 2,NC State,Away,TBD,,29,NR,Q1
+Mar 7,North Carolina,Home,TBD,,25,NR,Q1

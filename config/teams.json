@@ -1,0 +1,64 @@
+{
+  "teams": [
+    {
+      "name": "Michigan",
+      "slug": "michigan",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "Arizona",
+      "slug": "arizona",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "Duke",
+      "slug": "duke",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Purdue",
+      "slug": "purdue",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "Kansas",
+      "slug": "kansas",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "UConn",
+      "slug": "connecticut",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Tennessee",
+      "slug": "tennessee",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "North Carolina",
+      "slug": "north-carolina",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Illinois",
+      "slug": "illinois",
+      "conference": "Big Ten",
+      "active": true
+    }
+  ]
+}

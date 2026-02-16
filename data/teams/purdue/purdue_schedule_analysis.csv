@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Evansville,Home,W,82-51,292,NR,Q4
+Nov 7,Oakland,Home,W,87-77,148,NR,Q3
+Nov 13,Alabama,Away,W,87-80,21,NR,Q1
+Nov 16,Akron,Home,W,97-79,62,NR,Q2
+Nov 20,Memphis,Neutral,W,80-71,105,NR,Q3
+Nov 21,Texas Tech,Neutral,W,86-56,16,NR,Q1
+Nov 28,Eastern Illinois,Home,W,109-62,317,NR,Q4
+Dec 2,Rutgers,Away,W,81-65,165,NR,Q3
+Dec 6,Iowa State,Home,L,81-58,8,NR,Q1
+Dec 10,Minnesota,Home,W,85-57,86,NR,Q3
+Dec 13,Marquette,Home,W,79-59,109,NR,Q3
+Dec 20,Auburn,Neutral,W,88-60,34,NR,Q1
+Dec 29,Kent State,Home,W,101-60,143,NR,Q3
+Jan 3,Wisconsin,Away,W,89-73,33,NR,Q1
+Jan 7,Washington,Home,W,81-73,52,NR,Q2
+Jan 10,Penn State,Home,W,93-85,120,NR,Q3
+Jan 14,Iowa,Home,W,79-72,27,NR,Q1
+Jan 17,Southern California,Away,W,69-64,48,NR,Q1
+Jan 20,UCLA,Away,L,69-67,40,NR,Q1
+Jan 24,Illinois,Home,L,88-82,7,NR,Q1
+Jan 27,Indiana,Away,L,72-67,31,NR,Q1
+Feb 1,Maryland,Away,W,93-63,149,NR,Q3
+Feb 7,Oregon,Home,W,68-64,107,NR,Q3
+Feb 10,Nebraska,Away,W,80-77,11,NR,Q1
+Feb 14,Iowa,Away,W,78-57,27,NR,Q1
+Feb 17,Michigan,Home,TBD,,1,NR,Q1
+Feb 20,Indiana,Home,TBD,,31,NR,Q2
+Feb 26,Michigan State,Home,TBD,,15,NR,Q1
+Mar 1,Ohio State,Away,TBD,,38,NR,Q1
+Mar 4,Northwestern,Away,TBD,,78,NR,Q2
+Mar 7,Wisconsin,Home,TBD,,33,NR,Q2

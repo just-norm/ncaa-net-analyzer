@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arizona Basketball - NET Resume Analysis</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #CC0033 0%, #003366 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+
+        .header {
+            background: #003366;
+            color: #CC0033;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header .subtitle {
+            font-size: 1.2em;
+            color: white;
+            opacity: 0.9;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            border-left: 4px solid #003366;
+        }
+
+        .stat-card.q1 {
+            border-left-color: #d4af37;
+        }
+
+        .stat-card.q2 {
+            border-left-color: #c0c0c0;
+        }
+
+        .stat-card.q3 {
+            border-left-color: #cd7f32;
+        }
+
+        .stat-card.q4 {
+            border-left-color: #808080;
+        }
+
+        .stat-card h3 {
+            font-size: 1.1em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #003366;
+            margin-bottom: 5px;
+        }
+
+        .stat-detail {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 8px;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .section-title {
+            font-size: 1.8em;
+            color: #003366;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #CC0033;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 0.95em;
+        }
+
+        thead {
+            background: #003366;
+            color: white;
+        }
+
+        th {
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        tbody tr:hover {
+            background: #f8f9fa;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .badge.q1 {
+            background: #d4af37;
+        }
+
+        .badge.q2 {
+            background: #c0c0c0;
+            color: #333;
+        }
+
+        .badge.q3 {
+            background: #cd7f32;
+        }
+
+        .badge.q4 {
+            background: #808080;
+        }
+
+        .badge.q2-q3 {
+            background: #a8a8a8;
+        }
+
+        .badge.win {
+            background: #28a745;
+            margin-left: 8px;
+        }
+
+        .badge.loss {
+            background: #dc3545;
+            margin-left: 8px;
+        }
+
+        .net-rank {
+            font-weight: bold;
+            color: #003366;
+        }
+
+        .summary-box {
+            background: #e8f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .summary-box h4 {
+            color: #003366;
+            margin-bottom: 10px;
+        }
+
+        .summary-box ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .summary-box li {
+            padding: 5px 0;
+            color: #333;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            table {
+                font-size: 0.85em;
+            }
+
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏀 Arizona Wildcats</h1>
+            <div class="subtitle">NET Resume Analysis | 2025-26 Season</div>
+            <div style="margin-top: 15px; font-size: 1.1em;">
+                Record: <strong>23-2</strong>
+            </div>
+            <div style="margin-top: 10px; font-size: 0.95em; line-height: 1.6;">
+                NET: #3 | AP: #1
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card q1">
+                <h3>Quadrant 1 Wins</h3>
+                <div class="stat-value">9</div>
+                <div class="stat-detail">Overall Avg NET: <strong>34.0</strong> | Median: <strong>40</strong></div>
+                <div class="stat-detail" style="margin-top: 10px; border-top: 1px solid #eee; padding-top: 8px;">
+                    <strong>Home (0):</strong> None<br>
+                    <strong>Away (5):</strong> Avg <strong>39.0</strong> | [10, 45, 49, 20, 71]<br>
+                    <strong>Neutral (4):</strong> Avg <strong>27.8</strong> | [9, 40, 21, 41]
+                </div>
+            </div>
+
+            <div class="stat-card q2">
+                <h3>Quadrant 2 Wins</h3>
+                <div class="stat-value">6</div>
+                <div class="stat-detail">Overall Avg NET: <strong>70.0</strong> | Median: <strong>71</strong></div>
+                <div class="stat-detail" style="margin-top: 10px; border-top: 1px solid #eee; padding-top: 8px;">
+                    <strong>Home (5):</strong> Avg <strong>58.8</strong> | [34, 71, 63, 54, 72]<br>
+                    <strong>Away (1):</strong> Avg <strong>126.0</strong> | [126]<br>
+                    <strong>Neutral (0):</strong> None
+                </div>
+            </div>
+
+            <div class="stat-card q3">
+                <h3>Quadrant 3 Wins</h3>
+                <div class="stat-value">2</div>
+                <div class="stat-detail">Overall Avg NET: <strong>129.5</strong> | Median: <strong>158</strong></div>
+                <div class="stat-detail" style="margin-top: 10px; border-top: 1px solid #eee; padding-top: 8px;">
+                    <strong>Home (2):</strong> Avg <strong>129.5</strong> | [158, 101]<br>
+                    <strong>Away (0):</strong> None<br>
+                    <strong>Neutral (0):</strong> None
+                </div>
+            </div>
+
+            <div class="stat-card q4">
+                <h3>Quadrant 4 Wins</h3>
+                <div class="stat-value">6</div>
+                <div class="stat-detail">Overall Avg NET: <strong>254.8</strong> | Median: <strong>250</strong></div>
+                <div class="stat-detail" style="margin-top: 10px; border-top: 1px solid #eee; padding-top: 8px;">
+                    <strong>Home (6):</strong> Avg <strong>254.8</strong> | [302, 230, 309, 233, 250, 205]<br>
+                    <strong>Away (0):</strong> None<br>
+                    <strong>Neutral (0):</strong> None
+                </div>
+            </div>
+        </div>
+
+        <div class="content">
+<div class="summary-box">
+                <h4>📊 Resume Highlights</h4>
+                <ul style="line-height: 1.8;">
+                    <li><strong>Q1 Road Wins (5):</strong> @ Connecticut (#10), @ Brigham Young (#20), @ TCU (#45), @ UCF (#49), @ Arizona State (#71)</li>
+                    <li><strong>Q1 Neutral Wins (4):</strong> vs Florida (#9), vs Alabama (#21), vs UCLA (#40), vs San Diego State (#41)</li>
+                    <li><strong>Q2 Wins (6):</strong> Top 3 by NET: Auburn (#34), West Virginia (#54), Cincinnati (#63)</li>
+                    <li><strong>Losses:</strong> @ Kansas (#14), vs Texas Tech (#16)</li>
+                    <li><strong>Remaining Q1 Opportunities:</strong> vs BYU (#20), @ Houston (#4), @ Baylor (#47), vs Kansas (#14), vs Iowa St. (#8), @ Colorado (#73)</li>
+                </ul>
+            </div>
+
+            <h2 class="section-title">Full Schedule Breakdown</h2>
+
+            <table id="scheduleTable">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Opponent</th>
+                        <th>Location</th>
+                        <th>Result</th>
+                        <th>Score</th>
+                        <th>NET Rank</th>
+                        <th>Quadrant</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Nov 3</td>
+                        <td>Florida</td>
+                        <td><strong>Neutral</strong></td>
+                        <td><span class="badge win">W</span></td>
+                        <td>93-87</td>
+                        <td><span class="net-rank">#9</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 7</td>
+                        <td>Utah Tech</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>93-67</td>
+                        <td><span class="net-rank">#158</span></td>
+                        <td><span class="badge q3">Q3</span></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 11</td>
+                        <td>Northern Arizona</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>84-49</td>
+                        <td><span class="net-rank">#302</span></td>
+                        <td><span class="badge q4">Q4</span></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 14</td>
+                        <td>UCLA</td>
+                        <td><strong>Neutral</strong></td>
+                        <td><span class="badge win">W</span></td>
+                        <td>69-65</td>
+                        <td><span class="net-rank">#40</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 19</td>
+                        <td>Connecticut</td>
+                        <td>Away</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>71-67</td>
+                        <td><span class="net-rank">#10</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 24</td>
+                        <td>Denver</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>103-73</td>
+                        <td><span class="net-rank">#230</span></td>
+                        <td><span class="badge q4">Q4</span></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 29</td>
+                        <td>Norfolk State</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>98-61</td>
+                        <td><span class="net-rank">#309</span></td>
+                        <td><span class="badge q4">Q4</span></td>
+                    </tr>
+                    <tr>
+                        <td>Dec 6</td>
+                        <td>Auburn</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>97-68</td>
+                        <td><span class="net-rank">#34</span></td>
+                        <td><span class="badge q2">Q2</span></td>
+                    </tr>
+                    <tr>
+                        <td>Dec 13</td>
+                        <td>Alabama</td>
+                        <td><strong>Neutral</strong></td>
+                        <td><span class="badge win">W</span></td>
+                        <td>96-75</td>
+                        <td><span class="net-rank">#21</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Dec 16</td>
+                        <td>Abilene Christian</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>96-62</td>
+                        <td><span class="net-rank">#233</span></td>
+                        <td><span class="badge q4">Q4</span></td>
+                    </tr>
+                    <tr>
+                        <td>Dec 20</td>
+                        <td>San Diego State</td>
+                        <td><strong>Neutral</strong></td>
+                        <td><span class="badge win">W</span></td>
+                        <td>68-45</td>
+                        <td><span class="net-rank">#41</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Dec 22</td>
+                        <td>Bethune-Cookman</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>107-71</td>
+                        <td><span class="net-rank">#250</span></td>
+                        <td><span class="badge q4">Q4</span></td>
+                    </tr>
+                    <tr>
+                        <td>Dec 29</td>
+                        <td>South Dakota State</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>99-71</td>
+                        <td><span class="net-rank">#205</span></td>
+                        <td><span class="badge q4">Q4</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 3</td>
+                        <td>Utah</td>
+                        <td>Away</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>97-78</td>
+                        <td><span class="net-rank">#126</span></td>
+                        <td><span class="badge q2">Q2</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 7</td>
+                        <td>Kansas State</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>101-76</td>
+                        <td><span class="net-rank">#101</span></td>
+                        <td><span class="badge q3">Q3</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 10</td>
+                        <td>TCU</td>
+                        <td>Away</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>86-73</td>
+                        <td><span class="net-rank">#45</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 14</td>
+                        <td>Arizona State</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>89-82</td>
+                        <td><span class="net-rank">#71</span></td>
+                        <td><span class="badge q2">Q2</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 17</td>
+                        <td>UCF</td>
+                        <td>Away</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>84-77</td>
+                        <td><span class="net-rank">#49</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 21</td>
+                        <td>Cincinnati</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>77-51</td>
+                        <td><span class="net-rank">#63</span></td>
+                        <td><span class="badge q2">Q2</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 24</td>
+                        <td>West Virginia</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>88-53</td>
+                        <td><span class="net-rank">#54</span></td>
+                        <td><span class="badge q2">Q2</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 26</td>
+                        <td>Brigham Young</td>
+                        <td>Away</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>86-83</td>
+                        <td><span class="net-rank">#20</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Jan 31</td>
+                        <td>Arizona State</td>
+                        <td>Away</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>87-74</td>
+                        <td><span class="net-rank">#71</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr>
+                        <td>Feb 7</td>
+                        <td>Oklahoma State</td>
+                        <td>Home</td>
+                        <td><span class="badge win">W</span></td>
+                        <td>84-47</td>
+                        <td><span class="net-rank">#72</span></td>
+                        <td><span class="badge q2">Q2</span></td>
+                    </tr>
+                    <tr style="background: #ffe6e6;">
+                        <td>Feb 9</td>
+                        <td>Kansas</td>
+                        <td>Away</td>
+                        <td><span class="badge loss">L</span></td>
+                        <td>78-82</td>
+                        <td><span class="net-rank">#14</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #ffe6e6;">
+                        <td>Feb 14</td>
+                        <td>Texas Tech</td>
+                        <td>Home</td>
+                        <td><span class="badge loss">L</span></td>
+                        <td>75-78</td>
+                        <td><span class="net-rank">#16</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #f0f8ff; border-top: 3px solid #003366;">
+                        <td colspan="7" style="text-align: center; font-weight: bold; color: #003366; padding: 10px;">
+                            UPCOMING GAMES
+                        </td>
+                    </tr>
+                    <tr style="background: #f9f9f9;">
+                        <td>Feb 18</td>
+                        <td>BYU</td>
+                        <td>Home</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><span class="net-rank">#20</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #f9f9f9;">
+                        <td>Feb 21</td>
+                        <td>Houston</td>
+                        <td>Away</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><span class="net-rank">#4</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #f9f9f9;">
+                        <td>Feb 24</td>
+                        <td>Baylor</td>
+                        <td>Away</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><span class="net-rank">#47</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #f9f9f9;">
+                        <td>Feb 28</td>
+                        <td>Kansas</td>
+                        <td>Home</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><span class="net-rank">#14</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #f9f9f9;">
+                        <td>Mar 2</td>
+                        <td>Iowa St.</td>
+                        <td>Home</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><span class="net-rank">#8</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                    <tr style="background: #f9f9f9;">
+                        <td>Mar 7</td>
+                        <td>Colorado</td>
+                        <td>Away</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><span class="net-rank">#73</span></td>
+                        <td><span class="badge q1">Q1</span></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="summary-box" style="margin-top: 30px;">
+                <h4>🎓 Understanding Quadrants</h4>
+                <ul>
+                    <li><strong>Q1:</strong> Home vs 1-30, Neutral vs 1-50, Away vs 1-75</li>
+                    <li><strong>Q2:</strong> Home vs 31-75, Neutral vs 51-100, Away vs 76-135</li>
+                    <li><strong>Q3:</strong> Home vs 76-160, Neutral vs 101-200, Away vs 136-240</li>
+                    <li><strong>Q4:</strong> All other games</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Data scraped from NCAA.com NET Rankings | Generated on February 15, 2026</p>
+            <p style="margin-top: 8px;">Arizona Cardinal Red (#CC0033) and Navy Blue (#003366)</p>
+        </div>
+    </div>
+
+    <script>
+        console.log('Arizona NET Resume Analyzer loaded successfully');
+    </script>
+</body>
+</html>

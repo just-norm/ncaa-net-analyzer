@@ -1,0 +1,52 @@
+{
+  "michigan": {
+    "primary": "#00274C",
+    "secondary": "#FFCB05",
+    "name_color": "#FFCB05"
+  },
+  "arizona": {
+    "primary": "#CC0033",
+    "secondary": "#003366",
+    "name_color": "#003366"
+  },
+  "duke": {
+    "primary": "#003087",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "purdue": {
+    "primary": "#000000",
+    "secondary": "#CFB991",
+    "name_color": "#CFB991"
+  },
+  "auburn": {
+    "primary": "#03244D",
+    "secondary": "#DD550C",
+    "name_color": "#DD550C"
+  },
+  "kansas": {
+    "primary": "#0051BA",
+    "secondary": "#E8000D",
+    "name_color": "#E8000D"
+  },
+  "connecticut": {
+    "primary": "#000E2F",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tennessee": {
+    "primary": "#FF8200",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "north-carolina": {
+    "primary": "#7BAFD4",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "illinois": {
+    "primary": "#13294B",
+    "secondary": "#FF5F05",
+    "name_color": "#FF5F05"
+  }
+}

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Green Bay,Home,W,94-51,221,NR,Q4
+Nov 7,North Carolina,Away,L,87-74,25,NR,Q1
+Nov 11,Texas A&M-Corpus Christi,Home,W,77-46,196,NR,Q4
+Nov 15,Princeton,Home,W,76-57,252,NR,Q4
+Nov 18,Duke,Neutral,L,78-66,2,NR,Q1
+Nov 24,Notre Dame,Neutral,W,71-61,87,NR,Q2
+Nov 25,Syracuse,Neutral,W,71-60,69,NR,Q2
+Nov 26,Tennessee,Neutral,W,81-76,22,NR,Q1
+Dec 2,Connecticut,Home,L,61-56,10,NR,Q1
+Dec 7,Missouri,Home,W,80-60,66,NR,Q2
+Dec 13,NC State,Away,W,77-76,29,NR,Q1
+Dec 16,Towson,Home,W,73-49,174,NR,Q4
+Dec 22,Davidson,Home,W,90-61,100,NR,Q3
+Jan 3,UCF,Away,L,81-75,49,NR,Q1
+Jan 6,TCU,Home,W,104-100,45,NR,Q2
+Jan 10,West Virginia,Away,L,86-75,54,NR,Q1
+Jan 13,Iowa State,Home,W,84-63,8,NR,Q1
+Jan 16,Baylor,Home,W,80-62,47,NR,Q2
+Jan 20,Colorado,Away,W,75-69,73,NR,Q1
+Jan 24,Kansas State,Away,W,86-62,101,NR,Q2
+Jan 31,Brigham Young,Home,W,90-82,20,NR,Q1
+Feb 2,Texas Tech,Away,W,64-61,16,NR,Q1
+Feb 7,Utah,Home,W,71-59,126,NR,Q3
+Feb 9,Arizona,Home,W,82-78,3,NR,Q1
+Feb 14,Iowa State,Away,L,74-56,8,NR,Q1
+Feb 18,Oklahoma State,Away,TBD,,72,NR,Q1
+Feb 21,Cincinnati,Home,TBD,,63,NR,Q2
+Feb 23,Houston,Home,TBD,,4,NR,Q1
+Feb 28,Arizona,Away,TBD,,3,NR,Q1
+Mar 3,Arizona State,Away,TBD,,71,NR,Q1
+Mar 7,Kansas State,Home,TBD,,101,NR,Q3

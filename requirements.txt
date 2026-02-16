@@ -1,0 +1,15 @@
+# NCAA NET Rankings Analyzer - Python Dependencies
+
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Optional for faster HTML parsing
+lxml>=4.9.0
+
+# Data handling
+python-dateutil>=2.8.0
+
+# Note: Some scrapers may require additional dependencies depending on target sites
+# If you encounter SSL issues, you may need:
+# certifi>=2023.0.0

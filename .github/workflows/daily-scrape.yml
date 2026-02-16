@@ -28,11 +28,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Scrape NET rankings
-        run: |
-          echo "📊 Scraping NET rankings..."
-          python scrapers/net_rankings_scraper.py
-
       - name: Scrape team schedules (batch)
         run: |
           echo "🏀 Scraping team schedules..."

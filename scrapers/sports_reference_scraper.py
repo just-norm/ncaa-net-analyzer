@@ -10,41 +10,46 @@ import re
 from datetime import datetime
 
 
-def scrape_team_schedule(team_name, year=2026):
+def scrape_team_schedule(team_name, year=2026, sports_ref_slug=None):
     """
     Scrape team schedule from Sports-Reference
 
     Args:
-        team_name: Team name (will be converted to slug)
+        team_name: Team name (for display purposes)
         year: Season year (default: 2026)
+        sports_ref_slug: Optional explicit Sports-Reference URL slug (recommended)
 
     Returns:
         list: Schedule with games
     """
-    # Manual mappings for teams with non-standard Sports-Reference URLs
-    url_mappings = {
-        'Iowa St.': 'iowa-state',
-        'Michigan St.': 'michigan-state',
-        'Utah St.': 'utah-state',
-        'Ohio St.': 'ohio-state',
-        'NC State': 'north-carolina-state',
-        'BYU': 'brigham-young',
-        'UConn': 'connecticut',
-        'A&M-Corpus Christi': 'texas-am-corpus-christi',
-        'Saint Mary\'s': 'saint-marys-ca',
-        'Saint Mary\'s (CA)': 'saint-marys-ca',
-        'St. John\'s': 'st-johns-ny',
-        'St. John\'s (NY)': 'st-johns-ny',
-        'Miami (FL)': 'miami-fl',
-        'SMU': 'southern-methodist',
-    }
-
-    # Check if team has manual mapping
-    if team_name in url_mappings:
-        team_slug = url_mappings[team_name]
+    # Use provided slug if available (preferred method)
+    if sports_ref_slug:
+        team_slug = sports_ref_slug
     else:
-        # Default: convert to lowercase with hyphens
-        team_slug = team_name.lower().replace(' ', '-').replace('&', '')
+        # Fallback: Manual mappings for teams with non-standard Sports-Reference URLs
+        url_mappings = {
+            'Iowa St.': 'iowa-state',
+            'Michigan St.': 'michigan-state',
+            'Utah St.': 'utah-state',
+            'Ohio St.': 'ohio-state',
+            'NC State': 'north-carolina-state',
+            'BYU': 'brigham-young',
+            'UConn': 'connecticut',
+            'A&M-Corpus Christi': 'texas-am-corpus-christi',
+            'Saint Mary\'s': 'saint-marys-ca',
+            'Saint Mary\'s (CA)': 'saint-marys-ca',
+            'St. John\'s': 'st-johns-ny',
+            'St. John\'s (NY)': 'st-johns-ny',
+            'Miami (FL)': 'miami-fl',
+            'SMU': 'southern-methodist',
+        }
+
+        # Check if team has manual mapping
+        if team_name in url_mappings:
+            team_slug = url_mappings[team_name]
+        else:
+            # Default: convert to lowercase with hyphens
+            team_slug = team_name.lower().replace(' ', '-').replace('&', '')
 
     url = f'https://www.sports-reference.com/cbb/schools/{team_slug}/men/{year}-schedule.html'
 

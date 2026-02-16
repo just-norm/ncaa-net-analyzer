@@ -28,12 +28,13 @@ def scrape_single_team(team, output_base_dir):
     """
     team_name = team['name']
     team_slug = team['slug']
+    sports_ref_slug = team.get('sports_reference_slug')
 
     try:
         print(f"📥 Scraping {team_name}...")
 
         # Scrape team data using combined scraper
-        team_data = scrape_team_complete(team_name, year=2026)
+        team_data = scrape_team_complete(team_name, year=2026, sports_ref_slug=sports_ref_slug)
 
         if not team_data:
             return (team_name, False, "No data returned from scraper")

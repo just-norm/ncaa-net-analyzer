@@ -17,13 +17,14 @@ from utils.quadrant_calculator import calculate_quadrant
 from utils.team_name_normalizer import find_team_match
 
 
-def scrape_team_complete(team_name, year=2026):
+def scrape_team_complete(team_name, year=2026, sports_ref_slug=None):
     """
     Scrape complete team data from multiple sources
 
     Args:
         team_name: Team name
         year: Season year
+        sports_ref_slug: Optional explicit Sports-Reference URL slug
 
     Returns:
         dict: Complete team data with schedule, rankings, quadrants
@@ -32,7 +33,7 @@ def scrape_team_complete(team_name, year=2026):
     print("=" * 60)
 
     # 1. Get schedule from Sports-Reference
-    schedule = scrape_team_schedule(team_name, year)
+    schedule = scrape_team_schedule(team_name, year, sports_ref_slug=sports_ref_slug)
     if not schedule:
         return None
 

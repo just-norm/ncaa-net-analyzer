@@ -1,0 +1,58 @@
+{
+  "slug": "louisiana-tech",
+  "net_rank": "247",
+  "ap_rank": "NR",
+  "record": "14-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 12,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Indiana State",
+      "net_rank": 218,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Western Kentucky",
+      "net_rank": 175,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "New Mexico State",
+      "net_rank": 173,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Middle Tennessee",
+      "net_rank": 159,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Louisiana Tech"
+}

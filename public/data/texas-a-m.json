@@ -1,0 +1,58 @@
+{
+  "slug": "texas-a-m",
+  "net_rank": "43",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 6
+    },
+    "Q2": {
+      "W": 4,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas",
+      "net_rank": 37,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Georgia",
+      "net_rank": 39,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Louisiana State",
+      "net_rank": 67,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Oklahoma",
+      "net_rank": 68,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Texas A&M"
+}

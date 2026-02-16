@@ -1,0 +1,59 @@
+{
+  "slug": "northern-colo",
+  "net_rank": "143",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 0
+    },
+    "Q3": {
+      "W": 1,
+      "L": 1
+    },
+    "Q4": {
+      "W": 14,
+      "L": 8
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Colorado College",
+      "net_rank": 73,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Colorado",
+      "net_rank": 73,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Northern Arizona",
+      "net_rank": 302,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Denver",
+      "net_rank": 233,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Montana",
+      "net_rank": 182,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Northern Colo."
+}

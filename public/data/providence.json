@@ -1,0 +1,41 @@
+{
+  "slug": "providence",
+  "net_rank": "79",
+  "ap_rank": "NR",
+  "record": "11-15",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 9
+    },
+    "Q2": {
+      "W": 0,
+      "L": 5
+    },
+    "Q3": {
+      "W": 5,
+      "L": 1
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "St. John's (NY)",
+      "net_rank": 24,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Georgetown",
+      "net_rank": 90,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Providence"
+}

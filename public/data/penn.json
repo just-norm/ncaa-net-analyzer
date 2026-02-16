@@ -1,0 +1,58 @@
+{
+  "slug": "penn",
+  "net_rank": "169",
+  "ap_rank": "NR",
+  "record": "13-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 4,
+      "L": 4
+    },
+    "Q4": {
+      "W": 9,
+      "L": 2
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "American",
+      "net_rank": 261,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Princeton",
+      "net_rank": 254,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Columbia",
+      "net_rank": 180,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Harvard",
+      "net_rank": 160,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Rutgers",
+      "net_rank": 155,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Penn"
+}

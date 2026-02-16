@@ -1,0 +1,58 @@
+{
+  "slug": "texas-st",
+  "net_rank": "236",
+  "ap_rank": "NR",
+  "record": "17-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 15,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Lehigh",
+      "net_rank": 295,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Rice",
+      "net_rank": 248,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "James Madison",
+      "net_rank": 219,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Texas St."
+}

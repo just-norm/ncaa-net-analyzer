@@ -1,0 +1,58 @@
+{
+  "slug": "texas-tech",
+  "net_rank": "16",
+  "ap_rank": "16",
+  "record": "19-6",
+  "quad_records": {
+    "Q1": {
+      "W": 7,
+      "L": 6
+    },
+    "Q2": {
+      "W": 4,
+      "L": 0
+    },
+    "Q3": {
+      "W": 4,
+      "L": 0
+    },
+    "Q4": {
+      "W": 4,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Duke",
+      "net_rank": 2,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Arizona",
+      "net_rank": 3,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Houston",
+      "net_rank": 4,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Brigham Young",
+      "net_rank": 20,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Texas Tech"
+}

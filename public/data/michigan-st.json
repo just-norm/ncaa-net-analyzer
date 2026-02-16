@@ -1,0 +1,58 @@
+{
+  "slug": "michigan-st",
+  "net_rank": "15",
+  "ap_rank": "10",
+  "record": "20-5",
+  "quad_records": {
+    "Q1": {
+      "W": 6,
+      "L": 4
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 5,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Illinois",
+      "net_rank": 7,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Arkansas",
+      "net_rank": 18,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "North Carolina",
+      "net_rank": 25,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa",
+      "net_rank": 27,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Neutral",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Michigan St."
+}

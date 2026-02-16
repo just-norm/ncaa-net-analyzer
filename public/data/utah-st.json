@@ -1,0 +1,58 @@
+{
+  "slug": "utah-st",
+  "net_rank": "23",
+  "ap_rank": "NR",
+  "record": "22-3",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 0
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 7,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "San Diego State",
+      "net_rank": 41,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "New Mexico",
+      "net_rank": 44,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Nevada",
+      "net_rank": 58,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Boise State",
+      "net_rank": 59,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Colorado State",
+      "net_rank": 95,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Utah St."
+}

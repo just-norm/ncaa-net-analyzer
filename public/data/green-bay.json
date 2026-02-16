@@ -1,0 +1,58 @@
+{
+  "slug": "green-bay",
+  "net_rank": "224",
+  "ap_rank": "NR",
+  "record": "15-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 4,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Milwaukee",
+      "net_rank": 246,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Campbell",
+      "net_rank": 207,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Buffalo",
+      "net_rank": 177,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Robert Morris",
+      "net_rank": 161,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Oakland",
+      "net_rank": 154,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Green Bay"
+}

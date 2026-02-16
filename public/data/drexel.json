@@ -1,0 +1,58 @@
+{
+  "slug": "drexel",
+  "net_rank": "217",
+  "ap_rank": "NR",
+  "record": "13-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 5
+    },
+    "Q4": {
+      "W": 10,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "American",
+      "net_rank": 261,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "La Salle",
+      "net_rank": 241,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Howard",
+      "net_rank": 230,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Campbell",
+      "net_rank": 207,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Colgate",
+      "net_rank": 201,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Drexel"
+}

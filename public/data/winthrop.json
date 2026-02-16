@@ -1,0 +1,59 @@
+{
+  "slug": "winthrop",
+  "net_rank": "121",
+  "ap_rank": "NR",
+  "record": "19-8",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 14,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "High Point",
+      "net_rank": 75,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "North Dakota",
+      "net_rank": 274,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Longwood",
+      "net_rank": 272,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Winthrop"
+}

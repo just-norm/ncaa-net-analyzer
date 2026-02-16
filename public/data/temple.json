@@ -1,0 +1,65 @@
+{
+  "slug": "temple",
+  "net_rank": "162",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 6
+    },
+    "Q4": {
+      "W": 12,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Davidson",
+      "net_rank": 104,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Charlotte",
+      "net_rank": 189,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Joseph's",
+      "net_rank": 157,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Boston College",
+      "net_rank": 152,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Temple"
+}

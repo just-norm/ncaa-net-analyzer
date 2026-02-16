@@ -1,0 +1,58 @@
+{
+  "slug": "ucf",
+  "net_rank": "50",
+  "ap_rank": "NR",
+  "record": "17-7",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 6
+    },
+    "Q2": {
+      "W": 3,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Kansas",
+      "net_rank": 14,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas Tech",
+      "net_rank": 16,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas A&M",
+      "net_rank": 43,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Cincinnati",
+      "net_rank": 63,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Arizona State",
+      "net_rank": 71,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "UCF"
+}

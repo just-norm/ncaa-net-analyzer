@@ -1,0 +1,53 @@
+{
+  "slug": "bradley",
+  "net_rank": "118",
+  "ap_rank": "NR",
+  "record": "17-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 2
+    },
+    "Q4": {
+      "W": 11,
+      "L": 5
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Belmont",
+      "net_rank": 61,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Liberty",
+      "net_rank": 77,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "St. Bonaventure",
+      "net_rank": 145,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 124,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Bradley"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "brown",
+  "net_rank": "285",
+  "ap_rank": "NR",
+  "record": "8-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 8,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Hampton",
+      "net_rank": 256,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Princeton",
+      "net_rank": 252,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Dartmouth",
+      "net_rank": 248,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Vermont",
+      "net_rank": 215,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stony Brook",
+      "net_rank": 212,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Brown"
+}

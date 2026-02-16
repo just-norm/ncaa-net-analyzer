@@ -1,0 +1,58 @@
+{
+  "slug": "niagara",
+  "net_rank": "342",
+  "ap_rank": "NR",
+  "record": "7-19",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 7,
+      "L": 13
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Sacred Heart",
+      "net_rank": 297,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Le Moyne",
+      "net_rank": 280,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Niagara"
+}

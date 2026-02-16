@@ -1,0 +1,58 @@
+{
+  "slug": "auburn",
+  "net_rank": "34",
+  "ap_rank": "NR",
+  "record": "14-11",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 10
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Florida",
+      "net_rank": 9,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Arkansas",
+      "net_rank": 18,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "St. John's (NY)",
+      "net_rank": 24,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "NC State",
+      "net_rank": 29,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas",
+      "net_rank": 37,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Auburn"
+}

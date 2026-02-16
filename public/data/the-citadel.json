@@ -1,0 +1,58 @@
+{
+  "slug": "the-citadel",
+  "net_rank": "351",
+  "ap_rank": "NR",
+  "record": "9-18",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 6
+    },
+    "Q4": {
+      "W": 9,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Houston Christian",
+      "net_rank": 298,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bellarmine",
+      "net_rank": 288,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Presbyterian",
+      "net_rank": 271,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Western Carolina",
+      "net_rank": 263,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "The Citadel"
+}

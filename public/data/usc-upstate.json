@@ -1,0 +1,58 @@
+{
+  "slug": "usc-upstate",
+  "net_rank": "293",
+  "ap_rank": "NR",
+  "record": "11-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 1,
+      "L": 2
+    },
+    "Q4": {
+      "W": 10,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Gardner-Webb",
+      "net_rank": 363,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee Tech",
+      "net_rank": 316,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Longwood",
+      "net_rank": 272,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Presbyterian",
+      "net_rank": 271,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Radford",
+      "net_rank": 239,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "USC Upstate"
+}

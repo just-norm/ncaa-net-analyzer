@@ -1,0 +1,58 @@
+{
+  "slug": "uc-riverside",
+  "net_rank": "291",
+  "ap_rank": "NR",
+  "record": "8-19",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 2,
+      "L": 6
+    },
+    "Q4": {
+      "W": 6,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "North Dakota",
+      "net_rank": 274,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Utah Tech",
+      "net_rank": 156,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Santa Barbara",
+      "net_rank": 133,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UC Riverside"
+}

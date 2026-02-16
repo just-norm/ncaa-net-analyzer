@@ -1,0 +1,59 @@
+{
+  "slug": "washington",
+  "net_rank": "52",
+  "ap_rank": "NR",
+  "record": "13-13",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 9
+    },
+    "Q2": {
+      "W": 3,
+      "L": 2
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 5,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Ohio State",
+      "net_rank": 38,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Southern California",
+      "net_rank": 48,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Nevada",
+      "net_rank": 58,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Northwestern",
+      "net_rank": 78,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Penn State",
+      "net_rank": 120,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Washington"
+}

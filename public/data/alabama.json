@@ -1,0 +1,58 @@
+{
+  "slug": "alabama",
+  "net_rank": "21",
+  "ap_rank": "NR",
+  "record": "18-7",
+  "quad_records": {
+    "Q1": {
+      "W": 5,
+      "L": 6
+    },
+    "Q2": {
+      "W": 6,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Illinois",
+      "net_rank": 5,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "St. John's (NY)",
+      "net_rank": 24,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Clemson",
+      "net_rank": 31,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 32,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Alabama"
+}

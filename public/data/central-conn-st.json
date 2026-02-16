@@ -1,0 +1,58 @@
+{
+  "slug": "central-conn-st",
+  "net_rank": "270",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 13,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Stonehill",
+      "net_rank": 339,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "FDU",
+      "net_rank": 328,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mercyhurst",
+      "net_rank": 283,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Northeastern",
+      "net_rank": 273,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fairfield",
+      "net_rank": 242,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Central Conn. St."
+}

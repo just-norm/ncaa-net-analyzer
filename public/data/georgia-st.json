@@ -1,0 +1,58 @@
+{
+  "slug": "georgia-st",
+  "net_rank": "289",
+  "ap_rank": "NR",
+  "record": "9-18",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 7
+    },
+    "Q4": {
+      "W": 7,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Louisiana",
+      "net_rank": 312,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Presbyterian",
+      "net_rank": 271,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Old Dominion",
+      "net_rank": 256,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "James Madison",
+      "net_rank": 219,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Samford",
+      "net_rank": 210,
+      "location": "Neutral",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Georgia St."
+}

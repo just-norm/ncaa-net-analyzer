@@ -1,0 +1,58 @@
+{
+  "slug": "umass-lowell",
+  "net_rank": "323",
+  "ap_rank": "NR",
+  "record": "11-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 11,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "New Hampshire",
+      "net_rank": 334,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "New Haven",
+      "net_rank": 329,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "NJIT",
+      "net_rank": 301,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "NJIT",
+      "net_rank": 301,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Peter's",
+      "net_rank": 226,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UMass Lowell"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "st-thomas-mn",
+  "net_rank": "110",
+  "ap_rank": "NR",
+  "record": "21-7",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 18,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "North Dakota",
+      "net_rank": 274,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Omaha",
+      "net_rank": 249,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "St. Thomas (MN)"
+}

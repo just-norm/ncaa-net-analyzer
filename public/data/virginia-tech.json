@@ -1,0 +1,65 @@
+{
+  "slug": "virginia-tech",
+  "net_rank": "56",
+  "ap_rank": "NR",
+  "record": "17-9",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 6
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 7,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Virginia",
+      "net_rank": 19,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Clemson",
+      "net_rank": 32,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "California",
+      "net_rank": 60,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Syracuse",
+      "net_rank": 69,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Providence",
+      "net_rank": 80,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Florida State",
+      "net_rank": 82,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Virginia Tech"
+}

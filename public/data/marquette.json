@@ -1,0 +1,46 @@
+{
+  "slug": "marquette",
+  "net_rank": "111",
+  "ap_rank": "NR",
+  "record": "9-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 8
+    },
+    "Q2": {
+      "W": 0,
+      "L": 6
+    },
+    "Q3": {
+      "W": 4,
+      "L": 3
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Maryland",
+      "net_rank": 151,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Georgetown",
+      "net_rank": 90,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Dayton",
+      "net_rank": 89,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Marquette"
+}

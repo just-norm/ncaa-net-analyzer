@@ -1,0 +1,58 @@
+{
+  "slug": "ga-southern",
+  "net_rank": "259",
+  "ap_rank": "NR",
+  "record": "15-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 13,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "UTSA",
+      "net_rank": 341,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Louisiana",
+      "net_rank": 312,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "East Carolina",
+      "net_rank": 269,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "South Alabama",
+      "net_rank": 168,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Ga. Southern"
+}

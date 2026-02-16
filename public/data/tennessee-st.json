@@ -1,0 +1,52 @@
+{
+  "slug": "tennessee-st",
+  "net_rank": "235",
+  "ap_rank": "NR",
+  "record": "17-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 15,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Eastern Illinois",
+      "net_rank": 317,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee Tech",
+      "net_rank": 316,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Alabama A&M",
+      "net_rank": 311,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Western Kentucky",
+      "net_rank": 175,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Tennessee St."
+}

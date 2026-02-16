@@ -1,0 +1,58 @@
+{
+  "slug": "wofford",
+  "net_rank": "229",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 15,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Chattanooga",
+      "net_rank": 300,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Samford",
+      "net_rank": 210,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Northern Kentucky",
+      "net_rank": 199,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Elon",
+      "net_rank": 192,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Wofford"
+}

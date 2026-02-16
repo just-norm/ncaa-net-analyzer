@@ -1,0 +1,58 @@
+{
+  "slug": "central-mich",
+  "net_rank": "290",
+  "ap_rank": "NR",
+  "record": "8-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 6,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Louisiana",
+      "net_rank": 312,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Ohio",
+      "net_rank": 213,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stony Brook",
+      "net_rank": 212,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Northern Kentucky",
+      "net_rank": 199,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Massachusetts",
+      "net_rank": 191,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Central Mich."
+}

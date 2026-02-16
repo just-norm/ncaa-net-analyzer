@@ -1,0 +1,58 @@
+{
+  "slug": "kentucky",
+  "net_rank": "28",
+  "ap_rank": "25",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 5,
+      "L": 7
+    },
+    "Q2": {
+      "W": 3,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Arkansas",
+      "net_rank": 18,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tennessee",
+      "net_rank": 22,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tennessee",
+      "net_rank": 22,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "St. John's (NY)",
+      "net_rank": 24,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Indiana",
+      "net_rank": 31,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Kentucky"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "idaho-st",
+  "net_rank": "232",
+  "ap_rank": "NR",
+  "record": "10-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 3
+    },
+    "Q4": {
+      "W": 9,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Northern Arizona",
+      "net_rank": 302,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Montana",
+      "net_rank": 182,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Idaho",
+      "net_rank": 167,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Sam Houston",
+      "net_rank": 106,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Idaho St."
+}

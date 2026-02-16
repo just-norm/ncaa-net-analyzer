@@ -1,0 +1,58 @@
+{
+  "slug": "ulm",
+  "net_rank": "356",
+  "ap_rank": "NR",
+  "record": "4-23",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 4,
+      "L": 18
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Louisiana",
+      "net_rank": 312,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Louisiana",
+      "net_rank": 312,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Houston Christian",
+      "net_rank": 298,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lamar",
+      "net_rank": 211,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "ULM"
+}

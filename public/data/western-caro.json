@@ -1,0 +1,65 @@
+{
+  "slug": "western-caro",
+  "net_rank": "263",
+  "ap_rank": "NR",
+  "record": "10-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 1,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 7,
+      "L": 6
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "East Tennessee State",
+      "net_rank": 129,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "The Citadel",
+      "net_rank": 351,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Chattanooga",
+      "net_rank": 300,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "South Carolina Upstate",
+      "net_rank": 293,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wofford",
+      "net_rank": 229,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Western Caro."
+}

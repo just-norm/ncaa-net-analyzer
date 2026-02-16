@@ -1,0 +1,65 @@
+{
+  "slug": "dayton",
+  "net_rank": "89",
+  "ap_rank": "NR",
+  "record": "16-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 3,
+      "L": 1
+    },
+    "Q3": {
+      "W": 5,
+      "L": 2
+    },
+    "Q4": {
+      "W": 8,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Georgetown",
+      "net_rank": 90,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Marquette",
+      "net_rank": 111,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Duquesne",
+      "net_rank": 117,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "La Salle",
+      "net_rank": 241,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Joseph's",
+      "net_rank": 157,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Rhode Island",
+      "net_rank": 136,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Dayton"
+}

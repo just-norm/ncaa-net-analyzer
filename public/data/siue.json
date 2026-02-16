@@ -1,0 +1,52 @@
+{
+  "slug": "siue",
+  "net_rank": "243",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 15,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Air Force",
+      "net_rank": 346,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Eastern Illinois",
+      "net_rank": 317,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Little Rock",
+      "net_rank": 307,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Indiana State",
+      "net_rank": 218,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "SIUE"
+}

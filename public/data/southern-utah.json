@@ -1,0 +1,58 @@
+{
+  "slug": "southern-utah",
+  "net_rank": "282",
+  "ap_rank": "NR",
+  "record": "9-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 3,
+      "L": 8
+    },
+    "Q4": {
+      "W": 6,
+      "L": 3
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Northern Arizona",
+      "net_rank": 302,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Omaha",
+      "net_rank": 249,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Robert Morris",
+      "net_rank": 161,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UT Arlington",
+      "net_rank": 158,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Southern Utah"
+}

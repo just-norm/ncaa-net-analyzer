@@ -1,0 +1,71 @@
+{
+  "slug": "duquesne",
+  "net_rank": "117",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 4,
+      "L": 4
+    },
+    "Q4": {
+      "W": 9,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "George Mason",
+      "net_rank": 91,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Davidson",
+      "net_rank": 104,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Northeastern",
+      "net_rank": 273,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Joseph's",
+      "net_rank": 157,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "St. Bonaventure",
+      "net_rank": 145,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "William & Mary",
+      "net_rank": 114,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Dayton",
+      "net_rank": 89,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Duquesne"
+}

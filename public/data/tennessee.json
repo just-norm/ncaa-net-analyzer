@@ -1,0 +1,58 @@
+{
+  "slug": "tennessee",
+  "net_rank": "22",
+  "ap_rank": "NR",
+  "record": "18-7",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 7
+    },
+    "Q2": {
+      "W": 5,
+      "L": 0
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Houston",
+      "net_rank": 4,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Louisville",
+      "net_rank": 12,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Alabama",
+      "net_rank": 21,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Texas",
+      "net_rank": 37,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Tennessee"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "santa-clara",
+  "net_rank": "42",
+  "ap_rank": "NR",
+  "record": "22-6",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 4
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 8,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Saint Mary's (CA)",
+      "net_rank": 26,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "McNeese State",
+      "net_rank": 55,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Nevada",
+      "net_rank": 58,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Minnesota",
+      "net_rank": 86,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Xavier",
+      "net_rank": 98,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Santa Clara"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "indiana-st",
+  "net_rank": "218",
+  "ap_rank": "NR",
+  "record": "10-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 9,
+      "L": 10
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Belmont",
+      "net_rank": 55,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Evansville",
+      "net_rank": 292,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Louisiana Tech",
+      "net_rank": 247,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Drake",
+      "net_rank": 200,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Drake",
+      "net_rank": 200,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Charlotte",
+      "net_rank": 189,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Indiana St."
+}

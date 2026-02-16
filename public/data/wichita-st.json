@@ -1,0 +1,65 @@
+{
+  "slug": "wichita-st",
+  "net_rank": "85",
+  "ap_rank": "NR",
+  "record": "16-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Tulsa",
+      "net_rank": 53,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Rice",
+      "net_rank": 248,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Charlotte",
+      "net_rank": 189,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Western Kentucky",
+      "net_rank": 175,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "DePaul",
+      "net_rank": 108,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Wichita St."
+}

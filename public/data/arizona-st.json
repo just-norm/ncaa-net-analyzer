@@ -1,0 +1,65 @@
+{
+  "slug": "arizona-st",
+  "net_rank": "71",
+  "ap_rank": "NR",
+  "record": "13-12",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 9
+    },
+    "Q2": {
+      "W": 5,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 3,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Texas",
+      "net_rank": 37,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Santa Clara",
+      "net_rank": 42,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Cincinnati",
+      "net_rank": 63,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Oklahoma",
+      "net_rank": 68,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Oklahoma State",
+      "net_rank": 72,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Arizona St."
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "loyola-chicago",
+  "net_rank": "310",
+  "ap_rank": "NR",
+  "record": "6-20",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 1,
+      "L": 9
+    },
+    "Q4": {
+      "W": 4,
+      "L": 7
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Santa Clara",
+      "net_rank": 42,
+      "location": "Neutral",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Mercyhurst",
+      "net_rank": 283,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "San Jose State",
+      "net_rank": 265,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Joseph's",
+      "net_rank": 157,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "St. Bonaventure",
+      "net_rank": 145,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Loyola Chicago"
+}

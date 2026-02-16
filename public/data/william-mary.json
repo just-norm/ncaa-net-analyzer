@@ -1,0 +1,65 @@
+{
+  "slug": "william-mary",
+  "net_rank": "114",
+  "ap_rank": "NR",
+  "record": "16-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 13,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Duquesne",
+      "net_rank": 117,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Hampton",
+      "net_rank": 258,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Drexel",
+      "net_rank": 217,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Campbell",
+      "net_rank": 207,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Monmouth",
+      "net_rank": 193,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Elon",
+      "net_rank": 192,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "William & Mary"
+}

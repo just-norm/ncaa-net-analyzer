@@ -1,0 +1,59 @@
+{
+  "slug": "uc-irvine",
+  "net_rank": "120",
+  "ap_rank": "NR",
+  "record": "17-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 1,
+      "L": 4
+    },
+    "Q3": {
+      "W": 1,
+      "L": 4
+    },
+    "Q4": {
+      "W": 15,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 125,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "New Mexico State",
+      "net_rank": 173,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "California Baptist",
+      "net_rank": 109,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UC Irvine"
+}

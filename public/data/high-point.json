@@ -1,0 +1,34 @@
+{
+  "slug": "high-point",
+  "net_rank": "75",
+  "ap_rank": "NR",
+  "record": "24-4",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 21,
+      "L": 1
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Southern Illinois",
+      "net_rank": 126,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "High Point"
+}

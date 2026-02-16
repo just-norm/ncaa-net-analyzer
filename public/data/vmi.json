@@ -1,0 +1,58 @@
+{
+  "slug": "vmi",
+  "net_rank": "359",
+  "ap_rank": "NR",
+  "record": "6-21",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 8
+    },
+    "Q4": {
+      "W": 6,
+      "L": 10
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "The Citadel",
+      "net_rank": 351,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "The Citadel",
+      "net_rank": 351,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stetson",
+      "net_rank": 325,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Jacksonville",
+      "net_rank": 306,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "VMI"
+}

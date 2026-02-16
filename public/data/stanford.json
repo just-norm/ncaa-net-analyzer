@@ -1,0 +1,65 @@
+{
+  "slug": "stanford",
+  "net_rank": "70",
+  "ap_rank": "NR",
+  "record": "16-10",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 4
+    },
+    "Q2": {
+      "W": 2,
+      "L": 3
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 8,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Louisville",
+      "net_rank": 12,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Saint Louis",
+      "net_rank": 17,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "North Carolina",
+      "net_rank": 25,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 56,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Colorado",
+      "net_rank": 73,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Notre Dame",
+      "net_rank": 87,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Stanford"
+}

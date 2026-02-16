@@ -1,0 +1,47 @@
+{
+  "slug": "depaul",
+  "net_rank": "108",
+  "ap_rank": "NR",
+  "record": "13-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 1,
+      "L": 5
+    },
+    "Q3": {
+      "W": 5,
+      "L": 1
+    },
+    "Q4": {
+      "W": 7,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Seton Hall",
+      "net_rank": 49,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Buffalo",
+      "net_rank": 177,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Northwestern",
+      "net_rank": 77,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "DePaul"
+}

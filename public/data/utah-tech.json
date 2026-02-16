@@ -1,0 +1,40 @@
+{
+  "slug": "utah-tech",
+  "net_rank": "156",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 5
+    },
+    "Q3": {
+      "W": 5,
+      "L": 1
+    },
+    "Q4": {
+      "W": 11,
+      "L": 2
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UT Arlington",
+      "net_rank": 158,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Utah Tech"
+}

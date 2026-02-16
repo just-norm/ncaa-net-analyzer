@@ -1,0 +1,65 @@
+{
+  "slug": "minnesota",
+  "net_rank": "86",
+  "ap_rank": "NR",
+  "record": "11-14",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 8
+    },
+    "Q2": {
+      "W": 2,
+      "L": 4
+    },
+    "Q3": {
+      "W": 0,
+      "L": 2
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Michigan State",
+      "net_rank": 15,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa",
+      "net_rank": 27,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Indiana",
+      "net_rank": 34,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Northwestern",
+      "net_rank": 77,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Maryland",
+      "net_rank": 151,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "San Francisco",
+      "net_rank": 118,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Minnesota"
+}

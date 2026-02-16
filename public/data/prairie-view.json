@@ -1,0 +1,58 @@
+{
+  "slug": "prairie-view",
+  "net_rank": "330",
+  "ap_rank": "NR",
+  "record": "9-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Jackson State",
+      "net_rank": 347,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Florida A&M",
+      "net_rank": 336,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Alabama A&M",
+      "net_rank": 311,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Southern",
+      "net_rank": 279,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "South Dakota",
+      "net_rank": 276,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Prairie View"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "troy",
+  "net_rank": "132",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 1
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "San Diego State",
+      "net_rank": 41,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Akron",
+      "net_rank": 62,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "James Madison",
+      "net_rank": 219,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Toledo",
+      "net_rank": 172,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Troy"
+}

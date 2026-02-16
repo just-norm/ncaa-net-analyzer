@@ -1,0 +1,46 @@
+{
+  "slug": "saint-joseph-s",
+  "net_rank": "157",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 6,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fordham",
+      "net_rank": 178,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Davidson",
+      "net_rank": 104,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Saint Joseph's"
+}

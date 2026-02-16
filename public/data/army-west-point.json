@@ -1,0 +1,58 @@
+{
+  "slug": "army-west-point",
+  "net_rank": "332",
+  "ap_rank": "NR",
+  "record": "10-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 8
+    },
+    "Q4": {
+      "W": 10,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Holy Cross",
+      "net_rank": 327,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lafayette",
+      "net_rank": 326,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "East Texas A&M",
+      "net_rank": 296,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "American",
+      "net_rank": 261,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "American",
+      "net_rank": 261,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Army West Point"
+}

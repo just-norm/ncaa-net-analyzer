@@ -1,0 +1,58 @@
+{
+  "slug": "wagner",
+  "net_rank": "315",
+  "ap_rank": "NR",
+  "record": "9-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 2
+    },
+    "Q4": {
+      "W": 9,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Stonehill",
+      "net_rank": 339,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "New Haven",
+      "net_rank": 329,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "FDU",
+      "net_rank": 328,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mercyhurst",
+      "net_rank": 283,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Le Moyne",
+      "net_rank": 280,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Wagner"
+}

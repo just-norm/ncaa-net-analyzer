@@ -1,0 +1,58 @@
+{
+  "slug": "eastern-wash",
+  "net_rank": "220",
+  "ap_rank": "NR",
+  "record": "9-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 6
+    },
+    "Q4": {
+      "W": 8,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Northern Arizona",
+      "net_rank": 302,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Denver",
+      "net_rank": 233,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Central Arkansas",
+      "net_rank": 181,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Idaho",
+      "net_rank": 167,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Eastern Wash."
+}

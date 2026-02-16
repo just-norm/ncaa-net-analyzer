@@ -1,0 +1,58 @@
+{
+  "slug": "fairfield",
+  "net_rank": "242",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 4
+    },
+    "Q4": {
+      "W": 15,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Canisius",
+      "net_rank": 348,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Peter's",
+      "net_rank": 226,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Peter's",
+      "net_rank": 226,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Quinnipiac",
+      "net_rank": 202,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Fairfield"
+}

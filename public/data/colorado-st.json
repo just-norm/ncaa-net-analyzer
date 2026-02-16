@@ -1,0 +1,53 @@
+{
+  "slug": "colorado-st",
+  "net_rank": "95",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 2,
+      "L": 4
+    },
+    "Q3": {
+      "W": 1,
+      "L": 1
+    },
+    "Q4": {
+      "W": 12,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Colorado",
+      "net_rank": 73,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Grand Canyon",
+      "net_rank": 76,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Denver",
+      "net_rank": 233,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fresno State",
+      "net_rank": 137,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Colorado St."
+}

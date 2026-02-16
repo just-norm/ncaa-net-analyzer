@@ -1,0 +1,58 @@
+{
+  "slug": "new-haven",
+  "net_rank": "329",
+  "ap_rank": "NR",
+  "record": "11-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "NJIT",
+      "net_rank": 301,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mercyhurst",
+      "net_rank": 283,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mercyhurst",
+      "net_rank": 283,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Le Moyne",
+      "net_rank": 280,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Long Island University",
+      "net_rank": 195,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "New Haven"
+}

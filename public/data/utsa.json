@@ -1,0 +1,58 @@
+{
+  "slug": "utsa",
+  "net_rank": "341",
+  "ap_rank": "NR",
+  "record": "5-20",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 3,
+      "L": 12
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "East Carolina",
+      "net_rank": 269,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Rice",
+      "net_rank": 248,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Abilene Christian",
+      "net_rank": 231,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Charlotte",
+      "net_rank": 189,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "UTSA"
+}

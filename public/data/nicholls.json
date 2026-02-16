@@ -1,0 +1,58 @@
+{
+  "slug": "nicholls",
+  "net_rank": "255",
+  "ap_rank": "NR",
+  "record": "11-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 3
+    },
+    "Q4": {
+      "W": 8,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Eastern Illinois",
+      "net_rank": 317,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "New Orleans",
+      "net_rank": 222,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lamar",
+      "net_rank": 211,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Texas A&M-Corpus Christi",
+      "net_rank": 196,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Nicholls"
+}

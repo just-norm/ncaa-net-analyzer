@@ -1,0 +1,71 @@
+{
+  "slug": "tulane",
+  "net_rank": "190",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 4
+    },
+    "Q4": {
+      "W": 12,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Memphis",
+      "net_rank": 105,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "New Orleans",
+      "net_rank": 222,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Charlotte",
+      "net_rank": 189,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 125,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Tulane"
+}

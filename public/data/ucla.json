@@ -1,0 +1,58 @@
+{
+  "slug": "ucla",
+  "net_rank": "40",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 6
+    },
+    "Q2": {
+      "W": 4,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Purdue",
+      "net_rank": 5,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Washington",
+      "net_rank": 52,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Washington",
+      "net_rank": 52,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Arizona State",
+      "net_rank": 71,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Oregon",
+      "net_rank": 107,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "UCLA"
+}

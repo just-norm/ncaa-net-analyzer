@@ -1,0 +1,58 @@
+{
+  "slug": "ualbany",
+  "net_rank": "331",
+  "ap_rank": "NR",
+  "record": "9-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 1,
+      "L": 6
+    },
+    "Q4": {
+      "W": 8,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Maine",
+      "net_rank": 343,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "New Hampshire",
+      "net_rank": 334,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Massachusetts-Lowell",
+      "net_rank": 323,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Massachusetts-Lowell",
+      "net_rank": 323,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "NJIT",
+      "net_rank": 301,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "UAlbany"
+}

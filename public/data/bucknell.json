@@ -1,0 +1,58 @@
+{
+  "slug": "bucknell",
+  "net_rank": "333",
+  "ap_rank": "NR",
+  "record": "8-19",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 8
+    },
+    "Q4": {
+      "W": 7,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Army",
+      "net_rank": 332,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lafayette",
+      "net_rank": 326,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Holy Cross",
+      "net_rank": 322,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Princeton",
+      "net_rank": 252,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Colgate",
+      "net_rank": 202,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Bucknell"
+}

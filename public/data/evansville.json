@@ -1,0 +1,58 @@
+{
+  "slug": "evansville",
+  "net_rank": "292",
+  "ap_rank": "NR",
+  "record": "6-20",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 5
+    },
+    "Q3": {
+      "W": 2,
+      "L": 6
+    },
+    "Q4": {
+      "W": 4,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Indiana State",
+      "net_rank": 218,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Drake",
+      "net_rank": 200,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Drake",
+      "net_rank": 200,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Western Kentucky",
+      "net_rank": 175,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Valparaiso",
+      "net_rank": 163,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Evansville"
+}

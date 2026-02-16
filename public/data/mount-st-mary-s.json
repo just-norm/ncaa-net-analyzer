@@ -1,0 +1,58 @@
+{
+  "slug": "mount-st-mary-s",
+  "net_rank": "299",
+  "ap_rank": "NR",
+  "record": "12-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 1,
+      "L": 6
+    },
+    "Q4": {
+      "W": 11,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Bucknell",
+      "net_rank": 333,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Sacred Heart",
+      "net_rank": 297,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Peter's",
+      "net_rank": 226,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Drexel",
+      "net_rank": 217,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Quinnipiac",
+      "net_rank": 202,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Mount St. Mary's"
+}

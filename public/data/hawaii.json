@@ -1,0 +1,27 @@
+{
+  "slug": "hawaii",
+  "net_rank": "98",
+  "ap_rank": "NR",
+  "record": "18-6",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 5
+    },
+    "Q3": {
+      "W": 4,
+      "L": 0
+    },
+    "Q4": {
+      "W": 14,
+      "L": 1
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [],
+  "name": "Hawaii"
+}

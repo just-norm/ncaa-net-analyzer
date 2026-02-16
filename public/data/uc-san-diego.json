@@ -1,0 +1,52 @@
+{
+  "slug": "uc-san-diego",
+  "net_rank": "125",
+  "ap_rank": "NR",
+  "record": "18-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 7,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "San Diego",
+      "net_rank": 223,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UC Santa Barbara",
+      "net_rank": 133,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Irvine",
+      "net_rank": 120,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UC San Diego"
+}

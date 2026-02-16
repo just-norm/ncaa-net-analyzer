@@ -1,0 +1,47 @@
+{
+  "slug": "utah",
+  "net_rank": "128",
+  "ap_rank": "NR",
+  "record": "9-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 10
+    },
+    "Q2": {
+      "W": 2,
+      "L": 5
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "TCU",
+      "net_rank": 45,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Mississippi",
+      "net_rank": 92,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Utah"
+}

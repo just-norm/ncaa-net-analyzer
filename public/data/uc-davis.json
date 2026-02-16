@@ -1,0 +1,59 @@
+{
+  "slug": "uc-davis",
+  "net_rank": "166",
+  "ap_rank": "NR",
+  "record": "16-10",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 3
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 12,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Nevada",
+      "net_rank": 59,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "UC Santa Barbara",
+      "net_rank": 133,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Portland",
+      "net_rank": 208,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 125,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UC Davis"
+}

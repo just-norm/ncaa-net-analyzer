@@ -1,0 +1,58 @@
+{
+  "slug": "hampton",
+  "net_rank": "258",
+  "ap_rank": "NR",
+  "record": "12-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 1,
+      "L": 4
+    },
+    "Q4": {
+      "W": 11,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Holy Cross",
+      "net_rank": 327,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Norfolk State",
+      "net_rank": 309,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Grambling",
+      "net_rank": 275,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Milwaukee",
+      "net_rank": 246,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Howard",
+      "net_rank": 230,
+      "location": "Neutral",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Hampton"
+}

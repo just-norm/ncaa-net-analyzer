@@ -1,0 +1,58 @@
+{
+  "slug": "texas-southern",
+  "net_rank": "319",
+  "ap_rank": "NR",
+  "record": "8-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 8,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Jackson State",
+      "net_rank": 347,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Prairie View",
+      "net_rank": 330,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Southern",
+      "net_rank": 279,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Grambling",
+      "net_rank": 275,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bethune-Cookman",
+      "net_rank": 251,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Texas Southern"
+}

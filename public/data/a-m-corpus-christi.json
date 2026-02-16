@@ -1,0 +1,40 @@
+{
+  "slug": "a-m-corpus-christi",
+  "net_rank": "196",
+  "ap_rank": "NR",
+  "record": "14-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 2
+    },
+    "Q4": {
+      "W": 12,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "New Orleans",
+      "net_rank": 222,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Texas-Rio Grande Valley",
+      "net_rank": 140,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "A&M-Corpus Christi"
+}

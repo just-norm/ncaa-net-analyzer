@@ -1,0 +1,58 @@
+{
+  "slug": "smu",
+  "net_rank": "36",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 7
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "North Carolina",
+      "net_rank": 25,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas A&M",
+      "net_rank": 43,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 56,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Wake Forest",
+      "net_rank": 64,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Butler",
+      "net_rank": 74,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "SMU"
+}

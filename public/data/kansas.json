@@ -1,0 +1,58 @@
+{
+  "slug": "kansas",
+  "net_rank": "14",
+  "ap_rank": "9",
+  "record": "19-6",
+  "quad_records": {
+    "Q1": {
+      "W": 7,
+      "L": 6
+    },
+    "Q2": {
+      "W": 6,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 4,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Arizona",
+      "net_rank": 3,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa State",
+      "net_rank": 8,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas Tech",
+      "net_rank": 16,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Brigham Young",
+      "net_rank": 20,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tennessee",
+      "net_rank": 22,
+      "location": "Neutral",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Kansas"
+}

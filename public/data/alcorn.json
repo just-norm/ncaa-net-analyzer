@@ -1,0 +1,58 @@
+{
+  "slug": "alcorn",
+  "net_rank": "349",
+  "ap_rank": "NR",
+  "record": "6-18",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 3
+    },
+    "Q4": {
+      "W": 6,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Jackson State",
+      "net_rank": 347,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Florida A&M",
+      "net_rank": 336,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Texas Southern",
+      "net_rank": 319,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Grambling",
+      "net_rank": 275,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bethune-Cookman",
+      "net_rank": 251,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Alcorn"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "west-ga",
+  "net_rank": "308",
+  "ap_rank": "NR",
+  "record": "12-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 1,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Troy",
+      "net_rank": 132,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "North Florida",
+      "net_rank": 337,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stetson",
+      "net_rank": 325,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee Tech",
+      "net_rank": 316,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Jacksonville",
+      "net_rank": 306,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bellarmine",
+      "net_rank": 288,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "West Ga."
+}

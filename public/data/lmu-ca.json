@@ -1,0 +1,71 @@
+{
+  "slug": "lmu-ca",
+  "net_rank": "171",
+  "ap_rank": "NR",
+  "record": "13-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 2,
+      "L": 3
+    },
+    "Q3": {
+      "W": 3,
+      "L": 2
+    },
+    "Q4": {
+      "W": 8,
+      "L": 6
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "San Francisco",
+      "net_rank": 118,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UC Santa Barbara",
+      "net_rank": 133,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Pepperdine",
+      "net_rank": 284,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stony Brook",
+      "net_rank": 212,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Portland",
+      "net_rank": 208,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "LMU (CA)"
+}

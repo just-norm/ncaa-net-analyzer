@@ -1,0 +1,58 @@
+{
+  "slug": "north-dakota",
+  "net_rank": "274",
+  "ap_rank": "NR",
+  "record": "15-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 13,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "UC Riverside",
+      "net_rank": 291,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Omaha",
+      "net_rank": 249,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Denver",
+      "net_rank": 233,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Montana",
+      "net_rank": 182,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "North Dakota"
+}

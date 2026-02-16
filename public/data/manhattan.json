@@ -1,0 +1,58 @@
+{
+  "slug": "manhattan",
+  "net_rank": "321",
+  "ap_rank": "NR",
+  "record": "12-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 5
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Canisius",
+      "net_rank": 348,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Army",
+      "net_rank": 332,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wagner",
+      "net_rank": 315,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fairfield",
+      "net_rank": 242,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Manhattan"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "bowling-green",
+  "net_rank": "141",
+  "ap_rank": "NR",
+  "record": "16-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 1,
+      "L": 3
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 13,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Kansas State",
+      "net_rank": 100,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Buffalo",
+      "net_rank": 177,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Toledo",
+      "net_rank": 172,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Kent State",
+      "net_rank": 144,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "William & Mary",
+      "net_rank": 114,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Utah Valley",
+      "net_rank": 88,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Bowling Green"
+}

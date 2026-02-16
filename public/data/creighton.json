@@ -1,0 +1,53 @@
+{
+  "slug": "creighton",
+  "net_rank": "81",
+  "ap_rank": "NR",
+  "record": "13-13",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 8
+    },
+    "Q2": {
+      "W": 2,
+      "L": 4
+    },
+    "Q3": {
+      "W": 6,
+      "L": 1
+    },
+    "Q4": {
+      "W": 4,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Villanova",
+      "net_rank": 30,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Seton Hall",
+      "net_rank": 49,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Xavier",
+      "net_rank": 97,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Kansas State",
+      "net_rank": 100,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Creighton"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "north-florida",
+  "net_rank": "337",
+  "ap_rank": "NR",
+  "record": "6-21",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 6,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Prairie View",
+      "net_rank": 330,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stetson",
+      "net_rank": 325,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Jacksonville",
+      "net_rank": 306,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Florida Gulf Coast",
+      "net_rank": 257,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wofford",
+      "net_rank": 229,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "North Florida"
+}

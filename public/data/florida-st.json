@@ -1,0 +1,65 @@
+{
+  "slug": "florida-st",
+  "net_rank": "82",
+  "ap_rank": "NR",
+  "record": "12-13",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 9
+    },
+    "Q2": {
+      "W": 3,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Miami (FL)",
+      "net_rank": 35,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 58,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "California",
+      "net_rank": 61,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Stanford",
+      "net_rank": 70,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Notre Dame",
+      "net_rank": 87,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Massachusetts",
+      "net_rank": 191,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Florida St."
+}

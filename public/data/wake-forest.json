@@ -1,0 +1,52 @@
+{
+  "slug": "wake-forest",
+  "net_rank": "64",
+  "ap_rank": "NR",
+  "record": "13-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 8
+    },
+    "Q2": {
+      "W": 4,
+      "L": 4
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "West Virginia",
+      "net_rank": 54,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 56,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Stanford",
+      "net_rank": 70,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Florida State",
+      "net_rank": 82,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Wake Forest"
+}

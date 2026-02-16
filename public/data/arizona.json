@@ -1,0 +1,58 @@
+{
+  "slug": "arizona",
+  "net_rank": "3",
+  "ap_rank": "1",
+  "record": "23-2",
+  "quad_records": {
+    "Q1": {
+      "W": 9,
+      "L": 2
+    },
+    "Q2": {
+      "W": 6,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Florida",
+      "net_rank": 9,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Connecticut",
+      "net_rank": 10,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Brigham Young",
+      "net_rank": 20,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Alabama",
+      "net_rank": 21,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Arizona"
+}

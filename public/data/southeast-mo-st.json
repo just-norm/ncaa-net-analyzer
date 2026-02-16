@@ -1,0 +1,52 @@
+{
+  "slug": "southeast-mo-st",
+  "net_rank": "225",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 14,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Tennessee Tech",
+      "net_rank": 316,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Northern Arizona",
+      "net_rank": 302,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lindenwood",
+      "net_rank": 240,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lipscomb",
+      "net_rank": 186,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Southeast Mo. St."
+}

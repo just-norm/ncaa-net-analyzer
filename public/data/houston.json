@@ -1,0 +1,58 @@
+{
+  "slug": "houston",
+  "net_rank": "4",
+  "ap_rank": "3",
+  "record": "23-2",
+  "quad_records": {
+    "Q1": {
+      "W": 7,
+      "L": 2
+    },
+    "Q2": {
+      "W": 8,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Texas Tech",
+      "net_rank": 16,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Arkansas",
+      "net_rank": 18,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Brigham Young",
+      "net_rank": 20,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "TCU",
+      "net_rank": 45,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Houston"
+}

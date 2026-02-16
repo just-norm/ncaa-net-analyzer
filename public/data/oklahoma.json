@@ -1,0 +1,52 @@
+{
+  "slug": "oklahoma",
+  "net_rank": "68",
+  "ap_rank": "NR",
+  "record": "13-12",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 8
+    },
+    "Q2": {
+      "W": 2,
+      "L": 4
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Vanderbilt",
+      "net_rank": 13,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Georgia",
+      "net_rank": 39,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Wake Forest",
+      "net_rank": 64,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Oklahoma State",
+      "net_rank": 72,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Oklahoma"
+}

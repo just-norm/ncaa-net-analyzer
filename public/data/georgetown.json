@@ -1,0 +1,59 @@
+{
+  "slug": "georgetown",
+  "net_rank": "90",
+  "ap_rank": "NR",
+  "record": "13-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 7
+    },
+    "Q2": {
+      "W": 4,
+      "L": 4
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Clemson",
+      "net_rank": 31,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Providence",
+      "net_rank": 79,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Butler",
+      "net_rank": 80,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Marquette",
+      "net_rank": 111,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Xavier",
+      "net_rank": 97,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Georgetown"
+}

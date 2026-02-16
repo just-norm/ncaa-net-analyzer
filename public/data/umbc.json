@@ -1,0 +1,52 @@
+{
+  "slug": "umbc",
+  "net_rank": "244",
+  "ap_rank": "NR",
+  "record": "16-8",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 16,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Bryant",
+      "net_rank": 352,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Army",
+      "net_rank": 332,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Vermont",
+      "net_rank": 215,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Buffalo",
+      "net_rank": 177,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "UMBC"
+}

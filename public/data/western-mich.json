@@ -1,0 +1,58 @@
+{
+  "slug": "western-mich",
+  "net_rank": "287",
+  "ap_rank": "NR",
+  "record": "9-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 9,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "South Dakota",
+      "net_rank": 276,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Ohio",
+      "net_rank": 213,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Campbell",
+      "net_rank": 207,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Massachusetts",
+      "net_rank": 191,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Buffalo",
+      "net_rank": 177,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Western Mich."
+}

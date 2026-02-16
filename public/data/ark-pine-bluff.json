@@ -1,0 +1,58 @@
+{
+  "slug": "ark-pine-bluff",
+  "net_rank": "304",
+  "ap_rank": "NR",
+  "record": "11-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 6
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 2
+    },
+    "Q4": {
+      "W": 11,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Florida A&M",
+      "net_rank": 336,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Prairie View",
+      "net_rank": 330,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bethune-Cookman",
+      "net_rank": 251,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Portland",
+      "net_rank": 208,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Marshall",
+      "net_rank": 149,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Ark.-Pine Bluff"
+}

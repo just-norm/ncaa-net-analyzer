@@ -1,0 +1,58 @@
+{
+  "slug": "purdue",
+  "net_rank": "5",
+  "ap_rank": "13",
+  "record": "21-4",
+  "quad_records": {
+    "Q1": {
+      "W": 8,
+      "L": 4
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 9,
+      "L": 0
+    },
+    "Q4": {
+      "W": 2,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Nebraska",
+      "net_rank": 11,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas Tech",
+      "net_rank": 16,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Alabama",
+      "net_rank": 21,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa",
+      "net_rank": 27,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa",
+      "net_rank": 27,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Purdue"
+}

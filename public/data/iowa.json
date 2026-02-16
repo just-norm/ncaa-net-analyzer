@@ -1,0 +1,65 @@
+{
+  "slug": "iowa",
+  "net_rank": "27",
+  "ap_rank": "NR",
+  "record": "18-7",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 5
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 8,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Indiana",
+      "net_rank": 31,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "UCLA",
+      "net_rank": 40,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Southern California",
+      "net_rank": 48,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Washington",
+      "net_rank": 52,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Grand Canyon",
+      "net_rank": 76,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Maryland",
+      "net_rank": 149,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Iowa"
+}

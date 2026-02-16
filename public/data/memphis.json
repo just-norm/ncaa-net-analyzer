@@ -1,0 +1,53 @@
+{
+  "slug": "memphis",
+  "net_rank": "105",
+  "ap_rank": "NR",
+  "record": "12-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 2,
+      "L": 3
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 7,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Memphis"
+}

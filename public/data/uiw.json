@@ -1,0 +1,65 @@
+{
+  "slug": "uiw",
+  "net_rank": "278",
+  "ap_rank": "NR",
+  "record": "10-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 1,
+      "L": 2
+    },
+    "Q3": {
+      "W": 1,
+      "L": 4
+    },
+    "Q4": {
+      "W": 8,
+      "L": 7
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "McNeese State",
+      "net_rank": 56,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Houston Christian",
+      "net_rank": 298,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "East Texas A&M",
+      "net_rank": 296,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "New Orleans",
+      "net_rank": 222,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Lamar",
+      "net_rank": 211,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Texas A&M-Corpus Christi",
+      "net_rank": 196,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "UIW"
+}

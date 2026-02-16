@@ -1,0 +1,46 @@
+{
+  "slug": "marshall",
+  "net_rank": "149",
+  "ap_rank": "NR",
+  "record": "16-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 13,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Ohio",
+      "net_rank": 213,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Lipscomb",
+      "net_rank": 186,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Marshall"
+}

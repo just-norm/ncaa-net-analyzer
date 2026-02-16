@@ -1,0 +1,58 @@
+{
+  "slug": "northern-ky",
+  "net_rank": "199",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 14,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Green Bay",
+      "net_rank": 224,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Green Bay",
+      "net_rank": 224,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Robert Morris",
+      "net_rank": 161,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Northern Ky."
+}

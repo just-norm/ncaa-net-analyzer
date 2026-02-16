@@ -1,0 +1,58 @@
+{
+  "slug": "gardner-webb",
+  "net_rank": "363",
+  "ap_rank": "NR",
+  "record": "3-24",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 4
+    },
+    "Q3": {
+      "W": 0,
+      "L": 6
+    },
+    "Q4": {
+      "W": 3,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Longwood",
+      "net_rank": 272,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Longwood",
+      "net_rank": 272,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Presbyterian",
+      "net_rank": 271,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Presbyterian",
+      "net_rank": 271,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Radford",
+      "net_rank": 239,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Gardner-Webb"
+}

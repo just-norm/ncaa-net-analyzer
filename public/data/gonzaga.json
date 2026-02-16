@@ -1,0 +1,65 @@
+{
+  "slug": "gonzaga",
+  "net_rank": "6",
+  "ap_rank": "12",
+  "record": "25-2",
+  "quad_records": {
+    "Q1": {
+      "W": 6,
+      "L": 1
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 8,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Alabama",
+      "net_rank": 21,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Saint Mary's (CA)",
+      "net_rank": 26,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "UCLA",
+      "net_rank": 40,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Santa Clara",
+      "net_rank": 42,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Portland",
+      "net_rank": 208,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Gonzaga"
+}

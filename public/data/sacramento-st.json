@@ -1,0 +1,52 @@
+{
+  "slug": "sacramento-st",
+  "net_rank": "260",
+  "ap_rank": "NR",
+  "record": "9-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 3
+    },
+    "Q4": {
+      "W": 9,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Northern Arizona",
+      "net_rank": 302,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Idaho",
+      "net_rank": 167,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Santa Barbara",
+      "net_rank": 133,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Sacramento St."
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "hofstra",
+  "net_rank": "102",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 4
+    },
+    "Q4": {
+      "W": 11,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Syracuse",
+      "net_rank": 69,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Pittsburgh",
+      "net_rank": 124,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Iona",
+      "net_rank": 237,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Stony Brook",
+      "net_rank": 212,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Elon",
+      "net_rank": 192,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Columbia",
+      "net_rank": 180,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Temple",
+      "net_rank": 162,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Hofstra"
+}

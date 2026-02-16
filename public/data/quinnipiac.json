@@ -1,0 +1,65 @@
+{
+  "slug": "quinnipiac",
+  "net_rank": "202",
+  "ap_rank": "NR",
+  "record": "18-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 1,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 2
+    },
+    "Q4": {
+      "W": 14,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Pittsburgh",
+      "net_rank": 124,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Sacred Heart",
+      "net_rank": 297,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Saint Peter's",
+      "net_rank": 226,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Merrimack",
+      "net_rank": 185,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Merrimack",
+      "net_rank": 185,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Quinnipiac"
+}

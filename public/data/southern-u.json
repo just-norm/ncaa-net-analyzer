@@ -1,0 +1,46 @@
+{
+  "slug": "southern-u",
+  "net_rank": "279",
+  "ap_rank": "NR",
+  "record": "12-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 0
+    },
+    "Q4": {
+      "W": 12,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Florida A&M",
+      "net_rank": 336,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Prairie View",
+      "net_rank": 330,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "San Jose State",
+      "net_rank": 265,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Southern U."
+}

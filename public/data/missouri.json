@@ -1,0 +1,58 @@
+{
+  "slug": "missouri",
+  "net_rank": "66",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 4
+    },
+    "Q2": {
+      "W": 3,
+      "L": 4
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Florida",
+      "net_rank": 9,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Texas A&M",
+      "net_rank": 43,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Oklahoma",
+      "net_rank": 68,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Missouri"
+}

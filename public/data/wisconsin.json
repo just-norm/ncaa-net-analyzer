@@ -1,0 +1,58 @@
+{
+  "slug": "wisconsin",
+  "net_rank": "33",
+  "ap_rank": "NR",
+  "record": "18-7",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 6
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Michigan",
+      "net_rank": 1,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Illinois",
+      "net_rank": 7,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Michigan State",
+      "net_rank": 15,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Ohio State",
+      "net_rank": 38,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UCLA",
+      "net_rank": 40,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Wisconsin"
+}

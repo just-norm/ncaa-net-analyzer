@@ -1,0 +1,53 @@
+{
+  "slug": "san-francisco",
+  "net_rank": "118",
+  "ap_rank": "NR",
+  "record": "15-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 2,
+      "L": 3
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Minnesota",
+      "net_rank": 86,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Mississippi State",
+      "net_rank": 94,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "San Francisco"
+}

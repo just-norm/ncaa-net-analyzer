@@ -1,0 +1,59 @@
+{
+  "slug": "murray-st",
+  "net_rank": "99",
+  "ap_rank": "NR",
+  "record": "19-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 3,
+      "L": 2
+    },
+    "Q3": {
+      "W": 4,
+      "L": 2
+    },
+    "Q4": {
+      "W": 12,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Akron",
+      "net_rank": 62,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "George Washington",
+      "net_rank": 84,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Southern Illinois",
+      "net_rank": 126,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Drake",
+      "net_rank": 200,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Middle Tennessee",
+      "net_rank": 159,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Murray St."
+}

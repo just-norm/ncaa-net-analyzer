@@ -1,0 +1,59 @@
+{
+  "slug": "uc-santa-barbara",
+  "net_rank": "133",
+  "ap_rank": "NR",
+  "record": "17-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 14,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 125,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Green Bay",
+      "net_rank": 224,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UC Santa Barbara"
+}

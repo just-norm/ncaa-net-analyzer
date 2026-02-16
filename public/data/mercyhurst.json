@@ -1,0 +1,58 @@
+{
+  "slug": "mercyhurst",
+  "net_rank": "283",
+  "ap_rank": "NR",
+  "record": "13-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 2
+    },
+    "Q4": {
+      "W": 13,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Canisius",
+      "net_rank": 348,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stonehill",
+      "net_rank": 339,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "FDU",
+      "net_rank": 328,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "FDU",
+      "net_rank": 328,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lafayette",
+      "net_rank": 326,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Mercyhurst"
+}

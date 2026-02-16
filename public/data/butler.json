@@ -1,0 +1,53 @@
+{
+  "slug": "butler",
+  "net_rank": "74",
+  "ap_rank": "NR",
+  "record": "13-12",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 6
+    },
+    "Q2": {
+      "W": 1,
+      "L": 5
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Virginia",
+      "net_rank": 19,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Seton Hall",
+      "net_rank": 51,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Northwestern",
+      "net_rank": 78,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Georgetown",
+      "net_rank": 91,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Butler"
+}

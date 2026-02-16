@@ -1,0 +1,58 @@
+{
+  "slug": "saint-francis",
+  "net_rank": "354",
+  "ap_rank": "NR",
+  "record": "6-20",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 6,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "New Haven",
+      "net_rank": 329,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "FDU",
+      "net_rank": 328,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lehigh",
+      "net_rank": 295,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mercyhurst",
+      "net_rank": 283,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Saint Francis"
+}

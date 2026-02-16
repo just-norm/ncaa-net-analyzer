@@ -1,0 +1,65 @@
+{
+  "slug": "southern-california",
+  "net_rank": "48",
+  "ap_rank": "NR",
+  "record": "18-7",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 5
+    },
+    "Q2": {
+      "W": 7,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Indiana",
+      "net_rank": 31,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Wisconsin",
+      "net_rank": 33,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Seton Hall",
+      "net_rank": 51,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Boise State",
+      "net_rank": 59,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Arizona State",
+      "net_rank": 71,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Northwestern",
+      "net_rank": 78,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Southern California"
+}

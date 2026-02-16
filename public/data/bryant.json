@@ -1,0 +1,58 @@
+{
+  "slug": "bryant",
+  "net_rank": "352",
+  "ap_rank": "NR",
+  "record": "8-18",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 7
+    },
+    "Q4": {
+      "W": 8,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Binghamton",
+      "net_rank": 362,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Massachusetts-Lowell",
+      "net_rank": 323,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Massachusetts-Lowell",
+      "net_rank": 323,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "NJIT",
+      "net_rank": 301,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Brown",
+      "net_rank": 285,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Bryant"
+}

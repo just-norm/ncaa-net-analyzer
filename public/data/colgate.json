@@ -1,0 +1,58 @@
+{
+  "slug": "colgate",
+  "net_rank": "201",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 3,
+      "L": 4
+    },
+    "Q4": {
+      "W": 13,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Lehigh",
+      "net_rank": 295,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lehigh",
+      "net_rank": 295,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Northeastern",
+      "net_rank": 273,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "American",
+      "net_rank": 261,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Harvard",
+      "net_rank": 160,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Colgate"
+}

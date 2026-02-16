@@ -1,0 +1,34 @@
+{
+  "slug": "oregon",
+  "net_rank": "107",
+  "ap_rank": "NR",
+  "record": "9-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 11
+    },
+    "Q2": {
+      "W": 0,
+      "L": 4
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Rutgers",
+      "net_rank": 155,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Oregon"
+}

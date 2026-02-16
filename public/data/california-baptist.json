@@ -1,0 +1,47 @@
+{
+  "slug": "california-baptist",
+  "net_rank": "109",
+  "ap_rank": "NR",
+  "record": "19-7",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 1,
+      "L": 2
+    },
+    "Q3": {
+      "W": 6,
+      "L": 2
+    },
+    "Q4": {
+      "W": 12,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "UC Irvine",
+      "net_rank": 120,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "UT Arlington",
+      "net_rank": 158,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Utah Tech",
+      "net_rank": 156,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "California Baptist"
+}

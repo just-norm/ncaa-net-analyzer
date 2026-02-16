@@ -1,0 +1,58 @@
+{
+  "slug": "east-carolina",
+  "net_rank": "269",
+  "ap_rank": "NR",
+  "record": "9-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 1,
+      "L": 4
+    },
+    "Q4": {
+      "W": 8,
+      "L": 10
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Rice",
+      "net_rank": 248,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Charlotte",
+      "net_rank": 189,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Temple",
+      "net_rank": 162,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "East Carolina"
+}

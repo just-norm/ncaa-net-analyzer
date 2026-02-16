@@ -1,0 +1,58 @@
+{
+  "slug": "western-ill",
+  "net_rank": "361",
+  "ap_rank": "NR",
+  "record": "5-22",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 5,
+      "L": 16
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Eastern Illinois",
+      "net_rank": 317,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee Tech",
+      "net_rank": 316,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee Tech",
+      "net_rank": 316,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Little Rock",
+      "net_rank": 307,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Little Rock",
+      "net_rank": 307,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Western Ill."
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "belmont",
+  "net_rank": "61",
+  "ap_rank": "NR",
+  "record": "23-4",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 5,
+      "L": 3
+    },
+    "Q4": {
+      "W": 16,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Southern Illinois",
+      "net_rank": 117,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UC Irvine",
+      "net_rank": 119,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Indiana State",
+      "net_rank": 217,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Richmond",
+      "net_rank": 141,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Southern Illinois",
+      "net_rank": 117,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Belmont"
+}

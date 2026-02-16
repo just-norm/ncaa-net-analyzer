@@ -1,0 +1,71 @@
+{
+  "slug": "app-state",
+  "net_rank": "183",
+  "ap_rank": "NR",
+  "record": "18-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 16,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "High Point",
+      "net_rank": 75,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Troy",
+      "net_rank": 132,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Old Dominion",
+      "net_rank": 256,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Asheville",
+      "net_rank": 228,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "James Madison",
+      "net_rank": 219,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Elon",
+      "net_rank": 192,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "App State"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "illinois",
+  "net_rank": "7",
+  "ap_rank": "8",
+  "record": "20-5",
+  "quad_records": {
+    "Q1": {
+      "W": 6,
+      "L": 4
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Purdue",
+      "net_rank": 5,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Nebraska",
+      "net_rank": 11,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Texas Tech",
+      "net_rank": 16,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tennessee",
+      "net_rank": 22,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa",
+      "net_rank": 27,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Illinois"
+}

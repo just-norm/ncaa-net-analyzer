@@ -1,0 +1,40 @@
+{
+  "slug": "south-carolina",
+  "net_rank": "112",
+  "ap_rank": "NR",
+  "record": "11-14",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 8
+    },
+    "Q2": {
+      "W": 1,
+      "L": 6
+    },
+    "Q3": {
+      "W": 0,
+      "L": 0
+    },
+    "Q4": {
+      "W": 9,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Louisiana State",
+      "net_rank": 67,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Oklahoma",
+      "net_rank": 68,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "South Carolina"
+}

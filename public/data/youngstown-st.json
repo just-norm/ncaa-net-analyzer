@@ -1,0 +1,65 @@
+{
+  "slug": "youngstown-st",
+  "net_rank": "206",
+  "ap_rank": "NR",
+  "record": "13-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 5
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Grand Canyon",
+      "net_rank": 76,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Milwaukee",
+      "net_rank": 246,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Youngstown St."
+}

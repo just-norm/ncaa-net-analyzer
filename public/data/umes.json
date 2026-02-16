@@ -1,0 +1,58 @@
+{
+  "slug": "umes",
+  "net_rank": "345",
+  "ap_rank": "NR",
+  "record": "8-18",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 2
+    },
+    "Q4": {
+      "W": 8,
+      "L": 10
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "South Carolina State",
+      "net_rank": 358,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Canisius",
+      "net_rank": 348,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "North Carolina Central",
+      "net_rank": 340,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wagner",
+      "net_rank": 315,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "East Carolina",
+      "net_rank": 269,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "UMES"
+}

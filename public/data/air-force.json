@@ -1,0 +1,58 @@
+{
+  "slug": "air-force",
+  "net_rank": "346",
+  "ap_rank": "NR",
+  "record": "3-22",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 6
+    },
+    "Q3": {
+      "W": 0,
+      "L": 7
+    },
+    "Q4": {
+      "W": 3,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "South Dakota",
+      "net_rank": 276,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "San Jose State",
+      "net_rank": 265,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Long Island University",
+      "net_rank": 195,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Navy",
+      "net_rank": 150,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Fresno State",
+      "net_rank": 137,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Air Force"
+}

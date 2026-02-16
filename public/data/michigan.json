@@ -1,0 +1,58 @@
+{
+  "slug": "michigan",
+  "net_rank": "1",
+  "ap_rank": "2",
+  "record": "24-1",
+  "quad_records": {
+    "Q1": {
+      "W": 9,
+      "L": 0
+    },
+    "Q2": {
+      "W": 9,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 3,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Gonzaga",
+      "net_rank": 6,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Nebraska",
+      "net_rank": 11,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Michigan State",
+      "net_rank": 15,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Villanova",
+      "net_rank": 30,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Indiana",
+      "net_rank": 31,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Michigan"
+}

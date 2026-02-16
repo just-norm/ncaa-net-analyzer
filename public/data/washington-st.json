@@ -1,0 +1,46 @@
+{
+  "slug": "washington-st",
+  "net_rank": "135",
+  "ap_rank": "NR",
+  "record": "11-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 0,
+      "L": 7
+    },
+    "Q3": {
+      "W": 2,
+      "L": 2
+    },
+    "Q4": {
+      "W": 9,
+      "L": 2
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "San Diego",
+      "net_rank": 223,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Idaho",
+      "net_rank": 167,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Washington St."
+}

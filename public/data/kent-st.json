@@ -1,0 +1,40 @@
+{
+  "slug": "kent-st",
+  "net_rank": "144",
+  "ap_rank": "NR",
+  "record": "19-7",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 6,
+      "L": 2
+    },
+    "Q4": {
+      "W": 13,
+      "L": 2
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Portland",
+      "net_rank": 208,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Troy",
+      "net_rank": 132,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Kent St."
+}

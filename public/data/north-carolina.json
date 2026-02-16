@@ -1,0 +1,58 @@
+{
+  "slug": "north-carolina",
+  "net_rank": "25",
+  "ap_rank": "11",
+  "record": "20-5",
+  "quad_records": {
+    "Q1": {
+      "W": 5,
+      "L": 5
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 8,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Duke",
+      "net_rank": 2,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kansas",
+      "net_rank": 14,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Virginia",
+      "net_rank": 19,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Ohio State",
+      "net_rank": 38,
+      "location": "Neutral",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "North Carolina"
+}

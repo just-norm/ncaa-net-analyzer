@@ -1,0 +1,58 @@
+{
+  "slug": "milwaukee",
+  "net_rank": "246",
+  "ap_rank": "NR",
+  "record": "11-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wofford",
+      "net_rank": 229,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Green Bay",
+      "net_rank": 224,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Indiana State",
+      "net_rank": 218,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Milwaukee"
+}

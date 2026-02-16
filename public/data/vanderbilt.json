@@ -1,0 +1,58 @@
+{
+  "slug": "vanderbilt",
+  "net_rank": "13",
+  "ap_rank": "19",
+  "record": "21-4",
+  "quad_records": {
+    "Q1": {
+      "W": 6,
+      "L": 3
+    },
+    "Q2": {
+      "W": 6,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Alabama",
+      "net_rank": 21,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Saint Mary's (CA)",
+      "net_rank": 26,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Southern Methodist",
+      "net_rank": 36,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Vanderbilt"
+}

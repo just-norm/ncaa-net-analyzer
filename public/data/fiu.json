@@ -1,0 +1,58 @@
+{
+  "slug": "fiu",
+  "net_rank": "198",
+  "ap_rank": "NR",
+  "record": "12-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 2
+    },
+    "Q4": {
+      "W": 10,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Delaware",
+      "net_rank": 267,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UTEP",
+      "net_rank": 264,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "James Madison",
+      "net_rank": 219,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Western Kentucky",
+      "net_rank": 175,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Sam Houston",
+      "net_rank": 106,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "FIU"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "george-mason",
+  "net_rank": "91",
+  "ap_rank": "NR",
+  "record": "21-5",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 8,
+      "L": 3
+    },
+    "Q4": {
+      "W": 13,
+      "L": 0
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Richmond",
+      "net_rank": 142,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Rhode Island",
+      "net_rank": 136,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Duquesne",
+      "net_rank": 117,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "George Mason"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "jacksonville",
+  "net_rank": "306",
+  "ap_rank": "NR",
+  "record": "10-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 10,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Florida A&M",
+      "net_rank": 336,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Stetson",
+      "net_rank": 325,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bellarmine",
+      "net_rank": 288,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Florida Gulf Coast",
+      "net_rank": 257,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Queens (NC)",
+      "net_rank": 205,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Jacksonville"
+}

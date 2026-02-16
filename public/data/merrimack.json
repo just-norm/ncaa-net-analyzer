@@ -1,0 +1,58 @@
+{
+  "slug": "merrimack",
+  "net_rank": "185",
+  "ap_rank": "NR",
+  "record": "18-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 4,
+      "L": 4
+    },
+    "Q4": {
+      "W": 14,
+      "L": 3
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Iona",
+      "net_rank": 237,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Saint Peter's",
+      "net_rank": 226,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Vermont",
+      "net_rank": 215,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "South Dakota State",
+      "net_rank": 204,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Hofstra",
+      "net_rank": 102,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Merrimack"
+}

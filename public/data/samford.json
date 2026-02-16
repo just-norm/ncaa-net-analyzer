@@ -1,0 +1,65 @@
+{
+  "slug": "samford",
+  "net_rank": "210",
+  "ap_rank": "NR",
+  "record": "15-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 5
+    },
+    "Q4": {
+      "W": 11,
+      "L": 5
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "East Tennessee State",
+      "net_rank": 129,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Chattanooga",
+      "net_rank": 300,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Florida Gulf Coast",
+      "net_rank": 257,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wofford",
+      "net_rank": 229,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Furman",
+      "net_rank": 194,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Samford"
+}

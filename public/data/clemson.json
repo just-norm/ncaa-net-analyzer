@@ -1,0 +1,58 @@
+{
+  "slug": "clemson",
+  "net_rank": "32",
+  "ap_rank": "20",
+  "record": "20-6",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 4
+    },
+    "Q2": {
+      "W": 6,
+      "L": 2
+    },
+    "Q3": {
+      "W": 5,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Miami (FL)",
+      "net_rank": 35,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Southern Methodist",
+      "net_rank": 36,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Georgia",
+      "net_rank": 39,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "West Virginia",
+      "net_rank": 54,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "California",
+      "net_rank": 60,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Clemson"
+}

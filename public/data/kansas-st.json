@@ -1,0 +1,59 @@
+{
+  "slug": "kansas-st",
+  "net_rank": "100",
+  "ap_rank": "NR",
+  "record": "10-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 11
+    },
+    "Q2": {
+      "W": 4,
+      "L": 3
+    },
+    "Q3": {
+      "W": 1,
+      "L": 1
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Tulsa",
+      "net_rank": 53,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "California",
+      "net_rank": 61,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Creighton",
+      "net_rank": 81,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Mississippi State",
+      "net_rank": 94,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Bowling Green",
+      "net_rank": 141,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Kansas St."
+}

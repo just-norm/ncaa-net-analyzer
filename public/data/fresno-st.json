@@ -1,0 +1,46 @@
+{
+  "slug": "fresno-st",
+  "net_rank": "137",
+  "ap_rank": "NR",
+  "record": "12-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 6
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 2
+    },
+    "Q4": {
+      "W": 9,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "South Carolina Upstate",
+      "net_rank": 293,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 125,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Grand Canyon",
+      "net_rank": 76,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Fresno St."
+}

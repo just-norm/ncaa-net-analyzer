@@ -1,0 +1,65 @@
+{
+  "slug": "illinois-st",
+  "net_rank": "93",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 1,
+      "L": 0
+    },
+    "Q3": {
+      "W": 5,
+      "L": 4
+    },
+    "Q4": {
+      "W": 11,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Southern Illinois",
+      "net_rank": 126,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Evansville",
+      "net_rank": 292,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Indiana State",
+      "net_rank": 218,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Ohio",
+      "net_rank": 213,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Valparaiso",
+      "net_rank": 163,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Southern Illinois",
+      "net_rank": 126,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Illinois St."
+}

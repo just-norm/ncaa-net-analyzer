@@ -1,0 +1,65 @@
+{
+  "slug": "new-mexico",
+  "net_rank": "44",
+  "ap_rank": "NR",
+  "record": "19-6",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 10,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Santa Clara",
+      "net_rank": 42,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Nevada",
+      "net_rank": 58,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Grand Canyon",
+      "net_rank": 76,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Colorado State",
+      "net_rank": 95,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Mississippi State",
+      "net_rank": 96,
+      "location": "Neutral",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "New Mexico State",
+      "net_rank": 173,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "New Mexico"
+}

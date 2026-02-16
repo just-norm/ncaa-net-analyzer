@@ -1,0 +1,53 @@
+{
+  "slug": "liberty",
+  "net_rank": "74",
+  "ap_rank": "NR",
+  "record": "22-3",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 2,
+      "L": 0
+    },
+    "Q3": {
+      "W": 3,
+      "L": 2
+    },
+    "Q4": {
+      "W": 17,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Dayton",
+      "net_rank": 89,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Sam Houston",
+      "net_rank": 106,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Towson",
+      "net_rank": 176,
+      "location": "Neutral",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Bradley",
+      "net_rank": 113,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Liberty"
+}

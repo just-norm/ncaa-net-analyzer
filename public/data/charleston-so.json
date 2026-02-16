@@ -1,0 +1,58 @@
+{
+  "slug": "charleston-so",
+  "net_rank": "245",
+  "ap_rank": "NR",
+  "record": "12-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 1,
+      "L": 2
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Alabama A&M",
+      "net_rank": 311,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "South Carolina Upstate",
+      "net_rank": 293,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "South Carolina Upstate",
+      "net_rank": 293,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Longwood",
+      "net_rank": 272,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Presbyterian",
+      "net_rank": 271,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Charleston So."
+}

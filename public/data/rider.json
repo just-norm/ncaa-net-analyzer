@@ -1,0 +1,58 @@
+{
+  "slug": "rider",
+  "net_rank": "357",
+  "ap_rank": "NR",
+  "record": "3-22",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 5
+    },
+    "Q4": {
+      "W": 3,
+      "L": 14
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Bucknell",
+      "net_rank": 333,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Rider"
+}

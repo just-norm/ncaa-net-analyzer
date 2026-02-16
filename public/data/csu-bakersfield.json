@@ -1,0 +1,58 @@
+{
+  "slug": "csu-bakersfield",
+  "net_rank": "318",
+  "ap_rank": "NR",
+  "record": "8-18",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 5
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 6,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Pepperdine",
+      "net_rank": 284,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Cal Poly",
+      "net_rank": 238,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UC Santa Barbara",
+      "net_rank": 133,
+      "location": "Home",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC San Diego",
+      "net_rank": 125,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "CSU Bakersfield"
+}

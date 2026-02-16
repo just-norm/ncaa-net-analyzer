@@ -1,0 +1,58 @@
+{
+  "slug": "presbyterian",
+  "net_rank": "271",
+  "ap_rank": "NR",
+  "record": "13-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 11,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Longwood",
+      "net_rank": 272,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "East Carolina",
+      "net_rank": 269,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Radford",
+      "net_rank": 239,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Radford",
+      "net_rank": 239,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Presbyterian"
+}

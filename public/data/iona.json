@@ -1,0 +1,58 @@
+{
+  "slug": "iona",
+  "net_rank": "237",
+  "ap_rank": "NR",
+  "record": "15-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 3
+    },
+    "Q4": {
+      "W": 12,
+      "L": 7
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Rider",
+      "net_rank": 357,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Niagara",
+      "net_rank": 342,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fairfield",
+      "net_rank": 242,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Iona"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "nevada",
+  "net_rank": "58",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 5
+    },
+    "Q2": {
+      "W": 2,
+      "L": 2
+    },
+    "Q3": {
+      "W": 11,
+      "L": 0
+    },
+    "Q4": {
+      "W": 4,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Boise State",
+      "net_rank": 59,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Colorado State",
+      "net_rank": 95,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "UC Davis",
+      "net_rank": 167,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Nevada"
+}

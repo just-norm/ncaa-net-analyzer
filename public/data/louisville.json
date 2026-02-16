@@ -1,0 +1,58 @@
+{
+  "slug": "louisville",
+  "net_rank": "12",
+  "ap_rank": "24",
+  "record": "19-6",
+  "quad_records": {
+    "Q1": {
+      "W": 6,
+      "L": 6
+    },
+    "Q2": {
+      "W": 4,
+      "L": 0
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "NC State",
+      "net_rank": 29,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Indiana",
+      "net_rank": 31,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Southern Methodist",
+      "net_rank": 36,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Neutral",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Louisville"
+}

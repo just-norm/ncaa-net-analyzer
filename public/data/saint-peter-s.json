@@ -1,0 +1,58 @@
+{
+  "slug": "saint-peter-s",
+  "net_rank": "226",
+  "ap_rank": "NR",
+  "record": "15-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 1
+    },
+    "Q4": {
+      "W": 14,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Rider",
+      "net_rank": 357,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mount St. Mary's",
+      "net_rank": 299,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Sacred Heart",
+      "net_rank": 297,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Delaware",
+      "net_rank": 267,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Dartmouth",
+      "net_rank": 252,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Saint Peter's"
+}

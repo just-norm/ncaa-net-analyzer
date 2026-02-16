@@ -1,0 +1,46 @@
+{
+  "slug": "uncw",
+  "net_rank": "96",
+  "ap_rank": "NR",
+  "record": "22-4",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 7,
+      "L": 2
+    },
+    "Q4": {
+      "W": 15,
+      "L": 1
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Howard",
+      "net_rank": 230,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Kent State",
+      "net_rank": 144,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "William & Mary",
+      "net_rank": 114,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UNCW"
+}

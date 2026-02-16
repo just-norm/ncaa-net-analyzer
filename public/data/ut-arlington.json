@@ -1,0 +1,58 @@
+{
+  "slug": "ut-arlington",
+  "net_rank": "158",
+  "ap_rank": "NR",
+  "record": "14-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Southern Utah",
+      "net_rank": 282,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Abilene Christian",
+      "net_rank": 231,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Campbell",
+      "net_rank": 207,
+      "location": "Neutral",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Utah Tech",
+      "net_rank": 156,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "California Baptist",
+      "net_rank": 109,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "UT Arlington"
+}

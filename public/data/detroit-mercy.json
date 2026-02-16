@@ -1,0 +1,58 @@
+{
+  "slug": "detroit-mercy",
+  "net_rank": "250",
+  "ap_rank": "NR",
+  "record": "12-13",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 4
+    },
+    "Q4": {
+      "W": 12,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Green Bay",
+      "net_rank": 224,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Northern Kentucky",
+      "net_rank": 199,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Toledo",
+      "net_rank": 172,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Detroit Mercy"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "rhode-island",
+  "net_rank": "136",
+  "ap_rank": "NR",
+  "record": "14-11",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 0
+    },
+    "Q2": {
+      "W": 2,
+      "L": 6
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 7,
+      "L": 4
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Yale",
+      "net_rank": 65,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Dayton",
+      "net_rank": 89,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Davidson",
+      "net_rank": 104,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "La Salle",
+      "net_rank": 241,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fordham",
+      "net_rank": 178,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Towson",
+      "net_rank": 176,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Rhode Island"
+}

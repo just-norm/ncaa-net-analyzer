@@ -1,0 +1,58 @@
+{
+  "slug": "binghamton",
+  "net_rank": "362",
+  "ap_rank": "NR",
+  "record": "5-22",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 5,
+      "L": 18
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Niagara",
+      "net_rank": 346,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Canisius",
+      "net_rank": 344,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Maine",
+      "net_rank": 341,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "New Hampshire",
+      "net_rank": 334,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Army",
+      "net_rank": 332,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Binghamton"
+}

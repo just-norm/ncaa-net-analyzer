@@ -1,0 +1,47 @@
+{
+  "slug": "penn-st",
+  "net_rank": "122",
+  "ap_rank": "NR",
+  "record": "11-15",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 7
+    },
+    "Q2": {
+      "W": 0,
+      "L": 6
+    },
+    "Q3": {
+      "W": 4,
+      "L": 2
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Washington",
+      "net_rank": 52,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Maryland",
+      "net_rank": 151,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Pittsburgh",
+      "net_rank": 124,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Penn St."
+}

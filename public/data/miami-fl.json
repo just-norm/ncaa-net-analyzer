@@ -1,0 +1,65 @@
+{
+  "slug": "miami-fl",
+  "net_rank": "35",
+  "ap_rank": "NR",
+  "record": "20-5",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 3
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 10,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "North Carolina",
+      "net_rank": 25,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "NC State",
+      "net_rank": 29,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Wake Forest",
+      "net_rank": 64,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Syracuse",
+      "net_rank": 69,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Stanford",
+      "net_rank": 70,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Florida State",
+      "net_rank": 82,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Miami (FL)"
+}

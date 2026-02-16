@@ -1,0 +1,52 @@
+{
+  "slug": "indiana",
+  "net_rank": "31",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 7
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 6,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Purdue",
+      "net_rank": 5,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Wisconsin",
+      "net_rank": 33,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UCLA",
+      "net_rank": 40,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Washington",
+      "net_rank": 52,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Indiana"
+}

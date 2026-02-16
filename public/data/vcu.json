@@ -1,0 +1,46 @@
+{
+  "slug": "vcu",
+  "net_rank": "46",
+  "ap_rank": "NR",
+  "record": "20-6",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 3,
+      "L": 2
+    },
+    "Q3": {
+      "W": 7,
+      "L": 0
+    },
+    "Q4": {
+      "W": 10,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 58,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Davidson",
+      "net_rank": 104,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Duquesne",
+      "net_rank": 117,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "VCU"
+}

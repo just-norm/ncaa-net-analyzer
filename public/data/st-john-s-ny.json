@@ -1,0 +1,65 @@
+{
+  "slug": "st-john-s-ny",
+  "net_rank": "24",
+  "ap_rank": "NR",
+  "record": "20-5",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 4
+    },
+    "Q2": {
+      "W": 7,
+      "L": 0
+    },
+    "Q3": {
+      "W": 6,
+      "L": 1
+    },
+    "Q4": {
+      "W": 3,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Connecticut",
+      "net_rank": 10,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Villanova",
+      "net_rank": 30,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Seton Hall",
+      "net_rank": 51,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Butler",
+      "net_rank": 74,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Providence",
+      "net_rank": 80,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "St. John's (NY)"
+}

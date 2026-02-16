@@ -1,0 +1,65 @@
+{
+  "slug": "grand-canyon",
+  "net_rank": "76",
+  "ap_rank": "NR",
+  "record": "16-9",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 4
+    },
+    "Q2": {
+      "W": 3,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Utah State",
+      "net_rank": 23,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "San Diego State",
+      "net_rank": 41,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Boise State",
+      "net_rank": 60,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Boise State",
+      "net_rank": 60,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Wyoming",
+      "net_rank": 101,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Colorado State",
+      "net_rank": 95,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Grand Canyon"
+}

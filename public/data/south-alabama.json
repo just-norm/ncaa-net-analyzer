@@ -1,0 +1,40 @@
+{
+  "slug": "south-alabama",
+  "net_rank": "168",
+  "ap_rank": "NR",
+  "record": "19-7",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 3
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 16,
+      "L": 3
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Louisiana",
+      "net_rank": 312,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "South Alabama"
+}

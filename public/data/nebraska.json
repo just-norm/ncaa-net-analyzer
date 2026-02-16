@@ -1,0 +1,58 @@
+{
+  "slug": "nebraska",
+  "net_rank": "11",
+  "ap_rank": "7",
+  "record": "22-3",
+  "quad_records": {
+    "Q1": {
+      "W": 5,
+      "L": 3
+    },
+    "Q2": {
+      "W": 5,
+      "L": 0
+    },
+    "Q3": {
+      "W": 6,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Illinois",
+      "net_rank": 7,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Michigan State",
+      "net_rank": 15,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Indiana",
+      "net_rank": 31,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Wisconsin",
+      "net_rank": 33,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Ohio State",
+      "net_rank": 38,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Nebraska"
+}

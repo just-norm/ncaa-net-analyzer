@@ -1,0 +1,58 @@
+{
+  "slug": "lipscomb",
+  "net_rank": "186",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 14,
+      "L": 3
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Stetson",
+      "net_rank": 325,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Jacksonville",
+      "net_rank": 306,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Asheville",
+      "net_rank": 228,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Queens (NC)",
+      "net_rank": 205,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Central Arkansas",
+      "net_rank": 181,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Lipscomb"
+}

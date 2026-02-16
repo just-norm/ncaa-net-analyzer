@@ -1,0 +1,71 @@
+{
+  "slug": "tcu",
+  "net_rank": "45",
+  "ap_rank": "NR",
+  "record": "16-9",
+  "quad_records": {
+    "Q1": {
+      "W": 5,
+      "L": 6
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 7,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Iowa State",
+      "net_rank": 8,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Florida",
+      "net_rank": 9,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Wisconsin",
+      "net_rank": 33,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "New Orleans",
+      "net_rank": 222,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Notre Dame",
+      "net_rank": 87,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "TCU"
+}

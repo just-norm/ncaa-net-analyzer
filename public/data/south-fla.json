@@ -1,0 +1,65 @@
+{
+  "slug": "south-fla",
+  "net_rank": "57",
+  "ap_rank": "NR",
+  "record": "18-8",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 2
+    },
+    "Q2": {
+      "W": 2,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 2
+    },
+    "Q4": {
+      "W": 11,
+      "L": 2
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Utah State",
+      "net_rank": 23,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tulsa",
+      "net_rank": 53,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tulsa",
+      "net_rank": 53,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Temple",
+      "net_rank": 162,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UAB",
+      "net_rank": 119,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "South Fla."
+}

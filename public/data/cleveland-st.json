@@ -1,0 +1,58 @@
+{
+  "slug": "cleveland-st",
+  "net_rank": "305",
+  "ap_rank": "NR",
+  "record": "10-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 4
+    },
+    "Q4": {
+      "W": 8,
+      "L": 10
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "IU Indy",
+      "net_rank": 313,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Milwaukee",
+      "net_rank": 246,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Cleveland St."
+}

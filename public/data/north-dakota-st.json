@@ -1,0 +1,58 @@
+{
+  "slug": "north-dakota-st",
+  "net_rank": "123",
+  "ap_rank": "NR",
+  "record": "21-6",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 4,
+      "L": 3
+    },
+    "Q4": {
+      "W": 17,
+      "L": 3
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "UTEP",
+      "net_rank": 264,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Denver",
+      "net_rank": 233,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Oregon State",
+      "net_rank": 184,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Davis",
+      "net_rank": 166,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "UC Irvine",
+      "net_rank": 120,
+      "location": "Neutral",
+      "quad": "Q3"
+    }
+  ],
+  "name": "North Dakota St."
+}

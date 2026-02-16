@@ -1,0 +1,58 @@
+{
+  "slug": "florida",
+  "net_rank": "9",
+  "ap_rank": "14",
+  "record": "19-6",
+  "quad_records": {
+    "Q1": {
+      "W": 8,
+      "L": 5
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Vanderbilt",
+      "net_rank": 13,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Alabama",
+      "net_rank": 21,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Tennessee",
+      "net_rank": 22,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kentucky",
+      "net_rank": 28,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Miami (FL)",
+      "net_rank": 35,
+      "location": "Neutral",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Florida"
+}

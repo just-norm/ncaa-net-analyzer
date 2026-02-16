@@ -1,0 +1,58 @@
+{
+  "slug": "iowa-st",
+  "net_rank": "8",
+  "ap_rank": "5",
+  "record": "22-3",
+  "quad_records": {
+    "Q1": {
+      "W": 6,
+      "L": 3
+    },
+    "Q2": {
+      "W": 9,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 0
+    },
+    "Q4": {
+      "W": 7,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Purdue",
+      "net_rank": 5,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Kansas",
+      "net_rank": 14,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "St. John's (NY)",
+      "net_rank": 24,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Iowa",
+      "net_rank": 27,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Baylor",
+      "net_rank": 47,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Iowa St."
+}

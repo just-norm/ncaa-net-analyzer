@@ -1,0 +1,58 @@
+{
+  "slug": "cornell",
+  "net_rank": "146",
+  "ap_rank": "NR",
+  "record": "12-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 2
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 10,
+      "L": 5
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Dartmouth",
+      "net_rank": 252,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Samford",
+      "net_rank": 210,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Columbia",
+      "net_rank": 180,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Towson",
+      "net_rank": 176,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Kent State",
+      "net_rank": 144,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Cornell"
+}

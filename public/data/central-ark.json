@@ -1,0 +1,58 @@
+{
+  "slug": "central-ark",
+  "net_rank": "181",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 15,
+      "L": 4
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "East Texas A&M",
+      "net_rank": 296,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Bellarmine",
+      "net_rank": 288,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Eastern Kentucky",
+      "net_rank": 281,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Samford",
+      "net_rank": 210,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "North Texas",
+      "net_rank": 148,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Central Ark."
+}

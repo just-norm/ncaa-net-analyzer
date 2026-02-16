@@ -1,0 +1,58 @@
+{
+  "slug": "louisiana",
+  "net_rank": "312",
+  "ap_rank": "NR",
+  "record": "9-17",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 7,
+      "L": 11
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Jackson State",
+      "net_rank": 347,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Louisiana Tech",
+      "net_rank": 247,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Coastal Carolina",
+      "net_rank": 221,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lamar",
+      "net_rank": 211,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Tulane",
+      "net_rank": 190,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Louisiana"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "furman",
+  "net_rank": "194",
+  "ap_rank": "NR",
+  "record": "17-10",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 5,
+      "L": 2
+    },
+    "Q4": {
+      "W": 12,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "The Citadel",
+      "net_rank": 351,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "UNC Greensboro",
+      "net_rank": 294,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Western Carolina",
+      "net_rank": 263,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Wofford",
+      "net_rank": 229,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Mercer",
+      "net_rank": 153,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Furman"
+}

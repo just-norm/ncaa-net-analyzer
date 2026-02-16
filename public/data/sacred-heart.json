@@ -1,0 +1,58 @@
+{
+  "slug": "sacred-heart",
+  "net_rank": "297",
+  "ap_rank": "NR",
+  "record": "12-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 2,
+      "L": 3
+    },
+    "Q4": {
+      "W": 10,
+      "L": 10
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Canisius",
+      "net_rank": 348,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Niagara",
+      "net_rank": 342,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Massachusetts-Lowell",
+      "net_rank": 323,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Manhattan",
+      "net_rank": 321,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fairfield",
+      "net_rank": 242,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Sacred Heart"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "byu",
+  "net_rank": "20",
+  "ap_rank": "22",
+  "record": "19-6",
+  "quad_records": {
+    "Q1": {
+      "W": 5,
+      "L": 6
+    },
+    "Q2": {
+      "W": 6,
+      "L": 0
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Villanova",
+      "net_rank": 30,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Clemson",
+      "net_rank": 32,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Wisconsin",
+      "net_rank": 33,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Miami (FL)",
+      "net_rank": 35,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "TCU",
+      "net_rank": 45,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "BYU"
+}

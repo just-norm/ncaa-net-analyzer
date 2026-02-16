@@ -1,0 +1,58 @@
+{
+  "slug": "west-virginia",
+  "net_rank": "54",
+  "ap_rank": "NR",
+  "record": "16-9",
+  "quad_records": {
+    "Q1": {
+      "W": 4,
+      "L": 6
+    },
+    "Q2": {
+      "W": 2,
+      "L": 3
+    },
+    "Q3": {
+      "W": 2,
+      "L": 0
+    },
+    "Q4": {
+      "W": 8,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Kansas",
+      "net_rank": 14,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "UCF",
+      "net_rank": 49,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Cincinnati",
+      "net_rank": 63,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Cincinnati",
+      "net_rank": 63,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Arizona State",
+      "net_rank": 71,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [],
+  "name": "West Virginia"
+}

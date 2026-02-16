@@ -1,0 +1,58 @@
+{
+  "slug": "fgcu",
+  "net_rank": "257",
+  "ap_rank": "NR",
+  "record": "12-15",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 1,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Bellarmine",
+      "net_rank": 288,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Eastern Kentucky",
+      "net_rank": 281,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Queens (NC)",
+      "net_rank": 205,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lipscomb",
+      "net_rank": 186,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lipscomb",
+      "net_rank": 186,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "FGCU"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "njit",
+  "net_rank": "301",
+  "ap_rank": "NR",
+  "record": "15-12",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 2,
+      "L": 2
+    },
+    "Q4": {
+      "W": 13,
+      "L": 6
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Maine",
+      "net_rank": 343,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Sacred Heart",
+      "net_rank": 297,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Fairfield",
+      "net_rank": 242,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Drexel",
+      "net_rank": 217,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Navy",
+      "net_rank": 150,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "NJIT"
+}

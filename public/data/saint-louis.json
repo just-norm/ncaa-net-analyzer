@@ -1,0 +1,46 @@
+{
+  "slug": "saint-louis",
+  "net_rank": "17",
+  "ap_rank": "18",
+  "record": "24-1",
+  "quad_records": {
+    "Q1": {
+      "W": 1,
+      "L": 0
+    },
+    "Q2": {
+      "W": 2,
+      "L": 1
+    },
+    "Q3": {
+      "W": 7,
+      "L": 0
+    },
+    "Q4": {
+      "W": 14,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Santa Clara",
+      "net_rank": 42,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Davidson",
+      "net_rank": 100,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Duquesne",
+      "net_rank": 116,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Saint Louis"
+}

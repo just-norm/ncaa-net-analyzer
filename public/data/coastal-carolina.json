@@ -1,0 +1,53 @@
+{
+  "slug": "coastal-carolina",
+  "net_rank": "221",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 0
+    },
+    "Q2": {
+      "W": 1,
+      "L": 1
+    },
+    "Q3": {
+      "W": 3,
+      "L": 1
+    },
+    "Q4": {
+      "W": 12,
+      "L": 9
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Winthrop",
+      "net_rank": 121,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "South Carolina Upstate",
+      "net_rank": 293,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Old Dominion",
+      "net_rank": 256,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "South Alabama",
+      "net_rank": 168,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Coastal Carolina"
+}

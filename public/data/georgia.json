@@ -1,0 +1,65 @@
+{
+  "slug": "georgia",
+  "net_rank": "39",
+  "ap_rank": "NR",
+  "record": "17-8",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 6
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Arkansas",
+      "net_rank": 18,
+      "location": "Home",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Auburn",
+      "net_rank": 34,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Cincinnati",
+      "net_rank": 63,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Missouri",
+      "net_rank": 66,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Louisiana State",
+      "net_rank": 67,
+      "location": "Away",
+      "quad": "Q1"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Mississippi",
+      "net_rank": 92,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Georgia"
+}

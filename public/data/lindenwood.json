@@ -1,0 +1,46 @@
+{
+  "slug": "lindenwood",
+  "net_rank": "240",
+  "ap_rank": "NR",
+  "record": "16-11",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 0
+    },
+    "Q3": {
+      "W": 0,
+      "L": 0
+    },
+    "Q4": {
+      "W": 16,
+      "L": 8
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Alabama A&M",
+      "net_rank": 311,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Little Rock",
+      "net_rank": 307,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee State",
+      "net_rank": 235,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "Lindenwood"
+}

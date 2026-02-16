@@ -6,6 +6,7 @@ Generates complete static site: home page + all team dashboards
 
 import sys
 import shutil
+import json
 from pathlib import Path
 
 # Add current directory to path
@@ -14,6 +15,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from generators.home_page_generator import generate_home_page
 from generators.dashboard_generator import generate_team_dashboard
 from generators.comparison_page_generator import generate_comparison_page
+from generators.comparison_generator import load_team_data
 from utils.team_config import load_teams
 
 
@@ -27,6 +29,7 @@ def clean_output_dir(output_dir='public'):
 
     output_path.mkdir(parents=True, exist_ok=True)
     (output_path / 'teams').mkdir(exist_ok=True)
+    (output_path / 'data').mkdir(exist_ok=True)
 
     print(f"✅ Output directory ready: {output_dir}/\n")
 
@@ -65,8 +68,8 @@ def build():
         print(f"❌ Failed to generate comparison page: {e}\n")
         return False
 
-    # Generate team dashboards
-    print(f"📊 Generating {len(active_teams)} team dashboards...")
+    # Generate team dashboards and JSON data
+    print(f"📊 Generating {len(active_teams)} team dashboards and JSON data...")
     print("-" * 60)
 
     successful = 0
@@ -77,10 +80,24 @@ def build():
         team_slug = team['slug']
 
         try:
+            # Generate dashboard HTML
             success = generate_team_dashboard(team_slug)
+
             if success:
-                print(f"  ✅ {team_name}")
-                successful += 1
+                # Also generate JSON data for comparison tool
+                try:
+                    team_data = load_team_data(team_slug)
+                    team_data['name'] = team_name  # Add team name for display
+
+                    json_path = Path('public') / 'data' / f'{team_slug}.json'
+                    with open(json_path, 'w') as f:
+                        json.dump(team_data, f, indent=2)
+
+                    print(f"  ✅ {team_name}")
+                    successful += 1
+                except Exception as json_error:
+                    print(f"  ⚠️  {team_name} (dashboard OK, JSON failed: {json_error})")
+                    successful += 1  # Still count as success since dashboard generated
             else:
                 print(f"  ⚠️  {team_name} (no data)")
                 failed.append(team_name)
@@ -111,6 +128,7 @@ def build():
     print(f"   - public/index.html (home page)")
     print(f"   - public/compare/ (team comparison)")
     print(f"   - public/teams/{{team}}/ ({successful} teams)")
+    print(f"   - public/data/{{team}}.json ({successful} JSON files)")
     print()
 
     # Test command

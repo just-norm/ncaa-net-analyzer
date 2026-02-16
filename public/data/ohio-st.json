@@ -1,0 +1,58 @@
+{
+  "slug": "ohio-st",
+  "net_rank": "38",
+  "ap_rank": "NR",
+  "record": "16-9",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 8
+    },
+    "Q2": {
+      "W": 5,
+      "L": 1
+    },
+    "Q3": {
+      "W": 5,
+      "L": 0
+    },
+    "Q4": {
+      "W": 6,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "UCLA",
+      "net_rank": 40,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Southern California",
+      "net_rank": 48,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "West Virginia",
+      "net_rank": 54,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Northwestern",
+      "net_rank": 78,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Oregon",
+      "net_rank": 107,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Ohio St."
+}

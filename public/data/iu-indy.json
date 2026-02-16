@@ -1,0 +1,58 @@
+{
+  "slug": "iu-indy",
+  "net_rank": "313",
+  "ap_rank": "NR",
+  "record": "7-21",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 1
+    },
+    "Q2": {
+      "W": 0,
+      "L": 2
+    },
+    "Q3": {
+      "W": 1,
+      "L": 3
+    },
+    "Q4": {
+      "W": 6,
+      "L": 15
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Air Force",
+      "net_rank": 346,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Purdue Fort Wayne",
+      "net_rank": 253,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Detroit Mercy",
+      "net_rank": 250,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Milwaukee",
+      "net_rank": 246,
+      "location": "Away",
+      "quad": "Q4"
+    }
+  ],
+  "name": "IU Indy"
+}

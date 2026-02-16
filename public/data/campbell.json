@@ -1,0 +1,53 @@
+{
+  "slug": "campbell",
+  "net_rank": "207",
+  "ap_rank": "NR",
+  "record": "12-14",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 4
+    },
+    "Q2": {
+      "W": 1,
+      "L": 3
+    },
+    "Q3": {
+      "W": 2,
+      "L": 1
+    },
+    "Q4": {
+      "W": 9,
+      "L": 6
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "William & Mary",
+      "net_rank": 114,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Stony Brook",
+      "net_rank": 212,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Monmouth",
+      "net_rank": 193,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Elon",
+      "net_rank": 192,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Campbell"
+}

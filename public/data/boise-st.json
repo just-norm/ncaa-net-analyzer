@@ -1,0 +1,65 @@
+{
+  "slug": "boise-st",
+  "net_rank": "60",
+  "ap_rank": "NR",
+  "record": "15-10",
+  "quad_records": {
+    "Q1": {
+      "W": 2,
+      "L": 5
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 1
+    },
+    "Q4": {
+      "W": 5,
+      "L": 3
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Saint Mary's (CA)",
+      "net_rank": 26,
+      "location": "Neutral",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "New Mexico",
+      "net_rank": 44,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "New Mexico",
+      "net_rank": 44,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Nevada",
+      "net_rank": 59,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Butler",
+      "net_rank": 80,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Grand Canyon",
+      "net_rank": 76,
+      "location": "Home",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Boise St."
+}

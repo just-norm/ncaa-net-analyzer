@@ -1,0 +1,65 @@
+{
+  "slug": "nc-state",
+  "net_rank": "29",
+  "ap_rank": "NR",
+  "record": "18-8",
+  "quad_records": {
+    "Q1": {
+      "W": 3,
+      "L": 5
+    },
+    "Q2": {
+      "W": 7,
+      "L": 2
+    },
+    "Q3": {
+      "W": 3,
+      "L": 0
+    },
+    "Q4": {
+      "W": 5,
+      "L": 1
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Clemson",
+      "net_rank": 32,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Southern Methodist",
+      "net_rank": 36,
+      "location": "Away",
+      "quad": "Q1"
+    },
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 56,
+      "location": "Home",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Boise State",
+      "net_rank": 59,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Wake Forest",
+      "net_rank": 64,
+      "location": "Home",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [
+    {
+      "opponent": "Georgia Tech",
+      "net_rank": 163,
+      "location": "Home",
+      "quad": "Q4"
+    }
+  ],
+  "name": "NC State"
+}

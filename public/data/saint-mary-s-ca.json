@@ -1,0 +1,52 @@
+{
+  "slug": "saint-mary-s-ca",
+  "net_rank": "26",
+  "ap_rank": "NR",
+  "record": "23-4",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 4,
+      "L": 1
+    },
+    "Q3": {
+      "W": 4,
+      "L": 0
+    },
+    "Q4": {
+      "W": 15,
+      "L": 0
+    }
+  },
+  "best_wins": [
+    {
+      "opponent": "Virginia Tech",
+      "net_rank": 56,
+      "location": "Neutral",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Davidson",
+      "net_rank": 100,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "Pacific",
+      "net_rank": 104,
+      "location": "Away",
+      "quad": "Q2"
+    },
+    {
+      "opponent": "San Francisco",
+      "net_rank": 125,
+      "location": "Away",
+      "quad": "Q2"
+    }
+  ],
+  "worst_losses": [],
+  "name": "Saint Mary's (CA)"
+}

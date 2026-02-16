@@ -1,0 +1,58 @@
+{
+  "slug": "eastern-ill",
+  "net_rank": "317",
+  "ap_rank": "NR",
+  "record": "11-16",
+  "quad_records": {
+    "Q1": {
+      "W": 0,
+      "L": 3
+    },
+    "Q2": {
+      "W": 0,
+      "L": 1
+    },
+    "Q3": {
+      "W": 0,
+      "L": 3
+    },
+    "Q4": {
+      "W": 11,
+      "L": 9
+    }
+  },
+  "best_wins": [],
+  "worst_losses": [
+    {
+      "opponent": "Little Rock",
+      "net_rank": 307,
+      "location": "Away",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Eastern Kentucky",
+      "net_rank": 281,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Lindenwood",
+      "net_rank": 240,
+      "location": "Home",
+      "quad": "Q4"
+    },
+    {
+      "opponent": "Tennessee State",
+      "net_rank": 235,
+      "location": "Away",
+      "quad": "Q3"
+    },
+    {
+      "opponent": "Central Arkansas",
+      "net_rank": 181,
+      "location": "Away",
+      "quad": "Q3"
+    }
+  ],
+  "name": "Eastern Ill."
+}

@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michigan Basketball - NET Rankings Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #00274C 0%, #FFCB05 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #00274C 0%, #FFCB05 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: #FFCB05;
+        }
+
+        .rankings-bar {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+        }
+
+        .ranking {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px 30px;
+            border-radius: 8px;
+            backdrop-filter: blur(10px);
+        }
+
+        .ranking-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        .ranking-value {
+            font-size: 2em;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #00274C;
+        }
+
+        .quad-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+            margin: -30px -30px 30px -30px;
+        }
+
+        .quad-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            border-left: 4px solid;
+        }
+
+        .quad-card.q1 { border-left-color: #d4af37; }
+        .quad-card.q2 { border-left-color: #c0c0c0; }
+        .quad-card.q3 { border-left-color: #cd7f32; }
+        .quad-card.q4 { border-left-color: #808080; }
+
+        .quad-card h3 {
+            font-size: 1.1em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .quad-record {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #00274C;
+            margin-bottom: 5px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        thead {
+            background: #00274C;
+            color: white;
+        }
+
+        th {
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        tr:hover {
+            background: #f8f9fa;
+        }
+
+        .win { background: #d4edda; }
+        .loss { background: #f8d7da; }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .badge.q1 { background: #d4af37; }
+        .badge.q2 { background: #c0c0c0; color: #333; }
+        .badge.q3 { background: #cd7f32; }
+        .badge.q4 { background: #808080; }
+
+        .net-rank {
+            background: #00274C;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .highlights {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 5px solid #00274C;
+        }
+
+        .highlights ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .highlights li {
+            padding: 8px 0;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Michigan</h1>
+            <div style="font-size: 1.2em; margin: 10px 0;">Record: <strong>24-1</strong> (14-1 Big Ten)</div>
+            <div class="rankings-bar">
+                <div class="ranking">
+                    <div class="ranking-label">NET Ranking</div>
+                    <div class="ranking-value">#1</div>
+                </div>
+                <div class="ranking">
+                    <div class="ranking-label">AP Poll</div>
+                    <div class="ranking-value">#2</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2 class="section-title">Quadrant Performance</h2>
+                <div class="quad-grid">
+        <div class="quad-card q1">
+            <h3>Quadrant 1 Wins</h3>
+            <div class="quad-record">9</div><div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+                NET Wins Avg: <strong>30.2</strong>
+            </div>
+            <div style="font-size: 0.9em; color: #666; margin-top: 4px;">
+                NET Wins Median: <strong>34</strong>
+            </div></div>
+        <div class="quad-card q2">
+            <h3>Quadrant 2 Wins</h3>
+            <div class="quad-record">9</div><div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+                NET Wins Avg: <strong>64.6</strong>
+            </div>
+            <div style="font-size: 0.9em; color: #666; margin-top: 4px;">
+                NET Wins Median: <strong>55</strong>
+            </div></div>
+        <div class="quad-card q3">
+            <h3>Quadrant 3 Wins</h3>
+            <div class="quad-record">3</div><div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+                NET Wins Avg: <strong>139.0</strong>
+            </div>
+            <div style="font-size: 0.9em; color: #666; margin-top: 4px;">
+                NET Wins Median: <strong>148</strong>
+            </div></div>
+        <div class="quad-card q4">
+            <h3>Quadrant 4 Wins</h3>
+            <div class="quad-record">3</div><div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+                NET Wins Avg: <strong>189.3</strong>
+            </div>
+            <div style="font-size: 0.9em; color: #666; margin-top: 4px;">
+                NET Wins Median: <strong>165</strong>
+            </div></div></div>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Resume Highlights</h2>
+                <div class="highlights"><ul style="line-height: 1.8;"><li><strong>Q1 Home Wins (2):</strong> Villanova (#30), Nebraska (#11)</li><li><strong>Q1 Road Wins (4):</strong> @ TCU (#45), @ Washington (#52), @ Michigan State (#15), @ Ohio State (#38)</li><li><strong>Q1 Neutral Wins (3):</strong> vs San Diego State (#41), vs Auburn (#34), vs Gonzaga (#6)</li><li><strong>Top Q2 Wins:</strong> vs Indiana (#31), vs Ohio State (#38), vs UCLA (#40)</li><li><strong>Losses:</strong> vs Wisconsin (#33)</li><li><strong>Remaining Q1 Opportunities:</strong> @ Purdue (#5), vs Duke (#2), @ Illinois (#7), @ Iowa (#27), vs Michigan State (#15)</li></ul></div>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Full Schedule Breakdown</h2>
+                <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Opponent</th>
+                <th>Location</th>
+                <th>Result</th>
+                <th>Score</th>
+                <th>Opp NET</th>
+                <th>Quadrant</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="win">
+                <td>Nov 3</td>
+                <td>Oakland</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>121-78</td>
+                <td><span class="net-rank">#148</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 11</td>
+                <td>Wake Forest</td>
+                <td>Neutral</td>
+                <td><strong>W</strong></td>
+                <td>85-84</td>
+                <td><span class="net-rank">#64</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 14</td>
+                <td>TCU</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>67-63</td>
+                <td><span class="net-rank">#45</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 19</td>
+                <td>Middle Tennessee</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>86-61</td>
+                <td><span class="net-rank">#161</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 24</td>
+                <td>San Diego State</td>
+                <td>Neutral</td>
+                <td><strong>W</strong></td>
+                <td>94-54</td>
+                <td><span class="net-rank">#41</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 25</td>
+                <td>Auburn</td>
+                <td>Neutral</td>
+                <td><strong>W</strong></td>
+                <td>102-72</td>
+                <td><span class="net-rank">#34</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 26</td>
+                <td>Gonzaga</td>
+                <td>Neutral</td>
+                <td><strong>W</strong></td>
+                <td>101-61</td>
+                <td><span class="net-rank">#6</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 6</td>
+                <td>Rutgers</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>101-60</td>
+                <td><span class="net-rank">#165</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 9</td>
+                <td>Villanova</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>89-61</td>
+                <td><span class="net-rank">#30</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 13</td>
+                <td>Maryland</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>101-83</td>
+                <td><span class="net-rank">#149</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 21</td>
+                <td>La Salle</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>102-50</td>
+                <td><span class="net-rank">#242</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 29</td>
+                <td>McNeese State</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>112-71</td>
+                <td><span class="net-rank">#55</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 2</td>
+                <td>Southern California</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>96-66</td>
+                <td><span class="net-rank">#48</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 6</td>
+                <td>Penn State</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>74-72</td>
+                <td><span class="net-rank">#120</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Jan 10</td>
+                <td>Wisconsin</td>
+                <td>Home</td>
+                <td><strong>L</strong></td>
+                <td>91-88</td>
+                <td><span class="net-rank">#33</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 14</td>
+                <td>Washington</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>82-72</td>
+                <td><span class="net-rank">#52</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 17</td>
+                <td>Oregon</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>81-71</td>
+                <td><span class="net-rank">#107</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 20</td>
+                <td>Indiana</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>86-72</td>
+                <td><span class="net-rank">#31</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 23</td>
+                <td>Ohio State</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>74-62</td>
+                <td><span class="net-rank">#38</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 27</td>
+                <td>Nebraska</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>75-72</td>
+                <td><span class="net-rank">#11</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 30</td>
+                <td>Michigan State</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>83-71</td>
+                <td><span class="net-rank">#15</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Feb 5</td>
+                <td>Penn State</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>110-69</td>
+                <td><span class="net-rank">#120</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="win">
+                <td>Feb 8</td>
+                <td>Ohio State</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>82-61</td>
+                <td><span class="net-rank">#38</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Feb 11</td>
+                <td>Northwestern</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>87-75</td>
+                <td><span class="net-rank">#78</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Feb 14</td>
+                <td>UCLA</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>86-56</td>
+                <td><span class="net-rank">#40</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr><tr style="background: #f0f8ff; border-top: 3px solid #00274C;">
+                <td colspan="7" style="text-align: center; font-weight: bold; padding: 10px;">
+                    UPCOMING GAMES
+                </td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 17</td>
+                <td>Purdue</td>
+                <td>Away</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#5</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 21</td>
+                <td>Duke</td>
+                <td>Neutral</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#2</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 24</td>
+                <td>Minnesota</td>
+                <td>Home</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#86</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 27</td>
+                <td>Illinois</td>
+                <td>Away</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#7</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Mar 5</td>
+                <td>Iowa</td>
+                <td>Away</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#27</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Mar 8</td>
+                <td>Michigan State</td>
+                <td>Home</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#15</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr></tbody></table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

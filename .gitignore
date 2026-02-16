@@ -1,5 +1,5 @@
 # Build output
-public/
+# public/ - Now committed for Vercel static deployment
 
 # Python
 __pycache__/

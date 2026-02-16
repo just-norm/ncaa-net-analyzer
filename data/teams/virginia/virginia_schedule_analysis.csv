@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Rider,Home,W,87-53,357,NR,Q4
+Nov 7,North Carolina Central,Home,W,81-62,339,NR,Q4
+Nov 11,Hampton,Home,W,91-53,256,NR,Q4
+Nov 15,Marshall,Home,W,104-78,150,NR,Q3
+Nov 21,Northwestern,Neutral,W,83-78,78,NR,Q2
+Nov 23,Butler,Neutral,L,80-73,74,NR,Q2
+Nov 28,Queens (NC),Home,W,94-69,206,NR,Q4
+Dec 3,Texas,Away,W,88-69,37,NR,Q1
+Dec 6,Dayton,Neutral,W,86-73,93,NR,Q2
+Dec 9,Maryland-Eastern Shore,Home,W,84-60,,NR,Q4
+Dec 20,Maryland,Home,W,80-72,149,NR,Q3
+Dec 22,American,Home,W,95-51,262,NR,Q4
+Dec 31,Virginia Tech,Away,L,95-85,56,NR,Q1
+Jan 3,NC State,Away,W,76-61,29,NR,Q1
+Jan 7,California,Home,W,84-60,60,NR,Q2
+Jan 10,Stanford,Home,W,70-55,70,NR,Q2
+Jan 13,Louisville,Away,W,79-70,12,NR,Q1
+Jan 17,Southern Methodist,Away,W,72-68,36,NR,Q1
+Jan 24,North Carolina,Home,L,85-80,25,NR,Q1
+Jan 27,Notre Dame,Away,W,100-97,87,NR,Q2
+Jan 31,Boston College,Away,W,73-66,153,NR,Q3
+Feb 3,Pittsburgh,Home,W,67-47,122,NR,Q3
+Feb 7,Syracuse,Home,W,72-59,69,NR,Q2
+Feb 10,Florida State,Away,W,61-58,82,NR,Q2
+Feb 14,Ohio State,Neutral,W,70-66,38,NR,Q1
+Feb 18,Georgia Tech,Away,TBD,,163,NR,Q3
+Feb 21,Miami (FL),Home,TBD,,35,NR,Q2
+Feb 24,NC State,Home,TBD,,29,NR,Q1
+Feb 28,Duke,Away,TBD,,2,NR,Q1
+Mar 3,Wake Forest,Home,TBD,,64,NR,Q2
+Mar 7,Virginia Tech,Home,TBD,,56,NR,Q2

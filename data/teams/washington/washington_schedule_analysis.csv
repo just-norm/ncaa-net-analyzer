@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Arkansas-Pine Bluff,Home,W,94-50,,NR,Q4
+Nov 6,Denver,Home,W,84-70,230,NR,Q4
+Nov 9,Baylor,Away,L,78-69,47,NR,Q1
+Nov 14,Washington State,Away,W,81-69,136,NR,Q3
+Nov 18,Southern,Home,W,99-93,281,NR,Q4
+Nov 27,Nevada,Neutral,W,83-66,58,NR,Q2
+Nov 28,Colorado,Neutral,L,81-68,73,NR,Q2
+Dec 3,UCLA,Home,L,82-80,40,NR,Q2
+Dec 6,Southern California,Away,W,84-76,48,NR,Q1
+Dec 13,Southern Utah,Home,W,105-69,283,NR,Q4
+Dec 19,Seattle,Away,L,70-66,,NR,Q4
+Dec 22,San Diego,Home,W,86-56,218,NR,Q4
+Dec 29,Utah,Home,W,74-65,126,NR,Q3
+Jan 4,Indiana,Away,L,90-80,31,NR,Q1
+Jan 7,Purdue,Away,L,81-73,5,NR,Q1
+Jan 11,Ohio State,Home,W,81-74,38,NR,Q2
+Jan 14,Michigan,Home,L,82-72,1,NR,Q1
+Jan 17,Michigan State,Home,L,80-63,15,NR,Q1
+Jan 21,Nebraska,Away,L,76-66,11,NR,Q1
+Jan 25,Oregon,Home,W,72-57,107,NR,Q3
+Jan 29,Illinois,Away,L,75-66,7,NR,Q1
+Jan 31,Northwestern,Away,W,76-62,78,NR,Q2
+Feb 4,Iowa,Home,L,84-74,27,NR,Q1
+Feb 7,UCLA,Away,L,77-73,40,NR,Q1
+Feb 11,Penn State,Home,L,63-60,120,NR,Q3
+Feb 14,Minnesota,Home,W,69-57,86,NR,Q3
+Feb 21,Maryland,Away,TBD,,149,NR,Q3
+Feb 24,Rutgers,Away,TBD,,165,NR,Q3
+Feb 28,Wisconsin,Home,TBD,,33,NR,Q2
+Mar 4,Southern California,Home,TBD,,48,NR,Q2
+Mar 7,Oregon,Away,TBD,,107,NR,Q2

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Wake Forest,Away,L,88-74,64,NR,Q1
+Nov 9,Pennsylvania,Home,W,84-78,,NR,Q4
+Nov 12,George Washington,Away,L,107-67,85,NR,Q2
+Nov 15,Central Pennsylvania College,Home,W,115-50,,NR,Q4
+Nov 18,Rutgers,Away,L,80-71,165,NR,Q3
+Nov 24,Marywood,Home,W,113-53,,NR,Q4
+Nov 28,Maine,Home,W,74-61,341,NR,Q4
+Nov 29,Siena,Home,L,59-55,193,NR,Q4
+Nov 30,Longwood,Home,W,92-66,272,NR,Q4
+Dec 3,Drexel,Home,W,75-73,219,NR,Q4
+Dec 6,Maryland-Eastern Shore,Home,W,78-60,,NR,Q4
+Dec 18,Virginia Commonwealth,Away,L,105-83,,NR,Q4
+Dec 22,Virginia,Away,L,95-51,19,NR,Q1
+Dec 31,Loyola (MD),Home,W,84-69,,NR,Q4
+Jan 3,Boston University,Away,W,64-62,153,NR,Q3
+Jan 7,Colgate,Away,L,64-62,202,NR,Q3
+Jan 10,Holy Cross,Home,L,84-73,322,NR,Q4
+Jan 12,Navy,Home,W,65-51,151,NR,Q3
+Jan 18,Army,Away,W,78-67,332,NR,Q4
+Jan 21,Colgate,Home,W,70-66,202,NR,Q4
+Jan 24,Holy Cross,Away,W,76-67,322,NR,Q4
+Jan 28,Loyola (MD),Away,L,77-68,,NR,Q4
+Jan 31,Lafayette,Home,L,67-65,326,NR,Q4
+Feb 4,Bucknell,Home,L,60-59,333,NR,Q4
+Feb 7,Navy,Away,L,82-73,151,NR,Q3
+Feb 11,Lehigh,Away,L,90-82,296,NR,Q4
+Feb 14,Army,Home,W,75-63,332,NR,Q4
+Feb 18,Bucknell,Away,TBD,,333,NR,Q4
+Feb 22,Lafayette,Away,TBD,,326,NR,Q4
+Feb 25,Lehigh,Home,TBD,,296,NR,Q4
+Feb 28,Boston University,Home,TBD,,153,NR,Q3

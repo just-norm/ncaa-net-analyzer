@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Lipscomb,Home,W,105-61,186,NR,Q4
+Nov 8,UCF,Away,W,105-93,49,NR,Q1
+Nov 12,Eastern Kentucky,Home,W,92-62,274,NR,Q4
+Nov 15,Arkansas-Pine Bluff,Home,W,104-75,,NR,Q4
+Nov 20,Texas Southern,Home,W,109-74,319,NR,Q4
+Nov 26,Western Kentucky,Neutral,W,83-78,176,NR,Q3
+Nov 27,Virginia Commonwealth,Neutral,W,89-74,,NR,Q4
+Nov 28,Saint Mary's (CA),Neutral,W,96-71,26,NR,Q1
+Dec 3,Southern Methodist,Home,W,88-69,36,NR,Q2
+Dec 13,Central Arkansas,Home,W,83-72,181,NR,Q4
+Dec 17,Memphis,Away,W,77-70,105,NR,Q2
+Dec 21,Wake Forest,Away,W,98-67,64,NR,Q1
+Dec 29,New Haven,Home,W,96-53,329,NR,Q4
+Jan 3,South Carolina,Away,W,83-71,112,NR,Q2
+Jan 7,Alabama,Home,W,96-90,21,NR,Q1
+Jan 10,Louisiana State,Home,W,84-73,67,NR,Q2
+Jan 14,Texas,Away,L,80-64,37,NR,Q1
+Jan 17,Florida,Home,L,98-94,9,NR,Q1
+Jan 20,Arkansas,Away,L,93-68,18,NR,Q1
+Jan 24,Mississippi State,Away,W,88-56,96,NR,Q2
+Jan 27,Kentucky,Home,W,80-55,28,NR,Q1
+Jan 31,Mississippi,Home,W,71-68,92,NR,Q3
+Feb 7,Oklahoma,Home,L,92-91,68,NR,Q2
+Feb 10,Auburn,Away,W,84-76,34,NR,Q1
+Feb 14,Texas A&M,Home,W,82-69,43,NR,Q2
+Feb 18,Missouri,Away,TBD,,66,NR,Q1
+Feb 21,Tennessee,Home,TBD,,22,NR,Q1
+Feb 25,Georgia,Home,TBD,,39,NR,Q2
+Feb 28,Kentucky,Away,TBD,,28,NR,Q1
+Mar 3,Mississippi,Away,TBD,,92,NR,Q2
+Mar 7,Tennessee,Away,TBD,,22,NR,Q1

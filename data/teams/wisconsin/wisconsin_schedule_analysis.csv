@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Campbell,Home,W,96-64,207,NR,Q4
+Nov 7,Northern Illinois,Home,W,97-72,,NR,Q4
+Nov 11,Ball State,Home,W,86-55,,NR,Q4
+Nov 17,Southern Illinois-Edwardsville,Home,W,94-69,,NR,Q4
+Nov 21,Brigham Young,Neutral,L,98-70,20,NR,Q1
+Nov 27,Providence,Neutral,W,104-83,80,NR,Q2
+Nov 28,TCU,Neutral,L,74-63,45,NR,Q1
+Dec 3,Northwestern,Home,W,85-73,78,NR,Q3
+Dec 6,Marquette,Home,W,96-76,109,NR,Q3
+Dec 10,Nebraska,Away,L,90-60,11,NR,Q1
+Dec 19,Villanova,Neutral,L,76-66,30,NR,Q1
+Dec 22,Central Michigan,Home,W,88-61,,NR,Q4
+Dec 30,Milwaukee,Home,W,80-60,251,NR,Q4
+Jan 3,Purdue,Home,L,89-73,5,NR,Q1
+Jan 6,UCLA,Home,W,80-72,40,NR,Q2
+Jan 10,Michigan,Away,W,91-88,1,NR,Q1
+Jan 13,Minnesota,Away,W,78-75,86,NR,Q2
+Jan 17,Rutgers,Home,W,96-87,165,NR,Q4
+Jan 22,Penn State,Away,W,98-71,120,NR,Q2
+Jan 25,Southern California,Home,L,73-71,48,NR,Q2
+Jan 28,Minnesota,Home,W,67-63,86,NR,Q3
+Jan 31,Ohio State,Home,W,92-82,38,NR,Q2
+Feb 7,Indiana,Away,L,78-77,31,NR,Q1
+Feb 10,Illinois,Away,W,92-90,7,NR,Q1
+Feb 13,Michigan State,Home,W,92-71,15,NR,Q1
+Feb 17,Ohio State,Away,TBD,,38,NR,Q1
+Feb 22,Iowa,Home,TBD,,27,NR,Q1
+Feb 25,Oregon,Away,TBD,,107,NR,Q2
+Feb 28,Washington,Away,TBD,,52,NR,Q1
+Mar 4,Maryland,Home,TBD,,149,NR,Q3
+Mar 7,Purdue,Away,TBD,,5,NR,Q1

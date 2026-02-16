@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,St. Thomas,Home,W,84-58,,NR,Q4
+Nov 7,Chattanooga,Home,W,87-66,300,NR,Q4
+Nov 11,Ohio,Home,W,90-60,213,NR,Q4
+Nov 14,North Texas,Home,W,80-49,152,NR,Q3
+Nov 19,Arkansas State,Home,W,85-72,,NR,Q4
+Nov 22,UC Merced,Home,W,96-42,,NR,Q4
+Nov 26,Wichita State,Neutral,W,70-65,,NR,Q4
+Nov 27,Virginia Tech,Neutral,W,77-66,56,NR,Q2
+Nov 28,Vanderbilt,Neutral,L,96-71,13,NR,Q1
+Dec 7,Davidson,Away,W,70-61,100,NR,Q2
+Dec 14,Boise State,Neutral,L,68-67,59,NR,Q2
+Dec 19,Florida Atlantic,Home,W,88-75,,NR,Q4
+Dec 22,Northern Iowa,Home,W,63-58,,NR,Q4
+Dec 28,Loyola Marymount,Away,W,78-73,,NR,Q4
+Dec 30,Pepperdine,Away,W,72-45,284,NR,Q4
+Jan 2,Portland,Home,W,78-57,208,NR,Q4
+Jan 4,Seattle,Home,W,93-76,,NR,Q4
+Jan 10,Washington State,Home,W,88-82,136,NR,Q3
+Jan 13,San Francisco,Away,W,82-68,125,NR,Q2
+Jan 17,Santa Clara,Away,L,62-54,42,NR,Q1
+Jan 21,Oregon State,Home,W,81-51,183,NR,Q4
+Jan 24,Portland,Away,W,75-69,208,NR,Q3
+Jan 31,Gonzaga,Away,L,73-65,6,NR,Q1
+Feb 4,San Diego,Home,W,87-60,218,NR,Q4
+Feb 7,San Francisco,Home,W,79-54,125,NR,Q3
+Feb 11,Pepperdine,Home,W,88-60,284,NR,Q4
+Feb 14,Pacific,Away,W,72-61,104,NR,Q2
+Feb 18,Seattle,Away,TBD,,,NR,Q4
+Feb 21,Washington State,Away,TBD,,136,NR,Q3
+Feb 25,Santa Clara,Home,TBD,,42,NR,Q2
+Feb 28,Gonzaga,Home,TBD,,6,NR,Q1

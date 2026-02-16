@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Robert Morris,Home,W,101-69,185,NR,Q4
+Nov 7,Western Illinois,Home,W,77-58,,NR,Q4
+Nov 14,Xavier,Home,W,81-62,98,NR,Q3
+Nov 18,Southeast Missouri State,Home,W,99-70,,NR,Q4
+Nov 20,Chicago State,Home,W,93-54,,NR,Q4
+Nov 25,Mississippi,Neutral,W,74-69,92,NR,Q2
+Nov 26,Grand Canyon,Neutral,W,59-46,76,NR,Q2
+Dec 2,Michigan State,Away,L,71-52,15,NR,Q1
+Dec 6,Maryland,Home,W,83-64,149,NR,Q3
+Dec 11,Iowa State,Away,L,66-62,8,NR,Q1
+Dec 14,Western Michigan,Home,W,91-51,,NR,Q4
+Dec 20,Bucknell,Neutral,W,94-39,333,NR,Q4
+Dec 29,Massachusetts-Lowell,Home,W,90-62,323,NR,Q4
+Jan 3,UCLA,Home,W,74-61,40,NR,Q2
+Jan 6,Minnesota,Away,L,70-67,86,NR,Q2
+Jan 11,Illinois,Home,L,75-69,7,NR,Q1
+Jan 14,Purdue,Away,L,79-72,5,NR,Q1
+Jan 17,Indiana,Away,W,74-57,31,NR,Q1
+Jan 20,Rutgers,Home,W,68-62,165,NR,Q4
+Jan 28,Southern California,Home,W,73-72,48,NR,Q2
+Feb 1,Oregon,Away,W,84-66,107,NR,Q2
+Feb 4,Washington,Away,W,84-74,52,NR,Q1
+Feb 8,Northwestern,Home,W,76-70,78,NR,Q3
+Feb 11,Maryland,Away,L,77-70,149,NR,Q3
+Feb 14,Purdue,Home,L,78-57,5,NR,Q1
+Feb 17,Nebraska,Home,TBD,,11,NR,Q1
+Feb 22,Wisconsin,Away,TBD,,33,NR,Q1
+Feb 25,Ohio State,Home,TBD,,38,NR,Q2
+Feb 28,Penn State,Away,TBD,,120,NR,Q2
+Mar 5,Michigan,Home,TBD,,1,NR,Q1
+Mar 8,Nebraska,Away,TBD,,11,NR,Q1

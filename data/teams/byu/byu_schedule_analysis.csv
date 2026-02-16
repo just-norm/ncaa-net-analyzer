@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Villanova,Neutral,W,71-66,30,NR,Q1
+Nov 8,Holy Cross,Home,W,98-53,322,NR,Q4
+Nov 11,Delaware,Home,W,85-68,267,NR,Q4
+Nov 15,Connecticut,Neutral,L,86-84,10,NR,Q1
+Nov 21,Wisconsin,Neutral,W,98-70,33,NR,Q1
+Nov 27,Miami (FL),Neutral,W,72-62,35,NR,Q1
+Nov 28,Dayton,Neutral,W,83-79,93,NR,Q2
+Dec 3,California Baptist,Neutral,W,91-60,111,NR,Q3
+Dec 9,Clemson,Neutral,W,67-64,32,NR,Q1
+Dec 13,UC Riverside,Home,W,100-53,290,NR,Q4
+Dec 16,Pacific,Home,W,93-57,104,NR,Q3
+Dec 19,Abilene Christian,Home,W,85-67,233,NR,Q4
+Dec 22,Eastern Washington,Home,W,109-81,,NR,Q4
+Jan 3,Kansas State,Away,W,83-73,101,NR,Q2
+Jan 7,Arizona State,Home,W,104-76,71,NR,Q2
+Jan 10,Utah,Away,W,89-84,126,NR,Q2
+Jan 14,TCU,Home,W,76-70,45,NR,Q2
+Jan 17,Texas Tech,Away,L,84-71,16,NR,Q1
+Jan 24,Utah,Home,W,91-78,126,NR,Q3
+Jan 26,Arizona,Home,L,86-83,3,NR,Q1
+Jan 31,Kansas,Away,L,90-82,14,NR,Q1
+Feb 4,Oklahoma State,Away,L,99-92,72,NR,Q1
+Feb 7,Houston,Home,L,77-66,4,NR,Q1
+Feb 10,Baylor,Away,W,99-94,47,NR,Q1
+Feb 14,Colorado,Home,W,90-86,73,NR,Q2
+Feb 18,Arizona,Away,TBD,,3,NR,Q1
+Feb 21,Iowa State,Home,TBD,,8,NR,Q1
+Feb 24,UCF,Home,TBD,,49,NR,Q2
+Feb 28,West Virginia,Away,TBD,,54,NR,Q1
+Mar 3,Cincinnati,Away,TBD,,63,NR,Q1
+Mar 7,Texas Tech,Home,TBD,,16,NR,Q1

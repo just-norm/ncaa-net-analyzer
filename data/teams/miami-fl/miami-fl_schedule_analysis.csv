@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Jacksonville,Home,W,86-69,306,NR,Q4
+Nov 6,Bethune-Cookman,Home,W,101-61,250,NR,Q4
+Nov 10,Stetson,Home,W,102-61,327,NR,Q4
+Nov 16,Florida,Neutral,L,82-68,9,NR,Q1
+Nov 20,Elon,Home,W,99-72,190,NR,Q4
+Nov 23,Delaware State,Home,W,97-41,,NR,Q4
+Nov 27,Brigham Young,Neutral,L,72-62,20,NR,Q1
+Nov 28,Georgetown,Neutral,W,78-65,91,NR,Q2
+Dec 2,Mississippi,Away,W,75-66,92,NR,Q2
+Dec 6,Southern Mississippi,Home,W,88-64,,NR,Q4
+Dec 13,Louisiana-Monroe,Home,W,104-79,,NR,Q4
+Dec 16,Florida International,Home,W,98-81,,NR,Q4
+Dec 21,North Florida,Home,W,105-67,337,NR,Q4
+Dec 30,Pittsburgh,Home,W,76-69,122,NR,Q3
+Jan 7,Wake Forest,Away,W,81-77,64,NR,Q1
+Jan 10,Georgia Tech,Home,W,91-81,163,NR,Q4
+Jan 13,Notre Dame,Away,W,81-69,87,NR,Q2
+Jan 17,Clemson,Away,L,69-59,32,NR,Q1
+Jan 20,Florida State,Home,L,65-63,82,NR,Q3
+Jan 24,Syracuse,Away,W,85-76,69,NR,Q1
+Jan 28,Stanford,Home,W,79-70,70,NR,Q2
+Jan 31,California,Home,L,86-85,60,NR,Q2
+Feb 7,Boston College,Away,W,74-68,153,NR,Q3
+Feb 10,North Carolina,Home,W,75-66,25,NR,Q1
+Feb 14,NC State,Away,W,77-76,29,NR,Q1
+Feb 17,Virginia Tech,Home,TBD,,56,NR,Q2
+Feb 21,Virginia,Away,TBD,,19,NR,Q1
+Feb 24,Florida State,Away,TBD,,82,NR,Q2
+Feb 28,Boston College,Home,TBD,,153,NR,Q3
+Mar 4,Southern Methodist,Away,TBD,,36,NR,Q1
+Mar 7,Louisville,Home,TBD,,12,NR,Q1

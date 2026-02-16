@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,West Georgia,Home,W,86-53,,NR,Q4
+Nov 8,Florida International,Home,W,96-66,,NR,Q4
+Nov 11,Maryland-Eastern Shore,Home,W,69-50,,NR,Q4
+Nov 15,Oklahoma,Neutral,W,105-99,68,NR,Q2
+Nov 20,New Mexico,Neutral,W,84-72,44,NR,Q1
+Nov 21,Kansas State,Neutral,W,86-85,101,NR,Q3
+Nov 25,Winthrop,Home,W,80-73,121,NR,Q3
+Nov 29,South Carolina Upstate,Home,W,72-63,293,NR,Q4
+Dec 7,Creighton,Home,W,71-50,81,NR,Q3
+Dec 10,Wisconsin,Home,W,90-60,33,NR,Q2
+Dec 13,Illinois,Away,W,83-80,7,NR,Q1
+Dec 21,North Dakota,Home,W,78-55,275,NR,Q4
+Dec 30,New Hampshire,Home,W,86-55,334,NR,Q4
+Jan 2,Michigan State,Home,W,58-56,15,NR,Q1
+Jan 5,Ohio State,Away,W,72-69,38,NR,Q1
+Jan 10,Indiana,Away,W,83-77,31,NR,Q1
+Jan 13,Oregon,Home,W,90-55,107,NR,Q3
+Jan 17,Northwestern,Away,W,77-58,78,NR,Q2
+Jan 21,Washington,Home,W,76-66,52,NR,Q2
+Jan 24,Minnesota,Away,W,76-57,86,NR,Q2
+Jan 27,Michigan,Away,L,75-72,1,NR,Q1
+Feb 1,Illinois,Home,L,78-69,7,NR,Q1
+Feb 7,Rutgers,Away,W,80-68,165,NR,Q3
+Feb 10,Purdue,Home,L,80-77,5,NR,Q1
+Feb 14,Northwestern,Home,W,68-49,78,NR,Q3
+Feb 17,Iowa,Away,TBD,,27,NR,Q1
+Feb 21,Penn State,Home,TBD,,120,NR,Q3
+Feb 25,Maryland,Home,TBD,,149,NR,Q3
+Feb 28,Southern California,Away,TBD,,48,NR,Q1
+Mar 3,UCLA,Away,TBD,,40,NR,Q1
+Mar 8,Iowa,Home,TBD,,27,NR,Q1

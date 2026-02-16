@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Auburn,Away,L,95-90,34,NR,Q1
+Nov 6,Miami (FL),Away,L,101-61,35,NR,Q1
+Nov 11,Coastal Georgia,Home,W,101-60,,NR,Q4
+Nov 15,Dayton,Away,L,91-82,93,NR,Q2
+Nov 19,Ohio,Away,W,76-73,213,NR,Q3
+Nov 24,Jacksonville,Neutral,L,69-64,306,NR,Q4
+Nov 25,Stony Brook,Neutral,L,61-54,212,NR,Q4
+Nov 29,Indiana,Away,L,100-56,31,NR,Q1
+Dec 5,South Carolina State,Home,W,80-59,358,NR,Q4
+Dec 14,Missouri,Away,L,82-60,66,NR,Q1
+Dec 17,Saint Louis,Away,L,112-53,17,NR,Q1
+Dec 22,Arizona,Away,L,107-71,3,NR,Q1
+Dec 29,Oklahoma State,Away,L,103-77,72,NR,Q1
+Jan 3,Florida A&M,Home,W,87-83,336,NR,Q4
+Jan 10,Grambling,Home,W,74-65,276,NR,Q4
+Jan 12,Southern,Home,L,77-73,281,NR,Q4
+Jan 17,Mississippi Valley State,Away,W,79-63,,NR,Q4
+Jan 19,Arkansas-Pine Bluff,Away,W,87-82,,NR,Q4
+Jan 24,Jackson State,Home,W,85-48,347,NR,Q4
+Jan 26,Alcorn State,Home,W,82-73,,NR,Q4
+Jan 31,Alabama State,Away,W,69-54,,NR,Q4
+Feb 2,Alabama A&M,Away,W,80-62,311,NR,Q4
+Feb 7,Prairie View,Home,W,82-76,330,NR,Q4
+Feb 9,Texas Southern,Home,W,79-69,319,NR,Q4
+Feb 14,Alcorn State,Away,L,57-55,,NR,Q4
+Feb 16,Jackson State,Away,TBD,,347,NR,Q4
+Feb 19,Alabama State,Home,TBD,,,NR,Q4
+Feb 21,Alabama A&M,Home,TBD,,311,NR,Q4
+Feb 26,Grambling,Away,TBD,,276,NR,Q4
+Feb 28,Southern,Away,TBD,,281,NR,Q4
+Mar 5,Florida A&M,Away,TBD,,336,NR,Q4

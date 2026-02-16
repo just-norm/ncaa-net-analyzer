@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Bellarmine,Home,W,104-59,288,NR,Q4
+Nov 5,Maryland-Eastern Shore,Home,W,94-29,,NR,Q4
+Nov 9,Morehead State,Home,W,120-81,,NR,Q4
+Nov 14,Georgia Tech,Home,W,92-87,163,NR,Q4
+Nov 17,Florida A&M,Home,W,87-57,336,NR,Q4
+Nov 21,Xavier,Neutral,W,78-77,98,NR,Q2
+Nov 23,Clemson,Neutral,L,97-94,32,NR,Q1
+Nov 29,Tennessee Tech,Home,W,123-81,315,NR,Q4
+Dec 2,Florida State,Away,W,107-73,82,NR,Q2
+Dec 13,Cincinnati,Neutral,W,84-65,63,NR,Q2
+Dec 18,Western Carolina,Home,W,112-82,263,NR,Q4
+Dec 22,West Georgia,Home,W,103-74,,NR,Q4
+Dec 29,Long Island University,Home,W,89-74,195,NR,Q4
+Jan 3,Auburn,Home,W,104-100,34,NR,Q2
+Jan 6,Florida,Away,L,92-77,9,NR,Q1
+Jan 10,South Carolina,Away,W,75-70,112,NR,Q2
+Jan 14,Mississippi,Home,L,97-95,92,NR,Q3
+Jan 17,Arkansas,Home,W,90-76,18,NR,Q1
+Jan 20,Missouri,Away,W,74-72,66,NR,Q1
+Jan 24,Texas,Away,L,87-67,37,NR,Q1
+Jan 28,Tennessee,Home,L,86-85,22,NR,Q1
+Jan 31,Texas A&M,Home,L,92-77,43,NR,Q2
+Feb 7,Louisiana State,Away,W,83-71,67,NR,Q1
+Feb 11,Florida,Home,L,86-66,9,NR,Q1
+Feb 14,Oklahoma,Away,L,94-78,68,NR,Q1
+Feb 17,Kentucky,Away,TBD,,28,NR,Q1
+Feb 21,Texas,Home,TBD,,37,NR,Q2
+Feb 25,Vanderbilt,Away,TBD,,13,NR,Q1
+Feb 28,South Carolina,Home,TBD,,112,NR,Q3
+Mar 3,Alabama,Home,TBD,,21,NR,Q1
+Mar 7,Mississippi State,Away,TBD,,96,NR,Q2

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Eastern Washington,Home,W,80-74,,NR,Q4
+Nov 7,Pepperdine,Home,W,74-63,284,NR,Q4
+Nov 10,West Georgia,Home,W,83-62,,NR,Q4
+Nov 14,Arizona,Neutral,L,69-65,3,NR,Q1
+Nov 18,Sacramento State,Home,W,79-48,,NR,Q4
+Nov 21,Presbyterian,Home,W,86-46,271,NR,Q4
+Nov 25,California,Neutral,L,80-72,60,NR,Q2
+Dec 3,Washington,Away,W,82-80,52,NR,Q1
+Dec 6,Oregon,Home,W,74-63,107,NR,Q3
+Dec 13,Gonzaga,Neutral,L,82-72,6,NR,Q1
+Dec 17,Arizona State,Home,W,90-77,71,NR,Q2
+Dec 19,Cal Poly,Home,W,108-87,238,NR,Q4
+Dec 23,UC Riverside,Home,W,97-65,290,NR,Q4
+Jan 3,Iowa,Away,L,74-61,27,NR,Q1
+Jan 6,Wisconsin,Away,L,80-72,33,NR,Q1
+Jan 10,Maryland,Home,W,67-55,149,NR,Q3
+Jan 14,Penn State,Away,W,71-60,120,NR,Q2
+Jan 17,Ohio State,Away,L,86-74,38,NR,Q1
+Jan 20,Purdue,Home,W,69-67,5,NR,Q1
+Jan 24,Northwestern,Home,W,71-64,78,NR,Q3
+Jan 28,Oregon,Away,W,73-57,107,NR,Q2
+Jan 31,Indiana,Home,L,98-97,31,NR,Q2
+Feb 3,Rutgers,Home,W,98-66,165,NR,Q4
+Feb 7,Washington,Home,W,77-73,52,NR,Q2
+Feb 14,Michigan,Away,L,86-56,1,NR,Q1
+Feb 17,Michigan State,Away,TBD,,15,NR,Q1
+Feb 21,Illinois,Home,TBD,,7,NR,Q1
+Feb 24,Southern California,Home,TBD,,48,NR,Q2
+Feb 28,Minnesota,Away,TBD,,86,NR,Q2
+Mar 3,Nebraska,Home,TBD,,11,NR,Q1
+Mar 7,Southern California,Away,TBD,,48,NR,Q1

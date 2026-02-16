@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Cal State Bakersfield,Home,W,87-60,,NR,Q4
+Nov 6,Wright State,Home,W,77-67,,NR,Q4
+Nov 10,Cal State Fullerton,Home,W,93-65,,NR,Q4
+Nov 13,Kansas State,Away,L,99-96,101,NR,Q2
+Nov 18,Presbyterian,Home,W,67-57,271,NR,Q4
+Nov 21,Sacramento State,Home,W,91-67,,NR,Q4
+Nov 25,UCLA,Neutral,W,80-72,40,NR,Q1
+Dec 2,Utah,Home,W,79-72,126,NR,Q3
+Dec 6,Pacific,Home,W,67-61,104,NR,Q3
+Dec 9,Dominican (CA),Home,W,93-71,,NR,Q4
+Dec 13,Northwestern State,Home,W,79-70,,NR,Q4
+Dec 19,Morgan State,Home,W,97-50,,NR,Q4
+Dec 21,Columbia,Home,W,74-56,180,NR,Q4
+Dec 30,Louisville,Home,L,90-70,12,NR,Q1
+Jan 2,Notre Dame,Home,W,72-71,87,NR,Q3
+Jan 7,Virginia,Away,L,84-60,19,NR,Q1
+Jan 10,Virginia Tech,Away,L,78-75,56,NR,Q1
+Jan 14,Duke,Home,L,71-56,2,NR,Q1
+Jan 17,North Carolina,Home,W,84-78,25,NR,Q1
+Jan 24,Stanford,Away,W,78-66,70,NR,Q1
+Jan 28,Florida State,Away,L,63-61,82,NR,Q2
+Jan 31,Miami (FL),Away,W,86-85,35,NR,Q1
+Feb 4,Georgia Tech,Home,W,90-85,163,NR,Q4
+Feb 7,Clemson,Home,L,77-55,32,NR,Q2
+Feb 11,Syracuse,Away,L,107-100,69,NR,Q1
+Feb 14,Boston College,Away,W,86-75,153,NR,Q3
+Feb 21,Stanford,Home,TBD,,70,NR,Q2
+Feb 25,Southern Methodist,Home,TBD,,36,NR,Q2
+Feb 28,Pittsburgh,Home,TBD,,122,NR,Q3
+Mar 4,Georgia Tech,Away,TBD,,163,NR,Q3
+Mar 7,Wake Forest,Away,TBD,,64,NR,Q1

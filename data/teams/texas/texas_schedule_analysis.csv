@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Duke,Neutral,L,75-60,2,NR,Q1
+Nov 8,Lafayette,Home,W,97-60,326,NR,Q4
+Nov 12,FDU,Home,W,93-58,328,NR,Q4
+Nov 15,Kansas City,Home,W,71-55,355,NR,Q4
+Nov 18,Rider,Home,W,99-65,357,NR,Q4
+Nov 24,Arizona State,Neutral,L,87-86,71,NR,Q2
+Nov 25,Chaminade,Neutral,W,119-78,,NR,Q4
+Nov 26,NC State,Neutral,W,102-97,29,NR,Q1
+Dec 3,Virginia,Home,L,88-69,19,NR,Q1
+Dec 8,Southern,Home,W,95-69,281,NR,Q4
+Dec 12,Connecticut,Away,L,71-63,10,NR,Q1
+Dec 16,Le Moyne,Home,W,95-53,280,NR,Q4
+Dec 22,Maryland-Eastern Shore,Home,W,94-71,,NR,Q4
+Jan 3,Mississippi State,Home,L,101-98,96,NR,Q3
+Jan 6,Tennessee,Away,L,85-71,22,NR,Q1
+Jan 10,Alabama,Away,W,92-88,21,NR,Q1
+Jan 14,Vanderbilt,Home,W,80-64,13,NR,Q1
+Jan 17,Texas A&M,Home,L,74-70,43,NR,Q2
+Jan 21,Kentucky,Away,L,85-80,28,NR,Q1
+Jan 24,Georgia,Home,W,87-67,39,NR,Q2
+Jan 28,Auburn,Away,L,88-82,34,NR,Q1
+Jan 31,Oklahoma,Away,W,79-69,68,NR,Q1
+Feb 3,South Carolina,Home,W,84-75,112,NR,Q3
+Feb 7,Mississippi,Home,W,79-68,92,NR,Q3
+Feb 14,Missouri,Away,W,85-68,66,NR,Q1
+Feb 17,Louisiana State,Home,TBD,,67,NR,Q2
+Feb 21,Georgia,Away,TBD,,39,NR,Q1
+Feb 25,Florida,Home,TBD,,9,NR,Q1
+Feb 28,Texas A&M,Away,TBD,,43,NR,Q1
+Mar 4,Arkansas,Away,TBD,,18,NR,Q1
+Mar 7,Oklahoma,Home,TBD,,68,NR,Q2

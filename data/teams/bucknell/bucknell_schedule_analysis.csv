@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Delaware,Home,W,78-70,267,NR,Q4
+Nov 7,Mount St. Mary's,Away,W,73-62,299,NR,Q4
+Nov 11,Princeton,Away,L,73-63,252,NR,Q4
+Nov 14,Hofstra,Home,L,83-77,103,NR,Q3
+Nov 17,Pittsburgh,Away,L,84-50,122,NR,Q2
+Nov 20,St. John's (NY),Away,L,97-49,24,NR,Q1
+Nov 24,Bowling Green,Neutral,L,71-66,140,NR,Q3
+Nov 26,Buffalo,Neutral,L,73-71,177,NR,Q3
+Nov 30,Cornell,Home,L,101-72,146,NR,Q3
+Dec 3,Akron,Away,L,97-77,62,NR,Q1
+Dec 6,Maryland-Baltimore County,Home,L,73-66,,NR,Q4
+Dec 9,Rider,Away,W,51-38,357,NR,Q4
+Dec 20,Iowa,Neutral,L,94-39,27,NR,Q1
+Dec 31,Holy Cross,Away,L,65-58,322,NR,Q4
+Jan 3,Lehigh,Home,W,72-65,296,NR,Q4
+Jan 7,Navy,Away,L,76-55,151,NR,Q3
+Jan 10,Loyola (MD),Home,W,70-67,,NR,Q4
+Jan 14,Lafayette,Home,W,76-69,326,NR,Q4
+Jan 17,Colgate,Away,L,95-76,202,NR,Q3
+Jan 21,Army,Home,L,87-84,332,NR,Q4
+Jan 24,Loyola (MD),Away,L,67-62,,NR,Q4
+Jan 28,Lafayette,Away,L,81-79,326,NR,Q4
+Jan 31,Boston University,Home,W,103-97,153,NR,Q3
+Feb 4,American,Away,W,60-59,262,NR,Q4
+Feb 7,Colgate,Home,L,78-59,202,NR,Q4
+Feb 9,Navy,Home,L,76-60,151,NR,Q3
+Feb 14,Boston University,Away,L,82-69,153,NR,Q3
+Feb 18,American,Home,TBD,,262,NR,Q4
+Feb 22,Holy Cross,Home,TBD,,322,NR,Q4
+Feb 25,Army,Away,TBD,,332,NR,Q4
+Feb 28,Lehigh,Away,TBD,,296,NR,Q4

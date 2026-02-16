@@ -1,0 +1,29 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 7,Navy,Away,W,97-68,151,NR,Q3
+Nov 11,Quinnipiac,Away,W,97-60,197,NR,Q3
+Nov 15,Stony Brook,Home,W,86-79,212,NR,Q4
+Nov 18,Rhode Island,Home,L,86-77,135,NR,Q3
+Nov 21,Green Bay,Neutral,W,73-67,221,NR,Q4
+Nov 23,College of Charleston,Neutral,W,74-63,,NR,Q4
+Nov 24,Akron,Neutral,W,97-94,62,NR,Q2
+Nov 30,Vermont,Away,W,77-74,215,NR,Q3
+Dec 2,SUNY Maritime,Home,W,117-53,,NR,Q4
+Dec 3,Brandeis,Home,W,79-61,,NR,Q4
+Dec 7,Illinois-Chicago,Home,W,80-66,,NR,Q4
+Dec 10,Albany (NY),Neutral,W,93-82,,NR,Q4
+Dec 29,Alabama,Away,L,102-78,21,NR,Q1
+Jan 5,Brown,Away,W,70-53,285,NR,Q4
+Jan 10,Princeton,Away,L,76-60,252,NR,Q4
+Jan 17,Cornell,Home,W,102-68,146,NR,Q3
+Jan 19,Columbia,Home,W,91-74,180,NR,Q4
+Jan 24,Pennsylvania,Away,W,77-60,,NR,Q4
+Jan 30,Dartmouth,Home,W,83-68,248,NR,Q4
+Jan 31,Harvard,Home,L,67-65,160,NR,Q3
+Feb 6,Brown,Home,W,81-69,285,NR,Q4
+Feb 9,Howard,Away,W,87-81,229,NR,Q3
+Feb 13,Dartmouth,Away,W,83-70,248,NR,Q4
+Feb 14,Harvard,Away,W,76-75,160,NR,Q3
+Feb 21,Pennsylvania,Home,TBD,,,NR,Q4
+Feb 27,Cornell,Away,TBD,,146,NR,Q3
+Feb 28,Columbia,Away,TBD,,180,NR,Q3
+Mar 7,Princeton,Home,TBD,,252,NR,Q4

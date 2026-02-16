@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Oklahoma Christian,Home,W,100-57,,NR,Q4
+Nov 7,Rhode Island,Neutral,W,82-65,135,NR,Q3
+Nov 12,Oral Roberts,Away,W,88-87,335,NR,Q4
+Nov 17,Kansas State,Away,L,84-83,101,NR,Q2
+Nov 21,Austin Peay,Home,W,84-75,134,NR,Q3
+Nov 25,San Jose State,Neutral,W,81-51,266,NR,Q4
+Nov 26,Northern Iowa,Neutral,W,63-60,,NR,Q4
+Dec 2,Manhattan Christian,Home,W,111-60,,NR,Q4
+Dec 6,Missouri State,Home,W,98-74,,NR,Q4
+Dec 10,Arkansas-Pine Bluff,Home,W,117-84,,NR,Q4
+Dec 13,New Mexico State,Neutral,W,83-70,173,NR,Q3
+Dec 19,Western Kentucky,Away,W,82-81,176,NR,Q3
+Dec 22,Denver,Home,W,90-85,230,NR,Q4
+Dec 31,Rice,Home,W,97-48,246,NR,Q4
+Jan 4,North Texas,Away,L,72-67,152,NR,Q3
+Jan 10,South Florida,Home,L,93-78,,NR,Q4
+Jan 14,Charlotte,Away,W,86-74,164,NR,Q3
+Jan 18,UAB,Away,W,99-77,113,NR,Q2
+Jan 21,Memphis,Home,W,83-66,105,NR,Q3
+Jan 24,Rice,Away,W,87-81,246,NR,Q4
+Jan 28,North Texas,Home,W,82-66,152,NR,Q3
+Feb 1,Wichita State,Home,W,93-83,,NR,Q4
+Feb 4,Florida Atlantic,Away,W,78-76,,NR,Q4
+Feb 8,South Florida,Away,L,80-74,,NR,Q4
+Feb 11,UAB,Home,L,68-63,113,NR,Q3
+Feb 14,Wichita State,Away,L,81-77,,NR,Q4
+Feb 18,Charlotte,Home,TBD,,164,NR,Q4
+Feb 22,UTSA,Home,TBD,,351,NR,Q4
+Feb 25,Tulane,Away,TBD,,199,NR,Q3
+Mar 5,East Carolina,Away,TBD,,269,NR,Q4
+Mar 8,Temple,Home,TBD,,155,NR,Q3

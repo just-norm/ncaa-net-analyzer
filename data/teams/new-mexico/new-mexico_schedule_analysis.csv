@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 5,East Texas A&M,Home,W,76-54,297,NR,Q4
+Nov 8,UT Arlington,Home,W,74-56,159,NR,Q3
+Nov 11,UC Riverside,Home,W,82-68,290,NR,Q4
+Nov 15,New Mexico State,Away,L,76-68,173,NR,Q3
+Nov 20,Nebraska,Neutral,L,84-72,11,NR,Q1
+Nov 21,Mississippi State,Neutral,W,80-78,96,NR,Q2
+Nov 26,Alabama State,Home,W,93-87,,NR,Q4
+Dec 1,New Mexico Highlands,Home,W,97-47,,NR,Q4
+Dec 6,Santa Clara,Home,W,98-71,42,NR,Q2
+Dec 10,Virginia Commonwealth,Away,W,81-78,,NR,Q4
+Dec 14,Florida Gulf Coast,Home,W,75-59,257,NR,Q4
+Dec 20,San Jose State,Home,W,88-65,266,NR,Q4
+Dec 30,Boise State,Away,L,62-53,59,NR,Q1
+Jan 3,Wyoming,Home,W,78-58,102,NR,Q3
+Jan 6,Colorado State,Away,W,80-70,95,NR,Q2
+Jan 10,Air Force,Away,W,91-49,345,NR,Q4
+Jan 13,Grand Canyon,Home,W,87-64,76,NR,Q3
+Jan 17,San Diego State,Away,L,83-79,41,NR,Q1
+Jan 21,Fresno State,Home,W,83-74,137,NR,Q3
+Jan 24,Nevada,Home,W,80-73,58,NR,Q2
+Jan 27,Nevada-Las Vegas,Away,W,89-61,,NR,Q4
+Jan 31,San Jose State,Away,W,90-80,266,NR,Q4
+Feb 4,Utah State,Home,L,86-66,23,NR,Q1
+Feb 7,Boise State,Home,L,91-90,59,NR,Q2
+Feb 11,Grand Canyon,Away,W,70-64,76,NR,Q2
+Feb 17,Air Force,Home,TBD,,345,NR,Q4
+Feb 21,Fresno State,Away,TBD,,137,NR,Q3
+Feb 24,Nevada,Away,TBD,,58,NR,Q1
+Feb 28,San Diego State,Home,TBD,,41,NR,Q2
+Mar 4,Colorado State,Home,TBD,,95,NR,Q3
+Mar 7,Utah State,Away,TBD,,23,NR,Q1

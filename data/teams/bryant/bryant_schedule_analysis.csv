@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Siena,Away,L,82-66,193,NR,Q3
+Nov 7,Georgia Tech,Away,L,74-45,163,NR,Q3
+Nov 12,Dartmouth,Home,W,82-75,248,NR,Q4
+Nov 16,Valparaiso,Away,L,68-50,162,NR,Q3
+Nov 19,Virginia Tech,Away,L,78-61,56,NR,Q1
+Nov 23,Connecticut,Away,L,72-49,10,NR,Q1
+Nov 26,Mercy,Home,W,87-61,,NR,Q4
+Nov 29,Harvard,Away,L,56-53,160,NR,Q3
+Dec 2,Stonehill,Home,W,77-65,338,NR,Q4
+Dec 5,Brown,Away,L,75-56,285,NR,Q4
+Dec 10,Iona,Away,L,69-63,234,NR,Q3
+Dec 13,Marist,Home,L,82-74,157,NR,Q3
+Dec 22,High Point,Away,L,93-47,75,NR,Q1
+Dec 28,Worcester State,Home,W,95-59,,NR,Q4
+Jan 3,Maine,Away,W,56-51,341,NR,Q4
+Jan 8,Massachusetts-Lowell,Home,L,77-63,323,NR,Q4
+Jan 10,Albany (NY),Away,L,71-46,,NR,Q4
+Jan 15,Maryland-Baltimore County,Home,W,79-74,,NR,Q4
+Jan 19,NJIT,Away,L,79-55,301,NR,Q4
+Jan 24,Vermont,Home,L,62-52,215,NR,Q4
+Jan 29,Binghamton,Away,L,63-60,362,NR,Q4
+Jan 31,New Hampshire,Home,W,92-84,334,NR,Q4
+Feb 5,Albany (NY),Home,L,65-63,,NR,Q4
+Feb 7,Maine,Home,W,73-67,341,NR,Q4
+Feb 12,Massachusetts-Lowell,Away,L,88-69,323,NR,Q4
+Feb 14,Vermont,Away,L,90-63,215,NR,Q3
+Feb 19,Binghamton,Home,TBD,,362,NR,Q4
+Feb 26,Maryland-Baltimore County,Away,TBD,,,NR,Q4
+Feb 28,NJIT,Home,TBD,,301,NR,Q4
+Mar 3,New Hampshire,Away,TBD,,334,NR,Q4

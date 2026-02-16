@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Quinnipiac,Home,W,108-74,197,NR,Q4
+Nov 8,Alabama,Home,L,103-96,21,NR,Q1
+Nov 15,William & Mary,Home,W,93-60,114,NR,Q3
+Nov 20,Bucknell,Home,W,97-49,333,NR,Q4
+Nov 24,Iowa State,Neutral,L,83-82,8,NR,Q1
+Nov 25,Baylor,Neutral,W,96-81,47,NR,Q1
+Nov 26,Auburn,Neutral,L,85-74,34,NR,Q1
+Dec 6,Mississippi,Home,W,63-58,92,NR,Q3
+Dec 13,Iona,Home,W,91-64,234,NR,Q4
+Dec 16,DePaul,Home,W,79-66,108,NR,Q3
+Dec 20,Kentucky,Neutral,L,78-66,28,NR,Q1
+Dec 23,Harvard,Home,W,85-59,160,NR,Q3
+Dec 31,Georgetown,Away,W,95-83,91,NR,Q2
+Jan 3,Providence,Home,L,77-71,80,NR,Q3
+Jan 6,Butler,Away,W,84-70,74,NR,Q1
+Jan 10,Creighton,Away,W,90-73,81,NR,Q2
+Jan 13,Marquette,Home,W,92-68,109,NR,Q3
+Jan 17,Villanova,Away,W,86-79,30,NR,Q1
+Jan 20,Seton Hall,Home,W,65-60,51,NR,Q2
+Jan 24,Xavier,Away,W,88-83,98,NR,Q2
+Jan 28,Butler,Home,W,92-70,74,NR,Q2
+Feb 3,DePaul,Away,W,68-56,108,NR,Q2
+Feb 6,Connecticut,Home,W,81-72,10,NR,Q1
+Feb 9,Xavier,Home,W,87-82,98,NR,Q3
+Feb 14,Providence,Away,W,79-69,80,NR,Q2
+Feb 18,Marquette,Away,TBD,,109,NR,Q2
+Feb 21,Creighton,Home,TBD,,81,NR,Q3
+Feb 25,Connecticut,Away,TBD,,10,NR,Q1
+Feb 28,Villanova,Home,TBD,,30,NR,Q1
+Mar 3,Georgetown,Home,TBD,,91,NR,Q3
+Mar 6,Seton Hall,Away,TBD,,51,NR,Q1

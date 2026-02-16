@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Louisiana Tech,Home,W,77-50,247,NR,Q4
+Nov 8,Pacific,Home,W,78-77,104,NR,Q3
+Nov 12,Southern Illinois,Home,W,86-81,117,NR,Q3
+Nov 15,Santa Clara,Away,L,98-83,42,NR,Q1
+Nov 18,UC Davis,Home,L,75-71,167,NR,Q4
+Nov 22,UC Santa Barbara,Home,W,77-64,132,NR,Q3
+Nov 27,Washington,Neutral,L,83-66,52,NR,Q2
+Nov 28,San Francisco,Neutral,W,81-65,125,NR,Q3
+Dec 2,UC San Diego,Home,W,76-70,124,NR,Q3
+Dec 7,Washington State,Away,W,78-64,136,NR,Q3
+Dec 13,Duquesne,Home,W,78-75,116,NR,Q3
+Dec 20,Boise State,Home,W,81-66,59,NR,Q2
+Dec 30,Colorado State,Away,W,75-62,95,NR,Q2
+Jan 3,Fresno State,Away,W,66-65,137,NR,Q3
+Jan 6,San Diego State,Home,L,73-68,41,NR,Q2
+Jan 10,Wyoming,Home,W,92-83,102,NR,Q3
+Jan 14,Utah State,Away,L,71-62,23,NR,Q1
+Jan 17,Air Force,Away,W,81-66,345,NR,Q4
+Jan 20,San Jose State,Home,W,87-54,266,NR,Q4
+Jan 24,New Mexico,Away,L,80-73,44,NR,Q1
+Jan 27,Grand Canyon,Home,W,66-60,76,NR,Q3
+Jan 30,Nevada-Las Vegas,Home,W,89-76,,NR,Q4
+Feb 3,Boise State,Away,L,91-87,59,NR,Q1
+Feb 7,Fresno State,Home,W,69-59,137,NR,Q3
+Feb 14,San Diego State,Away,L,71-57,41,NR,Q1
+Feb 17,San Jose State,Away,TBD,,266,NR,Q4
+Feb 21,Utah State,Home,TBD,,23,NR,Q1
+Feb 24,New Mexico,Home,TBD,,44,NR,Q2
+Feb 28,Nevada-Las Vegas,Away,TBD,,,NR,Q4
+Mar 3,Wyoming,Away,TBD,,102,NR,Q2
+Mar 7,Air Force,Home,TBD,,345,NR,Q4

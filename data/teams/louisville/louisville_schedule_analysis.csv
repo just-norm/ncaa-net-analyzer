@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,South Carolina State,Home,W,104-45,358,NR,Q4
+Nov 6,Jackson State,Home,W,106-70,347,NR,Q4
+Nov 11,Kentucky,Home,W,96-88,28,NR,Q1
+Nov 15,Ohio,Home,W,106-81,213,NR,Q4
+Nov 21,Cincinnati,Neutral,W,74-64,63,NR,Q2
+Nov 24,Eastern Michigan,Home,W,87-46,,NR,Q4
+Nov 26,NJIT,Home,W,104-47,301,NR,Q4
+Dec 3,Arkansas,Away,L,89-80,18,NR,Q1
+Dec 6,Indiana,Neutral,W,87-78,31,NR,Q1
+Dec 13,Memphis,Home,W,99-73,105,NR,Q3
+Dec 16,Tennessee,Away,L,83-62,22,NR,Q1
+Dec 20,Montana,Home,W,94-54,182,NR,Q4
+Dec 30,California,Away,W,90-70,60,NR,Q1
+Jan 2,Stanford,Away,L,80-76,70,NR,Q1
+Jan 6,Duke,Home,L,84-73,2,NR,Q1
+Jan 10,Boston College,Home,W,75-62,153,NR,Q3
+Jan 13,Virginia,Home,L,79-70,19,NR,Q1
+Jan 17,Pittsburgh,Away,W,100-59,122,NR,Q2
+Jan 24,Virginia Tech,Home,W,85-71,56,NR,Q2
+Jan 26,Duke,Away,L,83-52,2,NR,Q1
+Jan 31,Southern Methodist,Home,W,88-74,36,NR,Q2
+Feb 4,Notre Dame,Home,W,76-65,87,NR,Q3
+Feb 7,Wake Forest,Away,W,88-80,64,NR,Q1
+Feb 9,NC State,Home,W,118-77,29,NR,Q1
+Feb 14,Baylor,Neutral,W,82-71,47,NR,Q1
+Feb 17,Southern Methodist,Away,TBD,,36,NR,Q1
+Feb 21,Georgia Tech,Home,TBD,,163,NR,Q4
+Feb 23,North Carolina,Away,TBD,,25,NR,Q1
+Feb 28,Clemson,Away,TBD,,32,NR,Q1
+Mar 3,Syracuse,Home,TBD,,69,NR,Q2
+Mar 7,Miami (FL),Away,TBD,,35,NR,Q1

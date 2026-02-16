@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Montana State,Home,W,84-78,,NR,Q4
+Nov 8,Eastern Washington,Home,W,102-97,,NR,Q4
+Nov 14,Providence,Home,W,97-88,80,NR,Q3
+Nov 17,Alabama State,Home,W,94-66,,NR,Q4
+Nov 21,UC Davis,Home,W,95-79,167,NR,Q4
+Nov 27,San Francisco,Neutral,W,79-69,125,NR,Q3
+Nov 28,Washington,Neutral,W,81-68,52,NR,Q2
+Dec 1,California Baptist,Home,W,78-70,111,NR,Q3
+Dec 6,Colorado State,Away,L,91-86,95,NR,Q2
+Dec 13,UTSA,Home,W,88-64,351,NR,Q4
+Dec 17,Portland State,Home,W,84-73,,NR,Q4
+Dec 20,Stanford,Neutral,L,77-68,70,NR,Q2
+Dec 28,Northern Colorado,Home,L,86-81,,NR,Q4
+Jan 3,Arizona State,Away,W,95-89,71,NR,Q1
+Jan 7,Utah,Home,W,85-73,126,NR,Q3
+Jan 10,Texas Tech,Home,L,73-71,16,NR,Q1
+Jan 14,Cincinnati,Away,L,77-68,63,NR,Q1
+Jan 17,West Virginia,Away,L,72-61,54,NR,Q1
+Jan 20,Kansas,Home,L,75-69,14,NR,Q1
+Jan 24,UCF,Home,L,95-86,49,NR,Q2
+Jan 29,Iowa State,Away,L,97-67,8,NR,Q1
+Feb 1,TCU,Home,W,87-61,45,NR,Q2
+Feb 4,Baylor,Away,L,86-67,47,NR,Q1
+Feb 7,Arizona State,Home,W,78-70,71,NR,Q2
+Feb 11,Texas Tech,Away,L,78-44,16,NR,Q1
+Feb 14,Brigham Young,Away,L,90-86,20,NR,Q1
+Feb 21,Oklahoma State,Home,TBD,,72,NR,Q2
+Feb 25,Kansas State,Home,TBD,,101,NR,Q3
+Feb 28,Houston,Away,TBD,,4,NR,Q1
+Mar 3,Utah,Away,TBD,,126,NR,Q2
+Mar 7,Arizona,Home,TBD,,3,NR,Q1

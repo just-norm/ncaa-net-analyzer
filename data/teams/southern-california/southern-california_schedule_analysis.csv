@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Cal Poly,Home,W,94-64,238,NR,Q4
+Nov 9,Manhattan,Home,W,114-83,324,NR,Q4
+Nov 14,Illinois State,Neutral,W,87-67,,NR,Q4
+Nov 20,Troy,Home,W,107-106,130,NR,Q3
+Nov 24,Boise State,Neutral,W,70-67,59,NR,Q2
+Nov 25,Seton Hall,Neutral,W,83-81,51,NR,Q2
+Nov 26,Arizona State,Neutral,W,88-75,71,NR,Q2
+Dec 2,Oregon,Away,W,82-77,107,NR,Q2
+Dec 6,Washington,Home,L,84-76,52,NR,Q2
+Dec 9,San Diego,Away,W,94-81,218,NR,Q3
+Dec 14,Washington State,Home,W,68-61,136,NR,Q3
+Dec 17,UTSA,Home,W,97-70,351,NR,Q4
+Dec 21,UC Santa Cruz,Home,W,102-63,,NR,Q4
+Jan 2,Michigan,Away,L,96-66,1,NR,Q1
+Jan 5,Michigan State,Away,L,80-51,15,NR,Q1
+Jan 9,Minnesota,Away,W,70-69,86,NR,Q2
+Jan 13,Maryland,Home,W,88-71,149,NR,Q3
+Jan 17,Purdue,Home,L,69-64,5,NR,Q1
+Jan 21,Northwestern,Home,L,74-68,78,NR,Q3
+Jan 25,Wisconsin,Away,W,73-71,33,NR,Q1
+Jan 28,Iowa,Away,L,73-72,27,NR,Q1
+Jan 31,Rutgers,Home,W,78-75,165,NR,Q4
+Feb 3,Indiana,Home,W,81-75,31,NR,Q2
+Feb 8,Penn State,Away,W,77-75,120,NR,Q2
+Feb 11,Ohio State,Away,L,89-82,38,NR,Q1
+Feb 18,Illinois,Home,TBD,,7,NR,Q1
+Feb 21,Oregon,Home,TBD,,107,NR,Q3
+Feb 24,UCLA,Away,TBD,,40,NR,Q1
+Feb 28,Nebraska,Home,TBD,,11,NR,Q1
+Mar 4,Washington,Away,TBD,,52,NR,Q1
+Mar 7,UCLA,Home,TBD,,40,NR,Q2

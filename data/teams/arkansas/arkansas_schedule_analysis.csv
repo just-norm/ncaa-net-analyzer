@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Southern,Home,W,109-77,281,NR,Q4
+Nov 8,Michigan State,Away,L,69-66,15,NR,Q1
+Nov 11,Central Arkansas,Home,W,93-56,181,NR,Q4
+Nov 14,Samford,Home,W,79-75,210,NR,Q4
+Nov 18,Winthrop,Home,W,84-83,121,NR,Q3
+Nov 21,Jackson State,Home,W,115-61,347,NR,Q4
+Nov 27,Duke,Neutral,L,80-71,2,NR,Q1
+Dec 3,Louisville,Home,W,89-80,12,NR,Q1
+Dec 6,Fresno State,Home,W,82-58,137,NR,Q3
+Dec 13,Texas Tech,Neutral,W,93-86,16,NR,Q1
+Dec 16,Queens (NC),Home,W,108-80,206,NR,Q4
+Dec 20,Houston,Neutral,L,94-85,4,NR,Q1
+Dec 29,James Madison,Home,W,103-74,220,NR,Q4
+Jan 3,Tennessee,Home,W,86-75,22,NR,Q1
+Jan 7,Mississippi,Away,W,94-87,92,NR,Q2
+Jan 10,Auburn,Away,L,95-73,34,NR,Q1
+Jan 14,South Carolina,Home,W,108-74,112,NR,Q3
+Jan 17,Georgia,Away,L,90-76,39,NR,Q1
+Jan 20,Vanderbilt,Home,W,93-68,13,NR,Q1
+Jan 24,Louisiana State,Home,W,85-81,67,NR,Q2
+Jan 27,Oklahoma,Away,W,83-79,68,NR,Q1
+Jan 31,Kentucky,Home,L,85-77,28,NR,Q1
+Feb 7,Mississippi State,Away,W,88-68,96,NR,Q2
+Feb 10,Louisiana State,Away,W,91-62,67,NR,Q1
+Feb 14,Auburn,Home,W,88-75,34,NR,Q2
+Feb 18,Alabama,Away,TBD,,21,NR,Q1
+Feb 21,Missouri,Home,TBD,,66,NR,Q2
+Feb 25,Texas A&M,Home,TBD,,43,NR,Q2
+Feb 28,Florida,Away,TBD,,9,NR,Q1
+Mar 4,Texas,Home,TBD,,37,NR,Q2
+Mar 7,Missouri,Away,TBD,,66,NR,Q1

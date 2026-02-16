@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 5,Alabama A&M,Home,W,98-51,311,NR,Q4
+Nov 9,Marquette,Neutral,W,100-77,109,NR,Q3
+Nov 12,Milwaukee,Home,W,101-70,251,NR,Q4
+Nov 16,Incarnate Word,Home,W,69-61,,NR,Q4
+Nov 20,Lindenwood,Home,W,73-53,241,NR,Q4
+Nov 25,Kansas State,Home,W,86-69,101,NR,Q3
+Nov 29,Bethune-Cookman,Home,W,100-56,250,NR,Q4
+Dec 3,Minnesota,Away,L,73-64,86,NR,Q2
+Dec 6,Louisville,Neutral,L,87-78,12,NR,Q1
+Dec 9,Penn State,Home,W,113-72,120,NR,Q3
+Dec 13,Kentucky,Away,L,72-60,28,NR,Q1
+Dec 20,Chicago State,Home,W,78-58,,NR,Q4
+Dec 22,Siena,Home,W,81-60,193,NR,Q4
+Jan 4,Washington,Home,W,90-80,52,NR,Q2
+Jan 7,Maryland,Away,W,84-66,149,NR,Q3
+Jan 10,Nebraska,Home,L,83-77,11,NR,Q1
+Jan 13,Michigan State,Away,L,81-60,15,NR,Q1
+Jan 17,Iowa,Home,L,74-57,27,NR,Q1
+Jan 20,Michigan,Away,L,86-72,1,NR,Q1
+Jan 23,Rutgers,Away,W,82-59,165,NR,Q3
+Jan 27,Purdue,Home,W,72-67,5,NR,Q1
+Jan 31,UCLA,Away,W,98-97,40,NR,Q1
+Feb 3,Southern California,Away,L,81-75,48,NR,Q1
+Feb 7,Wisconsin,Home,W,78-77,33,NR,Q2
+Feb 9,Oregon,Home,W,92-74,107,NR,Q3
+Feb 15,Illinois,Away,TBD,,7,NR,Q1
+Feb 20,Purdue,Away,TBD,,5,NR,Q1
+Feb 24,Northwestern,Home,TBD,,78,NR,Q3
+Mar 1,Michigan State,Home,TBD,,15,NR,Q1
+Mar 4,Minnesota,Home,TBD,,86,NR,Q3
+Mar 7,Ohio State,Away,TBD,,38,NR,Q1

@@ -1,17 +1,14 @@
-name: NCAA NET Data Scraper
+name: Weekly AP Poll Update
 
 on:
   schedule:
-    # Run 4 times per day (every 6 hours) - ET times converted to UTC
-    - cron: '0 11 * * *'  # 6:00 AM ET (11:00 UTC)
-    - cron: '0 17 * * *'  # 12:00 PM ET (17:00 UTC)
-    - cron: '0 23 * * *'  # 6:00 PM ET (23:00 UTC)
-    - cron: '0 5 * * *'   # 12:00 AM ET (5:00 UTC next day)
+    # Run every Monday at 12:30 PM ET (17:30 UTC)
+    - cron: '30 17 * * 1'
 
-  workflow_dispatch:  # Allow manual triggering for testing
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  scrape-ncaa-data:
+  scrape-ap-poll:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,25 +25,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Scrape AP Poll
+        run: |
+          echo "📊 Scraping AP Poll rankings..."
+          python scrapers/ap_poll_scraper.py
+
       - name: Scrape NET Rankings
         run: |
           echo "🔢 Scraping NET rankings..."
           python scrapers/net_rankings_scraper.py
 
-      - name: Scrape team schedules (batch)
+      - name: Update all team schedules (picks up new rankings)
         run: |
-          echo "🏀 Scraping team schedules..."
-          python scrapers/batch_scraper.py --batch-size 30 --delay 10
+          echo "🏀 Updating team schedules with new rankings..."
+          python scrapers/batch_scraper.py --batch-size 50 --delay 5
 
       - name: Build website
         run: |
-          echo "🔨 Building website with latest data..."
+          echo "🔨 Rebuilding website..."
           python build.py
 
       - name: Check for changes
         id: git-check
         run: |
-          if [[ -n $(git status --porcelain data/ public/) ]]; then
+          if [[ -n $(git status --porcelain) ]]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
@@ -54,14 +56,15 @@ jobs:
         if: steps.git-check.outputs.has_changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "NCAA NET Bot"
-          git add data/ public/
-          git commit -m "🤖 Auto-update NCAA data and rebuild site - $(date +'%Y-%m-%d %H:%M UTC')"
+          git config --local user.name "NCAA AP Poll Bot"
+          git add .
+          git commit -m "📊 Weekly AP Poll update - $(date +'%Y-%m-%d %H:%M UTC')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Summary
         run: |
-          echo "✅ Scraping completed!"
-          echo "📁 Teams scraped: $(find data/teams -name 'schedule_analysis.csv' | wc -l)"
+          echo "✅ AP Poll update completed!"
+          echo "📁 AP Poll: data/ap_poll/latest.csv"
+          echo "📁 NET Rankings: data/net_rankings/latest.csv"

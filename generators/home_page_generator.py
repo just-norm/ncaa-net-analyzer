@@ -85,31 +85,61 @@ def generate_home_page(output_dir='public'):
     """
     print("🏠 Generating home page...")
 
-    # Load teams
-    teams = load_teams()
-    active_teams = [t for t in teams if t.get('active', True)]
-
-    print(f"   Loading data for {len(active_teams)} teams...")
-
-    # Load summary for each team
+    # Load NET rankings (primary data source - has all 365 teams)
+    net_rankings_file = Path(__file__).parent.parent / 'data' / 'net_rankings.csv'
     teams_data = []
-    for team in active_teams:
-        summary = load_team_summary(team['slug'])
-        teams_data.append({
-            'name': team['name'],
-            'slug': team['slug'],
-            'conference': team.get('conference', ''),
-            **summary
-        })
 
-    # Sort by NET rank (numerically, with NR at end)
-    def sort_key(t):
-        try:
-            return (0, int(t['net_rank']))
-        except (ValueError, TypeError):
-            return (1, 999)
+    if net_rankings_file.exists():
+        print("   Loading NET rankings from NCAA.com...")
+        with open(net_rankings_file, 'r') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                # Create team slug from name
+                team_name = row['Team']
+                team_slug = team_name.lower().replace(' ', '-').replace('.', '').replace("'", '')
 
-    teams_data.sort(key=sort_key)
+                # Load detailed stats if available
+                summary = load_team_summary(team_slug)
+
+                # Use NET rankings data as primary source
+                teams_data.append({
+                    'name': team_name,
+                    'slug': team_slug,
+                    'net_rank': row['Rank'],
+                    'record': row['Record'],
+                    'conference': row['Conference'],
+                    'ap_rank': summary.get('ap_rank', 'NR'),
+                    'quad_records': summary.get('quad_records', {
+                        'Q1': {'W': 0, 'L': 0},
+                        'Q2': {'W': 0, 'L': 0},
+                        'Q3': {'W': 0, 'L': 0},
+                        'Q4': {'W': 0, 'L': 0}
+                    })
+                })
+        print(f"   ✅ Loaded {len(teams_data)} teams from NET rankings")
+    else:
+        # Fallback to teams.json (old behavior)
+        print("   ⚠️  NET rankings file not found, using teams.json...")
+        teams = load_teams()
+        active_teams = [t for t in teams if t.get('active', True)]
+
+        for team in active_teams:
+            summary = load_team_summary(team['slug'])
+            teams_data.append({
+                'name': team['name'],
+                'slug': team['slug'],
+                'conference': team.get('conference', ''),
+                **summary
+            })
+
+        # Sort by NET rank
+        def sort_key(t):
+            try:
+                return (0, int(t['net_rank']))
+            except (ValueError, TypeError):
+                return (1, 999)
+
+        teams_data.sort(key=sort_key)
 
     # Generate table rows
     table_rows = ''
@@ -117,11 +147,20 @@ def generate_home_page(output_dir='public'):
         net_display = f"#{team['net_rank']}" if team['net_rank'] != 'NR' else 'NR'
         ap_display = f"#{team['ap_rank']}" if team['ap_rank'] != 'NR' else 'NR'
 
-        # Format quad records as W-L
-        q1_record = f"{team['quad_records']['Q1']['W']}-{team['quad_records']['Q1']['L']}"
-        q2_record = f"{team['quad_records']['Q2']['W']}-{team['quad_records']['Q2']['L']}"
-        q3_record = f"{team['quad_records']['Q3']['W']}-{team['quad_records']['Q3']['L']}"
-        q4_record = f"{team['quad_records']['Q4']['W']}-{team['quad_records']['Q4']['L']}"
+        # Check if team has been scraped (has non-zero quad data)
+        has_quad_data = any(
+            team['quad_records'][q]['W'] + team['quad_records'][q]['L'] > 0
+            for q in ['Q1', 'Q2', 'Q3', 'Q4']
+        )
+
+        # Format quad records as W-L or show "-" if not scraped
+        if has_quad_data:
+            q1_record = f"{team['quad_records']['Q1']['W']}-{team['quad_records']['Q1']['L']}"
+            q2_record = f"{team['quad_records']['Q2']['W']}-{team['quad_records']['Q2']['L']}"
+            q3_record = f"{team['quad_records']['Q3']['W']}-{team['quad_records']['Q3']['L']}"
+            q4_record = f"{team['quad_records']['Q4']['W']}-{team['quad_records']['Q4']['L']}"
+        else:
+            q1_record = q2_record = q3_record = q4_record = '-'
 
         table_rows += f'''
             <tr>

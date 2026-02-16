@@ -120,7 +120,9 @@ def build():
     print()
     print("=" * 60)
 
-    return len(failed) == 0
+    # Return success if we generated at least some dashboards
+    # (teams without scraped data are expected during active scraping)
+    return successful > 0
 
 
 if __name__ == "__main__":

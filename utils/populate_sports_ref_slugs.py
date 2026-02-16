@@ -33,7 +33,7 @@ def generate_sports_ref_slug(team_name):
         'St. John\'s (NY)': 'st-johns-ny',
         'A&M-Corpus Christi': 'texas-am-corpus-christi',
         'Miami (FL)': 'miami-fl',
-        'Miami (OH)': 'miami-ohio',
+        'Miami (OH)': 'miami-oh',
         'Illinois St.': 'illinois-state',
         'Wichita St.': 'wichita-state',
     }

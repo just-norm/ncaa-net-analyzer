@@ -210,6 +210,9 @@ if __name__ == "__main__":
         delay=args.delay
     )
 
-    # Exit with error code if any failures
-    if results['failed']:
+    # Only exit with error if NO teams were scraped successfully
+    # This allows successful data to be committed even when some teams fail
+    newly_scraped = len(results['successful']) - len(already_scraped)
+    if newly_scraped == 0 and results['failed']:
+        print("\n❌ No teams were successfully scraped")
         sys.exit(1)

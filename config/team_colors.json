@@ -1,41 +1,1006 @@
 {
-  "michigan": {
-    "primary": "#00274C",
-    "secondary": "#FFCB05",
-    "name_color": "#FFCB05"
+  "a-m-corpus-christi": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "abilene-christian": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "air-force": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "akron": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "alabama": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "alabama-a-m": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "alabama-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "alcorn": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "american": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "app-state": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
   },
   "arizona": {
     "primary": "#CC0033",
     "secondary": "#003366",
     "name_color": "#003366"
   },
-  "duke": {
-    "primary": "#003087",
+  "arizona-st": {
+    "primary": "#003366",
     "secondary": "#FFFFFF",
     "name_color": "#FFFFFF"
   },
-  "purdue": {
-    "primary": "#000000",
-    "secondary": "#CFB991",
-    "name_color": "#CFB991"
+  "ark-pine-bluff": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "arkansas": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "arkansas-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "army-west-point": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
   },
   "auburn": {
     "primary": "#03244D",
     "secondary": "#DD550C",
     "name_color": "#DD550C"
   },
+  "austin-peay": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "byu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ball-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "baylor": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "bellarmine": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "belmont": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "bethune-cookman": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "binghamton": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "boise-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "boston-college": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "boston-u": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "bowling-green": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "bradley": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "brown": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "bryant": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "bucknell": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "buffalo": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "butler": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "csu-bakersfield": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "csun": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "cal-poly": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "cal-st-fullerton": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "california": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "california-baptist": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "campbell": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "canisius": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "central-ark": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "central-conn-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "central-mich": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "charleston-so": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "charlotte": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "chattanooga": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "chicago-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "cincinnati": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "clemson": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "cleveland-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "coastal-carolina": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "col-of-charleston": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "colgate": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "colorado": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "colorado-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "columbia": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "coppin-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "cornell": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "creighton": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "dartmouth": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "davidson": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "dayton": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "depaul": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "delaware": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "delaware-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "denver": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "detroit-mercy": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "drake": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "drexel": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "duke": {
+    "primary": "#003087",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "duquesne": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "etsu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "east-carolina": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "east-texas-a-m": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "eastern-ill": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "eastern-ky": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "eastern-mich": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "eastern-wash": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "elon": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "evansville": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fdu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fgcu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fiu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fairfield": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fla-atlantic": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "florida": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "florida-a-m": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "florida-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fordham": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "fresno-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "furman": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ga-southern": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "gardner-webb": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "george-mason": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "george-washington": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "georgetown": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "georgia": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "georgia-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "georgia-tech": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "gonzaga": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "grambling": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "grand-canyon": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "green-bay": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "hampton": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "harvard": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "hawaii": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "high-point": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "hofstra": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "holy-cross": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "houston": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "houston-christian": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "howard": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "iu-indy": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "idaho": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "idaho-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "illinois": {
+    "primary": "#13294B",
+    "secondary": "#FF5F05",
+    "name_color": "#FF5F05"
+  },
+  "illinois-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "indiana": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "indiana-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "iona": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "iowa": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "iowa-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "jackson-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "jacksonville": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "jacksonville-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "james-madison": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
   "kansas": {
     "primary": "#0051BA",
     "secondary": "#E8000D",
     "name_color": "#E8000D"
   },
-  "connecticut": {
-    "primary": "#000E2F",
+  "kansas-city": {
+    "primary": "#003366",
     "secondary": "#FFFFFF",
     "name_color": "#FFFFFF"
   },
-  "tennessee": {
-    "primary": "#FF8200",
+  "kansas-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "kennesaw-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "kent-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "kentucky": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "liu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lmu-ca": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lsu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "la-salle": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lafayette": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lamar-university": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "le-moyne": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lehigh": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "liberty": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lindenwood": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "lipscomb": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "little-rock": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "long-beach-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "longwood": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "louisiana": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "louisiana-tech": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "louisville": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "loyola-chicago": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "loyola-maryland": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "maine": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "manhattan": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "marist": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "marquette": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "marshall": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "maryland": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "massachusetts": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "mcneese": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "memphis": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "mercer": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "mercyhurst": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "merrimack": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "miami-fl": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "miami-oh": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "michigan": {
+    "primary": "#00274C",
+    "secondary": "#FFCB05",
+    "name_color": "#FFCB05"
+  },
+  "michigan-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "middle-tenn": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "milwaukee": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "minnesota": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "mississippi-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "mississippi-val": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "missouri": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "missouri-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "monmouth": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "montana": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "montana-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "morehead-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "morgan-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "mount-st-mary-s": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "murray-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "n-c-a-t": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "n-c-central": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "nc-state": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "niu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "njit": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "navy": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "nebraska": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "nevada": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "new-hampshire": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "new-haven": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "new-mexico": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "new-mexico-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "new-orleans": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "niagara": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "nicholls": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "norfolk-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "north-ala": {
+    "primary": "#003366",
     "secondary": "#FFFFFF",
     "name_color": "#FFFFFF"
   },
@@ -44,9 +1009,819 @@
     "secondary": "#FFFFFF",
     "name_color": "#FFFFFF"
   },
-  "illinois": {
-    "primary": "#13294B",
-    "secondary": "#FF5F05",
-    "name_color": "#FF5F05"
+  "north-dakota": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "north-dakota-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "north-florida": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "north-texas": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "northeastern": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "northern-ariz": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "northern-colo": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "northern-ky": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "northwestern": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "northwestern-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "notre-dame": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "oakland": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ohio": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ohio-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "oklahoma": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "oklahoma-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "old-dominion": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ole-miss": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "omaha": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "oral-roberts": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "oregon": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "oregon-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "pacific": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "penn": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "penn-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "pepperdine": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "pittsburgh": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "portland": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "portland-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "prairie-view": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "presbyterian": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "princeton": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "providence": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "purdue": {
+    "primary": "#000000",
+    "secondary": "#CFB991",
+    "name_color": "#CFB991"
+  },
+  "purdue-fort-wayne": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "queens-nc": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "quinnipiac": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "radford": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "rhode-island": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "rice": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "richmond": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "rider": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "robert-morris": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "rutgers": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "sfa": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "siue": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "smu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "sacramento-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "sacred-heart": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "saint-francis": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "saint-joseph-s": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "saint-louis": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "saint-mary-s-ca": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "saint-peter-s": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "sam-houston": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "samford": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "san-diego": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "san-diego-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "san-francisco": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "san-jose-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "santa-clara": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "seattle-u": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "seton-hall": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "siena": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "south-alabama": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "south-carolina": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "south-carolina-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "south-dakota": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "south-dakota-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "south-fla": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southeast-mo-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southeastern-la": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southern-california": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southern-ill": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southern-ind": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southern-miss": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southern-u": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "southern-utah": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "st-bonaventure": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "st-john-s-ny": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "st-thomas-mn": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "stanford": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "stetson": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "stonehill": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "stony-brook": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "syracuse": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tcu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tarleton-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "temple": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tennessee": {
+    "primary": "#FF8200",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tennessee-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tennessee-tech": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "texas": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "texas-a-m": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "texas-southern": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "texas-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "texas-tech": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "the-citadel": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "toledo": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "towson": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "troy": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tulane": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "tulsa": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uab": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ualbany": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uc-davis": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uc-irvine": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uc-riverside": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uc-san-diego": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uc-santa-barbara": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ucf": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ucla": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uconn": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uic": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uiw": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ulm": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "umbc": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "umes": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "umass-lowell": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "unc-asheville": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "unc-greensboro": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uncw": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "uni": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "unlv": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "usc-upstate": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ut-arlington": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "ut-martin": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utep": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utrgv": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utsa": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utah": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utah-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utah-tech": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "utah-valley": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "vcu": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "vmi": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "valparaiso": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "vanderbilt": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "vermont": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "villanova": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "virginia": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "virginia-tech": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wagner": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wake-forest": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "washington": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "washington-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "weber-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "west-ga": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "west-virginia": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "western-caro": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "western-ill": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "western-ky": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "western-mich": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wichita-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "william-mary": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "winthrop": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wisconsin": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wofford": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wright-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "wyoming": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "xavier": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "yale": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
+  },
+  "youngstown-st": {
+    "primary": "#003366",
+    "secondary": "#FFFFFF",
+    "name_color": "#FFFFFF"
   }
 }

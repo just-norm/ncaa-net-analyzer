@@ -13,6 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from generators.home_page_generator import generate_home_page
 from generators.dashboard_generator import generate_team_dashboard
+from generators.comparison_page_generator import generate_comparison_page
 from utils.team_config import load_teams
 
 
@@ -55,6 +56,15 @@ def build():
         print(f"❌ Failed to generate home page: {e}\n")
         return False
 
+    # Generate comparison page
+    print("⚔️  Generating comparison page...")
+    try:
+        generate_comparison_page()
+        print()
+    except Exception as e:
+        print(f"❌ Failed to generate comparison page: {e}\n")
+        return False
+
     # Generate team dashboards
     print(f"📊 Generating {len(active_teams)} team dashboards...")
     print("-" * 60)
@@ -86,6 +96,7 @@ def build():
     print("📊 Build Summary")
     print("=" * 60)
     print(f"✅ Home page: Generated")
+    print(f"✅ Comparison page: Generated")
     print(f"✅ Team dashboards: {successful}/{len(active_teams)}")
 
     if failed:
@@ -98,6 +109,7 @@ def build():
     print()
     print(f"📁 Output directory: public/")
     print(f"   - public/index.html (home page)")
+    print(f"   - public/compare/ (team comparison)")
     print(f"   - public/teams/{{team}}/ ({successful} teams)")
     print()
 

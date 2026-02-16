@@ -1,0 +1,445 @@
+#!/usr/bin/env python3
+"""
+Generate web-based team comparison page with autocomplete search
+"""
+
+import json
+from pathlib import Path
+
+
+def generate_comparison_page():
+    """Generate interactive comparison page"""
+
+    # Load all teams for autocomplete
+    with open('config/teams.json', 'r') as f:
+        teams_data = json.load(f)
+
+    teams = teams_data['teams']
+    team_names = [team['name'] for team in teams]
+
+    html = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Comparison - NCAA NET Rankings</title>
+    <style>
+        * {{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }}
+
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }}
+
+        .container {{
+            max-width: 1400px;
+            margin: 0 auto;
+        }}
+
+        .header {{
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }}
+
+        .header h1 {{
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }}
+
+        .header p {{
+            font-size: 1.1em;
+            opacity: 0.9;
+        }}
+
+        .search-container {{
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            margin-bottom: 30px;
+        }}
+
+        .search-grid {{
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 20px;
+            align-items: center;
+        }}
+
+        .team-search {{
+            position: relative;
+        }}
+
+        .team-search label {{
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }}
+
+        .team-search input {{
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }}
+
+        .team-search input:focus {{
+            outline: none;
+            border-color: #1e3c72;
+        }}
+
+        .autocomplete-items {{
+            position: absolute;
+            border: 1px solid #d4d4d4;
+            border-top: none;
+            z-index: 99;
+            top: 100%;
+            left: 0;
+            right: 0;
+            max-height: 300px;
+            overflow-y: auto;
+            background: white;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }}
+
+        .autocomplete-items div {{
+            padding: 12px 16px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0f0f0;
+        }}
+
+        .autocomplete-items div:hover {{
+            background-color: #f5f5f5;
+        }}
+
+        .autocomplete-active {{
+            background-color: #1e3c72 !important;
+            color: white;
+        }}
+
+        .vs-divider {{
+            font-size: 24px;
+            font-weight: bold;
+            color: #666;
+            text-align: center;
+        }}
+
+        .compare-btn {{
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 14px 32px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 20px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }}
+
+        .compare-btn:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }}
+
+        .compare-btn:disabled {{
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }}
+
+        #comparison-result {{
+            display: none;
+        }}
+
+        .comparison-grid {{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }}
+
+        .team-card {{
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+        }}
+
+        .team-card h2 {{
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            color: #1e3c72;
+        }}
+
+        .stat-row {{
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }}
+
+        .stat-row:last-child {{
+            border-bottom: none;
+        }}
+
+        .stat-label {{
+            font-weight: 600;
+            color: #666;
+        }}
+
+        .stat-value {{
+            font-weight: 700;
+            color: #1e3c72;
+        }}
+
+        .quad-section {{
+            margin-top: 30px;
+        }}
+
+        .quad-section h3 {{
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            color: #333;
+        }}
+
+        .quad-grid {{
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }}
+
+        .quad-card {{
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }}
+
+        .quad-card strong {{
+            display: block;
+            font-size: 1.4em;
+            color: #1e3c72;
+            margin-bottom: 5px;
+        }}
+
+        .quad-card span {{
+            font-size: 0.9em;
+            color: #666;
+        }}
+
+        @media (max-width: 768px) {{
+            .search-grid {{
+                grid-template-columns: 1fr;
+            }}
+
+            .vs-divider {{
+                margin: 10px 0;
+            }}
+
+            .comparison-grid {{
+                grid-template-columns: 1fr;
+            }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏀 Team Comparison</h1>
+            <p>Compare NCAA Basketball Teams Side-by-Side</p>
+        </div>
+
+        <div class="search-container">
+            <div class="search-grid">
+                <div class="team-search">
+                    <label for="team1">Team 1</label>
+                    <input type="text" id="team1" placeholder="Search for a team..." autocomplete="off">
+                </div>
+
+                <div class="vs-divider">VS</div>
+
+                <div class="team-search">
+                    <label for="team2">Team 2</label>
+                    <input type="text" id="team2" placeholder="Search for a team..." autocomplete="off">
+                </div>
+            </div>
+
+            <button class="compare-btn" id="compareBtn" disabled>Compare Teams</button>
+        </div>
+
+        <div id="comparison-result">
+            <div class="comparison-grid">
+                <div class="team-card" id="team1-card"></div>
+                <div class="team-card" id="team2-card"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // All team names for autocomplete
+        const teams = {json.dumps(team_names)};
+
+        // Autocomplete function
+        function autocomplete(inp, arr) {{
+            let currentFocus;
+
+            inp.addEventListener("input", function(e) {{
+                let a, b, i, val = this.value;
+                closeAllLists();
+                if (!val) {{ return false; }}
+                currentFocus = -1;
+
+                a = document.createElement("DIV");
+                a.setAttribute("id", this.id + "autocomplete-list");
+                a.setAttribute("class", "autocomplete-items");
+                this.parentNode.appendChild(a);
+
+                for (i = 0; i < arr.length; i++) {{
+                    if (arr[i].toUpperCase().includes(val.toUpperCase())) {{
+                        b = document.createElement("DIV");
+                        b.innerHTML = arr[i];
+                        b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+                        b.addEventListener("click", function(e) {{
+                            inp.value = this.getElementsByTagName("input")[0].value;
+                            closeAllLists();
+                            checkBothTeamsSelected();
+                        }});
+                        a.appendChild(b);
+                    }}
+                }}
+            }});
+
+            inp.addEventListener("keydown", function(e) {{
+                let x = document.getElementById(this.id + "autocomplete-list");
+                if (x) x = x.getElementsByTagName("div");
+                if (e.keyCode == 40) {{
+                    currentFocus++;
+                    addActive(x);
+                }} else if (e.keyCode == 38) {{
+                    currentFocus--;
+                    addActive(x);
+                }} else if (e.keyCode == 13) {{
+                    e.preventDefault();
+                    if (currentFocus > -1) {{
+                        if (x) x[currentFocus].click();
+                    }}
+                }}
+            }});
+
+            function addActive(x) {{
+                if (!x) return false;
+                removeActive(x);
+                if (currentFocus >= x.length) currentFocus = 0;
+                if (currentFocus < 0) currentFocus = (x.length - 1);
+                x[currentFocus].classList.add("autocomplete-active");
+            }}
+
+            function removeActive(x) {{
+                for (let i = 0; i < x.length; i++) {{
+                    x[i].classList.remove("autocomplete-active");
+                }}
+            }}
+
+            function closeAllLists(elmnt) {{
+                const x = document.getElementsByClassName("autocomplete-items");
+                for (let i = 0; i < x.length; i++) {{
+                    if (elmnt != x[i] && elmnt != inp) {{
+                        x[i].parentNode.removeChild(x[i]);
+                    }}
+                }}
+            }}
+
+            document.addEventListener("click", function (e) {{
+                closeAllLists(e.target);
+            }});
+        }}
+
+        // Initialize autocomplete for both inputs
+        autocomplete(document.getElementById("team1"), teams);
+        autocomplete(document.getElementById("team2"), teams);
+
+        // Check if both teams are selected
+        function checkBothTeamsSelected() {{
+            const team1 = document.getElementById("team1").value;
+            const team2 = document.getElementById("team2").value;
+            const btn = document.getElementById("compareBtn");
+
+            if (teams.includes(team1) && teams.includes(team2)) {{
+                btn.disabled = false;
+            }} else {{
+                btn.disabled = true;
+            }}
+        }}
+
+        document.getElementById("team1").addEventListener("change", checkBothTeamsSelected);
+        document.getElementById("team2").addEventListener("change", checkBothTeamsSelected);
+
+        // Compare button click
+        document.getElementById("compareBtn").addEventListener("click", function() {{
+            const team1 = document.getElementById("team1").value;
+            const team2 = document.getElementById("team2").value;
+
+            // Update URL
+            const url = new URL(window.location);
+            url.searchParams.set('team1', team1);
+            url.searchParams.set('team2', team2);
+            window.history.pushState({{}}, '', url);
+
+            // Show comparison (for now, just placeholder)
+            document.getElementById("comparison-result").style.display = "block";
+            document.getElementById("team1-card").innerHTML = `<h2>${{team1}}</h2><p>Loading data...</p>`;
+            document.getElementById("team2-card").innerHTML = `<h2>${{team2}}</h2><p>Loading data...</p>`;
+
+            // TODO: Load actual team data and display comparison
+            alert("Comparison feature coming soon! For now, visit individual team pages.");
+        }});
+
+        // Check URL parameters on load
+        window.addEventListener("load", function() {{
+            const params = new URLSearchParams(window.location.search);
+            const team1 = params.get('team1');
+            const team2 = params.get('team2');
+
+            if (team1 && teams.includes(team1)) {{
+                document.getElementById("team1").value = team1;
+            }}
+
+            if (team2 && teams.includes(team2)) {{
+                document.getElementById("team2").value = team2;
+            }}
+
+            checkBothTeamsSelected();
+
+            if (team1 && team2) {{
+                document.getElementById("compareBtn").click();
+            }}
+        }});
+    </script>
+</body>
+</html>'''
+
+    # Save comparison page
+    output_file = Path('public/compare/index.html')
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(output_file, 'w') as f:
+        f.write(html)
+
+    print(f"✅ Generated comparison page: {output_file}")
+    return True
+
+
+if __name__ == "__main__":
+    generate_comparison_page()

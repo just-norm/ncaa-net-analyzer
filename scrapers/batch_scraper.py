@@ -83,7 +83,8 @@ def scrape_all_teams(max_workers=3, retry_failed=True, batch_size=None, delay=1)
 
     for team in active_teams:
         team_slug = team['slug']
-        schedule_file = output_base_dir / team_slug / 'schedule_analysis.csv'
+        # Check for the file that combined_scraper actually creates
+        schedule_file = output_base_dir / team_slug / f'{team_slug}_schedule_analysis.csv'
 
         if schedule_file.exists():
             already_scraped.append(team['name'])

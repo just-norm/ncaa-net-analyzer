@@ -21,18 +21,25 @@ def scrape_team_schedule(team_name, year=2026):
     Returns:
         list: Schedule with games
     """
-    # Convert team name to Sports-Reference slug
-    team_slug = team_name.lower().replace(' ', '-')
-
-    # Common replacements for Sports-Reference
-    replacements = {
-        'uconn': 'connecticut',
-        'st.': 'saint',
-        'st-': 'saint-'
+    # Manual mappings for teams with non-standard Sports-Reference URLs
+    url_mappings = {
+        'Iowa St.': 'iowa-state',
+        'Michigan St.': 'michigan-state',
+        'Utah St.': 'utah-state',
+        'NC State': 'north-carolina-state',
+        'BYU': 'brigham-young',
+        'UConn': 'connecticut',
+        'A&M-Corpus Christi': 'texas-am-corpus-christi',
+        'Saint Mary\'s': 'saint-marys-ca',
+        'St. John\'s': 'st-johns-ny',
     }
 
-    for old, new in replacements.items():
-        team_slug = team_slug.replace(old, new)
+    # Check if team has manual mapping
+    if team_name in url_mappings:
+        team_slug = url_mappings[team_name]
+    else:
+        # Default: convert to lowercase with hyphens
+        team_slug = team_name.lower().replace(' ', '-').replace('&', '')
 
     url = f'https://www.sports-reference.com/cbb/schools/{team_slug}/men/{year}-schedule.html'
 

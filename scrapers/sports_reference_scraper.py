@@ -26,12 +26,17 @@ def scrape_team_schedule(team_name, year=2026):
         'Iowa St.': 'iowa-state',
         'Michigan St.': 'michigan-state',
         'Utah St.': 'utah-state',
+        'Ohio St.': 'ohio-state',
         'NC State': 'north-carolina-state',
         'BYU': 'brigham-young',
         'UConn': 'connecticut',
         'A&M-Corpus Christi': 'texas-am-corpus-christi',
         'Saint Mary\'s': 'saint-marys-ca',
+        'Saint Mary\'s (CA)': 'saint-marys-ca',
         'St. John\'s': 'st-johns-ny',
+        'St. John\'s (NY)': 'st-johns-ny',
+        'Miami (FL)': 'miami-fl',
+        'SMU': 'southern-methodist',
     }
 
     # Check if team has manual mapping

@@ -1,0 +1,29 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 7,Massachusetts Institute of Technology,Home,W,79-50,,NR,Q4
+Nov 9,New Hampshire,Home,W,86-75,334,NR,Q4
+Nov 11,Northeastern,Home,L,77-60,273,NR,Q4
+Nov 15,Army,Away,W,75-52,332,NR,Q4
+Nov 16,Marist,Away,W,56-54,170,NR,Q3
+Nov 19,Penn State,Away,L,84-80,122,NR,Q2
+Nov 22,Boston University,Neutral,L,75-74,152,NR,Q3
+Nov 26,Boston College,Away,L,73-60,152,NR,Q3
+Nov 29,Bryant,Home,W,56-53,352,NR,Q4
+Dec 3,Massachusetts,Away,L,78-71,191,NR,Q3
+Dec 6,Furman,Away,L,79-69,194,NR,Q3
+Dec 20,Holy Cross,Home,W,81-53,327,NR,Q4
+Dec 23,St. John's (NY),Away,L,85-59,24,NR,Q1
+Dec 28,Colgate,Away,W,78-69,201,NR,Q3
+Jan 5,Dartmouth,Home,L,76-68,252,NR,Q4
+Jan 10,Columbia,Away,W,79-54,180,NR,Q3
+Jan 17,Princeton,Home,W,87-80,254,NR,Q4
+Jan 19,Pennsylvania,Home,W,64-63,,NR,Q4
+Jan 24,Cornell,Home,L,86-79,146,NR,Q3
+Jan 30,Brown,Away,W,69-59,285,NR,Q4
+Jan 31,Yale,Away,W,67-65,65,NR,Q1
+Feb 7,Dartmouth,Away,W,71-58,252,NR,Q4
+Feb 13,Brown,Home,W,56-53,285,NR,Q4
+Feb 14,Yale,Home,L,76-75,65,NR,Q2
+Feb 21,Cornell,Away,TBD,,146,NR,Q3
+Feb 27,Princeton,Away,TBD,,254,NR,Q4
+Feb 28,Pennsylvania,Away,TBD,,,NR,Q4
+Mar 6,Columbia,Home,TBD,,180,NR,Q4

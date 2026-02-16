@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Hampton,Home,W,90-86,258,NR,Q4
+Nov 8,Wofford,Away,L,86-76,229,NR,Q3
+Nov 10,Little Rock,Home,W,92-72,307,NR,Q4
+Nov 12,Indiana,Away,L,101-70,34,NR,Q1
+Nov 14,Texas Tech,Away,L,80-63,16,NR,Q1
+Nov 22,Wichita State,Away,L,75-58,,NR,Q4
+Nov 25,Dominican (IL),Home,W,125-70,,NR,Q4
+Nov 29,Akron,Away,L,105-81,62,NR,Q1
+Dec 6,Robert Morris,Home,W,74-72,161,NR,Q4
+Dec 14,Indiana State,Home,L,70-68,218,NR,Q4
+Dec 19,South Dakota State,Neutral,W,88-87,204,NR,Q4
+Dec 21,Cleveland State,Away,W,81-71,,NR,Q4
+Dec 29,Purdue Fort Wayne,Home,W,77-55,253,NR,Q4
+Dec 30,Wisconsin,Away,L,80-60,33,NR,Q1
+Jan 1,Wright State,Away,L,76-70,,NR,Q4
+Jan 5,Green Bay,Away,L,79-76,224,NR,Q3
+Jan 9,Northern Kentucky,Home,L,85-67,199,NR,Q4
+Jan 11,IU Indy,Home,W,95-83,313,NR,Q4
+Jan 15,Oakland,Home,L,73-60,154,NR,Q3
+Jan 18,Purdue Fort Wayne,Away,L,100-82,253,NR,Q4
+Jan 22,Robert Morris,Away,L,88-76,161,NR,Q3
+Jan 24,Youngstown State,Away,W,65-64,,NR,Q4
+Jan 30,Wright State,Home,L,76-69,,NR,Q4
+Feb 1,Cleveland State,Home,L,90-88,,NR,Q4
+Feb 4,Detroit Mercy,Home,L,76-63,250,NR,Q4
+Feb 7,Northern Kentucky,Away,L,67-62,199,NR,Q3
+Feb 10,IU Indy,Away,W,92-88,313,NR,Q4
+Feb 15,Green Bay,Home,W,75-72,224,NR,Q4
+Feb 20,Detroit Mercy,Away,TBD,,250,NR,Q4
+Feb 22,Oakland,Away,TBD,,154,NR,Q3
+Feb 25,Youngstown State,Home,TBD,,,NR,Q4

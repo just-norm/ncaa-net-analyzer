@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 5,Delaware State,Home,W,83-65,,NR,Q4
+Nov 11,La Salle,Home,W,90-63,241,NR,Q4
+Nov 15,Boston College,Home,L,76-71,152,NR,Q3
+Nov 19,Hofstra,Home,W,81-76,102,NR,Q3
+Nov 24,UC San Diego,Neutral,L,91-76,125,NR,Q3
+Nov 25,Princeton,Neutral,W,79-75,254,NR,Q4
+Nov 26,Rhode Island,Neutral,L,90-75,136,NR,Q3
+Dec 1,Villanova,Away,L,74-56,30,NR,Q1
+Dec 6,Saint Joseph's,Neutral,L,70-69,157,NR,Q3
+Dec 9,Georgian Court,Home,W,103-57,,NR,Q4
+Dec 14,Saint Francis (PA),Home,W,95-67,,NR,Q4
+Dec 18,Davidson,Away,W,68-63,104,NR,Q2
+Dec 22,Princeton,Home,W,65-61,254,NR,Q4
+Dec 30,Charlotte,Away,W,76-73,189,NR,Q3
+Jan 3,UTSA,Home,W,76-57,341,NR,Q4
+Jan 7,East Carolina,Home,W,75-67,269,NR,Q4
+Jan 14,Memphis,Away,L,55-53,105,NR,Q2
+Jan 18,Florida Atlantic,Home,L,79-73,,NR,Q4
+Jan 21,Rice,Away,W,69-65,248,NR,Q4
+Jan 24,UTSA,Away,W,70-64,341,NR,Q4
+Jan 28,Charlotte,Home,L,80-76,189,NR,Q4
+Jan 31,South Florida,Home,W,79-78,,NR,Q4
+Feb 7,East Carolina,Away,W,81-73,269,NR,Q4
+Feb 11,Tulane,Away,L,77-66,190,NR,Q3
+Feb 15,North Texas,Home,L,65-62,148,NR,Q3
+Feb 18,UAB,Home,TBD,,119,NR,Q3
+Feb 21,Wichita State,Away,TBD,,,NR,Q4
+Feb 25,Florida Atlantic,Away,TBD,,,NR,Q4
+Mar 1,Rice,Home,TBD,,248,NR,Q4
+Mar 5,Tulane,Home,TBD,,190,NR,Q4
+Mar 8,Tulsa,Away,TBD,,53,NR,Q1

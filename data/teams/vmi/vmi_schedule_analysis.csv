@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Johnson & Wales (NC),Home,W,122-58,,NR,Q4
+Nov 7,Southern Indiana,Away,W,78-74,,NR,Q4
+Nov 9,Missouri,Away,L,106-68,66,NR,Q1
+Nov 12,VU Lynchburg,Home,W,106-54,,NR,Q4
+Nov 15,Jacksonville,Home,L,69-67,306,NR,Q4
+Nov 19,Richmond,Away,L,87-54,142,NR,Q3
+Nov 22,Stetson,Away,L,99-80,325,NR,Q4
+Nov 24,Buffalo,Neutral,L,78-70,177,NR,Q3
+Nov 26,Bowling Green,Neutral,L,81-48,141,NR,Q3
+Nov 29,UCF,Away,L,82-57,50,NR,Q1
+Dec 5,Christendom,Home,W,89-36,,NR,Q4
+Dec 9,Loyola (MD),Home,W,86-70,,NR,Q4
+Dec 21,Radford,Away,L,97-90,239,NR,Q3
+Jan 1,Samford,Home,L,78-58,210,NR,Q4
+Jan 3,Chattanooga,Home,W,79-71,300,NR,Q4
+Jan 7,East Tennessee State,Away,L,81-67,129,NR,Q2
+Jan 10,Furman,Away,L,69-48,194,NR,Q3
+Jan 15,Mercer,Home,L,77-67,153,NR,Q3
+Jan 17,The Citadel,Home,L,82-68,351,NR,Q4
+Jan 21,UNC Greensboro,Home,L,85-78,294,NR,Q4
+Jan 24,Western Carolina,Away,L,88-58,263,NR,Q4
+Jan 29,The Citadel,Away,L,80-56,351,NR,Q4
+Jan 31,Mercer,Away,L,95-81,153,NR,Q3
+Feb 4,Wofford,Home,L,81-67,229,NR,Q4
+Feb 7,East Tennessee State,Home,L,87-70,129,NR,Q3
+Feb 11,UNC Greensboro,Away,L,92-71,294,NR,Q4
+Feb 14,Furman,Home,L,90-72,194,NR,Q4
+Feb 18,Wofford,Away,TBD,,229,NR,Q3
+Feb 21,Western Carolina,Home,TBD,,263,NR,Q4
+Feb 26,Samford,Away,TBD,,210,NR,Q3
+Feb 28,Chattanooga,Away,TBD,,300,NR,Q4

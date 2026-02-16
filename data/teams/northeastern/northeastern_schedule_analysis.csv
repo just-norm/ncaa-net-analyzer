@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Boston University,Home,L,76-75,152,NR,Q3
+Nov 7,Colgate,Away,W,68-65,201,NR,Q3
+Nov 11,Harvard,Away,W,77-60,160,NR,Q3
+Nov 15,Vermont,Home,L,85-74,215,NR,Q4
+Nov 20,Princeton,Away,L,70-57,254,NR,Q4
+Nov 22,Duquesne,Neutral,W,93-86,117,NR,Q3
+Nov 28,Wake Forest,Away,L,86-73,64,NR,Q1
+Dec 3,Holy Cross,Away,L,76-59,327,NR,Q4
+Dec 7,Central Connecticut State,Home,W,73-56,,NR,Q4
+Dec 20,Syracuse,Away,L,91-83,69,NR,Q1
+Dec 22,Rhode Island,Away,L,85-77,136,NR,Q3
+Dec 29,Elon,Away,L,103-91,192,NR,Q3
+Dec 31,North Carolina A&T,Away,W,85-74,,NR,Q4
+Jan 3,Campbell,Away,L,97-82,207,NR,Q3
+Jan 8,UNC Wilmington,Home,L,87-78,,NR,Q4
+Jan 10,Towson,Home,L,87-78,176,NR,Q4
+Jan 15,Elon,Home,W,85-78,192,NR,Q4
+Jan 19,Monmouth,Away,L,81-68,193,NR,Q3
+Jan 22,Stony Brook,Home,L,95-80,212,NR,Q4
+Jan 24,Drexel,Away,L,83-78,217,NR,Q3
+Jan 31,College of Charleston,Home,L,89-84,,NR,Q4
+Feb 5,Hofstra,Away,L,80-63,102,NR,Q2
+Feb 7,Stony Brook,Away,L,69-55,212,NR,Q3
+Feb 12,William & Mary,Home,L,94-67,114,NR,Q3
+Feb 19,Drexel,Home,TBD,,217,NR,Q4
+Feb 21,Hofstra,Home,TBD,,102,NR,Q3
+Feb 26,William & Mary,Away,TBD,,114,NR,Q2
+Feb 28,Hampton,Away,TBD,,258,NR,Q4
+Mar 3,Monmouth,Home,TBD,,193,NR,Q4

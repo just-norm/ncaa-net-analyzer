@@ -1,0 +1,33 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Southern Methodist,Away,L,96-76,36,NR,Q1
+Nov 5,Louisiana State,Away,L,96-60,67,NR,Q1
+Nov 8,Texas A&M-Corpus Christi,Home,W,85-77,196,NR,Q4
+Nov 11,Merrimack,Home,W,76-62,185,NR,Q4
+Nov 14,Baylor,Away,L,94-81,47,NR,Q1
+Nov 17,Angelo State,Home,W,77-54,,NR,Q4
+Nov 20,Rice,Away,W,90-74,248,NR,Q4
+Nov 28,Midwestern State,Home,W,67-57,,NR,Q4
+Dec 1,Cincinnati,Away,L,76-58,63,NR,Q1
+Dec 3,Howard Payne,Home,W,119-54,,NR,Q4
+Dec 7,Cameron,Home,W,93-63,,NR,Q4
+Dec 16,Mississippi Valley State,Away,W,88-64,,NR,Q4
+Dec 19,Florida A&M,Home,W,78-54,336,NR,Q4
+Dec 29,UT Arlington,Away,W,69-63,158,NR,Q3
+Jan 1,Utah Valley,Home,L,91-85,88,NR,Q3
+Jan 3,California Baptist,Home,W,81-76,109,NR,Q3
+Jan 8,Abilene Christian,Home,L,84-80,231,NR,Q4
+Jan 15,Southern Utah,Away,L,106-105,282,NR,Q4
+Jan 17,Utah Tech,Away,L,75-71,156,NR,Q3
+Jan 21,UT Arlington,Away,L,71-64,158,NR,Q3
+Jan 26,Abilene Christian,Home,TBD,,231,NR,Q4
+Jan 29,Utah Valley,Home,L,83-55,88,NR,Q3
+Jan 31,Utah Tech,Home,L,65-59,156,NR,Q3
+Feb 5,California Baptist,Away,L,56-55,109,NR,Q2
+Feb 7,Southern Utah,Away,W,62-59,282,NR,Q4
+Feb 14,Abilene Christian,Away,L,73-59,231,NR,Q3
+Feb 16,Abilene Christian,Home,TBD,,231,NR,Q4
+Feb 19,Southern Utah,Home,TBD,,282,NR,Q4
+Feb 21,Utah Tech,Home,TBD,,156,NR,Q3
+Feb 26,Utah Valley,Away,TBD,,88,NR,Q2
+Feb 28,California Baptist,Away,TBD,,109,NR,Q2
+Mar 5,UT Arlington,Home,TBD,,158,NR,Q3

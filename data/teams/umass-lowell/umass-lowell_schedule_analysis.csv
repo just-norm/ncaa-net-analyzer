@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Rivier,Home,W,107-55,,NR,Q4
+Nov 7,Connecticut,Away,L,110-47,10,NR,Q1
+Nov 10,New Haven,Home,L,73-67,329,NR,Q4
+Nov 13,Columbia,Away,L,86-72,180,NR,Q3
+Nov 16,Wake Forest,Away,L,109-75,64,NR,Q1
+Nov 19,Bradley,Away,L,87-77,113,NR,Q2
+Nov 22,Saint Peter's,Away,L,68-66,226,NR,Q3
+Nov 26,Stonehill,Away,W,75-64,339,NR,Q4
+Nov 29,Emerson,Home,W,90-67,,NR,Q4
+Dec 6,Massachusetts,Away,L,80-60,191,NR,Q3
+Dec 10,Fisher College,Home,W,122-73,,NR,Q4
+Dec 13,Quinnipiac,Away,L,75-71,202,NR,Q3
+Dec 16,Sacred Heart,Home,W,87-82,297,NR,Q4
+Dec 21,Boston University,Away,L,88-76,152,NR,Q3
+Dec 29,Iowa,Away,L,90-62,27,NR,Q1
+Jan 3,Albany (NY),Home,W,83-71,,NR,Q4
+Jan 8,Bryant,Away,W,77-63,352,NR,Q4
+Jan 10,Binghamton,Away,W,73-68,362,NR,Q4
+Jan 15,NJIT,Home,L,73-64,301,NR,Q4
+Jan 22,Vermont,Home,L,77-68,215,NR,Q4
+Jan 24,Maryland-Baltimore County,Away,L,79-56,,NR,Q4
+Jan 29,New Hampshire,Away,L,66-61,334,NR,Q4
+Jan 31,Maine,Home,W,91-77,343,NR,Q4
+Feb 5,NJIT,Away,L,81-56,301,NR,Q4
+Feb 7,Albany (NY),Away,W,89-79,,NR,Q4
+Feb 12,Bryant,Home,W,88-69,352,NR,Q4
+Feb 19,New Hampshire,Home,TBD,,334,NR,Q4
+Feb 21,Binghamton,Home,TBD,,362,NR,Q4
+Feb 26,Vermont,Away,TBD,,215,NR,Q3
+Feb 28,Maryland-Baltimore County,Home,TBD,,,NR,Q4
+Mar 3,Maine,Away,TBD,,343,NR,Q4

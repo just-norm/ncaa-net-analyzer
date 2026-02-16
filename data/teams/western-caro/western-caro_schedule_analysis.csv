@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Cincinnati,Away,L,94-63,63,NR,Q1
+Nov 8,Duke,Away,L,95-54,2,NR,Q1
+Nov 13,Voorhees,Home,W,95-44,,NR,Q4
+Nov 16,Stetson,Home,W,76-65,325,NR,Q4
+Nov 19,UNC Asheville,Home,W,80-73,228,NR,Q4
+Nov 22,Lipscomb,Away,L,83-62,186,NR,Q3
+Nov 29,High Point,Away,L,93-73,75,NR,Q1
+Dec 2,VU Lynchburg,Home,W,124-62,,NR,Q4
+Dec 6,South Carolina Upstate,Away,L,78-67,293,NR,Q4
+Dec 11,Virginia Tech,Away,L,96-74,58,NR,Q1
+Dec 18,Georgia,Away,L,112-82,39,NR,Q1
+Dec 31,Wofford,Home,L,79-74,229,NR,Q4
+Jan 3,Furman,Away,W,80-77,194,NR,Q3
+Jan 7,Samford,Away,L,82-77,210,NR,Q3
+Jan 10,The Citadel,Away,L,79-77,351,NR,Q4
+Jan 14,East Tennessee State,Home,W,72-68,129,NR,Q3
+Jan 17,Chattanooga,Home,L,90-82,300,NR,Q4
+Jan 21,Mercer,Away,L,88-76,153,NR,Q3
+Jan 24,Virginia Military Institute,Home,W,88-58,,NR,Q4
+Jan 29,East Tennessee State,Away,W,90-88,129,NR,Q2
+Feb 1,Samford,Home,L,88-74,210,NR,Q4
+Feb 4,UNC Greensboro,Away,L,81-78,294,NR,Q4
+Feb 7,Wofford,Away,L,77-66,229,NR,Q3
+Feb 11,The Citadel,Home,W,87-49,351,NR,Q4
+Feb 14,Chattanooga,Away,W,81-76,300,NR,Q4
+Feb 18,UNC Greensboro,Home,TBD,,294,NR,Q4
+Feb 21,Virginia Military Institute,Away,TBD,,,NR,Q4
+Feb 25,Mercer,Home,TBD,,153,NR,Q3
+Feb 28,Furman,Home,TBD,,194,NR,Q4

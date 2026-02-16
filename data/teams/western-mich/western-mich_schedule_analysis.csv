@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Coastal Carolina,Home,W,76-71,221,NR,Q4
+Nov 6,Northwood,Home,L,85-81,,NR,Q4
+Nov 9,Campbell,Away,L,91-82,207,NR,Q3
+Nov 12,Purdue Fort Wayne,Home,W,83-71,253,NR,Q4
+Nov 16,South Dakota,Away,L,83-78,276,NR,Q4
+Nov 20,Ohio State,Away,L,91-58,38,NR,Q1
+Nov 23,Mount St. Mary's,Home,W,83-60,299,NR,Q4
+Nov 29,Valparaiso,Away,L,84-55,163,NR,Q3
+Dec 3,Southern Indiana,Home,W,88-74,,NR,Q4
+Dec 6,Southern Illinois-Edwardsville,Away,W,83-73,,NR,Q4
+Dec 14,Iowa,Away,L,91-51,27,NR,Q1
+Dec 20,Buffalo,Home,L,88-71,177,NR,Q4
+Dec 22,Defiance,Home,W,94-57,,NR,Q4
+Dec 30,Toledo,Away,L,84-79,172,NR,Q3
+Jan 6,Miami (OH),Away,L,87-76,51,NR,Q1
+Jan 10,Eastern Michigan,Home,W,79-62,,NR,Q4
+Jan 13,Massachusetts,Home,L,85-82,191,NR,Q4
+Jan 17,Akron,Away,L,104-89,62,NR,Q1
+Jan 20,Bowling Green,Home,L,72-54,141,NR,Q3
+Jan 24,Central Michigan,Home,W,77-65,,NR,Q4
+Jan 27,Northern Illinois,Away,L,85-65,,NR,Q4
+Feb 3,Ohio,Away,L,91-71,213,NR,Q3
+Feb 7,Texas State,Away,L,77-61,,NR,Q4
+Feb 11,Toledo,Home,L,90-79,172,NR,Q4
+Feb 14,Eastern Michigan,Away,W,76-62,,NR,Q4
+Feb 17,Akron,Home,TBD,,62,NR,Q2
+Feb 21,Central Michigan,Away,TBD,,,NR,Q4
+Feb 24,Bowling Green,Away,TBD,,141,NR,Q3
+Feb 27,Miami (OH),Home,TBD,,51,NR,Q2
+Mar 3,Ball State,Home,TBD,,,NR,Q4
+Mar 6,Kent State,Away,TBD,,144,NR,Q3

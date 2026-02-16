@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,South Alabama,Home,L,76-74,168,NR,Q4
+Nov 8,Marshall,Home,L,85-73,149,NR,Q3
+Nov 11,Wright State,Away,W,81-71,,NR,Q4
+Nov 15,Detroit Mercy,Home,W,90-83,250,NR,Q4
+Nov 19,Youngstown State,Home,W,92-75,,NR,Q4
+Nov 24,Troy,Neutral,W,75-68,132,NR,Q3
+Nov 26,Belmont,Neutral,L,87-72,55,NR,Q2
+Dec 1,Central State (OH),Home,W,102-58,,NR,Q4
+Dec 6,Oakland,Away,L,98-97,154,NR,Q3
+Dec 13,Robert Morris,Away,L,75-70,161,NR,Q3
+Dec 16,Michigan State,Away,L,92-69,15,NR,Q1
+Dec 20,Lourdes,Home,W,100-67,,NR,Q4
+Dec 30,Western Michigan,Home,W,84-79,,NR,Q4
+Jan 3,Central Michigan,Away,W,78-75,,NR,Q4
+Jan 6,Northern Illinois,Away,W,75-61,,NR,Q4
+Jan 9,Miami (OH),Home,L,87-73,51,NR,Q2
+Jan 13,Ohio,Home,W,101-85,213,NR,Q4
+Jan 16,Kent State,Away,L,87-84,144,NR,Q3
+Jan 20,Massachusetts,Away,L,84-82,191,NR,Q3
+Jan 24,Bowling Green,Home,W,73-72,141,NR,Q3
+Jan 27,Akron,Away,L,91-81,62,NR,Q1
+Jan 31,Ball State,Home,W,73-55,,NR,Q4
+Feb 3,Kent State,Home,L,75-72,144,NR,Q3
+Feb 7,James Madison,Away,L,73-71,219,NR,Q3
+Feb 11,Western Michigan,Away,W,90-79,,NR,Q4
+Feb 14,Bowling Green,Away,L,80-70,141,NR,Q3
+Feb 21,Eastern Michigan,Home,TBD,,,NR,Q4
+Feb 24,Northern Illinois,Home,TBD,,,NR,Q4
+Feb 28,Ohio,Away,TBD,,213,NR,Q3
+Mar 3,Miami (OH),Away,TBD,,51,NR,Q1
+Mar 6,Buffalo,Home,TBD,,177,NR,Q4

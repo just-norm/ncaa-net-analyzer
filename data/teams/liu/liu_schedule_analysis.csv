@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Notre Dame,Away,L,89-67,87,NR,Q2
+Nov 6,IU Indy,Away,W,94-90,313,NR,Q4
+Nov 11,Air Force,Away,W,76-72,346,NR,Q4
+Nov 15,James Madison,Home,W,88-79,219,NR,Q4
+Nov 20,Fordham,Away,L,69-53,178,NR,Q3
+Nov 22,Illinois,Away,L,98-58,5,NR,Q1
+Nov 24,Missouri State,Away,W,75-61,,NR,Q4
+Dec 2,Winthrop,Home,L,94-92,121,NR,Q3
+Dec 6,Lehigh,Away,W,87-82,295,NR,Q4
+Dec 13,La Salle,Home,W,70-60,241,NR,Q4
+Dec 16,Mississippi State,Away,L,87-83,94,NR,Q2
+Dec 20,Florida International,Away,L,86-79,,NR,Q4
+Dec 29,Georgia,Away,L,89-74,39,NR,Q1
+Jan 2,Central Connecticut State,Home,W,84-78,,NR,Q4
+Jan 4,Chicago State,Away,W,74-55,,NR,Q4
+Jan 8,Mercyhurst,Home,W,60-58,283,NR,Q4
+Jan 10,Saint Francis (PA),Home,W,67-63,,NR,Q4
+Jan 17,FDU,Away,W,66-59,328,NR,Q4
+Jan 19,Le Moyne,Away,L,83-77,280,NR,Q4
+Jan 23,Stonehill,Away,W,66-63,339,NR,Q4
+Jan 29,Le Moyne,Home,W,83-61,280,NR,Q4
+Jan 31,Central Connecticut State,Away,W,80-59,,NR,Q4
+Feb 5,New Haven,Home,W,60-55,329,NR,Q4
+Feb 7,Stonehill,Home,W,61-54,339,NR,Q4
+Feb 12,Wagner,Away,W,67-57,315,NR,Q4
+Feb 14,New Haven,Away,L,55-52,329,NR,Q4
+Feb 16,Wagner,Home,TBD,,315,NR,Q4
+Feb 19,Saint Francis (PA),Away,TBD,,,NR,Q4
+Feb 21,Mercyhurst,Away,TBD,,283,NR,Q4
+Feb 26,Chicago State,Home,TBD,,,NR,Q4
+Feb 28,FDU,Home,TBD,,328,NR,Q4

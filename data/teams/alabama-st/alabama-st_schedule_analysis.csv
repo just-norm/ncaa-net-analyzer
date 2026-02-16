@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 7,Florida State,Away,L,101-64,82,NR,Q2
+Nov 11,UAB,Away,W,77-74,119,NR,Q2
+Nov 14,VU Lynchburg,Home,W,124-68,,NR,Q4
+Nov 17,Colorado,Away,L,94-66,73,NR,Q1
+Nov 19,Air Force,Away,L,66-64,346,NR,Q4
+Nov 21,IU Indy,Neutral,W,101-80,313,NR,Q4
+Nov 23,Southern Illinois-Edwardsville,Neutral,L,83-68,,NR,Q4
+Nov 26,New Mexico,Away,L,93-87,44,NR,Q1
+Dec 7,Tennessee-Martin,Away,L,74-64,,NR,Q4
+Dec 11,Missouri,Away,L,85-77,66,NR,Q1
+Dec 17,Cincinnati,Away,L,88-51,63,NR,Q1
+Dec 22,Memphis,Away,L,88-67,105,NR,Q2
+Dec 29,Mississippi State,Away,L,94-56,94,NR,Q2
+Jan 3,Mississippi Valley State,Away,W,89-69,,NR,Q4
+Jan 5,Arkansas-Pine Bluff,Away,L,90-79,,NR,Q4
+Jan 10,Jackson State,Home,L,75-64,347,NR,Q4
+Jan 12,Alcorn State,Home,W,81-66,,NR,Q4
+Jan 19,Alabama A&M,Neutral,L,73-69,311,NR,Q4
+Jan 24,Prairie View,Away,W,95-80,330,NR,Q4
+Jan 27,Texas Southern,Away,L,96-64,319,NR,Q4
+Jan 31,Bethune-Cookman,Home,L,69-54,251,NR,Q4
+Feb 2,Florida A&M,Home,W,79-66,336,NR,Q4
+Feb 7,Grambling,Away,L,57-47,275,NR,Q4
+Feb 9,Southern,Away,L,69-68,279,NR,Q4
+Feb 14,Arkansas-Pine Bluff,Home,W,79-61,,NR,Q4
+Feb 16,Mississippi Valley State,Home,TBD,,,NR,Q4
+Feb 19,Bethune-Cookman,Away,TBD,,251,NR,Q4
+Feb 19,Florida A&M,Away,TBD,,336,NR,Q4
+Feb 28,Alabama A&M,Away,TBD,,311,NR,Q4
+Mar 3,Southern,Home,TBD,,279,NR,Q4
+Mar 5,Grambling,Home,TBD,,275,NR,Q4

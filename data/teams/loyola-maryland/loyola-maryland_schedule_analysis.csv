@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Towson,Neutral,L,67-56,176,NR,Q3
+Nov 6,Penn State Abington,Home,W,96-60,,NR,Q4
+Nov 11,NJIT,Home,L,66-64,301,NR,Q4
+Nov 15,Stonehill,Neutral,W,74-63,339,NR,Q4
+Nov 16,Fairfield,Away,L,85-82,242,NR,Q4
+Nov 19,Duquesne,Away,L,92-78,117,NR,Q2
+Nov 21,Kentucky,Away,L,88-46,28,NR,Q1
+Nov 25,Washington College,Home,W,101-51,52,NR,Q2
+Nov 30,Coppin State,Home,W,95-84,,NR,Q4
+Dec 3,Hampton,Away,L,93-71,258,NR,Q4
+Dec 9,Virginia Military Institute,Away,L,86-70,,NR,Q4
+Dec 13,Mount St. Mary's,Home,L,81-73,299,NR,Q4
+Dec 21,George Mason,Away,L,86-79,91,NR,Q2
+Dec 31,American,Away,L,84-69,261,NR,Q4
+Jan 3,Lafayette,Home,L,79-64,326,NR,Q4
+Jan 7,Army,Away,W,84-76,332,NR,Q4
+Jan 10,Bucknell,Away,L,70-67,333,NR,Q4
+Jan 14,Colgate,Home,L,86-80,201,NR,Q4
+Jan 17,Boston University,Home,W,74-57,152,NR,Q3
+Jan 19,Lehigh,Away,L,88-81,295,NR,Q4
+Jan 24,Bucknell,Home,W,67-62,333,NR,Q4
+Jan 28,American,Home,W,77-68,261,NR,Q4
+Jan 31,Navy,Away,L,87-71,150,NR,Q3
+Feb 4,Lehigh,Home,W,89-84,295,NR,Q4
+Feb 7,Boston University,Away,L,78-69,152,NR,Q3
+Feb 11,Lafayette,Away,W,68-54,326,NR,Q4
+Feb 15,Holy Cross,Home,W,83-73,327,NR,Q4
+Feb 18,Army,Home,TBD,,332,NR,Q4
+Feb 21,Colgate,Away,TBD,,201,NR,Q3
+Feb 25,Navy,Home,TBD,,150,NR,Q3
+Feb 28,Holy Cross,Away,TBD,,327,NR,Q4

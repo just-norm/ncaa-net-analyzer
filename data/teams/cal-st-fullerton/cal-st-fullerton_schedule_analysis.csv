@@ -1,0 +1,33 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Cal Tech,Home,W,136-82,,NR,Q4
+Nov 8,Wyoming,Away,L,92-82,101,NR,Q2
+Nov 10,California,Away,L,93-65,61,NR,Q1
+Nov 15,Pacific,Home,L,85-73,103,NR,Q3
+Nov 21,Portland,Away,L,103-85,208,NR,Q3
+Nov 22,St. Thomas,Neutral,W,88-80,,NR,Q4
+Nov 23,Northern Colorado,Neutral,L,97-93,,NR,Q4
+Nov 29,Pepperdine,Home,W,83-69,284,NR,Q4
+Dec 4,Cal Poly,Home,L,94-91,238,NR,Q4
+Dec 7,Hawaii,Away,L,69-59,98,NR,Q2
+Dec 10,Bethesda University (CA),Home,W,116-66,,NR,Q4
+Dec 13,Denver,Away,W,105-86,233,NR,Q3
+Dec 21,Oklahoma State,Away,L,94-89,72,NR,Q1
+Dec 28,Southern Methodist,Away,L,110-63,36,NR,Q1
+Jan 1,UC Santa Barbara,Home,W,95-84,133,NR,Q3
+Jan 3,UC Irvine,Home,L,86-64,120,NR,Q3
+Jan 8,UC San Diego,Away,W,88-71,125,NR,Q2
+Jan 10,Cal State Northridge,Home,W,86-79,,NR,Q4
+Jan 15,UC Davis,Away,L,74-69,166,NR,Q3
+Jan 17,UC Riverside,Away,L,81-72,291,NR,Q4
+Jan 22,Long Beach State,Home,W,71-61,,NR,Q4
+Jan 24,Cal Poly,Away,W,93-78,238,NR,Q3
+Jan 31,UC Santa Barbara,Away,L,83-69,133,NR,Q2
+Feb 5,UC Riverside,Home,W,78-72,291,NR,Q4
+Feb 7,Cal State Bakersfield,Home,W,82-66,,NR,Q4
+Feb 12,Long Beach State,Away,W,86-82,,NR,Q4
+Feb 14,UC Irvine,Away,L,86-65,120,NR,Q2
+Feb 19,UC Davis,Home,TBD,,166,NR,Q4
+Feb 21,Cal State Bakersfield,Away,TBD,,,NR,Q4
+Feb 28,Hawaii,Home,TBD,,98,NR,Q3
+Mar 5,UC San Diego,Home,TBD,,125,NR,Q3
+Mar 7,Cal State Northridge,Away,TBD,,,NR,Q4

@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Virginia Commonwealth,Away,L,103-74,,NR,Q4
+Nov 7,Seton Hall,Away,L,68-61,49,NR,Q1
+Nov 11,Fordham,Away,L,63-61,178,NR,Q3
+Nov 16,Maryland-Baltimore County,Away,L,71-70,,NR,Q4
+Nov 22,Georgetown,Away,L,92-75,90,NR,Q2
+Nov 26,Manhattan,Away,W,103-101,321,NR,Q4
+Dec 2,Maryland,Away,L,89-63,151,NR,Q3
+Dec 6,Bryant & Stratton Albany,Home,W,92-36,,NR,Q4
+Dec 11,Bloomfield,Home,W,95-93,,NR,Q4
+Dec 17,Maryland-Eastern Shore,Home,W,78-64,,NR,Q4
+Dec 22,Manor,Home,W,74-57,,NR,Q4
+Jan 2,Chicago State,Away,W,79-72,,NR,Q4
+Jan 4,Stonehill,Home,L,69-60,339,NR,Q4
+Jan 8,Saint Francis (PA),Home,L,71-69,,NR,Q4
+Jan 10,Mercyhurst,Home,L,70-69,283,NR,Q4
+Jan 17,New Haven,Away,L,80-74,329,NR,Q4
+Jan 19,FDU,Away,L,68-61,328,NR,Q4
+Jan 23,Le Moyne,Away,L,69-67,280,NR,Q4
+Jan 29,Central Connecticut State,Home,L,62-55,,NR,Q4
+Jan 31,FDU,Home,W,75-72,328,NR,Q4
+Feb 5,Le Moyne,Home,W,79-78,280,NR,Q4
+Feb 7,Central Connecticut State,Away,L,84-67,,NR,Q4
+Feb 12,Long Island University,Home,L,67-57,195,NR,Q4
+Feb 14,Stonehill,Away,W,68-57,339,NR,Q4
+Feb 16,Long Island University,Away,TBD,,195,NR,Q3
+Feb 19,Mercyhurst,Away,TBD,,283,NR,Q4
+Feb 21,Saint Francis (PA),Away,TBD,,,NR,Q4
+Feb 26,New Haven,Home,TBD,,329,NR,Q4
+Feb 28,Chicago State,Home,TBD,,,NR,Q4

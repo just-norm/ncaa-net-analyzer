@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Marquette,Away,L,80-53,111,NR,Q2
+Nov 8,Massachusetts,Away,L,83-62,191,NR,Q3
+Nov 11,SUNY Delhi,Home,W,115-52,,NR,Q4
+Nov 14,Rhode Island,Away,L,80-61,136,NR,Q3
+Nov 18,Paul Smith's,Home,W,106-57,,NR,Q4
+Nov 21,Siena,Away,L,73-63,188,NR,Q3
+Nov 28,Colgate,Neutral,L,69-67,201,NR,Q4
+Nov 29,Fordham,Neutral,L,88-68,178,NR,Q3
+Nov 30,SUNY Oneonta,Neutral,W,90-62,,NR,Q4
+Dec 6,Columbia,Away,L,93-65,180,NR,Q3
+Dec 10,Yale,Neutral,L,93-82,65,NR,Q2
+Dec 13,Florida Atlantic,Away,L,105-79,,NR,Q4
+Dec 17,Stony Brook,Away,W,71-55,212,NR,Q3
+Dec 21,Cornell,Home,L,83-75,146,NR,Q3
+Dec 30,South Carolina,Away,L,96-67,112,NR,Q2
+Jan 3,Massachusetts-Lowell,Away,L,83-71,323,NR,Q4
+Jan 10,Bryant,Home,W,71-46,352,NR,Q4
+Jan 15,Binghamton,Home,W,69-53,362,NR,Q4
+Jan 19,Vermont,Home,W,75-68,215,NR,Q4
+Jan 22,Maine,Away,L,52-49,343,NR,Q4
+Jan 24,New Hampshire,Away,L,80-72,334,NR,Q4
+Jan 29,NJIT,Home,L,77-68,301,NR,Q4
+Jan 31,Maryland-Baltimore County,Home,L,68-65,,NR,Q4
+Feb 5,Bryant,Away,W,65-63,352,NR,Q4
+Feb 7,Massachusetts-Lowell,Home,L,89-79,323,NR,Q4
+Feb 14,Binghamton,Away,W,77-74,362,NR,Q4
+Feb 19,NJIT,Away,TBD,,301,NR,Q4
+Feb 21,Maryland-Baltimore County,Away,TBD,,,NR,Q4
+Feb 26,Maine,Home,TBD,,343,NR,Q4
+Feb 28,New Hampshire,Home,TBD,,334,NR,Q4
+Mar 3,Vermont,Away,TBD,,215,NR,Q3

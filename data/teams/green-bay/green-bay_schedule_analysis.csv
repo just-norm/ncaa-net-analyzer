@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Kansas,Away,L,94-51,14,NR,Q1
+Nov 7,Buffalo,Away,L,83-76,177,NR,Q3
+Nov 10,Ripon,Home,W,83-63,,NR,Q4
+Nov 13,St. Thomas,Away,L,80-61,,NR,Q4
+Nov 15,Minnesota,Away,L,72-65,86,NR,Q2
+Nov 21,Yale,Neutral,L,73-67,65,NR,Q2
+Nov 22,Massachusetts,Neutral,W,79-75,191,NR,Q3
+Nov 24,Iona,Neutral,W,80-75,237,NR,Q4
+Nov 29,Haskell (KS),Home,W,95-55,,NR,Q4
+Dec 4,Robert Morris,Home,L,80-78,161,NR,Q4
+Dec 7,Wright State,Away,L,86-58,,NR,Q4
+Dec 11,IU Indy,Away,W,85-75,313,NR,Q4
+Dec 17,UC Santa Barbara,Home,W,67-64,133,NR,Q3
+Dec 23,Campbell,Away,L,102-79,207,NR,Q3
+Jan 1,Purdue Fort Wayne,Away,W,72-54,253,NR,Q4
+Jan 5,Milwaukee,Home,W,79-76,246,NR,Q4
+Jan 9,IU Indy,Home,W,75-59,313,NR,Q4
+Jan 11,Northern Kentucky,Home,W,80-78,199,NR,Q4
+Jan 15,Cleveland State,Away,W,88-73,,NR,Q4
+Jan 18,Oakland,Home,L,88-63,154,NR,Q3
+Jan 22,Youngstown State,Away,L,88-81,,NR,Q4
+Jan 24,Robert Morris,Away,W,71-67,161,NR,Q3
+Jan 30,Cleveland State,Home,L,89-82,,NR,Q4
+Feb 1,Wright State,Home,L,83-75,,NR,Q4
+Feb 4,Northern Kentucky,Away,W,87-84,199,NR,Q3
+Feb 7,Detroit Mercy,Home,W,76-63,250,NR,Q4
+Feb 12,Purdue Fort Wayne,Home,W,76-59,253,NR,Q4
+Feb 15,Milwaukee,Away,L,75-72,246,NR,Q4
+Feb 20,Oakland,Away,TBD,,154,NR,Q3
+Feb 22,Detroit Mercy,Away,TBD,,250,NR,Q4
+Feb 28,Youngstown State,Home,TBD,,,NR,Q4

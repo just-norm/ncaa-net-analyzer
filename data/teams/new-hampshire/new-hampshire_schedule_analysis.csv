@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Clemson,Away,L,88-38,31,NR,Q1
+Nov 6,Curry,Home,W,113-31,,NR,Q4
+Nov 9,Harvard,Away,L,86-75,160,NR,Q3
+Nov 12,Emmanuel (MA),Home,W,97-69,,NR,Q4
+Nov 15,George Mason,Away,L,61-44,91,NR,Q2
+Nov 18,Providence,Away,L,98-66,79,NR,Q2
+Nov 26,Brown,Home,L,59-47,285,NR,Q4
+Nov 30,Fairfield,Away,L,72-68,242,NR,Q4
+Dec 3,Dartmouth,Away,L,69-68,252,NR,Q4
+Dec 6,Boston University,Home,W,88-82,152,NR,Q3
+Dec 17,Stonehill,Home,W,59-58,339,NR,Q4
+Dec 21,Saint Louis,Away,L,93-79,17,NR,Q1
+Dec 30,Nebraska,Away,L,86-55,11,NR,Q1
+Jan 3,Vermont,Home,L,80-61,215,NR,Q4
+Jan 8,NJIT,Away,L,80-76,301,NR,Q4
+Jan 10,Maryland-Baltimore County,Away,L,75-74,,NR,Q4
+Jan 19,Maine,Away,W,65-48,343,NR,Q4
+Jan 22,Binghamton,Home,W,88-82,362,NR,Q4
+Jan 24,Albany (NY),Home,W,80-72,,NR,Q4
+Jan 29,Massachusetts-Lowell,Home,W,66-61,323,NR,Q4
+Jan 31,Bryant,Away,L,92-84,352,NR,Q4
+Feb 7,Vermont,Away,L,80-57,215,NR,Q3
+Feb 12,NJIT,Home,L,76-70,301,NR,Q4
+Feb 14,Maryland-Baltimore County,Home,L,85-63,,NR,Q4
+Feb 19,Massachusetts-Lowell,Away,TBD,,323,NR,Q4
+Feb 21,Maine,Home,TBD,,343,NR,Q4
+Feb 26,Binghamton,Away,TBD,,362,NR,Q4
+Feb 28,Albany (NY),Away,TBD,,,NR,Q4
+Mar 3,Bryant,Home,TBD,,352,NR,Q4

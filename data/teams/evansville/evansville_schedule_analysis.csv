@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Purdue,Away,L,82-51,7,NR,Q1
+Nov 7,Calumet College,Home,W,92-50,,NR,Q4
+Nov 9,Oakland City,Home,W,76-47,,NR,Q4
+Nov 12,Middle Tennessee,Home,L,77-72,159,NR,Q3
+Nov 18,UT Arlington,Home,L,84-76,158,NR,Q3
+Nov 21,Oregon State,Neutral,W,73-69,184,NR,Q3
+Nov 23,Akron,Neutral,L,97-59,62,NR,Q2
+Nov 24,College of Charleston,Neutral,L,78-59,,NR,Q4
+Dec 3,Ball State,Home,W,64-52,,NR,Q4
+Dec 6,Western Kentucky,Away,L,80-79,175,NR,Q3
+Dec 13,Notre Dame,Away,L,82-58,87,NR,Q2
+Dec 16,Belmont,Home,L,83-78,55,NR,Q2
+Dec 21,Drake,Home,L,66-65,200,NR,Q4
+Dec 29,Bradley,Away,L,76-68,113,NR,Q2
+Jan 1,Illinois State,Away,L,73-47,,NR,Q4
+Jan 4,Northern Iowa,Home,L,62-48,,NR,Q4
+Jan 7,Murray State,Home,L,79-69,,NR,Q4
+Jan 10,Indiana State,Away,W,72-69,218,NR,Q3
+Jan 13,Bradley,Home,L,94-90,113,NR,Q3
+Jan 20,Illinois-Chicago,Away,L,76-49,,NR,Q4
+Jan 28,Drake,Away,L,82-78,200,NR,Q3
+Jan 31,Northern Iowa,Away,L,71-55,,NR,Q4
+Feb 3,Indiana State,Home,L,84-63,218,NR,Q4
+Feb 6,Valparaiso,Away,L,70-63,163,NR,Q3
+Feb 9,Illinois State,Home,W,88-80,,NR,Q4
+Feb 12,Southern Illinois,Away,L,86-60,126,NR,Q2
+Feb 18,Illinois-Chicago,Home,TBD,,,NR,Q4
+Feb 21,Murray State,Away,TBD,,,NR,Q4
+Feb 25,Belmont,Away,TBD,,55,NR,Q1
+Feb 28,Valparaiso,Home,TBD,,163,NR,Q4
+Mar 1,Southern Illinois,Home,TBD,,126,NR,Q3

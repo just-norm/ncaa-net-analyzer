@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Longwood Basketball - NET Rankings Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #003366 0%, #FFFFFF 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #003366 0%, #FFFFFF 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            color: #FFFFFF;
+        }
+
+        .rankings-bar {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+        }
+
+        .ranking {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px 30px;
+            border-radius: 8px;
+            backdrop-filter: blur(10px);
+        }
+
+        .ranking-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        .ranking-value {
+            font-size: 2em;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #003366;
+        }
+
+        .quad-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+            margin: -30px -30px 30px -30px;
+        }
+
+        .quad-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            border-left: 4px solid;
+        }
+
+        .quad-card.q1 { border-left-color: #d4af37; }
+        .quad-card.q2 { border-left-color: #c0c0c0; }
+        .quad-card.q3 { border-left-color: #cd7f32; }
+        .quad-card.q4 { border-left-color: #808080; }
+
+        .quad-card h3 {
+            font-size: 1.1em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .quad-record {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #003366;
+            margin-bottom: 5px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        thead {
+            background: #003366;
+            color: white;
+        }
+
+        th {
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        tr:hover {
+            background: #f8f9fa;
+        }
+
+        .win { background: #d4edda; }
+        .loss { background: #f8d7da; }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .badge.q1 { background: #d4af37; }
+        .badge.q2 { background: #c0c0c0; color: #333; }
+        .badge.q3 { background: #cd7f32; }
+        .badge.q4 { background: #808080; }
+
+        .net-rank {
+            background: #003366;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .highlights {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 5px solid #003366;
+        }
+
+        .highlights ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .highlights li {
+            padding: 8px 0;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Longwood</h1>
+            <div style="font-size: 1.2em; margin: 10px 0;">Record: <strong>14-14</strong> (0-0 Big South)</div>
+            <div class="rankings-bar">
+                <div class="ranking">
+                    <div class="ranking-label">NET Ranking</div>
+                    <div class="ranking-value">#272</div>
+                </div>
+                <div class="ranking">
+                    <div class="ranking-label">AP Poll</div>
+                    <div class="ranking-value">#NR</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2 class="section-title">Quadrant Performance</h2>
+                <div class="quad-grid">
+        <div class="quad-card q1">
+            <h3>Quadrant 1 Wins</h3>
+            <div class="quad-record">0</div></div>
+        <div class="quad-card q2">
+            <h3>Quadrant 2 Wins</h3>
+            <div class="quad-record">0</div></div>
+        <div class="quad-card q3">
+            <h3>Quadrant 3 Wins</h3>
+            <div class="quad-record">1</div><div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+                NET Wins Avg: <strong>121.0</strong>
+            </div>
+            <div style="font-size: 0.9em; color: #666; margin-top: 4px;">
+                NET Wins Median: <strong>121</strong>
+            </div></div>
+        <div class="quad-card q4">
+            <h3>Quadrant 4 Wins</h3>
+            <div class="quad-record">13</div><div style="font-size: 0.9em; color: #666; margin-top: 8px;">
+                NET Wins Avg: <strong>319.2</strong>
+            </div>
+            <div style="font-size: 0.9em; color: #666; margin-top: 4px;">
+                NET Wins Median: <strong>342</strong>
+            </div></div></div>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Resume Highlights</h2>
+                <div class="highlights"><ul style="line-height: 1.8;"><li><strong>Losses:</strong> @ Pittsburgh (#124), @ Columbia (#180), vs Siena (#188), @ American (#261), @ Wake Forest (#64), @ High Point (#75), @ UNC Asheville (#228), @ Radford (#239), @ South Carolina Upstate (#293), vs High Point (#75), @ Winthrop (#121), vs UNC Asheville (#228)</li></ul></div>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">Full Schedule Breakdown</h2>
+                <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Opponent</th>
+                <th>Location</th>
+                <th>Result</th>
+                <th>Score</th>
+                <th>Opp NET</th>
+                <th>Quadrant</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="win">
+                <td>Nov 3</td>
+                <td>Mary Baldwin</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>92-55</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Nov 7</td>
+                <td>Pittsburgh</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>78-60</td>
+                <td><span class="net-rank">#124</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 12</td>
+                <td>James Madison</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>82-72</td>
+                <td><span class="net-rank">#219</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 15</td>
+                <td>Binghamton</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>90-82</td>
+                <td><span class="net-rank">#362</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Nov 18</td>
+                <td>Maryland-Eastern Shore</td>
+                <td>Home</td>
+                <td><strong>L</strong></td>
+                <td>83-82</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Nov 23</td>
+                <td>Columbia</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>95-70</td>
+                <td><span class="net-rank">#180</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Nov 28</td>
+                <td>Siena</td>
+                <td>Neutral</td>
+                <td><strong>L</strong></td>
+                <td>70-63</td>
+                <td><span class="net-rank">#188</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="win">
+                <td>Nov 29</td>
+                <td>Maine</td>
+                <td>Neutral</td>
+                <td><strong>W</strong></td>
+                <td>65-61</td>
+                <td><span class="net-rank">#343</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Nov 30</td>
+                <td>American</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>92-66</td>
+                <td><span class="net-rank">#261</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 3</td>
+                <td>Pfeiffer</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>101-55</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 6</td>
+                <td>Morgan State</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>84-80</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Dec 13</td>
+                <td>Delaware State</td>
+                <td>Home</td>
+                <td><strong>L</strong></td>
+                <td>81-76</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Dec 17</td>
+                <td>Wake Forest</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>71-68</td>
+                <td><span class="net-rank">#64</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 20</td>
+                <td>North Carolina Central</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>74-72</td>
+                <td><span class="net-rank">#340</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 28</td>
+                <td>Averett</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>92-49</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Dec 31</td>
+                <td>Winthrop</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>82-70</td>
+                <td><span class="net-rank">#121</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Jan 3</td>
+                <td>High Point</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>80-67</td>
+                <td><span class="net-rank">#75</span></td>
+                <td><span class="badge q1">Q1</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Jan 7</td>
+                <td>UNC Asheville</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>72-61</td>
+                <td><span class="net-rank">#228</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 10</td>
+                <td>Presbyterian</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>77-70</td>
+                <td><span class="net-rank">#271</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Jan 17</td>
+                <td>Radford</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>85-83</td>
+                <td><span class="net-rank">#239</span></td>
+                <td><span class="badge q3">Q3</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 21</td>
+                <td>Gardner-Webb</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>91-56</td>
+                <td><span class="net-rank">#363</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Jan 23</td>
+                <td>Charleston Southern</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>81-79</td>
+                <td><span class="net-rank">NR</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Jan 29</td>
+                <td>South Carolina Upstate</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>65-60</td>
+                <td><span class="net-rank">#293</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Jan 31</td>
+                <td>High Point</td>
+                <td>Home</td>
+                <td><strong>L</strong></td>
+                <td>71-59</td>
+                <td><span class="net-rank">#75</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="win">
+                <td>Feb 4</td>
+                <td>Gardner-Webb</td>
+                <td>Away</td>
+                <td><strong>W</strong></td>
+                <td>86-66</td>
+                <td><span class="net-rank">#363</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Feb 7</td>
+                <td>Winthrop</td>
+                <td>Away</td>
+                <td><strong>L</strong></td>
+                <td>79-74</td>
+                <td><span class="net-rank">#121</span></td>
+                <td><span class="badge q2">Q2</span></td>
+            </tr>
+            <tr class="loss">
+                <td>Feb 12</td>
+                <td>UNC Asheville</td>
+                <td>Home</td>
+                <td><strong>L</strong></td>
+                <td>79-74</td>
+                <td><span class="net-rank">#228</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr class="win">
+                <td>Feb 14</td>
+                <td>South Carolina Upstate</td>
+                <td>Home</td>
+                <td><strong>W</strong></td>
+                <td>82-75</td>
+                <td><span class="net-rank">#293</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr><tr style="background: #f0f8ff; border-top: 3px solid #003366;">
+                <td colspan="7" style="text-align: center; font-weight: bold; padding: 10px;">
+                    UPCOMING GAMES
+                </td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 19</td>
+                <td>Presbyterian</td>
+                <td>Away</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#271</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 21</td>
+                <td>Charleston Southern</td>
+                <td>Away</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">TBD</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr>
+            <tr style="background: #f9f9f9;">
+                <td>Feb 28</td>
+                <td>Radford</td>
+                <td>Home</td>
+                <td>-</td>
+                <td>-</td>
+                <td><span class="net-rank">#239</span></td>
+                <td><span class="badge q4">Q4</span></td>
+            </tr></tbody></table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

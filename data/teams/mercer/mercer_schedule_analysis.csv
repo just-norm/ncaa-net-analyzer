@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Tennessee,Away,L,76-61,22,NR,Q1
+Nov 5,LaGrange,Home,W,101-62,,NR,Q4
+Nov 9,Lipscomb,Home,W,92-77,186,NR,Q4
+Nov 15,Winthrop,Away,L,105-69,121,NR,Q2
+Nov 22,Eastern Kentucky,Away,W,95-83,281,NR,Q4
+Nov 26,Appalachian State,Home,W,75-67,,NR,Q4
+Nov 29,Elon,Away,W,91-84,192,NR,Q3
+Dec 2,Georgia State,Home,W,78-67,,NR,Q4
+Dec 7,Oglethorpe,Home,W,100-50,,NR,Q4
+Dec 13,Clemson,Away,L,70-63,31,NR,Q1
+Dec 17,UCF,Away,L,81-63,50,NR,Q1
+Dec 20,Washington State,Away,L,84-78,135,NR,Q2
+Dec 28,Baptist University of Florida,Home,W,122-49,,NR,Q4
+Dec 31,Furman,Away,L,74-72,194,NR,Q3
+Jan 3,East Tennessee State,Away,L,77-71,129,NR,Q2
+Jan 7,The Citadel,Home,W,101-63,351,NR,Q4
+Jan 10,Wofford,Home,W,109-97,229,NR,Q4
+Jan 15,Virginia Military Institute,Away,W,77-67,,NR,Q4
+Jan 17,UNC Greensboro,Away,W,102-92,294,NR,Q4
+Jan 21,Western Carolina,Home,W,88-76,263,NR,Q4
+Jan 24,Wofford,Away,L,80-77,229,NR,Q3
+Jan 29,UNC Greensboro,Home,W,95-77,294,NR,Q4
+Jan 31,Virginia Military Institute,Home,W,95-81,,NR,Q4
+Feb 5,Chattanooga,Away,L,79-75,300,NR,Q4
+Feb 7,Samford,Away,L,69-49,210,NR,Q3
+Feb 11,Furman,Home,W,69-64,194,NR,Q4
+Feb 14,The Citadel,Away,W,70-54,351,NR,Q4
+Feb 19,Chattanooga,Home,TBD,,300,NR,Q4
+Feb 21,Samford,Home,TBD,,210,NR,Q4
+Feb 25,Western Carolina,Away,TBD,,263,NR,Q4
+Feb 28,East Tennessee State,Home,TBD,,129,NR,Q3

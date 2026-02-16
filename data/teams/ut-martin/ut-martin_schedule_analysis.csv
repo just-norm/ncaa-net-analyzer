@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Nevada-Las Vegas,Away,W,86-81,,NR,Q4
+Nov 9,Kentucky Christian,Home,W,97-42,,NR,Q4
+Nov 12,Bradley,Away,W,78-67,113,NR,Q2
+Nov 18,Florida State,Away,L,87-73,82,NR,Q2
+Nov 22,Prairie View,Neutral,W,69-68,330,NR,Q4
+Nov 23,Southern Mississippi,Neutral,L,70-60,,NR,Q4
+Nov 25,Brescia,Home,W,75-50,,NR,Q4
+Dec 2,Charleston Southern,Home,W,73-56,,NR,Q4
+Dec 7,Alabama State,Home,W,74-64,,NR,Q4
+Dec 10,Southern Illinois,Away,L,83-54,126,NR,Q2
+Dec 14,Champion Christian,Home,W,96-52,,NR,Q4
+Dec 18,Tennessee State,Away,L,78-71,235,NR,Q3
+Dec 20,Tennessee Tech,Away,W,86-62,316,NR,Q4
+Jan 1,Western Illinois,Home,W,67-60,,NR,Q4
+Jan 3,Eastern Illinois,Home,W,65-61,317,NR,Q4
+Jan 8,Morehead State,Away,W,76-68,,NR,Q4
+Jan 10,Southern Indiana,Away,W,73-56,,NR,Q4
+Jan 15,Southern Illinois-Edwardsville,Home,W,65-59,,NR,Q4
+Jan 17,Lindenwood,Home,W,69-55,240,NR,Q4
+Jan 20,Southeast Missouri State,Away,L,66-50,,NR,Q4
+Jan 29,Eastern Illinois,Away,W,76-68,317,NR,Q4
+Jan 31,Western Illinois,Away,W,84-44,,NR,Q4
+Feb 3,Little Rock,Home,W,55-52,307,NR,Q4
+Feb 5,Southern Indiana,Home,W,76-54,,NR,Q4
+Feb 7,Morehead State,Home,L,61-55,,NR,Q4
+Feb 12,Lindenwood,Away,L,75-74,240,NR,Q3
+Feb 14,Southern Illinois-Edwardsville,Away,W,81-76,,NR,Q4
+Feb 17,Southeast Missouri State,Home,TBD,,,NR,Q4
+Feb 19,Little Rock,Away,TBD,,307,NR,Q4
+Feb 26,Tennessee Tech,Home,TBD,,316,NR,Q4
+Feb 28,Tennessee State,Home,TBD,,235,NR,Q4

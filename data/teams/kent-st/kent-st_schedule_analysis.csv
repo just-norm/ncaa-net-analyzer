@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Troy,Home,L,103-97,132,NR,Q3
+Nov 7,Cornell,Home,W,110-102,146,NR,Q3
+Nov 10,UNC Wilmington,Home,W,86-77,,NR,Q4
+Nov 15,Cleveland State,Neutral,W,102-95,,NR,Q4
+Nov 16,Wright State,Neutral,W,76-72,,NR,Q4
+Nov 18,Eastern Kentucky,Home,W,93-78,281,NR,Q4
+Nov 22,Cleveland State,Home,W,91-71,,NR,Q4
+Nov 29,Penn State Shenango,Home,W,123-59,,NR,Q4
+Dec 3,Austin Peay,Home,W,96-84,134,NR,Q3
+Dec 6,Roberts Wesleyan,Home,W,111-68,,NR,Q4
+Dec 14,Portland,Away,L,88-78,208,NR,Q3
+Dec 20,Massachusetts,Away,W,69-59,191,NR,Q3
+Dec 29,Purdue,Away,L,101-60,7,NR,Q1
+Jan 3,Northern Illinois,Home,W,77-73,,NR,Q4
+Jan 6,Bowling Green,Home,W,96-93,141,NR,Q3
+Jan 10,Central Michigan,Away,L,87-85,,NR,Q4
+Jan 13,Buffalo,Away,W,87-81,177,NR,Q3
+Jan 16,Toledo,Home,W,87-84,172,NR,Q4
+Jan 20,Miami (OH),Home,L,107-101,51,NR,Q2
+Jan 24,Eastern Michigan,Away,W,76-75,,NR,Q4
+Jan 27,Ohio,Home,W,72-57,213,NR,Q4
+Jan 30,Akron,Away,L,69-52,62,NR,Q1
+Feb 3,Toledo,Away,W,75-72,172,NR,Q3
+Feb 7,Southern Mississippi,Away,L,66-65,,NR,Q4
+Feb 11,Eastern Michigan,Home,W,95-91,,NR,Q4
+Feb 14,Ball State,Away,W,75-68,,NR,Q4
+Feb 17,Bowling Green,Away,TBD,,141,NR,Q3
+Feb 24,Central Michigan,Home,TBD,,,NR,Q4
+Feb 28,Akron,Home,TBD,,62,NR,Q2
+Mar 3,Northern Illinois,Away,TBD,,,NR,Q4
+Mar 6,Western Michigan,Home,TBD,,,NR,Q4

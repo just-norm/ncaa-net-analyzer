@@ -1,0 +1,33 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Arkansas,Away,L,109-77,18,NR,Q1
+Nov 5,Marquette,Away,L,100-82,111,NR,Q2
+Nov 10,Ecclesia,Home,W,115-51,,NR,Q4
+Nov 15,Champion Christian,Home,W,129-64,,NR,Q4
+Nov 18,Washington,Away,L,99-93,52,NR,Q1
+Nov 21,San Jose State,Away,L,80-66,265,NR,Q4
+Nov 29,Northwestern State,Away,W,75-73,,NR,Q4
+Dec 1,Louisiana Christian University,Home,W,101-48,,NR,Q4
+Dec 8,Texas,Away,L,95-69,37,NR,Q1
+Dec 10,Texas State,Away,L,86-83,,NR,Q4
+Dec 16,California Baptist,Away,L,75-67,109,NR,Q2
+Dec 21,Baylor,Away,L,111-67,47,NR,Q1
+Dec 29,Illinois,Away,L,90-55,5,NR,Q1
+Dec 31,Alcorn State,Away,TBD,,,NR,Q4
+Jan 3,Texas Southern,Home,W,84-73,319,NR,Q4
+Jan 5,Prairie View,Home,L,89-85,330,NR,Q4
+Jan 10,Florida A&M,Away,L,67-59,336,NR,Q4
+Jan 12,Bethune-Cookman,Away,W,77-73,251,NR,Q4
+Jan 17,Grambling,Away,W,71-53,275,NR,Q4
+Jan 24,Arkansas-Pine Bluff,Home,L,75-74,,NR,Q4
+Jan 28,Mississippi Valley State,Home,W,80-69,,NR,Q4
+Jan 31,Alcorn State,Away,L,78-73,,NR,Q4
+Feb 2,Jackson State,Away,W,96-91,347,NR,Q4
+Feb 7,Alabama A&M,Home,W,81-68,311,NR,Q4
+Feb 9,Alabama State,Home,W,69-68,,NR,Q4
+Feb 14,Prairie View,Away,W,87-82,330,NR,Q4
+Feb 16,Texas Southern,Away,TBD,,319,NR,Q4
+Feb 21,Grambling,Home,TBD,,275,NR,Q4
+Feb 26,Florida A&M,Home,TBD,,336,NR,Q4
+Feb 28,Bethune-Cookman,Home,TBD,,251,NR,Q4
+Mar 3,Alabama State,Away,TBD,,,NR,Q4
+Mar 5,Alabama A&M,Away,TBD,,311,NR,Q4

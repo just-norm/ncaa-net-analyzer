@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Oklahoma State,Away,L,95-71,72,NR,Q1
+Nov 8,John Brown,Home,W,84-50,,NR,Q4
+Nov 12,Tulsa,Home,L,88-87,53,NR,Q2
+Nov 15,Belmont,Home,L,83-60,55,NR,Q2
+Nov 18,Haskell (KS),Home,W,84-64,,NR,Q4
+Nov 20,Oklahoma,Away,L,95-71,68,NR,Q1
+Nov 24,Florida Gulf Coast,Away,L,93-88,257,NR,Q4
+Nov 25,Kennesaw State,Neutral,W,91-83,,NR,Q4
+Nov 26,Rice,Neutral,L,81-62,248,NR,Q4
+Dec 3,Weber State,Away,L,92-66,,NR,Q4
+Dec 6,Montana State,Home,W,72-68,,NR,Q4
+Dec 13,Ecclesia,Home,W,97-52,,NR,Q4
+Dec 16,Missouri State,Away,L,63-62,,NR,Q4
+Dec 18,TCU,Away,L,72-53,45,NR,Q1
+Dec 22,UT Arlington,Home,L,69-57,158,NR,Q3
+Jan 1,North Dakota,Away,L,72-61,274,NR,Q4
+Jan 3,North Dakota State,Away,L,79-77,,NR,Q4
+Jan 10,St. Thomas,Home,L,82-71,,NR,Q4
+Jan 14,Denver,Away,L,98-87,233,NR,Q3
+Jan 17,Omaha,Home,L,73-62,249,NR,Q4
+Jan 22,North Dakota,Home,L,79-62,274,NR,Q4
+Jan 24,North Dakota State,Home,L,86-58,,NR,Q4
+Jan 29,South Dakota,Away,L,77-69,276,NR,Q4
+Jan 31,South Dakota State,Away,L,95-72,204,NR,Q3
+Feb 7,St. Thomas,Away,L,92-75,,NR,Q4
+Feb 12,Kansas City,Home,W,69-60,355,NR,Q4
+Feb 14,South Dakota State,Home,L,87-69,204,NR,Q4
+Feb 18,Omaha,Away,TBD,,249,NR,Q4
+Feb 21,South Dakota,Home,TBD,,276,NR,Q4
+Feb 26,Denver,Home,TBD,,233,NR,Q4
+Feb 28,Kansas City,Away,TBD,,355,NR,Q4

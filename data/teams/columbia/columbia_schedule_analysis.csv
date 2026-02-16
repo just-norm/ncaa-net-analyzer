@@ -1,0 +1,29 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 7,New Haven,Away,W,71-53,329,NR,Q4
+Nov 10,Connecticut,Away,L,89-62,10,NR,Q1
+Nov 13,Massachusetts-Lowell,Home,W,86-72,323,NR,Q4
+Nov 18,Boston University,Home,W,54-49,152,NR,Q3
+Nov 21,Lehigh,Away,W,82-67,295,NR,Q4
+Nov 23,Longwood,Home,W,95-70,272,NR,Q4
+Nov 26,Fairfield,Away,W,106-77,242,NR,Q4
+Nov 29,Sarah Lawrence,Home,W,92-44,,NR,Q4
+Dec 3,Hofstra,Home,W,72-70,102,NR,Q3
+Dec 6,Albany (NY),Home,W,93-65,,NR,Q4
+Dec 9,Stony Brook,Away,L,77-73,212,NR,Q3
+Dec 21,California,Away,L,74-56,61,NR,Q1
+Dec 28,North Florida,Away,W,90-82,337,NR,Q4
+Dec 31,Penn State Abington,Home,W,106-51,,NR,Q4
+Jan 5,Cornell,Away,W,104-99,146,NR,Q3
+Jan 10,Harvard,Home,L,79-54,160,NR,Q3
+Jan 17,Brown,Away,L,86-80,285,NR,Q4
+Jan 19,Yale,Away,L,91-74,65,NR,Q1
+Jan 24,Dartmouth,Away,W,79-69,252,NR,Q4
+Jan 30,Pennsylvania,Home,W,72-67,,NR,Q4
+Jan 31,Princeton,Home,L,80-68,254,NR,Q4
+Feb 7,Cornell,Home,L,88-67,146,NR,Q3
+Feb 13,Pennsylvania,Away,L,76-67,,NR,Q4
+Feb 14,Princeton,Away,W,75-65,254,NR,Q4
+Feb 21,Dartmouth,Home,TBD,,252,NR,Q4
+Feb 27,Brown,Home,TBD,,285,NR,Q4
+Feb 28,Yale,Home,TBD,,65,NR,Q2
+Mar 6,Harvard,Away,TBD,,160,NR,Q3

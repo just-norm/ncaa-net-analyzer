@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Bowling Green,Away,L,83-48,141,NR,Q3
+Nov 5,Texas A&M–San Antonio,Home,W,114-55,,NR,Q4
+Nov 8,Tulane,Away,L,79-71,190,NR,Q3
+Nov 12,UTSA,Home,W,80-69,341,NR,Q4
+Nov 15,Texas Southern,Home,W,77-67,319,NR,Q4
+Nov 18,Abilene Christian,Home,W,63-49,231,NR,Q4
+Nov 21,Little Rock,Home,W,65-56,307,NR,Q4
+Nov 24,Texas Lutheran,Home,W,93-41,,NR,Q4
+Nov 28,Seattle,Neutral,L,66-52,,NR,Q4
+Nov 29,Lehigh,Neutral,L,78-74,295,NR,Q4
+Dec 3,Rice,Away,L,77-72,248,NR,Q4
+Dec 10,Southern,Home,W,86-83,279,NR,Q4
+Dec 17,Arkansas State,Home,L,89-70,,NR,Q4
+Dec 20,South Alabama,Home,W,67-65,168,NR,Q4
+Dec 31,Troy,Away,L,100-80,132,NR,Q2
+Jan 3,Louisiana-Monroe,Away,W,84-79,,NR,Q4
+Jan 8,Southern Mississippi,Away,L,80-70,,NR,Q4
+Jan 10,Arkansas State,Away,L,83-82,,NR,Q4
+Jan 14,Louisiana,Home,W,59-54,312,NR,Q4
+Jan 17,Southern Mississippi,Home,W,74-67,,NR,Q4
+Jan 22,Coastal Carolina,Away,L,72-70,221,NR,Q3
+Jan 24,James Madison,Away,L,82-57,219,NR,Q3
+Jan 28,Marshall,Home,W,72-68,149,NR,Q3
+Jan 31,Old Dominion,Home,W,81-64,256,NR,Q4
+Feb 4,Georgia Southern,Away,W,77-71,,NR,Q4
+Feb 7,Western Michigan,Home,W,77-61,,NR,Q4
+Feb 11,Troy,Home,W,74-62,132,NR,Q3
+Feb 14,Louisiana-Monroe,Home,W,95-84,,NR,Q4
+Feb 19,South Alabama,Away,TBD,,168,NR,Q3
+Feb 21,Louisiana,Away,TBD,,312,NR,Q4
+Feb 27,Appalachian State,Home,TBD,,,NR,Q4

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Western Michigan,Away,L,76-71,,NR,Q4
+Nov 7,VU Lynchburg,Home,W,121-44,,NR,Q4
+Nov 11,Winthrop,Home,W,72-66,121,NR,Q3
+Nov 14,Jacksonville State,Away,L,74-67,,NR,Q4
+Nov 21,Western Illinois,Away,W,84-64,,NR,Q4
+Nov 22,North Dakota,Neutral,W,75-58,274,NR,Q4
+Nov 23,Illinois State,Away,L,94-42,,NR,Q4
+Nov 30,Alabama A&M,Home,W,67-60,311,NR,Q4
+Dec 3,South Carolina Upstate,Away,L,85-78,293,NR,Q4
+Dec 6,Winthrop,Away,W,88-84,121,NR,Q2
+Dec 13,Grand Canyon,Away,L,82-61,76,NR,Q2
+Dec 18,Appalachian State,Away,L,67-49,,NR,Q4
+Dec 20,Old Dominion,Away,W,76-74,256,NR,Q4
+Dec 22,Saint Joseph's,Away,W,68-62,157,NR,Q3
+Jan 1,Georgia Southern,Home,L,82-81,,NR,Q4
+Jan 3,Georgia State,Home,L,89-71,,NR,Q4
+Jan 8,Old Dominion,Home,L,70-66,256,NR,Q4
+Jan 10,Appalachian State,Home,W,67-62,,NR,Q4
+Jan 14,Marshall,Away,W,85-83,149,NR,Q3
+Jan 17,Georgia Southern,Away,W,79-75,,NR,Q4
+Jan 22,Texas State,Home,W,72-70,,NR,Q4
+Jan 24,Southern Mississippi,Home,W,85-67,,NR,Q4
+Jan 29,South Alabama,Away,L,53-48,168,NR,Q3
+Feb 1,Louisiana-Monroe,Away,W,83-79,,NR,Q4
+Feb 4,Arkansas State,Home,L,70-66,,NR,Q4
+Feb 7,Massachusetts,Home,W,94-91,191,NR,Q4
+Feb 12,Louisiana,Away,W,69-65,312,NR,Q4
+Feb 18,James Madison,Home,TBD,,219,NR,Q4
+Feb 21,Marshall,Home,TBD,,149,NR,Q3
+Feb 24,Georgia State,Away,TBD,,,NR,Q4
+Feb 27,James Madison,Away,TBD,,219,NR,Q3

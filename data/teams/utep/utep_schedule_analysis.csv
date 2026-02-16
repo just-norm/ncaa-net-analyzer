@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Texas-Permian Basin,Home,W,98-56,,NR,Q4
+Nov 7,Western New Mexico,Home,W,107-70,,NR,Q4
+Nov 11,Loyola Marymount,Home,L,71-58,,NR,Q4
+Nov 15,Utah State,Away,L,75-51,23,NR,Q1
+Nov 19,St. Thomas (TX),Home,W,84-83,,NR,Q4
+Nov 24,William & Mary,Neutral,L,74-63,114,NR,Q3
+Nov 25,UAB,Neutral,L,75-59,119,NR,Q3
+Dec 7,Seattle,Away,L,75-68,,NR,Q4
+Dec 14,Hawaii,Away,L,66-61,98,NR,Q2
+Dec 21,Norfolk State,Home,L,72-71,309,NR,Q4
+Dec 22,North Dakota State,Home,W,76-66,,NR,Q4
+Dec 29,Louisiana Tech,Away,L,75-63,247,NR,Q4
+Jan 2,Missouri State,Away,L,79-55,,NR,Q4
+Jan 4,Florida International,Away,L,76-64,,NR,Q4
+Jan 8,Middle Tennessee,Home,W,83-80,159,NR,Q3
+Jan 10,Western Kentucky,Home,L,68-56,175,NR,Q4
+Jan 15,Delaware,Away,W,70-69,267,NR,Q4
+Jan 17,Liberty,Away,L,80-69,74,NR,Q1
+Jan 22,Florida International,Home,W,83-77,,NR,Q4
+Jan 24,Missouri State,Home,L,62-57,,NR,Q4
+Jan 28,Louisiana Tech,Home,L,69-59,247,NR,Q4
+Jan 31,Delaware,Home,W,70-55,267,NR,Q4
+Feb 4,Sam Houston,Away,L,70-66,106,NR,Q2
+Feb 7,New Mexico State,Home,W,91-88,173,NR,Q4
+Feb 11,Jacksonville State,Away,W,69-64,,NR,Q4
+Feb 14,Liberty,Home,L,73-64,74,NR,Q2
+Feb 21,New Mexico State,Away,TBD,,173,NR,Q3
+Feb 26,Middle Tennessee,Away,TBD,,159,NR,Q3
+Feb 28,Western Kentucky,Away,TBD,,175,NR,Q3
+Mar 5,Kennesaw State,Home,TBD,,,NR,Q4
+Mar 7,Jacksonville State,Home,TBD,,,NR,Q4

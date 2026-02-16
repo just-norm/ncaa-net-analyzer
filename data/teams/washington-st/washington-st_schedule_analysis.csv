@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Idaho,Home,L,83-81,167,NR,Q4
+Nov 7,Davidson,Away,L,85-69,104,NR,Q2
+Nov 10,St. Thomas,Home,W,81-71,,NR,Q4
+Nov 14,Washington,Home,L,81-69,52,NR,Q2
+Nov 19,Southern Utah,Home,W,98-74,282,NR,Q4
+Nov 24,Chaminade,Neutral,W,90-85,,NR,Q4
+Nov 25,Arizona State,Neutral,L,100-94,71,NR,Q2
+Nov 26,Seton Hall,Neutral,L,75-61,49,NR,Q1
+Dec 2,Bradley,Away,L,64-60,113,NR,Q2
+Dec 7,Nevada,Home,L,78-64,59,NR,Q2
+Dec 14,Southern California,Away,L,68-61,48,NR,Q1
+Dec 17,Eastern Washington,Neutral,W,78-63,,NR,Q4
+Dec 20,Mercer,Home,W,84-78,153,NR,Q3
+Dec 28,Portland,Away,W,67-62,208,NR,Q3
+Dec 30,Seattle,Away,L,69-55,,NR,Q4
+Jan 2,Loyola Marymount,Home,W,78-76,,NR,Q4
+Jan 4,Oregon State,Home,W,81-67,184,NR,Q4
+Jan 10,Saint Mary's (CA),Away,L,88-82,26,NR,Q1
+Jan 15,Gonzaga,Home,L,86-65,6,NR,Q1
+Jan 18,San Francisco,Away,L,85-80,118,NR,Q2
+Jan 21,San Diego,Away,L,96-92,223,NR,Q3
+Jan 24,Pepperdine,Home,W,95-79,284,NR,Q4
+Jan 28,Seattle,Home,W,70-58,,NR,Q4
+Jan 31,Portland,Home,W,104-74,208,NR,Q4
+Feb 4,Oregon State,Away,L,74-64,184,NR,Q3
+Feb 7,Santa Clara,Home,L,96-92,42,NR,Q2
+Feb 10,Gonzaga,Away,L,83-53,6,NR,Q1
+Feb 18,Pacific,Home,TBD,,103,NR,Q3
+Feb 21,Saint Mary's (CA),Home,TBD,,26,NR,Q1
+Feb 25,Loyola Marymount,Away,TBD,,,NR,Q4
+Feb 28,Pepperdine,Away,TBD,,284,NR,Q4

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,George Washington,Away,L,67-47,84,NR,Q2
+Nov 8,Stony Brook,Away,L,71-60,212,NR,Q3
+Nov 10,Rutgers,Away,L,72-60,155,NR,Q3
+Nov 16,Quinnipiac,Home,L,70-64,202,NR,Q4
+Nov 19,Merrimack,Away,L,72-65,185,NR,Q3
+Nov 23,Brown,Home,L,58-53,285,NR,Q4
+Nov 28,American,Away,L,74-61,261,NR,Q4
+Nov 29,Longwood,Neutral,L,65-61,272,NR,Q4
+Nov 30,Siena,Neutral,L,64-60,188,NR,Q3
+Dec 3,Ohio,Away,L,79-57,213,NR,Q3
+Dec 6,Miami (OH),Away,L,93-61,51,NR,Q1
+Dec 10,Boston University,Away,W,69-59,152,NR,Q3
+Dec 13,Canisius,Home,L,70-43,348,NR,Q4
+Dec 21,Drexel,Away,L,74-56,217,NR,Q3
+Dec 30,Maine-Fort Kent,Home,W,104-66,,NR,Q4
+Jan 3,Bryant,Home,L,56-51,352,NR,Q4
+Jan 8,Maryland-Baltimore County,Away,L,69-62,,NR,Q4
+Jan 10,NJIT,Away,W,74-70,301,NR,Q4
+Jan 15,Vermont,Away,L,67-62,215,NR,Q3
+Jan 19,New Hampshire,Home,L,65-48,334,NR,Q4
+Jan 22,Albany (NY),Home,W,52-49,,NR,Q4
+Jan 24,Binghamton,Home,W,79-63,362,NR,Q4
+Jan 31,Massachusetts-Lowell,Away,L,91-77,323,NR,Q4
+Feb 5,Vermont,Home,W,76-70,215,NR,Q4
+Feb 7,Bryant,Away,L,73-67,352,NR,Q4
+Feb 12,Maryland-Baltimore County,Home,L,78-62,,NR,Q4
+Feb 14,NJIT,Home,L,67-58,301,NR,Q4
+Feb 21,New Hampshire,Away,TBD,,334,NR,Q4
+Feb 26,Albany (NY),Away,TBD,,,NR,Q4
+Feb 28,Binghamton,Away,TBD,,362,NR,Q4
+Mar 3,Massachusetts-Lowell,Home,TBD,,323,NR,Q4

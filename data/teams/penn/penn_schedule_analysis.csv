@@ -1,0 +1,28 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 7,Rowan,Home,W,119-72,,NR,Q4
+Nov 9,American,Away,L,84-78,261,NR,Q4
+Nov 11,Providence,Away,L,106-81,79,NR,Q2
+Nov 17,Saint Joseph's,Home,W,83-74,157,NR,Q3
+Nov 21,Drexel,Away,W,84-68,217,NR,Q3
+Nov 28,Merrimack,Home,W,77-65,185,NR,Q4
+Nov 29,La Salle,Home,W,73-71,241,NR,Q4
+Nov 30,Hofstra,Home,L,77-60,102,NR,Q3
+Dec 6,Villanova,Neutral,L,90-63,30,NR,Q1
+Dec 8,Lafayette,Home,W,74-72,326,NR,Q4
+Dec 20,Rutgers,Away,L,70-69,155,NR,Q3
+Dec 28,George Mason,Away,L,83-79,91,NR,Q2
+Dec 31,NJIT,Home,W,80-61,301,NR,Q4
+Jan 5,Princeton,Away,L,78-76,254,NR,Q4
+Jan 10,Brown,Home,W,81-73,285,NR,Q4
+Jan 17,Dartmouth,Away,W,84-74,252,NR,Q4
+Jan 19,Harvard,Away,L,64-63,160,NR,Q3
+Jan 24,Yale,Home,L,77-60,65,NR,Q2
+Jan 30,Columbia,Away,L,72-67,180,NR,Q3
+Jan 31,Cornell,Away,W,91-81,146,NR,Q3
+Feb 7,Princeton,Home,W,61-60,254,NR,Q4
+Feb 13,Columbia,Home,W,76-67,180,NR,Q4
+Feb 14,Cornell,Home,W,82-76,146,NR,Q3
+Feb 21,Yale,Away,TBD,,65,NR,Q1
+Feb 27,Dartmouth,Home,TBD,,252,NR,Q4
+Feb 28,Harvard,Home,TBD,,160,NR,Q3
+Mar 6,Brown,Away,TBD,,285,NR,Q4

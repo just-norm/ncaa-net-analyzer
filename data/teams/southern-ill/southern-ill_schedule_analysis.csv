@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,McKendree,Home,W,83-42,,NR,Q4
+Nov 7,Kansas City,Home,W,101-78,355,NR,Q4
+Nov 12,Nevada,Away,L,86-81,59,NR,Q1
+Nov 17,North Dakota State,Away,L,92-85,,NR,Q4
+Nov 23,Delaware,Neutral,W,79-59,267,NR,Q4
+Nov 24,UAB,Neutral,L,81-73,119,NR,Q3
+Nov 26,Memphis,Away,L,74-58,105,NR,Q2
+Nov 29,Little Rock,Home,W,74-65,307,NR,Q4
+Dec 3,High Point,Away,W,86-84,75,NR,Q1
+Dec 10,Tennessee-Martin,Home,W,83-54,,NR,Q4
+Dec 13,Richmond,Away,L,93-84,142,NR,Q3
+Dec 18,Illinois State,Home,L,75-68,,NR,Q4
+Dec 21,Bradley,Away,L,73-69,113,NR,Q2
+Dec 29,Murray State,Away,L,84-81,,NR,Q4
+Jan 1,Valparaiso,Home,W,75-70,163,NR,Q4
+Jan 4,Belmont,Away,W,68-67,55,NR,Q1
+Jan 7,Illinois-Chicago,Away,L,70-57,,NR,Q4
+Jan 14,Drake,Home,L,76-73,200,NR,Q4
+Jan 17,Belmont,Home,L,73-68,55,NR,Q2
+Jan 21,Valparaiso,Away,L,69-63,163,NR,Q3
+Jan 28,Northern Iowa,Home,W,65-50,,NR,Q4
+Jan 31,Illinois-Chicago,Home,L,68-66,,NR,Q4
+Feb 3,Illinois State,Away,W,54-50,,NR,Q4
+Feb 6,Murray State,Home,L,91-81,,NR,Q4
+Feb 9,Indiana State,Away,W,80-65,218,NR,Q3
+Feb 12,Evansville,Home,W,86-60,292,NR,Q4
+Feb 15,Bradley,Home,L,70-60,113,NR,Q3
+Feb 18,Drake,Away,TBD,,200,NR,Q3
+Feb 21,Northern Iowa,Away,TBD,,,NR,Q4
+Feb 25,Indiana State,Home,TBD,,218,NR,Q4
+Mar 1,Evansville,Away,TBD,,292,NR,Q4

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Houston,Away,L,75-57,4,NR,Q1
+Nov 6,Valley Forge,Home,W,91-52,,NR,Q4
+Nov 9,West Virginia,Away,L,69-47,54,NR,Q1
+Nov 14,Rutgers,Away,L,84-72,155,NR,Q3
+Nov 18,Saint Francis (PA),Home,W,79-62,,NR,Q4
+Nov 21,Columbia,Home,L,82-67,180,NR,Q4
+Nov 25,Marist,Away,L,78-55,170,NR,Q3
+Nov 28,UC Santa Barbara,Neutral,L,72-70,133,NR,Q3
+Nov 29,Texas State,Neutral,W,78-74,,NR,Q4
+Dec 2,Binghamton,Away,L,80-71,362,NR,Q4
+Dec 6,Long Island University,Home,L,87-82,195,NR,Q4
+Dec 18,Penn State Hazleton,Home,W,83-74,,NR,Q4
+Dec 21,Monmouth,Away,L,76-62,193,NR,Q3
+Dec 31,Army,Home,L,85-78,332,NR,Q4
+Jan 3,Bucknell,Away,L,72-65,333,NR,Q4
+Jan 7,Holy Cross,Home,W,66-58,327,NR,Q4
+Jan 10,Colgate,Away,W,78-77,201,NR,Q3
+Jan 14,Boston University,Away,W,93-91,152,NR,Q3
+Jan 17,Navy,Home,L,82-79,150,NR,Q3
+Jan 19,Loyola (MD),Home,W,88-81,,NR,Q4
+Jan 24,Lafayette,Home,W,64-59,326,NR,Q4
+Jan 28,Army,Away,L,67-64,332,NR,Q4
+Jan 31,Colgate,Home,W,77-76,201,NR,Q4
+Feb 4,Loyola (MD),Away,L,89-84,,NR,Q4
+Feb 7,Holy Cross,Away,L,76-67,327,NR,Q4
+Feb 11,American,Home,W,90-82,261,NR,Q4
+Feb 14,Lafayette,Away,W,78-69,326,NR,Q4
+Feb 18,Navy,Away,TBD,,150,NR,Q3
+Feb 22,Boston University,Home,TBD,,152,NR,Q3
+Feb 25,American,Away,TBD,,261,NR,Q4
+Feb 28,Bucknell,Home,TBD,,333,NR,Q4

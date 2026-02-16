@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Nebraska,Away,L,86-53,11,NR,Q1
+Nov 7,Huntingdon,Home,W,120-83,,NR,Q4
+Nov 10,UCLA,Away,L,83-62,40,NR,Q1
+Nov 14,The Citadel,Home,W,100-92,351,NR,Q4
+Nov 17,Tennessee Tech,Away,W,61-59,316,NR,Q4
+Nov 21,South Carolina Upstate,Home,W,72-64,293,NR,Q4
+Nov 23,Georgia Tech,Away,L,82-66,165,NR,Q3
+Dec 1,Troy,Away,W,93-89,132,NR,Q2
+Dec 6,Tennessee Tech,Home,L,87-59,316,NR,Q4
+Dec 13,Georgia Southern,Home,L,91-85,,NR,Q4
+Dec 17,Brewton-Parker,Home,W,70-49,,NR,Q4
+Dec 22,Georgia,Away,L,103-74,39,NR,Q1
+Jan 1,Bellarmine,Home,W,87-85,288,NR,Q4
+Jan 3,Eastern Kentucky,Home,W,88-76,281,NR,Q4
+Jan 8,North Florida,Away,W,85-73,337,NR,Q4
+Jan 10,Jacksonville,Away,L,75-43,306,NR,Q4
+Jan 15,Stetson,Away,L,95-86,325,NR,Q4
+Jan 17,Florida Gulf Coast,Away,L,90-72,257,NR,Q4
+Jan 22,Central Arkansas,Home,L,86-65,181,NR,Q4
+Jan 24,Queens (NC),Home,W,74-66,205,NR,Q4
+Jan 28,Bellarmine,Away,L,77-74,288,NR,Q4
+Jan 31,Austin Peay,Home,L,81-78,134,NR,Q3
+Feb 5,North Florida,Home,L,81-73,337,NR,Q4
+Feb 7,Jacksonville,Home,W,87-73,306,NR,Q4
+Feb 11,North Alabama,Away,W,82-73,,NR,Q4
+Feb 14,Central Arkansas,Away,L,79-62,181,NR,Q3
+Feb 18,Eastern Kentucky,Away,TBD,,281,NR,Q4
+Feb 21,Queens (NC),Away,TBD,,205,NR,Q3
+Feb 25,Lipscomb,Home,TBD,,186,NR,Q4
+Feb 28,North Alabama,Home,TBD,,,NR,Q4

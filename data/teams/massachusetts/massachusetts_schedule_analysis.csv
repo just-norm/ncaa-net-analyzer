@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Marshall,Home,L,78-72,149,NR,Q3
+Nov 8,Albany (NY),Home,W,83-62,,NR,Q4
+Nov 13,Le Moyne,Home,W,94-80,280,NR,Q4
+Nov 16,Central Connecticut State,Home,W,84-77,,NR,Q4
+Nov 21,College of Charleston,Neutral,L,69-65,,NR,Q4
+Nov 22,Green Bay,Neutral,L,79-75,224,NR,Q4
+Nov 24,Oregon State,Neutral,W,73-65,184,NR,Q3
+Dec 3,Harvard,Home,W,78-71,160,NR,Q3
+Dec 6,Massachusetts-Lowell,Home,W,80-60,323,NR,Q4
+Dec 10,Boston College,Neutral,W,76-74,152,NR,Q3
+Dec 13,Florida State,Neutral,W,103-95,82,NR,Q2
+Dec 20,Kent State,Home,L,69-59,144,NR,Q3
+Dec 22,Massachusetts-Boston,Home,W,91-40,,NR,Q4
+Dec 30,Eastern Michigan,Away,L,80-74,,NR,Q4
+Jan 3,Bowling Green,Home,L,101-100,141,NR,Q3
+Jan 6,Ohio,Away,L,86-83,213,NR,Q3
+Jan 10,Ball State,Home,W,79-71,,NR,Q4
+Jan 13,Western Michigan,Away,W,85-82,,NR,Q4
+Jan 17,Northern Illinois,Away,L,70-68,,NR,Q4
+Jan 20,Toledo,Home,W,84-82,172,NR,Q4
+Jan 23,Buffalo,Away,W,68-67,177,NR,Q3
+Jan 27,Miami (OH),Away,L,86-84,51,NR,Q1
+Jan 31,Eastern Michigan,Home,W,70-67,,NR,Q4
+Feb 3,Central Michigan,Home,W,95-89,,NR,Q4
+Feb 7,Coastal Carolina,Away,L,94-91,221,NR,Q3
+Feb 13,Akron,Away,L,99-92,62,NR,Q1
+Feb 17,Miami (OH),Home,TBD,,51,NR,Q2
+Feb 21,Buffalo,Home,TBD,,177,NR,Q4
+Feb 24,Ball State,Away,TBD,,,NR,Q4
+Feb 28,Bowling Green,Away,TBD,,141,NR,Q3
+Mar 3,Ohio,Home,TBD,,213,NR,Q4

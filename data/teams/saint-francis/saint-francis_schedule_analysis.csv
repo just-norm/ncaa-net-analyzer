@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Oklahoma,Away,L,102-66,68,NR,Q1
+Nov 6,TCU,Away,L,104-63,45,NR,Q1
+Nov 11,Mount St. Mary's,Home,L,74-66,299,NR,Q4
+Nov 18,Lehigh,Away,L,79-62,295,NR,Q4
+Nov 24,Belmont,Neutral,L,94-57,55,NR,Q2
+Nov 26,Troy,Neutral,L,74-64,132,NR,Q3
+Nov 29,Franciscan,Home,W,85-60,,NR,Q4
+Dec 1,Xavier,Away,L,96-74,97,NR,Q2
+Dec 3,Penn State Shenango,Home,W,100-41,,NR,Q4
+Dec 7,Radford,Away,L,89-56,239,NR,Q3
+Dec 14,Temple,Away,L,95-67,162,NR,Q3
+Dec 17,Florida,Away,L,102-61,9,NR,Q1
+Dec 20,Robert Morris,Home,L,79-70,161,NR,Q4
+Jan 2,Le Moyne,Home,L,84-58,280,NR,Q4
+Jan 4,FDU,Home,W,85-82,328,NR,Q4
+Jan 8,Wagner,Away,W,71-69,315,NR,Q4
+Jan 10,Long Island University,Away,L,67-63,195,NR,Q3
+Jan 17,Central Connecticut State,Home,L,98-90,,NR,Q4
+Jan 19,Stonehill,Home,W,63-61,339,NR,Q4
+Jan 23,Chicago State,Home,W,81-60,,NR,Q4
+Jan 31,New Haven,Home,L,81-69,329,NR,Q4
+Feb 5,Mercyhurst,Away,L,98-89,283,NR,Q4
+Feb 7,Le Moyne,Away,L,86-84,280,NR,Q4
+Feb 9,Chicago State,Away,L,80-75,,NR,Q4
+Feb 12,FDU,Away,L,66-59,328,NR,Q4
+Feb 14,Mercyhurst,Home,L,94-79,283,NR,Q4
+Feb 19,Long Island University,Home,TBD,,195,NR,Q4
+Feb 21,Wagner,Home,TBD,,315,NR,Q4
+Feb 24,New Haven,Away,TBD,,329,NR,Q4
+Feb 26,Stonehill,Away,TBD,,339,NR,Q4
+Feb 28,Central Connecticut State,Away,TBD,,,NR,Q4

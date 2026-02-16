@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Kansas State,Away,L,93-64,100,NR,Q2
+Nov 8,Elon,Home,L,92-90,192,NR,Q4
+Nov 12,NC State,Away,L,110-64,29,NR,Q1
+Nov 15,Austin Peay,Home,L,69-63,134,NR,Q3
+Nov 20,Queens (NC),Away,L,101-94,205,NR,Q3
+Nov 23,Youngstown State,Neutral,W,68-62,,NR,Q4
+Nov 25,Delaware,Neutral,L,73-60,267,NR,Q4
+Nov 26,Miami (OH),Neutral,L,82-71,51,NR,Q2
+Dec 2,UNC Asheville,Neutral,L,82-77,228,NR,Q4
+Dec 6,East Carolina,Away,W,82-78,269,NR,Q4
+Dec 12,William Peace,Home,W,90-62,,NR,Q4
+Dec 16,North Carolina A&T,Home,L,71-65,,NR,Q4
+Dec 21,VU Lynchburg,Home,W,131-53,,NR,Q4
+Jan 1,Chattanooga,Home,W,77-72,300,NR,Q4
+Jan 3,Samford,Home,W,89-82,210,NR,Q4
+Jan 7,Wofford,Away,L,97-85,229,NR,Q3
+Jan 10,East Tennessee State,Away,L,86-60,129,NR,Q2
+Jan 15,The Citadel,Home,W,69-66,351,NR,Q4
+Jan 17,Mercer,Home,L,102-92,153,NR,Q3
+Jan 21,Virginia Military Institute,Away,W,85-78,,NR,Q4
+Jan 23,Furman,Home,L,89-66,194,NR,Q4
+Jan 29,Mercer,Away,L,95-77,153,NR,Q3
+Jan 31,The Citadel,Away,L,71-66,351,NR,Q4
+Feb 4,Western Carolina,Home,W,81-78,263,NR,Q4
+Feb 8,Furman,Away,W,67-64,194,NR,Q3
+Feb 11,Virginia Military Institute,Home,W,92-71,,NR,Q4
+Feb 14,Wofford,Home,W,99-89,229,NR,Q4
+Feb 18,Western Carolina,Away,TBD,,263,NR,Q4
+Feb 21,East Tennessee State,Home,TBD,,129,NR,Q3
+Feb 26,Chattanooga,Away,TBD,,300,NR,Q4
+Feb 28,Samford,Away,TBD,,210,NR,Q3

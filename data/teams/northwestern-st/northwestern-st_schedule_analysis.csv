@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Texas A&M,Away,L,98-68,43,NR,Q1
+Nov 6,North Texas,Away,L,80-53,148,NR,Q3
+Nov 11,North Alabama,Away,L,87-83,,NR,Q4
+Nov 14,Ecclesia,Home,W,95-75,,NR,Q4
+Nov 18,San Francisco,Away,L,84-64,118,NR,Q2
+Nov 21,Grand Canyon,Away,L,85-72,76,NR,Q2
+Nov 29,Southern,Home,L,75-73,279,NR,Q4
+Dec 5,McNeese State,Away,L,92-54,56,NR,Q1
+Dec 7,Southeastern Louisiana,Away,W,76-68,,NR,Q4
+Dec 13,California,Away,L,79-70,61,NR,Q1
+Dec 20,Southern–New Orleans,Home,W,108-55,,NR,Q4
+Dec 29,Lamar,Home,L,76-61,211,NR,Q4
+Dec 31,Stephen F. Austin,Home,L,74-64,,NR,Q4
+Jan 3,New Orleans,Home,W,74-68,222,NR,Q4
+Jan 5,Nicholls State,Away,L,74-72,,NR,Q4
+Jan 10,Texas A&M-Corpus Christi,Home,W,79-78,196,NR,Q4
+Jan 12,Texas-Rio Grande Valley,Home,W,64-63,140,NR,Q3
+Jan 17,Incarnate Word,Away,L,76-74,,NR,Q4
+Jan 19,Houston Christian,Away,L,82-80,298,NR,Q4
+Jan 27,Stephen F. Austin,Away,L,69-67,,NR,Q4
+Jan 31,New Orleans,Away,L,75-64,222,NR,Q3
+Feb 2,Nicholls State,Home,L,61-58,,NR,Q4
+Feb 4,East Texas A&M,Home,L,74-68,296,NR,Q4
+Feb 7,East Texas A&M,Away,L,52-48,296,NR,Q4
+Feb 9,Lamar,Away,W,70-68,211,NR,Q3
+Feb 14,Southeastern Louisiana,Home,W,69-66,,NR,Q4
+Feb 16,McNeese State,Home,TBD,,56,NR,Q2
+Feb 21,Houston Christian,Home,TBD,,298,NR,Q4
+Feb 23,Incarnate Word,Home,TBD,,,NR,Q4
+Feb 28,Texas A&M-Corpus Christi,Away,TBD,,196,NR,Q3
+Mar 2,Texas-Rio Grande Valley,Away,TBD,,140,NR,Q3

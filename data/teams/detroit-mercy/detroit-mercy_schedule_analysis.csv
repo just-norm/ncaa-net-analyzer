@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Illinois-Chicago,Away,L,91-71,,NR,Q4
+Nov 7,Notre Dame,Away,L,102-70,87,NR,Q2
+Nov 11,Cleary University,Home,W,92-54,,NR,Q4
+Nov 15,Toledo,Away,L,90-83,172,NR,Q3
+Nov 18,Eastern Michigan,Home,L,72-62,,NR,Q4
+Nov 21,Michigan State,Away,L,84-56,15,NR,Q1
+Nov 23,DePaul,Away,L,95-75,108,NR,Q2
+Nov 29,Niagara,Away,W,70-66,342,NR,Q4
+Dec 3,IU Indy,Home,W,92-78,313,NR,Q4
+Dec 6,Cleveland State,Away,W,71-59,,NR,Q4
+Dec 14,Purdue Fort Wayne,Away,L,81-77,253,NR,Q4
+Dec 20,Siena Heights,Home,W,91-60,,NR,Q4
+Dec 29,Youngstown State,Away,W,73-68,,NR,Q4
+Jan 2,Robert Morris,Home,L,85-77,161,NR,Q4
+Jan 9,Wright State,Home,L,84-82,,NR,Q4
+Jan 11,Cleveland State,Home,W,94-84,,NR,Q4
+Jan 15,Northern Kentucky,Away,L,96-71,199,NR,Q3
+Jan 17,IU Indy,Away,W,80-77,313,NR,Q4
+Jan 21,Purdue Fort Wayne,Home,L,83-76,253,NR,Q4
+Jan 24,Oakland,Home,L,95-87,154,NR,Q3
+Jan 30,Northern Kentucky,Home,W,90-77,199,NR,Q4
+Feb 4,Milwaukee,Away,W,76-63,246,NR,Q4
+Feb 7,Green Bay,Away,L,76-63,224,NR,Q3
+Feb 12,Wright State,Away,W,77-74,,NR,Q4
+Feb 15,Youngstown State,Home,W,76-70,,NR,Q4
+Feb 20,Milwaukee,Home,TBD,,246,NR,Q4
+Feb 22,Green Bay,Home,TBD,,224,NR,Q4
+Feb 25,Robert Morris,Away,TBD,,161,NR,Q3
+Feb 28,Oakland,Away,TBD,,154,NR,Q3

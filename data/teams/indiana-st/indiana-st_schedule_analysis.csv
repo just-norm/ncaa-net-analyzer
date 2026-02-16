@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Charlotte,Away,L,92-76,189,NR,Q3
+Nov 6,Illinois Tech,Home,W,104-73,,NR,Q4
+Nov 10,Southern Illinois-Edwardsville,Away,W,64-55,,NR,Q4
+Nov 14,Duke,Away,L,100-62,2,NR,Q1
+Nov 19,Louisiana Tech,Home,W,60-51,247,NR,Q4
+Nov 22,Ball State,Home,W,70-52,,NR,Q4
+Nov 26,Louisiana Tech,Away,L,75-73,247,NR,Q4
+Nov 28,Alcorn State,Neutral,L,81-74,,NR,Q4
+Dec 2,Eureka,Home,W,99-57,,NR,Q4
+Dec 7,Southern Indiana,Home,W,77-55,,NR,Q4
+Dec 14,Milwaukee,Away,W,70-68,246,NR,Q4
+Dec 18,Bradley,Home,L,108-99,113,NR,Q3
+Dec 21,Illinois State,Away,L,85-65,,NR,Q4
+Dec 29,Belmont,Home,W,81-80,55,NR,Q2
+Jan 1,Northern Iowa,Away,L,75-66,,NR,Q4
+Jan 4,Drake,Away,L,74-72,200,NR,Q3
+Jan 10,Evansville,Home,L,72-69,292,NR,Q4
+Jan 14,Illinois State,Home,W,94-89,,NR,Q4
+Jan 17,Murray State,Away,L,85-81,,NR,Q4
+Jan 21,Bradley,Away,L,75-68,113,NR,Q2
+Jan 24,Drake,Home,L,76-62,200,NR,Q4
+Jan 27,Illinois-Chicago,Away,L,76-74,,NR,Q4
+Jan 31,Valparaiso,Home,L,76-72,163,NR,Q4
+Feb 3,Evansville,Away,W,84-63,292,NR,Q4
+Feb 9,Southern Illinois,Home,L,80-65,126,NR,Q3
+Feb 12,Murray State,Home,L,74-72,,NR,Q4
+Feb 15,Valparaiso,Away,L,76-75,163,NR,Q3
+Feb 18,Northern Iowa,Home,TBD,,,NR,Q4
+Feb 21,Belmont,Away,TBD,,55,NR,Q1
+Feb 25,Southern Illinois,Away,TBD,,126,NR,Q2
+Mar 1,Illinois-Chicago,Home,TBD,,,NR,Q4

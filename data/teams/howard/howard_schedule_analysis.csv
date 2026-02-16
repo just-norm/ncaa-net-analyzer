@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Missouri,Home,L,88-67,66,NR,Q2
+Nov 6,District of Columbia,Home,W,103-71,,NR,Q4
+Nov 9,Grambling,Home,L,73-70,275,NR,Q4
+Nov 13,Alcorn State,Home,W,72-64,,NR,Q4
+Nov 19,Stetson,Away,L,64-60,325,NR,Q4
+Nov 22,Niagara,Neutral,W,80-70,342,NR,Q4
+Nov 23,Duke,Away,L,93-56,2,NR,Q1
+Nov 26,St. Mary's (MD),Home,W,115-61,,NR,Q4
+Nov 29,Mount St. Mary's,Away,L,79-75,299,NR,Q4
+Dec 6,Bowie State,Home,W,85-69,,NR,Q4
+Dec 9,North Carolina A&T,Neutral,W,73-69,,NR,Q4
+Dec 13,Hampton,Neutral,W,61-57,258,NR,Q4
+Dec 16,Drexel,Away,W,74-66,217,NR,Q3
+Dec 20,UNC Wilmington,Away,W,67-66,,NR,Q4
+Dec 30,Northwestern,Away,L,80-60,77,NR,Q2
+Jan 3,South Carolina State,Away,L,58-57,358,NR,Q4
+Jan 10,Maryland-Eastern Shore,Away,L,69-57,,NR,Q4
+Jan 12,Delaware State,Home,W,84-58,,NR,Q4
+Jan 17,North Carolina Central,Away,W,83-69,340,NR,Q4
+Jan 19,Morehouse,Home,W,78-69,,NR,Q4
+Jan 24,Morgan State,Home,L,78-77,,NR,Q4
+Jan 31,Norfolk State,Home,W,88-60,309,NR,Q4
+Feb 2,Coppin State,Away,W,72-53,,NR,Q4
+Feb 7,South Carolina State,Home,W,85-57,358,NR,Q4
+Feb 9,Yale,Home,L,87-81,65,NR,Q2
+Feb 14,Maryland-Eastern Shore,Home,W,79-53,,NR,Q4
+Feb 16,Delaware State,Away,TBD,,,NR,Q4
+Feb 21,North Carolina Central,Home,TBD,,340,NR,Q4
+Feb 28,Morgan State,Away,TBD,,,NR,Q4
+Mar 2,Coppin State,Home,TBD,,,NR,Q4
+Mar 5,Norfolk State,Away,TBD,,309,NR,Q4

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Louisiana,Home,W,75-64,312,NR,Q4
+Nov 7,Mansfield,Home,W,84-54,,NR,Q4
+Nov 11,Wisconsin,Away,L,86-55,33,NR,Q1
+Nov 15,Little Rock,Home,L,68-62,307,NR,Q4
+Nov 22,Indiana State,Away,L,70-52,218,NR,Q3
+Nov 28,Monmouth,Neutral,L,80-73,193,NR,Q3
+Nov 29,Lafayette,Away,L,55-37,326,NR,Q4
+Nov 30,Le Moyne,Neutral,W,96-85,280,NR,Q4
+Dec 3,Evansville,Away,L,64-52,292,NR,Q4
+Dec 9,South Dakota State,Home,L,68-64,204,NR,Q4
+Dec 14,Campbell,Away,L,69-64,207,NR,Q3
+Dec 20,Miami (OH),Home,L,86-77,51,NR,Q2
+Dec 29,Earlham,Home,W,93-30,,NR,Q4
+Jan 3,Buffalo,Away,L,85-72,177,NR,Q3
+Jan 6,Eastern Michigan,Home,L,74-52,,NR,Q4
+Jan 10,Massachusetts,Away,L,79-71,191,NR,Q3
+Jan 13,Akron,Away,L,87-77,62,NR,Q1
+Jan 16,Ohio,Home,W,76-71,213,NR,Q4
+Jan 20,Central Michigan,Away,W,68-67,,NR,Q4
+Jan 24,Northern Illinois,Home,W,58-53,,NR,Q4
+Jan 31,Toledo,Away,L,73-55,172,NR,Q3
+Feb 3,Bowling Green,Away,L,77-52,141,NR,Q3
+Feb 7,Louisiana-Monroe,Away,W,73-68,,NR,Q4
+Feb 11,Buffalo,Home,L,63-53,177,NR,Q4
+Feb 14,Kent State,Home,L,75-68,144,NR,Q3
+Feb 17,Ohio,Away,TBD,,213,NR,Q3
+Feb 20,Akron,Home,TBD,,62,NR,Q2
+Feb 24,Massachusetts,Home,TBD,,191,NR,Q4
+Feb 28,Northern Illinois,Away,TBD,,,NR,Q4
+Mar 3,Western Michigan,Away,TBD,,,NR,Q4
+Mar 6,Central Michigan,Home,TBD,,,NR,Q4

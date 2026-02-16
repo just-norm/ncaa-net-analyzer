@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Louisville,Away,L,104-45,12,NR,Q1
+Nov 7,Samford,Away,L,82-72,210,NR,Q3
+Nov 10,North Carolina A&T,Away,L,85-62,,NR,Q4
+Nov 14,College of Charleston,Away,L,88-61,,NR,Q4
+Nov 19,Chattanooga,Home,L,78-66,300,NR,Q4
+Nov 23,South Dakota,Away,L,82-81,276,NR,Q4
+Nov 25,Missouri,Away,L,98-66,66,NR,Q1
+Nov 29,Winthrop,Away,L,101-79,121,NR,Q2
+Dec 5,Bethune-Cookman,Away,L,80-59,251,NR,Q4
+Dec 8,Charleston Southern,Away,L,84-44,,NR,Q4
+Dec 12,Queens (NC),Away,L,102-78,205,NR,Q3
+Dec 16,South Carolina Upstate,Home,L,78-72,293,NR,Q4
+Dec 19,Brewton-Parker,Home,W,68-54,,NR,Q4
+Dec 22,South Carolina,Away,L,95-70,112,NR,Q2
+Dec 30,Tennessee,Away,L,105-54,22,NR,Q1
+Jan 3,Howard,Home,W,58-57,230,NR,Q4
+Jan 10,Morgan State,Away,L,72-67,,NR,Q4
+Jan 12,Coppin State,Away,W,74-72,,NR,Q4
+Jan 17,Norfolk State,Home,L,89-82,309,NR,Q4
+Jan 20,Mid-Atlantic Christian,Home,W,56-50,,NR,Q4
+Jan 26,Delaware State,Home,W,70-64,,NR,Q4
+Feb 4,Maryland-Eastern Shore,Home,W,63-54,,NR,Q4
+Feb 7,Howard,Away,L,85-57,230,NR,Q3
+Feb 16,Coppin State,Home,TBD,,,NR,Q4
+Feb 18,North Carolina Central,Home,TBD,,340,NR,Q4
+Feb 21,Norfolk State,Away,TBD,,309,NR,Q4
+Feb 25,Morgan State,Home,TBD,,,NR,Q4
+Feb 28,Maryland-Eastern Shore,Away,TBD,,,NR,Q4
+Mar 2,Delaware State,Away,TBD,,,NR,Q4
+Mar 5,North Carolina Central,Away,TBD,,340,NR,Q4

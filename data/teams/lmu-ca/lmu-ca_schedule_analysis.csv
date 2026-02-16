@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Lincoln (CA),Home,W,137-54,,NR,Q4
+Nov 5,Eastern Washington,Home,W,70-62,,NR,Q4
+Nov 8,Arkansas-Pine Bluff,Home,W,94-72,,NR,Q4
+Nov 11,UTEP,Away,W,71-58,264,NR,Q4
+Nov 14,Troy,Home,W,74-63,132,NR,Q3
+Nov 17,UC Santa Barbara,Away,W,78-74,133,NR,Q2
+Nov 24,Florida Atlantic,Neutral,L,76-65,,NR,Q4
+Nov 25,Ohio,Neutral,W,70-58,213,NR,Q4
+Nov 28,Stony Brook,Home,L,71-68,212,NR,Q4
+Dec 2,Saint Louis,Home,L,91-70,17,NR,Q1
+Dec 16,UC San Diego,Home,L,67-57,125,NR,Q3
+Dec 19,North Alabama,Home,W,91-57,,NR,Q4
+Dec 23,Morgan State,Home,W,83-56,,NR,Q4
+Dec 28,Saint Mary's (CA),Home,L,78-73,26,NR,Q1
+Dec 30,Pacific,Home,W,80-71,103,NR,Q3
+Jan 2,Washington State,Away,L,78-76,135,NR,Q2
+Jan 4,Gonzaga,Away,L,82-47,6,NR,Q1
+Jan 8,San Francisco,Home,W,84-82,118,NR,Q3
+Jan 10,Santa Clara,Away,L,103-72,42,NR,Q1
+Jan 14,Oregon State,Away,L,76-70,184,NR,Q3
+Jan 17,Portland,Home,L,71-58,208,NR,Q4
+Jan 21,Seattle,Away,L,69-59,,NR,Q4
+Jan 28,Oregon State,Home,L,72-69,184,NR,Q4
+Jan 31,Santa Clara,Home,L,104-73,42,NR,Q2
+Feb 4,San Francisco,Away,W,84-75,118,NR,Q2
+Feb 7,San Diego,Home,W,83-63,223,NR,Q4
+Feb 11,Pacific,Away,L,65-59,103,NR,Q2
+Feb 14,Pepperdine,Away,L,90-89,284,NR,Q4
+Feb 21,San Diego,Away,TBD,,223,NR,Q3
+Feb 25,Washington State,Home,TBD,,135,NR,Q3
+Feb 28,Seattle,Home,TBD,,,NR,Q4

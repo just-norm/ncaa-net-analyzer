@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Boston College,Home,W,83-78,152,NR,Q3
+Nov 8,College of Charleston,Neutral,W,94-77,,NR,Q4
+Nov 9,Liberty,Away,L,88-68,74,NR,Q1
+Nov 17,Coastal Georgia,Home,W,92-63,,NR,Q4
+Nov 18,Coastal Georgia,Home,TBD,,,NR,Q4
+Nov 20,Pacific,Home,W,82-59,103,NR,Q3
+Nov 24,Loyola Marymount,Neutral,W,76-65,,NR,Q4
+Nov 25,George Mason,Neutral,L,74-65,91,NR,Q2
+Nov 30,St. Bonaventure,Home,L,70-65,145,NR,Q3
+Dec 7,Florida Gulf Coast,Away,W,81-76,257,NR,Q4
+Dec 10,Saint Leo,Home,W,112-55,,NR,Q4
+Dec 13,Albany (NY),Home,W,105-79,,NR,Q4
+Dec 19,Saint Mary's (CA),Away,L,88-75,26,NR,Q1
+Dec 23,UCF,Neutral,L,85-80,50,NR,Q1
+Dec 31,UTSA,Home,W,110-70,341,NR,Q4
+Jan 4,Tulane,Away,L,69-66,190,NR,Q3
+Jan 7,UAB,Away,W,76-71,119,NR,Q2
+Jan 11,Memphis,Home,W,89-78,105,NR,Q3
+Jan 15,Wichita State,Home,W,85-67,,NR,Q4
+Jan 18,Temple,Away,W,79-73,162,NR,Q3
+Jan 21,Tulane,Home,W,79-74,190,NR,Q4
+Jan 25,South Florida,Away,L,89-75,,NR,Q4
+Jan 29,Memphis,Away,L,92-65,105,NR,Q2
+Feb 1,East Carolina,Home,L,76-75,269,NR,Q4
+Feb 4,Tulsa,Home,L,78-76,53,NR,Q2
+Feb 11,Rice,Away,L,81-73,248,NR,Q4
+Feb 15,South Florida,Home,L,83-81,,NR,Q4
+Feb 18,UTSA,Away,TBD,,341,NR,Q4
+Feb 25,Temple,Home,TBD,,162,NR,Q4
+Mar 1,Charlotte,Home,TBD,,189,NR,Q4
+Mar 7,Wichita State,Away,TBD,,,NR,Q4

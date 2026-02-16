@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Navy,Home,L,76-55,150,NR,Q3
+Nov 5,Bluefield University,Home,W,105-76,,NR,Q4
+Nov 8,East Tennessee State,Home,W,68-64,129,NR,Q3
+Nov 10,Georgia State,Away,W,63-61,,NR,Q4
+Nov 12,South Carolina,Away,L,81-61,112,NR,Q2
+Nov 16,Sacramento State,Away,L,64-62,,NR,Q4
+Nov 18,California,Away,L,67-57,61,NR,Q1
+Nov 21,UCLA,Away,L,86-46,40,NR,Q1
+Nov 26,Columbia International,Home,W,93-50,,NR,Q4
+Nov 30,The Citadel,Neutral,W,69-41,351,NR,Q4
+Dec 3,Wofford,Away,L,63-56,229,NR,Q3
+Dec 6,Morehead State,Home,W,80-72,,NR,Q4
+Dec 17,East Carolina,Away,L,74-53,269,NR,Q4
+Dec 21,Manhattan,Away,L,87-81,321,NR,Q4
+Dec 28,Truett-McConnell,Home,W,91-64,,NR,Q4
+Jan 3,South Carolina Upstate,Home,W,86-77,293,NR,Q4
+Jan 7,Radford,Away,L,80-61,239,NR,Q3
+Jan 10,Longwood,Away,L,77-70,272,NR,Q4
+Jan 14,UNC Asheville,Home,W,71-70,228,NR,Q4
+Jan 17,Gardner-Webb,Away,W,92-55,363,NR,Q4
+Jan 21,Charleston Southern,Home,W,87-83,,NR,Q4
+Jan 24,Winthrop,Home,L,82-72,121,NR,Q3
+Jan 29,High Point,Away,L,84-81,75,NR,Q1
+Jan 31,Radford,Home,L,93-84,239,NR,Q4
+Feb 7,Gardner-Webb,Home,W,68-62,363,NR,Q4
+Feb 12,Charleston Southern,Away,L,84-67,,NR,Q4
+Feb 14,UNC Asheville,Away,W,58-57,228,NR,Q3
+Feb 19,Longwood,Home,TBD,,272,NR,Q4
+Feb 21,South Carolina Upstate,Away,TBD,,293,NR,Q4
+Feb 26,High Point,Home,TBD,,75,NR,Q2
+Feb 28,Winthrop,Away,TBD,,121,NR,Q2

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Washington Adventist,Home,W,98-76,,NR,Q4
+Nov 5,Regent,Home,W,119-55,,NR,Q4
+Nov 8,William & Mary,Home,L,81-78,114,NR,Q3
+Nov 11,Old Dominion,Away,L,60-57,256,NR,Q4
+Nov 14,Towson,Away,L,51-41,176,NR,Q3
+Nov 21,Hampton,Home,W,62-60,258,NR,Q4
+Nov 23,Wyoming,Away,L,75-67,101,NR,Q2
+Nov 25,VU Lynchburg,Home,W,136-79,,NR,Q4
+Nov 29,Arizona,Away,L,98-61,3,NR,Q1
+Dec 6,James Madison,Away,L,68-67,219,NR,Q3
+Dec 10,Baylor,Away,L,97-67,47,NR,Q1
+Dec 18,Grambling,Neutral,L,80-68,275,NR,Q4
+Dec 19,Jackson State,Neutral,W,82-72,347,NR,Q4
+Dec 21,UTEP,Away,W,72-71,264,NR,Q4
+Dec 22,UC Irvine,Neutral,L,89-70,120,NR,Q3
+Dec 28,Louisiana,Away,L,63-54,312,NR,Q4
+Jan 3,North Carolina Central,Away,L,69-67,340,NR,Q4
+Jan 10,Delaware State,Away,W,66-64,,NR,Q4
+Jan 12,Maryland-Eastern Shore,Home,L,74-70,,NR,Q4
+Jan 17,South Carolina State,Away,W,89-82,358,NR,Q4
+Jan 19,Elizabeth City State,Home,W,86-61,,NR,Q4
+Jan 24,Coppin State,Home,W,103-76,,NR,Q4
+Jan 26,Morgan State,Home,L,79-78,,NR,Q4
+Jan 31,Howard,Away,L,88-60,230,NR,Q3
+Feb 7,North Carolina Central,Home,W,75-68,340,NR,Q4
+Feb 14,Delaware State,Home,W,75-58,,NR,Q4
+Feb 16,Maryland-Eastern Shore,Away,TBD,,,NR,Q4
+Feb 21,South Carolina State,Home,TBD,,358,NR,Q4
+Feb 28,Coppin State,Away,TBD,,,NR,Q4
+Mar 2,Morgan State,Away,TBD,,,NR,Q4
+Mar 5,Howard,Home,TBD,,230,NR,Q4

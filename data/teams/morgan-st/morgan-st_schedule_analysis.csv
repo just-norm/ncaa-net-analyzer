@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Georgetown,Away,L,87-70,90,NR,Q2
+Nov 6,Central Pennsylvania College,Home,W,101-77,,NR,Q4
+Nov 11,Maryland-Baltimore County,Home,L,81-79,,NR,Q4
+Nov 15,Mercyhurst,Away,L,86-72,283,NR,Q4
+Nov 18,North Carolina A&T,Home,L,79-73,,NR,Q4
+Nov 21,Old Dominion,Away,L,88-56,256,NR,Q4
+Nov 25,Drexel,Home,L,71-66,217,NR,Q4
+Dec 6,Longwood,Home,L,84-80,272,NR,Q4
+Dec 9,DePaul,Away,L,92-49,108,NR,Q2
+Dec 13,Niagara,Home,W,81-73,342,NR,Q4
+Dec 19,California,Away,L,97-50,61,NR,Q1
+Dec 21,San Francisco,Away,L,94-64,118,NR,Q2
+Dec 23,Loyola Marymount,Away,L,83-56,,NR,Q4
+Dec 30,Penn State Brandywine,Home,W,92-55,,NR,Q4
+Jan 3,Maryland-Eastern Shore,Away,L,66-49,,NR,Q4
+Jan 10,South Carolina State,Home,W,72-67,358,NR,Q4
+Jan 12,North Carolina Central,Home,L,89-78,340,NR,Q4
+Jan 17,Delaware State,Away,W,80-79,,NR,Q4
+Jan 20,VU Lynchburg,Home,W,128-53,,NR,Q4
+Jan 24,Howard,Away,W,78-77,230,NR,Q3
+Jan 26,Norfolk State,Away,W,79-78,309,NR,Q4
+Jan 31,Coppin State,Away,W,89-80,,NR,Q4
+Feb 7,Maryland-Eastern Shore,Home,W,79-71,,NR,Q4
+Feb 16,North Carolina Central,Away,TBD,,340,NR,Q4
+Feb 21,Delaware State,Home,TBD,,,NR,Q4
+Feb 25,South Carolina State,Away,TBD,,358,NR,Q4
+Feb 28,Howard,Home,TBD,,230,NR,Q4
+Mar 2,Norfolk State,Home,TBD,,309,NR,Q4
+Mar 5,Coppin State,Home,TBD,,,NR,Q4

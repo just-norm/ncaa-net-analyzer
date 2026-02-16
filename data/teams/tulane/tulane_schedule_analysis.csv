@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Samford,Home,W,85-72,210,NR,Q4
+Nov 8,Texas State,Home,W,79-71,,NR,Q4
+Nov 11,Louisiana,Away,W,66-62,312,NR,Q4
+Nov 14,New Orleans,Home,L,85-63,222,NR,Q4
+Nov 21,Utah State,Neutral,L,96-75,23,NR,Q1
+Nov 23,Boston College,Neutral,W,93-90,152,NR,Q3
+Nov 28,Nicholls State,Home,W,82-72,,NR,Q4
+Dec 2,Grambling,Home,W,65-63,275,NR,Q4
+Dec 6,Akron,Home,L,88-71,62,NR,Q2
+Dec 10,Tougaloo,Home,W,84-72,,NR,Q4
+Dec 14,UC San Diego,Neutral,L,93-67,125,NR,Q3
+Dec 17,Louisiana Tech,Home,W,61-53,247,NR,Q4
+Dec 20,Portland State,Home,W,63-61,,NR,Q4
+Dec 31,East Carolina,Away,W,79-70,269,NR,Q4
+Jan 4,Florida Atlantic,Home,W,69-66,,NR,Q4
+Jan 10,UTSA,Away,W,85-52,341,NR,Q4
+Jan 14,UAB,Home,L,82-69,119,NR,Q3
+Jan 18,North Texas,Home,L,71-63,148,NR,Q3
+Jan 21,Florida Atlantic,Away,L,79-74,,NR,Q4
+Jan 23,Charlotte,Away,L,73-70,189,NR,Q3
+Jan 28,South Florida,Home,L,97-83,,NR,Q4
+Feb 1,Memphis,Away,W,78-76,105,NR,Q2
+Feb 8,Wichita State,Home,L,75-61,,NR,Q4
+Feb 11,Temple,Home,W,77-66,162,NR,Q4
+Feb 15,UAB,Away,W,55-54,119,NR,Q2
+Feb 22,Rice,Home,TBD,,248,NR,Q4
+Feb 25,Tulsa,Home,TBD,,53,NR,Q2
+Mar 1,South Florida,Away,TBD,,,NR,Q4
+Mar 5,Temple,Away,TBD,,162,NR,Q3
+Mar 8,Memphis,Home,TBD,,105,NR,Q3

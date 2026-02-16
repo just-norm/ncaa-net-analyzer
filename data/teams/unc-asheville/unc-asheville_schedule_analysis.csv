@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Wichita State,Away,L,75-58,,NR,Q4
+Nov 8,Georgia Southern,Away,L,93-90,,NR,Q4
+Nov 11,Lipscomb,Home,W,69-64,186,NR,Q4
+Nov 13,Bryan,Home,W,92-54,,NR,Q4
+Nov 19,Western Carolina,Away,L,80-73,263,NR,Q4
+Nov 25,Tennessee State,Home,L,75-73,235,NR,Q4
+Nov 30,Appalachian State,Home,W,67-55,,NR,Q4
+Dec 2,UNC Greensboro,Neutral,W,82-77,294,NR,Q4
+Dec 6,NC State,Away,L,75-63,29,NR,Q1
+Dec 10,Miami (OH),Home,L,90-87,51,NR,Q2
+Dec 13,St. Thomas,Home,L,80-59,,NR,Q4
+Dec 16,Kentucky Christian,Home,W,83-73,,NR,Q4
+Dec 18,Morris College,Home,W,89-56,,NR,Q4
+Dec 21,UAB,Away,L,72-47,119,NR,Q2
+Dec 31,High Point,Home,L,87-69,75,NR,Q2
+Jan 3,Charleston Southern,Away,L,86-83,,NR,Q4
+Jan 7,Longwood,Home,W,72-61,272,NR,Q4
+Jan 10,Radford,Away,W,91-72,239,NR,Q3
+Jan 14,Presbyterian,Away,L,71-70,271,NR,Q4
+Jan 17,Winthrop,Home,L,69-67,121,NR,Q3
+Jan 21,South Carolina Upstate,Away,W,83-69,293,NR,Q4
+Jan 29,Gardner-Webb,Home,W,69-50,363,NR,Q4
+Jan 31,Winthrop,Away,L,84-71,121,NR,Q2
+Feb 4,South Carolina Upstate,Home,W,76-67,293,NR,Q4
+Feb 12,Longwood,Away,W,79-74,272,NR,Q4
+Feb 14,Presbyterian,Home,L,58-57,271,NR,Q4
+Feb 19,High Point,Away,TBD,,75,NR,Q1
+Feb 21,Radford,Home,TBD,,239,NR,Q4
+Feb 26,Gardner-Webb,Away,TBD,,363,NR,Q4
+Feb 28,Charleston Southern,Home,TBD,,,NR,Q4

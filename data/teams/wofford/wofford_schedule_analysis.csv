@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,George Mason,Away,L,70-46,91,NR,Q2
+Nov 8,Milwaukee,Home,W,86-76,246,NR,Q4
+Nov 11,Auburn,Away,L,93-62,32,NR,Q1
+Nov 15,Bellarmine,Away,W,94-86,288,NR,Q4
+Nov 19,North Florida,Home,W,86-78,337,NR,Q4
+Nov 21,Erskine,Home,W,81-57,,NR,Q4
+Nov 26,Northern Kentucky,Away,L,93-83,199,NR,Q3
+Nov 29,Eastern Kentucky,Away,W,83-77,281,NR,Q4
+Dec 3,Presbyterian,Home,W,63-56,271,NR,Q4
+Dec 6,Elon,Home,L,73-52,192,NR,Q4
+Dec 15,Gardner-Webb,Away,W,83-57,363,NR,Q4
+Dec 17,Wichita State,Away,L,84-73,,NR,Q4
+Dec 28,Union (KY),Home,W,88-54,,NR,Q4
+Dec 31,Western Carolina,Away,W,79-74,263,NR,Q4
+Jan 3,The Citadel,Away,W,95-86,351,NR,Q4
+Jan 7,UNC Greensboro,Home,W,97-85,294,NR,Q4
+Jan 10,Mercer,Away,L,109-97,153,NR,Q3
+Jan 14,Chattanooga,Home,L,76-67,300,NR,Q4
+Jan 17,Furman,Away,W,74-70,194,NR,Q3
+Jan 21,Samford,Home,W,88-78,210,NR,Q4
+Jan 24,Mercer,Home,W,80-77,153,NR,Q3
+Jan 29,Chattanooga,Away,W,81-55,300,NR,Q4
+Feb 1,East Tennessee State,Home,L,86-72,129,NR,Q3
+Feb 4,Virginia Military Institute,Away,W,81-67,,NR,Q4
+Feb 7,Western Carolina,Home,W,77-66,263,NR,Q4
+Feb 11,Samford,Away,L,97-80,210,NR,Q3
+Feb 14,UNC Greensboro,Away,L,99-89,294,NR,Q4
+Feb 18,Virginia Military Institute,Home,TBD,,,NR,Q4
+Feb 21,Furman,Home,TBD,,194,NR,Q4
+Feb 25,East Tennessee State,Away,TBD,,129,NR,Q2
+Feb 28,The Citadel,Home,TBD,,351,NR,Q4

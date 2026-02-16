@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,North Texas at Dallas,Home,W,91-40,,NR,Q4
+Nov 8,New Mexico,Away,L,74-56,44,NR,Q1
+Nov 10,Arlington Baptist,Home,W,117-61,,NR,Q4
+Nov 15,Missouri State,Home,W,67-49,,NR,Q4
+Nov 18,Evansville,Away,W,84-76,292,NR,Q4
+Nov 21,Campbell,Neutral,L,71-67,207,NR,Q4
+Nov 22,Weber State,Away,W,74-73,,NR,Q4
+Nov 29,Stephen F. Austin,Home,W,66-61,,NR,Q4
+Dec 2,Arkansas State,Away,L,83-63,,NR,Q4
+Dec 11,Texas-Rio Grande Valley,Away,W,58-50,140,NR,Q3
+Dec 17,Stanford,Away,L,76-60,70,NR,Q1
+Dec 22,Oral Roberts,Away,W,69-57,335,NR,Q4
+Dec 29,Tarleton State,Home,L,69-63,,NR,Q4
+Jan 1,California Baptist,Home,W,63-51,109,NR,Q3
+Jan 3,Southern Utah,Away,W,86-77,282,NR,Q4
+Jan 10,Abilene Christian,Home,W,82-72,231,NR,Q4
+Jan 15,Utah Tech,Away,W,56-52,156,NR,Q3
+Jan 17,Utah Valley,Away,L,86-74,88,NR,Q2
+Jan 21,Tarleton State,Home,W,71-64,,NR,Q4
+Jan 29,Southern Utah,Home,W,80-61,282,NR,Q4
+Jan 31,California Baptist,Home,L,87-77,109,NR,Q3
+Feb 5,Utah Tech,Away,L,87-84,156,NR,Q3
+Feb 7,Utah Valley,Away,L,81-60,88,NR,Q2
+Feb 12,Abilene Christian,Away,L,67-63,231,NR,Q3
+Feb 14,Southern Utah,Home,L,78-73,282,NR,Q4
+Feb 19,Utah Tech,Home,TBD,,156,NR,Q3
+Feb 21,Utah Valley,Home,TBD,,88,NR,Q3
+Feb 26,California Baptist,Away,TBD,,109,NR,Q2
+Mar 5,Tarleton State,Away,TBD,,,NR,Q4
+Mar 7,Abilene Christian,Away,TBD,,231,NR,Q3

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Miami (OH),Away,L,87-72,51,NR,Q1
+Nov 6,Randolph,Home,W,93-53,,NR,Q4
+Nov 11,Norfolk State,Home,W,60-57,309,NR,Q4
+Nov 15,George Washington,Away,L,96-73,84,NR,Q2
+Nov 18,Xavier,Away,L,99-69,97,NR,Q2
+Nov 21,Morgan State,Home,W,88-56,,NR,Q4
+Nov 23,Drexel,Away,L,75-71,217,NR,Q3
+Nov 25,Villanova,Away,L,89-75,30,NR,Q1
+Nov 30,William & Mary,Away,L,88-75,114,NR,Q2
+Dec 6,Richmond,Away,L,86-77,142,NR,Q3
+Dec 13,George Mason,Away,L,73-61,91,NR,Q2
+Dec 17,James Madison,Home,W,77-68,219,NR,Q4
+Dec 20,Coastal Carolina,Home,L,76-74,221,NR,Q4
+Dec 28,Maryland,Away,L,73-58,151,NR,Q3
+Dec 31,Appalachian State,Home,L,81-73,,NR,Q4
+Jan 3,Georgia Southern,Home,L,93-86,,NR,Q4
+Jan 8,Coastal Carolina,Away,W,70-66,221,NR,Q3
+Jan 10,James Madison,Away,L,70-69,219,NR,Q3
+Jan 15,Georgia Southern,Away,L,87-84,,NR,Q4
+Jan 17,Appalachian State,Away,W,75-73,,NR,Q4
+Jan 21,Troy,Home,L,83-77,132,NR,Q3
+Jan 28,Arkansas State,Away,W,75-71,,NR,Q4
+Jan 31,Texas State,Away,L,81-64,,NR,Q4
+Feb 4,Louisiana-Monroe,Home,L,85-79,,NR,Q4
+Feb 7,Ohio,Home,W,78-72,213,NR,Q4
+Feb 11,Marshall,Home,L,81-79,149,NR,Q3
+Feb 14,Georgia State,Home,W,78-55,,NR,Q4
+Feb 16,Louisiana,Home,TBD,,312,NR,Q4
+Feb 21,Southern Mississippi,Away,TBD,,,NR,Q4
+Feb 24,Marshall,Away,TBD,,149,NR,Q3
+Feb 27,Georgia State,Away,TBD,,,NR,Q4

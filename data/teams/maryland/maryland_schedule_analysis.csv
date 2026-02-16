@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Coppin State,Neutral,W,83-61,,NR,Q4
+Nov 7,Georgetown,Home,L,70-60,90,NR,Q3
+Nov 11,Alcorn State,Home,W,84-64,,NR,Q4
+Nov 15,Marquette,Away,W,89-82,111,NR,Q2
+Nov 19,Mount St. Mary's,Home,W,95-90,299,NR,Q4
+Nov 25,Nevada-Las Vegas,Neutral,W,74-67,,NR,Q4
+Nov 25,Gonzaga,Neutral,L,100-61,6,NR,Q1
+Nov 27,Alabama,Neutral,L,105-72,21,NR,Q1
+Dec 2,Wagner,Home,W,89-63,315,NR,Q4
+Dec 6,Iowa,Away,L,83-64,27,NR,Q1
+Dec 13,Michigan,Home,L,101-83,1,NR,Q1
+Dec 20,Virginia,Away,L,80-72,19,NR,Q1
+Dec 28,Old Dominion,Home,W,73-58,256,NR,Q4
+Jan 2,Oregon,Home,L,64-54,107,NR,Q3
+Jan 7,Indiana,Home,L,84-66,34,NR,Q2
+Jan 10,UCLA,Away,L,67-55,40,NR,Q1
+Jan 13,Southern California,Away,L,88-71,48,NR,Q1
+Jan 18,Penn State,Home,W,96-73,122,NR,Q3
+Jan 21,Illinois,Away,L,89-70,5,NR,Q1
+Jan 24,Michigan State,Away,L,91-48,15,NR,Q1
+Feb 1,Purdue,Home,L,93-63,7,NR,Q1
+Feb 5,Ohio State,Home,L,82-62,38,NR,Q2
+Feb 8,Minnesota,Away,W,67-62,86,NR,Q2
+Feb 11,Iowa,Home,W,77-70,27,NR,Q1
+Feb 15,Rutgers,Away,L,68-57,155,NR,Q3
+Feb 18,Northwestern,Away,TBD,,77,NR,Q2
+Feb 21,Washington,Home,TBD,,52,NR,Q2
+Feb 25,Nebraska,Away,TBD,,11,NR,Q1
+Mar 1,Rutgers,Home,TBD,,155,NR,Q3
+Mar 4,Wisconsin,Away,TBD,,33,NR,Q1
+Mar 8,Illinois,Home,TBD,,5,NR,Q1

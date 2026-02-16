@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 8,Akron,Away,L,104-69,62,NR,Q1
+Nov 11,Bucknell,Home,W,73-63,333,NR,Q4
+Nov 13,John Jay,Home,W,100-59,,NR,Q4
+Nov 15,Kansas,Away,L,76-57,14,NR,Q1
+Nov 18,Iona,Away,L,89-69,237,NR,Q3
+Nov 20,Northeastern,Home,W,70-57,273,NR,Q4
+Nov 24,Bradley,Neutral,L,88-64,113,NR,Q3
+Nov 25,Temple,Neutral,L,79-75,162,NR,Q3
+Nov 26,Vermont,Neutral,L,79-74,215,NR,Q4
+Nov 30,Saint Joseph's,Neutral,L,60-58,157,NR,Q3
+Dec 3,Monmouth,Away,L,63-58,193,NR,Q3
+Dec 6,Loyola (IL),Away,L,73-68,,NR,Q4
+Dec 10,Merrimack,Home,L,59-56,185,NR,Q4
+Dec 22,Temple,Away,L,65-61,162,NR,Q3
+Dec 30,Vermont,Home,W,75-69,215,NR,Q4
+Jan 5,Pennsylvania,Home,W,78-76,,NR,Q4
+Jan 10,Yale,Home,W,76-60,65,NR,Q2
+Jan 17,Harvard,Away,L,87-80,160,NR,Q3
+Jan 19,Dartmouth,Away,L,71-69,252,NR,Q4
+Jan 24,Brown,Home,W,63-53,285,NR,Q4
+Jan 30,Cornell,Away,L,87-64,146,NR,Q3
+Jan 31,Columbia,Away,W,80-68,180,NR,Q3
+Feb 7,Pennsylvania,Away,L,61-60,,NR,Q4
+Feb 13,Cornell,Home,L,89-65,146,NR,Q3
+Feb 14,Columbia,Home,L,75-65,180,NR,Q4
+Feb 20,Brown,Away,TBD,,285,NR,Q4
+Feb 27,Harvard,Home,TBD,,160,NR,Q3
+Feb 28,Dartmouth,Home,TBD,,252,NR,Q4
+Mar 7,Yale,Away,TBD,,65,NR,Q1

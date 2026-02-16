@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Eastern Illinois,Home,W,66-63,317,NR,Q4
+Nov 7,Kentucky,Away,L,107-59,28,NR,Q1
+Nov 12,Nicholls State,Home,W,68-63,,NR,Q4
+Nov 16,Bryant,Home,W,68-50,352,NR,Q4
+Nov 19,Cleveland State,Away,W,90-75,,NR,Q4
+Nov 26,Southern Indiana,Home,L,64-56,,NR,Q4
+Nov 29,Western Michigan,Home,W,84-55,,NR,Q4
+Dec 2,Marquette,Away,L,75-72,111,NR,Q2
+Dec 6,Calumet College,Home,W,98-58,,NR,Q4
+Dec 13,UNC Wilmington,Home,L,73-70,,NR,Q4
+Dec 16,Northwestern,Away,L,86-70,77,NR,Q2
+Dec 21,Murray State,Home,L,85-79,,NR,Q4
+Dec 29,Northern Iowa,Away,L,58-48,,NR,Q4
+Jan 1,Southern Illinois,Away,L,75-70,126,NR,Q2
+Jan 4,Illinois-Chicago,Home,W,66-59,,NR,Q4
+Jan 7,Illinois State,Home,W,77-71,,NR,Q4
+Jan 10,Murray State,Away,L,92-79,,NR,Q4
+Jan 13,Belmont,Away,L,78-74,55,NR,Q1
+Jan 17,Northern Iowa,Home,W,54-44,,NR,Q4
+Jan 21,Southern Illinois,Home,W,69-63,126,NR,Q3
+Jan 28,Belmont,Home,L,78-77,55,NR,Q2
+Jan 31,Indiana State,Away,W,76-72,218,NR,Q3
+Feb 3,Bradley,Away,L,72-65,113,NR,Q2
+Feb 6,Evansville,Home,W,70-63,292,NR,Q4
+Feb 9,Drake,Away,W,81-76,200,NR,Q3
+Feb 12,Illinois State,Away,L,86-64,,NR,Q4
+Feb 15,Indiana State,Home,W,76-75,218,NR,Q4
+Feb 18,Bradley,Home,TBD,,113,NR,Q3
+Feb 21,Illinois-Chicago,Away,TBD,,,NR,Q4
+Feb 25,Drake,Home,TBD,,200,NR,Q4
+Feb 28,Evansville,Away,TBD,,292,NR,Q4

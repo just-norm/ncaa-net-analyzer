@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Mississippi,Away,L,88-58,92,NR,Q2
+Nov 7,Louisiana,Away,L,58-52,312,NR,Q4
+Nov 10,Georgia Tech,Away,L,70-60,165,NR,Q3
+Nov 15,Mississippi State,Away,L,75-68,94,NR,Q2
+Nov 19,William Carey,Home,W,71-45,,NR,Q4
+Nov 26,UNC Wilmington,Away,L,70-57,,NR,Q4
+Nov 28,Gardner-Webb,Neutral,W,76-68,363,NR,Q4
+Nov 29,Navy,Neutral,W,69-65,150,NR,Q3
+Dec 7,Northwestern State,Home,L,76-68,,NR,Q4
+Dec 13,Houston Christian,Away,W,74-71,298,NR,Q4
+Dec 15,East Texas A&M,Home,L,70-69,296,NR,Q4
+Dec 19,Louisiana State,Away,L,78-65,67,NR,Q1
+Dec 30,Incarnate Word,Away,L,79-70,,NR,Q4
+Jan 3,Stephen F. Austin,Home,L,73-63,,NR,Q4
+Jan 5,Lamar,Home,W,60-52,211,NR,Q4
+Jan 10,McNeese State,Away,L,73-61,56,NR,Q1
+Jan 12,New Orleans,Home,L,79-76,222,NR,Q4
+Jan 17,Texas A&M-Corpus Christi,Away,L,68-56,196,NR,Q3
+Jan 19,Texas-Rio Grande Valley,Away,L,68-65,140,NR,Q3
+Jan 24,Nicholls State,Home,W,67-61,,NR,Q4
+Jan 27,McNeese State,Home,L,76-66,56,NR,Q2
+Jan 31,Stephen F. Austin,Away,L,85-58,,NR,Q4
+Feb 2,Lamar,Away,L,73-54,211,NR,Q3
+Feb 7,Houston Christian,Home,W,55-47,298,NR,Q4
+Feb 9,Incarnate Word,Home,W,74-62,,NR,Q4
+Feb 14,Northwestern State,Away,L,69-66,,NR,Q4
+Feb 16,East Texas A&M,Away,TBD,,296,NR,Q4
+Feb 21,Texas-Rio Grande Valley,Home,TBD,,140,NR,Q3
+Feb 23,Texas A&M-Corpus Christi,Home,TBD,,196,NR,Q4
+Feb 28,Nicholls State,Away,TBD,,,NR,Q4
+Mar 2,New Orleans,Away,TBD,,222,NR,Q3

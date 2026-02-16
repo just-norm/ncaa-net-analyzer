@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Maryland-Eastern Shore,Home,W,56-52,,NR,Q4
+Nov 7,Bryant,Home,W,74-45,352,NR,Q4
+Nov 10,Southeastern Louisiana,Home,W,70-60,,NR,Q4
+Nov 14,Georgia,Away,L,92-87,39,NR,Q1
+Nov 18,Georgia Southern,Home,W,68-66,,NR,Q4
+Nov 23,West Georgia,Home,W,82-66,,NR,Q4
+Nov 28,DePaul,Neutral,L,75-61,108,NR,Q3
+Nov 29,Drake,Neutral,L,84-74,200,NR,Q3
+Dec 3,Mississippi State,Home,L,85-73,94,NR,Q3
+Dec 6,Monmouth,Home,W,79-67,193,NR,Q4
+Dec 16,Marist,Home,W,87-76,170,NR,Q4
+Dec 20,Lafayette,Home,W,95-81,326,NR,Q4
+Dec 28,Florida A&M,Home,W,89-65,336,NR,Q4
+Dec 31,Duke,Away,L,85-79,2,NR,Q1
+Jan 3,Boston College,Home,W,65-53,152,NR,Q3
+Jan 6,Syracuse,Home,L,82-72,69,NR,Q2
+Jan 10,Miami (FL),Away,L,91-81,35,NR,Q1
+Jan 14,Pittsburgh,Home,L,89-66,124,NR,Q3
+Jan 17,NC State,Away,W,78-74,29,NR,Q1
+Jan 24,Clemson,Home,L,77-63,31,NR,Q2
+Jan 27,Virginia Tech,Away,L,71-65,58,NR,Q1
+Jan 31,North Carolina,Home,L,91-75,25,NR,Q1
+Feb 4,California,Away,L,90-85,61,NR,Q1
+Feb 7,Stanford,Away,L,95-72,70,NR,Q1
+Feb 11,Wake Forest,Home,L,83-67,64,NR,Q2
+Feb 14,Notre Dame,Away,L,89-74,87,NR,Q2
+Feb 18,Virginia,Home,TBD,,19,NR,Q1
+Feb 21,Louisville,Away,TBD,,12,NR,Q1
+Feb 28,Florida State,Home,TBD,,82,NR,Q3
+Mar 4,California,Home,TBD,,61,NR,Q2
+Mar 7,Clemson,Away,TBD,,31,NR,Q1

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Minnesota,Away,L,87-60,86,NR,Q2
+Nov 7,Clemson,Away,L,97-59,31,NR,Q1
+Nov 10,North Greenville,Home,L,92-81,,NR,Q4
+Nov 15,Elon,Away,L,95-84,192,NR,Q3
+Nov 18,DePaul,Away,L,93-62,108,NR,Q2
+Nov 22,Richmond,Away,L,102-67,142,NR,Q3
+Nov 26,Navy,Neutral,L,84-51,150,NR,Q3
+Nov 28,Southeastern Louisiana,Neutral,L,76-68,,NR,Q4
+Nov 29,UNC Wilmington,Away,L,88-62,,NR,Q4
+Dec 3,Queens (NC),Away,L,107-74,205,NR,Q3
+Dec 6,Georgia Southern,Home,L,88-84,,NR,Q4
+Dec 12,Brevard,Home,W,77-63,,NR,Q4
+Dec 15,Wofford,Home,L,83-57,229,NR,Q4
+Dec 18,Toccoa Falls,Home,W,105-65,,NR,Q4
+Dec 21,Tennessee,Away,L,94-52,22,NR,Q1
+Dec 31,Charleston Southern,Home,L,89-79,,NR,Q4
+Jan 3,Winthrop,Away,L,88-77,121,NR,Q2
+Jan 7,High Point,Away,L,104-49,75,NR,Q1
+Jan 14,Radford,Home,L,89-80,239,NR,Q4
+Jan 17,Presbyterian,Home,L,92-55,271,NR,Q4
+Jan 21,Longwood,Away,L,91-56,272,NR,Q4
+Jan 23,South Carolina Upstate,Home,W,67-65,293,NR,Q4
+Jan 29,UNC Asheville,Away,L,69-50,228,NR,Q3
+Feb 4,Longwood,Home,L,86-66,272,NR,Q4
+Feb 7,Presbyterian,Away,L,68-62,271,NR,Q4
+Feb 12,Winthrop,Home,L,103-85,121,NR,Q3
+Feb 14,High Point,Home,L,112-87,75,NR,Q2
+Feb 17,Charleston Southern,Away,TBD,,,NR,Q4
+Feb 19,Radford,Away,TBD,,239,NR,Q3
+Feb 26,UNC Asheville,Home,TBD,,228,NR,Q4
+Feb 28,South Carolina Upstate,Away,TBD,,293,NR,Q4

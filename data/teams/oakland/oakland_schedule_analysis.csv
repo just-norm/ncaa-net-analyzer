@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Michigan,Away,L,121-78,1,NR,Q1
+Nov 7,Purdue,Away,L,87-77,7,NR,Q1
+Nov 12,Houston,Away,L,78-45,4,NR,Q1
+Nov 15,Defiance,Home,W,113-47,,NR,Q4
+Nov 17,UCF,Away,L,87-83,50,NR,Q1
+Nov 21,Eastern Michigan,Away,L,97-91,,NR,Q4
+Nov 24,Lamar,Neutral,W,83-68,211,NR,Q4
+Nov 25,Montana,Away,W,95-87,182,NR,Q3
+Dec 3,Purdue Fort Wayne,Home,W,101-92,253,NR,Q4
+Dec 6,Toledo,Home,W,98-97,172,NR,Q4
+Dec 13,Northern Iowa,Away,L,75-63,,NR,Q4
+Dec 17,Northern Kentucky,Away,W,82-77,199,NR,Q3
+Dec 20,Michigan State,Neutral,L,79-70,15,NR,Q1
+Dec 29,Wright State,Away,L,88-73,,NR,Q4
+Jan 1,Youngstown State,Away,W,85-83,,NR,Q4
+Jan 4,Robert Morris,Home,W,96-73,161,NR,Q4
+Jan 9,Cleveland State,Home,W,97-74,,NR,Q4
+Jan 11,Wright State,Home,L,94-84,,NR,Q4
+Jan 15,Milwaukee,Away,W,73-60,246,NR,Q4
+Jan 18,Green Bay,Away,W,88-63,224,NR,Q3
+Jan 21,IU Indy,Home,L,103-85,313,NR,Q4
+Jan 24,Detroit Mercy,Away,W,95-87,250,NR,Q4
+Jan 28,Purdue Fort Wayne,Away,W,74-65,253,NR,Q4
+Feb 1,Northern Kentucky,Home,W,76-65,199,NR,Q4
+Feb 4,Cleveland State,Away,L,91-78,,NR,Q4
+Feb 12,Youngstown State,Home,L,86-82,,NR,Q4
+Feb 15,Robert Morris,Away,L,93-69,161,NR,Q3
+Feb 20,Green Bay,Home,TBD,,224,NR,Q4
+Feb 22,Milwaukee,Home,TBD,,246,NR,Q4
+Feb 25,IU Indy,Away,TBD,,313,NR,Q4
+Feb 28,Detroit Mercy,Home,TBD,,250,NR,Q4

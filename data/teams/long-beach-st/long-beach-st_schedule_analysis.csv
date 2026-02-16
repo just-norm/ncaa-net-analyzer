@@ -1,0 +1,33 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,San Diego State,Away,L,77-45,41,NR,Q1
+Nov 8,Fresno State,Away,L,82-62,137,NR,Q3
+Nov 12,Pacific,Away,L,69-66,103,NR,Q2
+Nov 16,Illinois State,Home,L,82-80,,NR,Q4
+Nov 19,Nobel,Home,W,87-54,,NR,Q4
+Nov 21,Montana State,Home,L,78-72,,NR,Q4
+Nov 26,Portland,Away,L,93-73,208,NR,Q3
+Nov 30,San Diego,Home,W,76-72,223,NR,Q4
+Dec 4,UC Santa Barbara,Away,L,84-77,133,NR,Q2
+Dec 6,UC San Diego,Home,L,80-74,125,NR,Q3
+Dec 9,San Jose State,Away,L,89-83,265,NR,Q4
+Dec 18,Pepperdine,Home,W,81-78,284,NR,Q4
+Dec 21,Iowa State,Away,L,91-60,8,NR,Q1
+Dec 30,Lincoln (CA),Home,W,113-66,,NR,Q4
+Jan 3,Cal Poly,Home,W,74-66,238,NR,Q4
+Jan 8,UC Irvine,Away,L,74-64,120,NR,Q2
+Jan 10,Cal State Bakersfield,Home,W,81-75,,NR,Q4
+Jan 15,UC Riverside,Home,W,88-73,291,NR,Q4
+Jan 17,Cal State Northridge,Away,W,87-80,,NR,Q4
+Jan 22,Cal State Fullerton,Away,L,71-61,,NR,Q4
+Jan 24,UC Santa Barbara,Home,L,74-71,133,NR,Q3
+Jan 29,UC Riverside,Away,L,71-61,291,NR,Q4
+Jan 31,Hawaii,Home,L,89-82,98,NR,Q3
+Feb 5,UC San Diego,Away,L,77-74,125,NR,Q2
+Feb 12,Cal State Fullerton,Home,L,86-82,,NR,Q4
+Feb 14,UC Davis,Away,L,71-54,166,NR,Q3
+Feb 19,UC Irvine,Home,TBD,,120,NR,Q3
+Feb 21,Cal State Northridge,Home,TBD,,,NR,Q4
+Feb 26,Cal Poly,Away,TBD,,238,NR,Q3
+Feb 28,Cal State Bakersfield,Away,TBD,,,NR,Q4
+Mar 5,UC Davis,Home,TBD,,166,NR,Q4
+Mar 8,Hawaii,Away,TBD,,98,NR,Q2

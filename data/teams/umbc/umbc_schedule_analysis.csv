@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Penn State York,Home,W,74-53,,NR,Q4
+Nov 8,Dayton,Away,L,77-71,89,NR,Q2
+Nov 11,Morgan State,Away,W,81-79,,NR,Q4
+Nov 16,Wagner,Home,W,71-70,315,NR,Q4
+Nov 19,George Washington,Away,L,89-52,84,NR,Q2
+Nov 24,Notre Dame (MD),Home,W,102-52,,NR,Q4
+Nov 29,Delaware State,Home,W,71-57,,NR,Q4
+Dec 3,Georgetown,Away,L,90-81,90,NR,Q2
+Dec 6,Bucknell,Away,W,73-66,333,NR,Q4
+Dec 9,Buffalo,Home,L,83-79,177,NR,Q4
+Dec 12,Army,Home,L,63-60,332,NR,Q4
+Dec 21,South Florida,Away,L,94-69,,NR,Q4
+Dec 29,Coppin State,Away,W,93-59,,NR,Q4
+Jan 8,Maine,Home,W,69-62,343,NR,Q4
+Jan 10,New Hampshire,Home,W,75-74,334,NR,Q4
+Jan 15,Bryant,Away,L,79-74,352,NR,Q4
+Jan 19,Binghamton,Away,W,78-60,362,NR,Q4
+Jan 22,NJIT,Home,W,87-74,301,NR,Q4
+Jan 24,Massachusetts-Lowell,Home,W,79-56,323,NR,Q4
+Jan 29,Vermont,Away,L,64-55,215,NR,Q3
+Jan 31,Albany (NY),Away,W,68-65,,NR,Q4
+Feb 5,Binghamton,Home,W,79-62,362,NR,Q4
+Feb 12,Maine,Away,W,78-62,343,NR,Q4
+Feb 14,New Hampshire,Away,W,85-63,334,NR,Q4
+Feb 19,Vermont,Home,TBD,,215,NR,Q4
+Feb 21,Albany (NY),Home,TBD,,,NR,Q4
+Feb 26,Bryant,Home,TBD,,352,NR,Q4
+Feb 28,Massachusetts-Lowell,Away,TBD,,323,NR,Q4
+Mar 3,NJIT,Away,TBD,,301,NR,Q4

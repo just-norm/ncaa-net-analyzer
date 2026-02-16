@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Utah,Away,L,84-75,128,NR,Q2
+Nov 8,UC Santa Barbara,Away,L,85-74,133,NR,Q2
+Nov 13,Michigan State,Away,L,79-60,15,NR,Q1
+Nov 17,Bethesda University (CA),Home,W,110-56,,NR,Q4
+Nov 21,Southern,Home,W,80-66,279,NR,Q4
+Nov 25,Tulsa,Neutral,L,81-51,53,NR,Q2
+Nov 26,Loyola (IL),Neutral,W,63-51,,NR,Q4
+Nov 30,UC Irvine,Home,L,72-63,120,NR,Q3
+Dec 5,San Diego,Home,W,86-69,223,NR,Q4
+Dec 9,Long Beach State,Home,W,89-83,,NR,Q4
+Dec 13,Stanford,Home,L,86-82,70,NR,Q2
+Dec 20,New Mexico,Away,L,88-65,44,NR,Q1
+Dec 30,San Diego State,Home,L,81-68,41,NR,Q2
+Jan 3,Utah State,Away,L,96-78,23,NR,Q1
+Jan 6,Fresno State,Home,L,70-55,137,NR,Q3
+Jan 10,Grand Canyon,Away,L,76-58,76,NR,Q2
+Jan 13,Air Force,Home,W,70-62,346,NR,Q4
+Jan 17,Nevada-Las Vegas,Home,L,76-62,,NR,Q4
+Jan 20,Nevada,Away,L,87-54,59,NR,Q1
+Jan 24,Wyoming,Away,L,66-62,101,NR,Q2
+Jan 27,Boise State,Home,L,89-58,60,NR,Q2
+Jan 31,New Mexico,Home,L,90-80,44,NR,Q2
+Feb 7,Colorado State,Away,L,65-57,95,NR,Q2
+Feb 10,Nevada-Las Vegas,Away,L,82-75,,NR,Q4
+Feb 14,Grand Canyon,Home,L,94-79,76,NR,Q3
+Feb 17,Nevada,Home,TBD,,59,NR,Q2
+Feb 21,Boise State,Away,TBD,,60,NR,Q1
+Feb 24,Air Force,Away,TBD,,346,NR,Q4
+Feb 28,Colorado State,Home,TBD,,95,NR,Q3
+Mar 3,Fresno State,Away,TBD,,137,NR,Q3
+Mar 7,Wyoming,Home,TBD,,101,NR,Q3

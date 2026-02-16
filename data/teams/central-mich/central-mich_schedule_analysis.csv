@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Appalachian State,Home,W,82-66,,NR,Q4
+Nov 8,Bradley,Away,L,85-54,113,NR,Q2
+Nov 13,South Alabama,Neutral,L,66-64,168,NR,Q3
+Nov 14,Coppin State,Neutral,W,82-59,,NR,Q4
+Nov 20,Northern Kentucky,Home,L,90-66,199,NR,Q4
+Nov 22,Marquette,Away,L,85-71,111,NR,Q2
+Nov 25,Adrian,Home,W,112-67,,NR,Q4
+Dec 2,Loyola (IL),Away,L,83-72,,NR,Q4
+Dec 7,Saint Louis,Away,L,107-65,17,NR,Q1
+Dec 13,Stony Brook,Away,L,78-55,212,NR,Q3
+Dec 17,Olivet,Home,W,85-65,,NR,Q4
+Dec 20,Northern Illinois,Away,L,74-73,,NR,Q4
+Dec 22,Wisconsin,Away,L,88-61,33,NR,Q1
+Dec 30,Ohio,Home,L,80-64,213,NR,Q4
+Jan 3,Toledo,Home,L,78-75,172,NR,Q4
+Jan 6,Akron,Away,L,82-69,62,NR,Q1
+Jan 10,Kent State,Home,W,87-85,144,NR,Q3
+Jan 13,Miami (OH),Away,L,100-61,51,NR,Q1
+Jan 20,Ball State,Home,L,68-67,,NR,Q4
+Jan 24,Western Michigan,Away,L,77-65,,NR,Q4
+Jan 27,Eastern Michigan,Home,W,100-65,,NR,Q4
+Jan 31,Bowling Green,Home,W,62-59,141,NR,Q3
+Feb 3,Massachusetts,Away,L,95-89,191,NR,Q3
+Feb 7,Louisiana,Away,L,85-80,312,NR,Q4
+Feb 14,Northern Illinois,Home,W,88-46,,NR,Q4
+Feb 17,Eastern Michigan,Away,TBD,,,NR,Q4
+Feb 21,Western Michigan,Home,TBD,,,NR,Q4
+Feb 24,Kent State,Away,TBD,,144,NR,Q3
+Feb 28,Buffalo,Away,TBD,,177,NR,Q3
+Mar 3,Akron,Home,TBD,,62,NR,Q2
+Mar 6,Ball State,Away,TBD,,,NR,Q4

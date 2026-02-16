@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 5,Rider,Home,W,81-53,357,NR,Q4
+Nov 10,Maine,Home,W,72-60,343,NR,Q4
+Nov 14,Lehigh,Home,W,84-72,295,NR,Q4
+Nov 18,American,Home,W,80-71,261,NR,Q4
+Nov 21,Central Connecticut State,Home,L,67-54,,NR,Q4
+Nov 24,Tennessee,Neutral,L,85-60,22,NR,Q1
+Nov 25,Notre Dame,Neutral,L,68-63,87,NR,Q2
+Nov 27,Nevada-Las Vegas,Neutral,W,80-65,,NR,Q4
+Dec 2,Purdue,Home,L,81-65,7,NR,Q1
+Dec 6,Michigan,Away,L,101-60,1,NR,Q1
+Dec 13,Seton Hall,Away,L,81-59,49,NR,Q1
+Dec 20,Pennsylvania,Home,W,70-69,,NR,Q4
+Dec 29,Delaware State,Home,W,65-50,,NR,Q4
+Jan 2,Ohio State,Home,L,80-73,38,NR,Q2
+Jan 5,Oregon,Home,W,88-85,107,NR,Q3
+Jan 8,Illinois,Away,L,81-55,5,NR,Q1
+Jan 11,Northwestern,Home,W,77-75,77,NR,Q3
+Jan 17,Wisconsin,Away,L,96-87,33,NR,Q1
+Jan 20,Iowa,Away,L,68-62,27,NR,Q1
+Jan 23,Indiana,Home,L,82-59,34,NR,Q2
+Jan 27,Michigan State,Home,L,88-79,15,NR,Q1
+Jan 31,Southern California,Away,L,78-75,48,NR,Q1
+Feb 3,UCLA,Away,L,98-66,40,NR,Q1
+Feb 7,Nebraska,Home,L,80-68,11,NR,Q1
+Feb 15,Maryland,Home,W,68-57,151,NR,Q3
+Feb 18,Penn State,Away,TBD,,122,NR,Q2
+Feb 21,Minnesota,Away,TBD,,86,NR,Q2
+Feb 24,Washington,Home,TBD,,52,NR,Q2
+Mar 1,Maryland,Away,TBD,,151,NR,Q3
+Mar 5,Michigan State,Away,TBD,,15,NR,Q1
+Mar 8,Penn State,Home,TBD,,122,NR,Q3

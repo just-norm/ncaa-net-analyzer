@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Michigan State,Away,L,80-69,15,NR,Q1
+Nov 7,Northeastern,Home,L,68-65,273,NR,Q4
+Nov 11,Drexel,Home,W,90-83,217,NR,Q4
+Nov 14,Illinois,Away,L,84-65,5,NR,Q1
+Nov 17,Siena,Away,W,72-69,188,NR,Q3
+Nov 20,Cornell,Away,L,95-94,146,NR,Q3
+Nov 28,Albany (NY),Neutral,W,69-67,,NR,Q4
+Nov 29,SUNY Oneonta,Neutral,W,85-50,,NR,Q4
+Nov 30,Fordham,Neutral,W,72-62,178,NR,Q3
+Dec 6,St. John Fisher,Home,W,94-50,,NR,Q4
+Dec 10,St. Bonaventure,Away,L,85-77,145,NR,Q3
+Dec 21,Florida,Away,L,90-60,9,NR,Q1
+Dec 28,Harvard,Home,L,78-69,160,NR,Q3
+Dec 31,Lafayette,Away,W,85-77,326,NR,Q4
+Jan 3,Army,Away,W,76-69,332,NR,Q4
+Jan 7,American,Home,W,64-62,261,NR,Q4
+Jan 10,Lehigh,Home,L,78-77,295,NR,Q4
+Jan 14,Loyola (MD),Away,W,86-80,,NR,Q4
+Jan 17,Bucknell,Home,W,95-76,333,NR,Q4
+Jan 21,American,Away,L,70-66,261,NR,Q4
+Jan 24,Boston University,Home,W,80-79,152,NR,Q3
+Jan 28,Holy Cross,Home,W,79-74,327,NR,Q4
+Jan 31,Lehigh,Away,L,77-76,295,NR,Q4
+Feb 4,Army,Home,W,69-55,332,NR,Q4
+Feb 7,Bucknell,Away,W,78-59,333,NR,Q4
+Feb 11,Holy Cross,Away,W,74-70,327,NR,Q4
+Feb 14,Navy,Home,L,84-80,150,NR,Q3
+Feb 16,Boston University,Away,TBD,,152,NR,Q3
+Feb 21,Loyola (MD),Home,TBD,,,NR,Q4
+Feb 25,Lafayette,Home,TBD,,326,NR,Q4
+Feb 28,Navy,Away,TBD,,150,NR,Q3

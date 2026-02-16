@@ -642,7 +642,7 @@
       "slug": "ole-miss",
       "conference": "SEC",
       "active": true,
-      "sports_reference_slug": "ole-miss"
+      "sports_reference_slug": "mississippi"
     },
     {
       "name": "Dayton",
@@ -656,7 +656,7 @@
       "slug": "murray-st",
       "conference": "MVC",
       "active": true,
-      "sports_reference_slug": "murray-st"
+      "sports_reference_slug": "murray-state"
     },
     {
       "name": "Colorado St.",
@@ -677,7 +677,7 @@
       "slug": "uncw",
       "conference": "CAA",
       "active": true,
-      "sports_reference_slug": "uncw"
+      "sports_reference_slug": "north-carolina-wilmington"
     },
     {
       "name": "Xavier",
@@ -740,7 +740,7 @@
       "slug": "sam-houston",
       "conference": "CUSA",
       "active": true,
-      "sports_reference_slug": "sam-houston"
+      "sports_reference_slug": "sam-houston-state"
     },
     {
       "name": "Oregon",
@@ -796,14 +796,14 @@
       "slug": "william-mary",
       "conference": "CAA",
       "active": true,
-      "sports_reference_slug": "william--mary"
+      "sports_reference_slug": "william-mary"
     },
     {
       "name": "Fla. Atlantic",
       "slug": "fla-atlantic",
       "conference": "American",
       "active": true,
-      "sports_reference_slug": "fla-atlantic"
+      "sports_reference_slug": "florida-atlantic"
     },
     {
       "name": "Duquesne",
@@ -817,7 +817,7 @@
       "slug": "southern-ill",
       "conference": "MVC",
       "active": true,
-      "sports_reference_slug": "southern-ill"
+      "sports_reference_slug": "southern-illinois"
     },
     {
       "name": "Bradley",
@@ -831,7 +831,7 @@
       "slug": "uc-irvine",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "uc-irvine"
+      "sports_reference_slug": "california-irvine"
     },
     {
       "name": "Penn St.",
@@ -859,14 +859,14 @@
       "slug": "north-dakota-st",
       "conference": "Summit League",
       "active": true,
-      "sports_reference_slug": "north-dakota-st"
+      "sports_reference_slug": "north-dakota-state"
     },
     {
       "name": "UC San Diego",
       "slug": "uc-san-diego",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "uc-san-diego"
+      "sports_reference_slug": "california-san-diego"
     },
     {
       "name": "San Francisco",
@@ -887,7 +887,7 @@
       "slug": "etsu",
       "conference": "SoCon",
       "active": true,
-      "sports_reference_slug": "etsu"
+      "sports_reference_slug": "east-tennessee-state"
     },
     {
       "name": "UNLV",
@@ -901,7 +901,7 @@
       "slug": "portland-st",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "portland-st"
+      "sports_reference_slug": "portland-state"
     },
     {
       "name": "Troy",
@@ -915,14 +915,14 @@
       "slug": "seattle-u",
       "conference": "WCC",
       "active": true,
-      "sports_reference_slug": "seattle-u"
+      "sports_reference_slug": "seattle"
     },
     {
       "name": "UC Santa Barbara",
       "slug": "uc-santa-barbara",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "uc-santa-barbara"
+      "sports_reference_slug": "california-santa-barbara"
     },
     {
       "name": "UIC",
@@ -964,21 +964,21 @@
       "slug": "montana-st",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "montana-st"
+      "sports_reference_slug": "montana-state"
     },
     {
       "name": "UTRGV",
       "slug": "utrgv",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "utrgv"
+      "sports_reference_slug": "texas-pan-american"
     },
     {
       "name": "Bowling Green",
       "slug": "bowling-green",
       "conference": "MAC",
       "active": true,
-      "sports_reference_slug": "bowling-green"
+      "sports_reference_slug": "bowling-green-state"
     },
     {
       "name": "Richmond",
@@ -992,7 +992,7 @@
       "slug": "wright-st",
       "conference": "Horizon",
       "active": true,
-      "sports_reference_slug": "wright-st"
+      "sports_reference_slug": "wright-state"
     },
     {
       "name": "Kent St.",
@@ -1006,7 +1006,7 @@
       "slug": "northern-colo",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "northern-colo"
+      "sports_reference_slug": "northern-colorado"
     },
     {
       "name": "St. Bonaventure",
@@ -1027,7 +1027,7 @@
       "slug": "arkansas-st",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "arkansas-st"
+      "sports_reference_slug": "arkansas-state"
     },
     {
       "name": "Oakland",
@@ -1104,14 +1104,14 @@
       "slug": "utah-tech",
       "conference": "WAC",
       "active": true,
-      "sports_reference_slug": "utah-tech"
+      "sports_reference_slug": "dixie-state"
     },
     {
       "name": "UT Arlington",
       "slug": "ut-arlington",
       "conference": "WAC",
       "active": true,
-      "sports_reference_slug": "ut-arlington"
+      "sports_reference_slug": "texas-arlington"
     },
     {
       "name": "Harvard",
@@ -1125,7 +1125,7 @@
       "slug": "middle-tenn",
       "conference": "CUSA",
       "active": true,
-      "sports_reference_slug": "middle-tenn"
+      "sports_reference_slug": "middle-tennessee"
     },
     {
       "name": "Valparaiso",
@@ -1167,14 +1167,14 @@
       "slug": "uc-davis",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "uc-davis"
+      "sports_reference_slug": "california-davis"
     },
     {
       "name": "Penn",
       "slug": "penn",
       "conference": "Ivy League",
       "active": true,
-      "sports_reference_slug": "penn"
+      "sports_reference_slug": "pennsylvania"
     },
     {
       "name": "South Alabama",
@@ -1188,14 +1188,14 @@
       "slug": "col-of-charleston",
       "conference": "CAA",
       "active": true,
-      "sports_reference_slug": "col-of-charleston"
+      "sports_reference_slug": "college-of-charleston"
     },
     {
       "name": "LMU (CA)",
       "slug": "lmu-ca",
       "conference": "WCC",
       "active": true,
-      "sports_reference_slug": "lmu"
+      "sports_reference_slug": "loyola-marymount"
     },
     {
       "name": "Toledo",
@@ -1223,14 +1223,14 @@
       "slug": "csun",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "csun"
+      "sports_reference_slug": "cal-state-northridge"
     },
     {
       "name": "Western Ky.",
       "slug": "western-ky",
       "conference": "CUSA",
       "active": true,
-      "sports_reference_slug": "western-ky"
+      "sports_reference_slug": "western-kentucky"
     },
     {
       "name": "Buffalo",
@@ -1251,7 +1251,7 @@
       "slug": "ut-martin",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "ut-martin"
+      "sports_reference_slug": "tennessee-martin"
     },
     {
       "name": "Columbia",
@@ -1265,7 +1265,7 @@
       "slug": "central-ark",
       "conference": "ASUN",
       "active": true,
-      "sports_reference_slug": "central-ark"
+      "sports_reference_slug": "central-arkansas"
     },
     {
       "name": "Montana",
@@ -1286,7 +1286,7 @@
       "slug": "app-state",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "app-state"
+      "sports_reference_slug": "appalachian-state"
     },
     {
       "name": "Robert Morris",
@@ -1307,7 +1307,7 @@
       "slug": "kennesaw-st",
       "conference": "CUSA",
       "active": true,
-      "sports_reference_slug": "kennesaw-st"
+      "sports_reference_slug": "kennesaw-state"
     },
     {
       "name": "Merrimack",
@@ -1384,7 +1384,7 @@
       "slug": "cal-st-fullerton",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "cal-st-fullerton"
+      "sports_reference_slug": "cal-state-fullerton"
     },
     {
       "name": "Tulane",
@@ -1405,7 +1405,7 @@
       "slug": "northern-ky",
       "conference": "Horizon",
       "active": true,
-      "sports_reference_slug": "northern-ky"
+      "sports_reference_slug": "northern-kentucky"
     },
     {
       "name": "Colgate",
@@ -1419,14 +1419,14 @@
       "slug": "weber-st",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "weber-st"
+      "sports_reference_slug": "weber-state"
     },
     {
       "name": "Youngstown St.",
       "slug": "youngstown-st",
       "conference": "Horizon",
       "active": true,
-      "sports_reference_slug": "youngstown-st"
+      "sports_reference_slug": "youngstown-state"
     },
     {
       "name": "South Dakota St.",
@@ -1461,7 +1461,7 @@
       "slug": "missouri-st",
       "conference": "CUSA",
       "active": true,
-      "sports_reference_slug": "missouri-st"
+      "sports_reference_slug": "missouri-state"
     },
     {
       "name": "Samford",
@@ -1475,7 +1475,7 @@
       "slug": "lamar-university",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "lamar-university"
+      "sports_reference_slug": "lamar"
     },
     {
       "name": "Stony Brook",
@@ -1496,7 +1496,7 @@
       "slug": "tarleton-st",
       "conference": "WAC",
       "active": true,
-      "sports_reference_slug": "tarleton-st"
+      "sports_reference_slug": "tarleton-state"
     },
     {
       "name": "Vermont",
@@ -1510,7 +1510,7 @@
       "slug": "jacksonville-st",
       "conference": "CUSA",
       "active": true,
-      "sports_reference_slug": "jacksonville-st"
+      "sports_reference_slug": "jacksonville-state"
     },
     {
       "name": "Indiana St.",
@@ -1559,14 +1559,14 @@
       "slug": "eastern-wash",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "eastern-wash"
+      "sports_reference_slug": "eastern-washington"
     },
     {
       "name": "Southeast Mo. St.",
       "slug": "southeast-mo-st",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "southeast-mo-st"
+      "sports_reference_slug": "southeast-missouri-state"
     },
     {
       "name": "New Orleans",
@@ -1580,14 +1580,14 @@
       "slug": "eastern-mich",
       "conference": "MAC",
       "active": true,
-      "sports_reference_slug": "eastern-mich"
+      "sports_reference_slug": "eastern-michigan"
     },
     {
       "name": "UNC Asheville",
       "slug": "unc-asheville",
       "conference": "Big South",
       "active": true,
-      "sports_reference_slug": "unc-asheville"
+      "sports_reference_slug": "north-carolina-asheville"
     },
     {
       "name": "Wofford",
@@ -1615,7 +1615,7 @@
       "slug": "idaho-st",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "idaho-st"
+      "sports_reference_slug": "idaho-state"
     },
     {
       "name": "Saint Peter's",
@@ -1643,7 +1643,7 @@
       "slug": "southern-miss",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "southern-miss"
+      "sports_reference_slug": "southern-mississippi"
     },
     {
       "name": "Tennessee St.",
@@ -1657,7 +1657,7 @@
       "slug": "texas-st",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "texas-st"
+      "sports_reference_slug": "texas-state"
     },
     {
       "name": "Cal Poly",
@@ -1699,7 +1699,7 @@
       "slug": "siue",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "siue"
+      "sports_reference_slug": "southern-illinois-edwardsville"
     },
     {
       "name": "UMBC",
@@ -1713,7 +1713,7 @@
       "slug": "charleston-so",
       "conference": "Big South",
       "active": true,
-      "sports_reference_slug": "charleston-so"
+      "sports_reference_slug": "charleston-southern"
     },
     {
       "name": "Rice",
@@ -1741,7 +1741,7 @@
       "slug": "purdue-fort-wayne",
       "conference": "Horizon",
       "active": true,
-      "sports_reference_slug": "purdue-fort-wayne"
+      "sports_reference_slug": "ipfw"
     },
     {
       "name": "Bethune-Cookman",
@@ -1776,14 +1776,14 @@
       "slug": "nicholls",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "nicholls"
+      "sports_reference_slug": "nicholls-state"
     },
     {
       "name": "Omaha",
       "slug": "omaha",
       "conference": "Summit League",
       "active": true,
-      "sports_reference_slug": "omaha"
+      "sports_reference_slug": "nebraska-omaha"
     },
     {
       "name": "Hampton",
@@ -1797,7 +1797,7 @@
       "slug": "fgcu",
       "conference": "ASUN",
       "active": true,
-      "sports_reference_slug": "fgcu"
+      "sports_reference_slug": "florida-gulf-coast"
     },
     {
       "name": "Detroit Mercy",
@@ -1811,21 +1811,21 @@
       "slug": "ga-southern",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "ga-southern"
+      "sports_reference_slug": "georgia-southern"
     },
     {
       "name": "Sacramento St.",
       "slug": "sacramento-st",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "sacramento-st"
+      "sports_reference_slug": "sacramento-state"
     },
     {
       "name": "Long Beach St.",
       "slug": "long-beach-st",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "long-beach-st"
+      "sports_reference_slug": "long-beach-state"
     },
     {
       "name": "American",
@@ -1839,7 +1839,7 @@
       "slug": "western-caro",
       "conference": "SoCon",
       "active": true,
-      "sports_reference_slug": "western-caro"
+      "sports_reference_slug": "western-carolina"
     },
     {
       "name": "UTEP",
@@ -1853,7 +1853,7 @@
       "slug": "n-c-a-t",
       "conference": "CAA",
       "active": true,
-      "sports_reference_slug": "nc-at"
+      "sports_reference_slug": "north-carolina-at"
     },
     {
       "name": "San Jose St.",
@@ -1874,7 +1874,7 @@
       "slug": "morehead-st",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "morehead-st"
+      "sports_reference_slug": "morehead-state"
     },
     {
       "name": "East Carolina",
@@ -1888,7 +1888,7 @@
       "slug": "central-conn-st",
       "conference": "NEC",
       "active": true,
-      "sports_reference_slug": "central-conn-st"
+      "sports_reference_slug": "central-connecticut-state"
     },
     {
       "name": "Presbyterian",
@@ -1916,7 +1916,7 @@
       "slug": "eastern-ky",
       "conference": "ASUN",
       "active": true,
-      "sports_reference_slug": "eastern-ky"
+      "sports_reference_slug": "eastern-kentucky"
     },
     {
       "name": "North Dakota",
@@ -1944,14 +1944,14 @@
       "slug": "boston-u",
       "conference": "Patriot",
       "active": true,
-      "sports_reference_slug": "boston-u"
+      "sports_reference_slug": "boston-university"
     },
     {
       "name": "UIW",
       "slug": "uiw",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "uiw"
+      "sports_reference_slug": "incarnate-word"
     },
     {
       "name": "Le Moyne",
@@ -1965,7 +1965,7 @@
       "slug": "southern-u",
       "conference": "SWAC",
       "active": true,
-      "sports_reference_slug": "southern-u"
+      "sports_reference_slug": "southern"
     },
     {
       "name": "Mercyhurst",
@@ -2000,14 +2000,14 @@
       "slug": "southeastern-la",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "southeastern-la"
+      "sports_reference_slug": "southeastern-louisiana"
     },
     {
       "name": "Western Mich.",
       "slug": "western-mich",
       "conference": "MAC",
       "active": true,
-      "sports_reference_slug": "western-mich"
+      "sports_reference_slug": "western-michigan"
     },
     {
       "name": "Bellarmine",
@@ -2021,21 +2021,21 @@
       "slug": "georgia-st",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "georgia-st"
+      "sports_reference_slug": "georgia-state"
     },
     {
       "name": "UC Riverside",
       "slug": "uc-riverside",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "uc-riverside"
+      "sports_reference_slug": "california-riverside"
     },
     {
       "name": "Central Mich.",
       "slug": "central-mich",
       "conference": "MAC",
       "active": true,
-      "sports_reference_slug": "central-mich"
+      "sports_reference_slug": "central-michigan"
     },
     {
       "name": "Evansville",
@@ -2049,7 +2049,7 @@
       "slug": "usc-upstate",
       "conference": "Big South",
       "active": true,
-      "sports_reference_slug": "usc-upstate"
+      "sports_reference_slug": "south-carolina-upstate"
     },
     {
       "name": "Sacred Heart",
@@ -2063,7 +2063,7 @@
       "slug": "unc-greensboro",
       "conference": "SoCon",
       "active": true,
-      "sports_reference_slug": "unc-greensboro"
+      "sports_reference_slug": "north-carolina-greensboro"
     },
     {
       "name": "Lehigh",
@@ -2077,14 +2077,14 @@
       "slug": "east-texas-a-m",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "east-texas-am"
+      "sports_reference_slug": "texas-am-commerce"
     },
     {
       "name": "Houston Christian",
       "slug": "houston-christian",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "houston-christian"
+      "sports_reference_slug": "houston-baptist"
     },
     {
       "name": "Mount St. Mary's",
@@ -2112,28 +2112,28 @@
       "slug": "northern-ariz",
       "conference": "Big Sky",
       "active": true,
-      "sports_reference_slug": "northern-ariz"
+      "sports_reference_slug": "northern-arizona"
     },
     {
       "name": "Ark.-Pine Bluff",
       "slug": "ark-pine-bluff",
       "conference": "SWAC",
       "active": true,
-      "sports_reference_slug": "ark-pine-bluff"
+      "sports_reference_slug": "arkansas-pine-bluff"
     },
     {
       "name": "Northwestern St.",
       "slug": "northwestern-st",
       "conference": "Southland",
       "active": true,
-      "sports_reference_slug": "northwestern-st"
+      "sports_reference_slug": "northwestern-state"
     },
     {
       "name": "Cleveland St.",
       "slug": "cleveland-st",
       "conference": "Horizon",
       "active": true,
-      "sports_reference_slug": "cleveland-st"
+      "sports_reference_slug": "cleveland-state"
     },
     {
       "name": "Jacksonville",
@@ -2147,14 +2147,14 @@
       "slug": "little-rock",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "little-rock"
+      "sports_reference_slug": "arkansas-little-rock"
     },
     {
       "name": "West Ga.",
       "slug": "west-ga",
       "conference": "ASUN",
       "active": true,
-      "sports_reference_slug": "west-ga"
+      "sports_reference_slug": "west-georgia"
     },
     {
       "name": "Norfolk St.",
@@ -2168,7 +2168,7 @@
       "slug": "loyola-chicago",
       "conference": "Atlantic 10",
       "active": true,
-      "sports_reference_slug": "loyola-chicago"
+      "sports_reference_slug": "loyola-il"
     },
     {
       "name": "Alabama A&M",
@@ -2182,21 +2182,21 @@
       "slug": "louisiana",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "louisiana"
+      "sports_reference_slug": "louisiana-lafayette"
     },
     {
       "name": "IU Indy",
       "slug": "iu-indy",
       "conference": "Horizon",
       "active": true,
-      "sports_reference_slug": "iu-indy"
+      "sports_reference_slug": "iupui"
     },
     {
       "name": "Alabama St.",
       "slug": "alabama-st",
       "conference": "SWAC",
       "active": true,
-      "sports_reference_slug": "alabama-st"
+      "sports_reference_slug": "alabama-state"
     },
     {
       "name": "Tennessee Tech",
@@ -2217,14 +2217,14 @@
       "slug": "eastern-ill",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "eastern-ill"
+      "sports_reference_slug": "eastern-illinois"
     },
     {
       "name": "CSU Bakersfield",
       "slug": "csu-bakersfield",
       "conference": "Big West",
       "active": true,
-      "sports_reference_slug": "csu-bakersfield"
+      "sports_reference_slug": "cal-state-bakersfield"
     },
     {
       "name": "Texas Southern",
@@ -2238,14 +2238,14 @@
       "slug": "niu",
       "conference": "MAC",
       "active": true,
-      "sports_reference_slug": "niu"
+      "sports_reference_slug": "northern-illinois"
     },
     {
       "name": "Ball St.",
       "slug": "ball-st",
       "conference": "MAC",
       "active": true,
-      "sports_reference_slug": "ball-st"
+      "sports_reference_slug": "ball-state"
     },
     {
       "name": "Holy Cross",
@@ -2259,7 +2259,7 @@
       "slug": "umass-lowell",
       "conference": "America East",
       "active": true,
-      "sports_reference_slug": "umass-lowell"
+      "sports_reference_slug": "massachusetts-lowell"
     },
     {
       "name": "Manhattan",
@@ -2273,7 +2273,7 @@
       "slug": "loyola-maryland",
       "conference": "Patriot",
       "active": true,
-      "sports_reference_slug": "loyola-maryland"
+      "sports_reference_slug": "loyola-md"
     },
     {
       "name": "Lafayette",
@@ -2315,14 +2315,14 @@
       "slug": "ualbany",
       "conference": "America East",
       "active": true,
-      "sports_reference_slug": "ualbany"
+      "sports_reference_slug": "albany-ny"
     },
     {
       "name": "Army West Point",
       "slug": "army-west-point",
       "conference": "Patriot",
       "active": true,
-      "sports_reference_slug": "army-west-point"
+      "sports_reference_slug": "army"
     },
     {
       "name": "Bucknell",
@@ -2371,14 +2371,14 @@
       "slug": "n-c-central",
       "conference": "MEAC",
       "active": true,
-      "sports_reference_slug": "nc-central"
+      "sports_reference_slug": "north-carolina-central"
     },
     {
       "name": "North Ala.",
       "slug": "north-ala",
       "conference": "ASUN",
       "active": true,
-      "sports_reference_slug": "north-ala"
+      "sports_reference_slug": "north-alabama"
     },
     {
       "name": "Maine",
@@ -2392,14 +2392,14 @@
       "slug": "chicago-st",
       "conference": "NEC",
       "active": true,
-      "sports_reference_slug": "chicago-st"
+      "sports_reference_slug": "chicago-state"
     },
     {
       "name": "UMES",
       "slug": "umes",
       "conference": "MEAC",
       "active": true,
-      "sports_reference_slug": "umes"
+      "sports_reference_slug": "maryland-eastern-shore"
     },
     {
       "name": "Canisius",
@@ -2434,28 +2434,28 @@
       "slug": "alcorn",
       "conference": "SWAC",
       "active": true,
-      "sports_reference_slug": "alcorn"
+      "sports_reference_slug": "alcorn-state"
     },
     {
       "name": "Southern Ind.",
       "slug": "southern-ind",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "southern-ind"
+      "sports_reference_slug": "southern-indiana"
     },
     {
       "name": "The Citadel",
       "slug": "the-citadel",
       "conference": "SoCon",
       "active": true,
-      "sports_reference_slug": "the-citadel"
+      "sports_reference_slug": "citadel"
     },
     {
       "name": "UTSA",
       "slug": "utsa",
       "conference": "American",
       "active": true,
-      "sports_reference_slug": "utsa"
+      "sports_reference_slug": "texas-san-antonio"
     },
     {
       "name": "Bryant",
@@ -2469,28 +2469,28 @@
       "slug": "morgan-st",
       "conference": "MEAC",
       "active": true,
-      "sports_reference_slug": "morgan-st"
+      "sports_reference_slug": "morgan-state"
     },
     {
       "name": "Saint Francis",
       "slug": "saint-francis",
       "conference": "NEC",
       "active": true,
-      "sports_reference_slug": "saint-francis"
+      "sports_reference_slug": "saint-francis-pa"
     },
     {
       "name": "Kansas City",
       "slug": "kansas-city",
       "conference": "Summit League",
       "active": true,
-      "sports_reference_slug": "kansas-city"
+      "sports_reference_slug": "missouri-kansas-city"
     },
     {
       "name": "ULM",
       "slug": "ulm",
       "conference": "Sun Belt",
       "active": true,
-      "sports_reference_slug": "ulm"
+      "sports_reference_slug": "louisiana-monroe"
     },
     {
       "name": "Rider",
@@ -2511,21 +2511,21 @@
       "slug": "vmi",
       "conference": "SoCon",
       "active": true,
-      "sports_reference_slug": "vmi"
+      "sports_reference_slug": "virginia-military-institute"
     },
     {
       "name": "Delaware St.",
       "slug": "delaware-st",
       "conference": "MEAC",
       "active": true,
-      "sports_reference_slug": "delaware-st"
+      "sports_reference_slug": "delaware-state"
     },
     {
       "name": "Western Ill.",
       "slug": "western-ill",
       "conference": "OVC",
       "active": true,
-      "sports_reference_slug": "western-ill"
+      "sports_reference_slug": "western-illinois"
     },
     {
       "name": "Binghamton",
@@ -2546,14 +2546,14 @@
       "slug": "coppin-st",
       "conference": "MEAC",
       "active": true,
-      "sports_reference_slug": "coppin-st"
+      "sports_reference_slug": "coppin-state"
     },
     {
       "name": "Mississippi Val.",
       "slug": "mississippi-val",
       "conference": "SWAC",
       "active": true,
-      "sports_reference_slug": "mississippi-val"
+      "sports_reference_slug": "mississippi-valley-state"
     }
   ]
 }

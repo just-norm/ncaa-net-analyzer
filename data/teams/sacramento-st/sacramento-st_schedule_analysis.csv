@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Dominican (CA),Home,W,103-79,,NR,Q4
+Nov 7,William Jessup,Home,W,86-76,,NR,Q4
+Nov 11,UC Santa Barbara,Home,L,92-87,133,NR,Q3
+Nov 14,UC Davis,Away,L,77-73,166,NR,Q3
+Nov 16,Presbyterian,Home,W,64-62,271,NR,Q4
+Nov 18,UCLA,Away,L,79-48,40,NR,Q1
+Nov 21,California,Away,L,91-67,61,NR,Q1
+Nov 25,San Francisco State,Home,W,94-46,,NR,Q4
+Nov 29,Pacific,Away,L,68-54,103,NR,Q2
+Dec 2,Baylor,Away,L,110-88,47,NR,Q1
+Dec 20,California Baptist,Away,L,74-67,109,NR,Q2
+Dec 22,Cal State Northridge,Away,L,100-88,,NR,Q4
+Jan 1,Idaho State,Away,L,97-84,,NR,Q4
+Jan 3,Weber State,Away,L,95-82,,NR,Q4
+Jan 10,Portland State,Away,L,96-69,,NR,Q4
+Jan 15,Northern Arizona,Home,W,83-69,302,NR,Q4
+Jan 17,Northern Colorado,Home,W,93-89,,NR,Q4
+Jan 22,Idaho,Away,L,86-76,167,NR,Q3
+Jan 24,Eastern Washington,Away,L,75-67,,NR,Q4
+Jan 29,Montana State,Home,W,83-80,,NR,Q4
+Jan 31,Montana,Home,W,86-79,182,NR,Q4
+Feb 2,Weber State,Home,W,104-90,,NR,Q4
+Feb 7,Portland State,Home,L,74-73,,NR,Q4
+Feb 12,Northern Colorado,Away,L,95-79,,NR,Q4
+Feb 14,Northern Arizona,Away,L,79-74,302,NR,Q4
+Feb 19,Eastern Washington,Home,TBD,,,NR,Q4
+Feb 21,Idaho,Home,TBD,,167,NR,Q4
+Feb 26,Montana,Away,TBD,,182,NR,Q3
+Feb 28,Montana State,Away,TBD,,,NR,Q4
+Mar 2,Idaho State,Home,TBD,,,NR,Q4

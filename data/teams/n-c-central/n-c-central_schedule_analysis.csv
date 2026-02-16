@@ -1,0 +1,30 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,NC State,Away,L,114-66,29,NR,Q1
+Nov 7,Virginia,Away,L,81-62,19,NR,Q1
+Nov 9,Appalachian State,Away,L,76-54,,NR,Q4
+Nov 12,Bluefield State,Home,W,77-61,,NR,Q4
+Nov 14,North Carolina,Away,L,97-53,25,NR,Q1
+Nov 18,Toccoa Falls,Home,W,123-67,,NR,Q4
+Nov 22,Dayton,Away,L,74-55,89,NR,Q2
+Nov 25,South Carolina Upstate,Away,L,82-67,293,NR,Q4
+Nov 29,Carolina,Home,W,109-61,,NR,Q4
+Dec 3,James Madison,Away,L,67-62,219,NR,Q3
+Dec 6,North Carolina A&T,Home,L,69-54,,NR,Q4
+Dec 9,Kentucky,Away,L,103-67,28,NR,Q1
+Dec 17,Mid-Atlantic Christian,Home,W,96-62,,NR,Q4
+Dec 20,Longwood,Home,L,74-72,272,NR,Q4
+Dec 29,Penn State,Away,L,90-67,122,NR,Q2
+Jan 3,Norfolk State,Home,W,69-67,309,NR,Q4
+Jan 10,Coppin State,Away,W,88-77,,NR,Q4
+Jan 12,Morgan State,Away,W,89-78,,NR,Q4
+Jan 17,Howard,Home,L,83-69,230,NR,Q4
+Feb 2,Maryland-Eastern Shore,Home,W,65-63,,NR,Q4
+Feb 7,Norfolk State,Away,L,75-68,309,NR,Q4
+Feb 9,Delaware State,Home,W,72-63,,NR,Q4
+Feb 14,Coppin State,Home,L,58-56,,NR,Q4
+Feb 16,Morgan State,Home,TBD,,,NR,Q4
+Feb 18,South Carolina State,Away,TBD,,358,NR,Q4
+Feb 21,Howard,Away,TBD,,230,NR,Q3
+Feb 28,Delaware State,Away,TBD,,,NR,Q4
+Mar 2,Maryland-Eastern Shore,Away,TBD,,,NR,Q4
+Mar 5,South Carolina State,Home,TBD,,358,NR,Q4

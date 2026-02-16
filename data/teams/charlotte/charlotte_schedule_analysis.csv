@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Indiana State,Home,W,92-76,218,NR,Q4
+Nov 7,Tennessee Tech,Home,W,70-65,316,NR,Q4
+Nov 11,Davidson,Home,L,62-55,104,NR,Q3
+Nov 16,Virginia Tech,Away,L,84-76,58,NR,Q1
+Nov 21,Appalachian State,Away,L,65-63,,NR,Q4
+Nov 23,Shaw,Home,W,83-79,,NR,Q4
+Nov 27,Illinois State,Neutral,L,79-69,,NR,Q4
+Nov 28,Richmond,Neutral,L,71-66,142,NR,Q3
+Dec 2,North Carolina A&T,Home,W,74-57,,NR,Q4
+Dec 7,Utah State,Home,L,79-53,23,NR,Q1
+Dec 14,College of Charleston,Away,L,74-67,,NR,Q4
+Dec 18,Lafayette,Home,W,81-67,326,NR,Q4
+Dec 21,Illinois-Chicago,Home,W,88-76,,NR,Q4
+Dec 30,Temple,Home,L,76-73,162,NR,Q4
+Jan 3,Wichita State,Home,W,104-100,,NR,Q4
+Jan 7,UTSA,Away,W,74-58,341,NR,Q4
+Jan 11,Rice,Away,W,74-73,248,NR,Q4
+Jan 14,Tulsa,Home,L,86-74,53,NR,Q2
+Jan 18,East Carolina,Away,W,73-70,269,NR,Q4
+Jan 23,Tulane,Home,W,73-70,190,NR,Q4
+Jan 28,Temple,Away,W,80-76,162,NR,Q3
+Jan 30,Rice,Home,W,80-70,248,NR,Q4
+Feb 4,Wichita State,Away,L,74-64,,NR,Q4
+Feb 8,Memphis,Away,L,77-54,105,NR,Q2
+Feb 15,UTSA,Home,L,88-79,341,NR,Q4
+Feb 18,Tulsa,Away,TBD,,53,NR,Q1
+Feb 21,East Carolina,Home,TBD,,269,NR,Q4
+Feb 25,North Texas,Home,TBD,,148,NR,Q3
+Mar 1,Florida Atlantic,Away,TBD,,,NR,Q4
+Mar 4,UAB,Home,TBD,,119,NR,Q3
+Mar 8,South Florida,Away,TBD,,,NR,Q4

@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Saint Louis,Away,L,92-67,17,NR,Q1
+Nov 7,Missouri,Away,L,89-84,66,NR,Q1
+Nov 12,Webster,Home,W,87-41,,NR,Q4
+Nov 15,St. Thomas,Home,L,84-72,,NR,Q4
+Nov 18,Iowa,Away,L,99-70,27,NR,Q1
+Nov 25,Cal Poly,Neutral,W,84-68,238,NR,Q4
+Nov 26,Northern Arizona,Away,L,79-72,302,NR,Q4
+Nov 29,Lipscomb,Home,L,88-77,186,NR,Q4
+Dec 2,Saint Mary-of-the-Woods College,Home,W,88-57,,NR,Q4
+Dec 6,Chattanooga,Away,W,74-70,300,NR,Q4
+Dec 14,Saint Xavier (IL),Home,W,88-65,,NR,Q4
+Dec 18,Tennessee Tech,Away,L,85-74,316,NR,Q4
+Dec 20,Tennessee State,Away,W,91-82,235,NR,Q3
+Jan 1,Eastern Illinois,Home,W,68-59,317,NR,Q4
+Jan 3,Western Illinois,Home,W,73-50,,NR,Q4
+Jan 8,Southern Indiana,Away,W,84-76,,NR,Q4
+Jan 10,Morehead State,Away,L,71-69,,NR,Q4
+Jan 15,Lindenwood,Home,L,88-76,240,NR,Q4
+Jan 17,Southern Illinois-Edwardsville,Home,L,68-55,,NR,Q4
+Jan 20,Tennessee-Martin,Home,W,66-50,,NR,Q4
+Jan 22,Little Rock,Home,W,70-65,307,NR,Q4
+Jan 29,Western Illinois,Away,W,78-74,,NR,Q4
+Jan 31,Eastern Illinois,Away,W,77-59,317,NR,Q4
+Feb 5,Morehead State,Home,W,82-70,,NR,Q4
+Feb 7,Southern Indiana,Home,W,90-65,,NR,Q4
+Feb 12,Southern Illinois-Edwardsville,Away,L,74-56,,NR,Q4
+Feb 14,Lindenwood,Away,W,73-61,240,NR,Q3
+Feb 17,Tennessee-Martin,Away,TBD,,,NR,Q4
+Feb 21,Little Rock,Away,TBD,,307,NR,Q4
+Feb 28,Tennessee Tech,Home,TBD,,316,NR,Q4

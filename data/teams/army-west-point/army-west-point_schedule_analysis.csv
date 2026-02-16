@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,SUNY Maritime,Home,W,73-49,,NR,Q4
+Nov 8,St. Thomas,Away,L,83-76,,NR,Q4
+Nov 11,Duke,Home,L,114-59,2,NR,Q1
+Nov 15,Harvard,Home,L,75-52,160,NR,Q3
+Nov 18,Cornell,Away,L,86-73,146,NR,Q3
+Nov 21,Marist,Away,L,76-65,170,NR,Q3
+Nov 25,East Texas A&M,Neutral,L,84-67,296,NR,Q4
+Nov 26,FDU,Away,W,81-73,328,NR,Q4
+Nov 29,Manhattan,Home,W,81-78,321,NR,Q4
+Dec 2,George Washington,Home,L,84-70,84,NR,Q3
+Dec 7,Gallaudet,Home,W,111-53,,NR,Q4
+Dec 12,Maryland-Baltimore County,Away,W,63-60,,NR,Q4
+Dec 23,Binghamton,Home,W,95-85,362,NR,Q4
+Dec 31,Lehigh,Away,W,85-78,295,NR,Q4
+Jan 3,Colgate,Home,L,76-69,201,NR,Q4
+Jan 7,Loyola (MD),Home,L,84-76,,NR,Q4
+Jan 10,Boston University,Away,L,100-91,152,NR,Q3
+Jan 14,Holy Cross,Away,L,82-75,327,NR,Q4
+Jan 18,American,Home,L,78-67,261,NR,Q4
+Jan 21,Bucknell,Away,W,87-84,333,NR,Q4
+Jan 24,Navy,Away,L,84-56,150,NR,Q3
+Jan 28,Lehigh,Home,W,67-64,295,NR,Q4
+Jan 31,Holy Cross,Home,W,69-68,327,NR,Q4
+Feb 4,Colgate,Away,L,69-55,201,NR,Q3
+Feb 7,Lafayette,Home,L,63-60,326,NR,Q4
+Feb 11,Boston University,Home,L,85-68,152,NR,Q3
+Feb 14,American,Away,L,75-63,261,NR,Q4
+Feb 18,Loyola (MD),Away,TBD,,,NR,Q4
+Feb 21,Navy,Home,TBD,,150,NR,Q3
+Feb 25,Bucknell,Home,TBD,,333,NR,Q4
+Feb 28,Lafayette,Away,TBD,,326,NR,Q4

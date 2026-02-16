@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 7,Hofstra,Home,W,81-73,102,NR,Q3
+Nov 11,Kansas City,Away,W,105-91,355,NR,Q4
+Nov 14,Fordham,Home,W,76-71,178,NR,Q4
+Nov 18,Princeton,Home,W,89-69,254,NR,Q4
+Nov 21,Akron,Neutral,L,96-75,62,NR,Q2
+Nov 22,Oregon State,Neutral,W,91-84,184,NR,Q3
+Nov 24,Green Bay,Neutral,L,80-75,224,NR,Q4
+Dec 1,Delaware,Away,W,89-66,267,NR,Q4
+Dec 5,Quinnipiac,Home,L,89-68,202,NR,Q4
+Dec 7,Sacred Heart,Away,W,81-69,297,NR,Q4
+Dec 10,Bryant,Home,W,69-63,352,NR,Q4
+Dec 13,St. John's (NY),Away,L,91-64,24,NR,Q1
+Dec 20,Vermont,Away,W,83-78,215,NR,Q3
+Dec 29,Mount St. Mary's,Away,L,66-59,299,NR,Q4
+Jan 2,Siena,Home,W,75-72,188,NR,Q4
+Jan 4,Marist,Away,L,83-38,170,NR,Q3
+Jan 9,Niagara,Home,W,71-53,342,NR,Q4
+Jan 11,Canisius,Home,W,74-48,348,NR,Q4
+Jan 14,Rider,Away,L,72-68,357,NR,Q4
+Jan 19,Saint Peter's,Away,L,77-63,226,NR,Q3
+Jan 22,Merrimack,Home,W,61-60,185,NR,Q4
+Jan 24,Manhattan,Home,W,66-57,321,NR,Q4
+Jan 30,Fairfield,Home,L,71-70,242,NR,Q4
+Feb 5,Siena,Away,L,79-72,188,NR,Q3
+Feb 7,Mount St. Mary's,Home,L,83-76,299,NR,Q4
+Feb 13,Canisius,Away,W,69-63,348,NR,Q4
+Feb 15,Niagara,Away,L,70-68,342,NR,Q4
+Feb 20,Saint Peter's,Home,TBD,,226,NR,Q4
+Feb 22,Merrimack,Away,TBD,,185,NR,Q3
+Feb 27,Rider,Home,TBD,,357,NR,Q4
+Mar 1,Manhattan,Away,TBD,,321,NR,Q4

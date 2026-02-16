@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 5,Milligan,Home,W,100-51,,NR,Q4
+Nov 8,Webster,Home,W,109-56,,NR,Q4
+Nov 12,Evansville,Away,W,77-72,292,NR,Q4
+Nov 19,Michigan,Away,L,86-61,1,NR,Q1
+Nov 23,Murray State,Neutral,W,90-87,,NR,Q4
+Nov 24,George Washington,Neutral,L,92-79,84,NR,Q2
+Nov 25,McNeese State,Neutral,L,72-62,56,NR,Q2
+Dec 1,UAB,Home,W,76-61,119,NR,Q3
+Dec 7,Belmont,Home,L,83-62,55,NR,Q2
+Dec 17,Kennesaw State,Home,W,68-67,,NR,Q4
+Dec 21,Cumberland (TN),Home,W,74-58,,NR,Q4
+Dec 29,Houston,Away,L,69-60,4,NR,Q1
+Jan 2,Louisiana Tech,Home,W,88-51,247,NR,Q4
+Jan 4,Sam Houston,Home,W,68-67,106,NR,Q3
+Jan 8,UTEP,Away,L,83-80,264,NR,Q4
+Jan 10,New Mexico State,Away,W,59-55,173,NR,Q3
+Jan 14,Louisiana Tech,Away,L,59-58,247,NR,Q4
+Jan 17,Missouri State,Home,W,90-87,,NR,Q4
+Jan 23,Jacksonville State,Away,L,75-58,,NR,Q4
+Jan 29,Liberty,Home,L,81-65,74,NR,Q2
+Jan 31,Western Kentucky,Home,L,65-60,175,NR,Q4
+Feb 4,Florida International,Home,L,88-84,,NR,Q4
+Feb 7,Delaware,Away,L,89-88,267,NR,Q4
+Feb 12,Kennesaw State,Away,W,90-87,,NR,Q4
+Feb 14,Western Kentucky,Away,L,82-80,175,NR,Q3
+Feb 18,Sam Houston,Away,TBD,,106,NR,Q2
+Feb 21,Delaware,Home,TBD,,267,NR,Q4
+Feb 26,UTEP,Home,TBD,,264,NR,Q4
+Feb 28,New Mexico State,Home,TBD,,173,NR,Q4
+Mar 5,Florida International,Away,TBD,,,NR,Q4
+Mar 7,Missouri State,Away,TBD,,,NR,Q4

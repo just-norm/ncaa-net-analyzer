@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Providence,Away,L,89-79,79,NR,Q2
+Nov 8,Brigham Young,Away,L,98-53,20,NR,Q1
+Nov 10,Utah,Away,L,87-69,128,NR,Q2
+Nov 16,Hampton,Neutral,W,67-61,258,NR,Q4
+Nov 18,Brown,Away,L,68-49,285,NR,Q4
+Nov 21,Sacred Heart,Away,L,79-66,297,NR,Q4
+Nov 24,Siena,Home,L,73-69,188,NR,Q4
+Nov 26,Worcester State,Home,W,77-53,,NR,Q4
+Dec 3,Northeastern,Home,W,76-59,273,NR,Q4
+Dec 6,Fordham,Away,W,70-69,178,NR,Q3
+Dec 9,Regis (MA),Home,W,69-47,,NR,Q4
+Dec 16,Dartmouth,Home,L,89-64,252,NR,Q4
+Dec 20,Harvard,Away,L,81-53,160,NR,Q3
+Dec 31,Bucknell,Home,W,65-58,333,NR,Q4
+Jan 3,Navy,Home,L,65-58,150,NR,Q3
+Jan 7,Lehigh,Away,L,66-58,295,NR,Q4
+Jan 10,American,Away,W,84-73,261,NR,Q4
+Jan 14,Army,Home,W,82-75,332,NR,Q4
+Jan 17,Lafayette,Away,L,74-55,326,NR,Q4
+Jan 21,Navy,Away,L,85-68,150,NR,Q3
+Jan 24,American,Home,L,76-67,261,NR,Q4
+Jan 28,Colgate,Away,L,79-74,201,NR,Q3
+Jan 31,Army,Away,L,69-68,332,NR,Q4
+Feb 2,Boston University,Home,L,72-64,152,NR,Q3
+Feb 7,Lehigh,Home,W,76-67,295,NR,Q4
+Feb 11,Colgate,Home,L,74-70,201,NR,Q4
+Feb 15,Loyola (MD),Away,L,83-73,,NR,Q4
+Feb 18,Lafayette,Home,TBD,,326,NR,Q4
+Feb 22,Bucknell,Away,TBD,,333,NR,Q4
+Feb 25,Boston University,Away,TBD,,152,NR,Q3
+Feb 28,Loyola (MD),Home,TBD,,,NR,Q4

@@ -1,0 +1,33 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,La Sierra,Home,W,90-49,,NR,Q4
+Nov 6,North Dakota,Away,W,74-70,274,NR,Q4
+Nov 11,New Mexico,Away,L,82-68,44,NR,Q1
+Nov 15,North Dakota,Home,L,76-74,274,NR,Q4
+Nov 18,California Baptist,Away,L,80-57,109,NR,Q2
+Nov 21,San Diego,Away,W,85-71,223,NR,Q3
+Nov 24,Grambling,Home,W,83-74,275,NR,Q4
+Nov 29,Utah Tech,Away,L,77-69,156,NR,Q3
+Dec 4,UC Irvine,Away,L,73-60,120,NR,Q2
+Dec 6,Cal Poly,Away,W,88-84,238,NR,Q3
+Dec 13,Brigham Young,Away,L,100-53,20,NR,Q1
+Dec 16,Stanton University,Home,W,95-70,,NR,Q4
+Dec 20,St. Thomas,Away,L,92-78,,NR,Q4
+Dec 23,UCLA,Away,L,97-65,40,NR,Q1
+Jan 1,Hawaii,Home,L,88-45,98,NR,Q3
+Jan 8,Cal State Bakersfield,Away,L,67-66,,NR,Q4
+Jan 10,UC San Diego,Home,L,69-66,125,NR,Q3
+Jan 15,Long Beach State,Away,L,88-73,,NR,Q4
+Jan 17,Cal State Fullerton,Home,W,81-72,,NR,Q4
+Jan 22,UC Irvine,Home,L,80-66,120,NR,Q3
+Jan 24,UC Davis,Away,L,74-66,166,NR,Q3
+Jan 29,Long Beach State,Home,W,71-61,,NR,Q4
+Jan 31,Cal Poly,Home,L,94-87,238,NR,Q4
+Feb 5,Cal State Fullerton,Away,L,78-72,,NR,Q4
+Feb 7,Cal State Northridge,Away,L,88-74,,NR,Q4
+Feb 12,UC Santa Barbara,Home,L,76-68,133,NR,Q3
+Feb 14,UC San Diego,Away,L,72-66,125,NR,Q2
+Feb 19,Cal State Bakersfield,Home,TBD,,,NR,Q4
+Feb 21,UC Davis,Home,TBD,,166,NR,Q4
+Feb 26,UC Santa Barbara,Away,TBD,,133,NR,Q2
+Feb 28,Cal State Northridge,Home,TBD,,,NR,Q4
+Mar 6,Hawaii,Away,TBD,,98,NR,Q2

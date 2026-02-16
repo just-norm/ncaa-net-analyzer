@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Texas State,Home,W,83-48,,NR,Q4
+Nov 6,Bethany (WV),Home,W,120-65,,NR,Q4
+Nov 9,Le Moyne,Home,W,83-60,280,NR,Q4
+Nov 15,Davidson,Away,L,91-87,104,NR,Q2
+Nov 19,William & Mary,Home,L,82-74,114,NR,Q3
+Nov 24,Bucknell,Neutral,W,71-66,333,NR,Q4
+Nov 26,Virginia Military Institute,Neutral,W,81-48,,NR,Q4
+Dec 1,Kansas State,Away,W,82-66,100,NR,Q2
+Dec 6,Utah Valley,Home,L,82-71,88,NR,Q3
+Dec 7,Aquinas,Home,W,131-50,,NR,Q4
+Dec 16,Chicago State,Home,W,76-55,,NR,Q4
+Dec 20,Ohio,Away,W,68-58,213,NR,Q3
+Dec 22,Siena Heights,Home,W,125-66,,NR,Q4
+Dec 30,Miami (OH),Home,L,93-83,51,NR,Q2
+Jan 3,Massachusetts,Away,W,101-100,191,NR,Q3
+Jan 6,Kent State,Away,L,96-93,144,NR,Q3
+Jan 9,Akron,Home,L,77-67,62,NR,Q2
+Jan 17,Eastern Michigan,Home,W,85-79,,NR,Q4
+Jan 20,Western Michigan,Away,W,72-54,,NR,Q4
+Jan 24,Toledo,Away,L,73-72,172,NR,Q3
+Jan 27,Buffalo,Home,L,89-78,177,NR,Q4
+Jan 31,Central Michigan,Away,L,62-59,,NR,Q4
+Feb 3,Ball State,Home,W,77-52,,NR,Q4
+Feb 7,Arkansas State,Away,L,91-54,,NR,Q4
+Feb 11,Northern Illinois,Away,W,68-52,,NR,Q4
+Feb 14,Toledo,Home,W,80-70,172,NR,Q4
+Feb 17,Kent State,Home,TBD,,144,NR,Q3
+Feb 21,Miami (OH),Away,TBD,,51,NR,Q1
+Feb 24,Western Michigan,Home,TBD,,,NR,Q4
+Feb 28,Massachusetts,Home,TBD,,191,NR,Q4
+Mar 6,Eastern Michigan,Away,TBD,,,NR,Q4

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Presbyterian,Away,W,76-55,271,NR,Q4
+Nov 7,Yale,Home,L,97-68,65,NR,Q2
+Nov 11,Penn State,Away,L,80-71,122,NR,Q2
+Nov 14,Washington College,Home,W,97-64,52,NR,Q2
+Nov 18,North Carolina,Away,L,73-61,25,NR,Q1
+Nov 22,NJIT,Home,W,86-70,301,NR,Q4
+Nov 26,Gardner-Webb,Neutral,W,84-51,363,NR,Q4
+Nov 28,UNC Wilmington,Away,L,87-57,,NR,Q4
+Nov 29,Southeastern Louisiana,Neutral,L,69-65,,NR,Q4
+Dec 3,Delaware State,Away,W,66-59,,NR,Q4
+Dec 7,Air Force,Home,W,61-56,346,NR,Q4
+Dec 19,Coppin State,Home,W,88-55,,NR,Q4
+Dec 21,Rosemont,Home,W,70-23,,NR,Q4
+Dec 31,Boston University,Home,W,82-77,152,NR,Q3
+Jan 3,Holy Cross,Away,W,65-58,327,NR,Q4
+Jan 7,Bucknell,Home,W,76-55,333,NR,Q4
+Jan 10,Lafayette,Home,W,76-50,326,NR,Q4
+Jan 12,American,Away,L,65-51,261,NR,Q4
+Jan 17,Lehigh,Away,W,82-79,295,NR,Q4
+Jan 21,Holy Cross,Home,W,85-68,327,NR,Q4
+Jan 24,Army,Home,W,84-56,332,NR,Q4
+Jan 28,Boston University,Away,W,58-50,152,NR,Q3
+Jan 31,Loyola (MD),Home,W,87-71,,NR,Q4
+Feb 4,Lafayette,Away,W,65-50,326,NR,Q4
+Feb 7,American,Home,W,82-73,261,NR,Q4
+Feb 9,Bucknell,Away,W,76-60,333,NR,Q4
+Feb 14,Colgate,Away,W,84-80,201,NR,Q3
+Feb 18,Lehigh,Home,TBD,,295,NR,Q4
+Feb 21,Army,Away,TBD,,332,NR,Q4
+Feb 25,Loyola (MD),Away,TBD,,,NR,Q4
+Feb 28,Colgate,Home,TBD,,201,NR,Q4

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Georgia State,Home,W,71-49,,NR,Q4
+Nov 10,Pittsburgh,Away,L,78-66,124,NR,Q2
+Nov 14,IU Indy,Home,L,90-83,313,NR,Q4
+Nov 18,Detroit Mercy,Away,W,72-62,250,NR,Q4
+Nov 21,Oakland,Home,W,97-91,154,NR,Q3
+Nov 24,Louisville,Away,L,87-46,12,NR,Q1
+Nov 26,Cincinnati,Away,W,64-56,63,NR,Q1
+Nov 28,NJIT,Home,W,73-55,301,NR,Q4
+Dec 2,Butler,Away,L,84-68,80,NR,Q2
+Dec 5,Cleary University,Home,W,86-48,,NR,Q4
+Dec 10,Purdue Fort Wayne,Away,L,80-65,253,NR,Q4
+Dec 19,Akron,Away,L,93-72,62,NR,Q1
+Dec 22,Wright State,Away,L,70-64,,NR,Q4
+Dec 30,Massachusetts,Home,W,80-74,191,NR,Q4
+Jan 3,Ohio,Home,L,68-67,213,NR,Q4
+Jan 6,Ball State,Away,W,74-52,,NR,Q4
+Jan 10,Western Michigan,Away,L,79-62,,NR,Q4
+Jan 13,Northern Illinois,Home,W,77-59,,NR,Q4
+Jan 17,Bowling Green,Away,L,85-79,141,NR,Q3
+Jan 24,Kent State,Home,L,76-75,144,NR,Q3
+Jan 27,Central Michigan,Away,L,100-65,,NR,Q4
+Jan 31,Massachusetts,Away,L,70-67,191,NR,Q3
+Feb 3,Akron,Home,L,66-64,62,NR,Q2
+Feb 7,Appalachian State,Away,L,65-60,,NR,Q4
+Feb 11,Kent State,Away,L,95-91,144,NR,Q3
+Feb 14,Western Michigan,Home,L,76-62,,NR,Q4
+Feb 17,Central Michigan,Home,TBD,,,NR,Q4
+Feb 21,Toledo,Away,TBD,,172,NR,Q3
+Feb 24,Miami (OH),Home,TBD,,51,NR,Q2
+Mar 3,Buffalo,Away,TBD,,177,NR,Q3
+Mar 6,Bowling Green,Home,TBD,,141,NR,Q3

@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Denver,Home,W,84-73,233,NR,Q4
+Nov 8,Cal Poly,Home,L,73-71,238,NR,Q4
+Nov 12,Eastern Washington,Home,W,94-67,,NR,Q4
+Nov 15,Idaho State,Home,W,83-74,,NR,Q4
+Nov 21,Stanford,Away,W,77-69,70,NR,Q1
+Nov 28,Texas State,Neutral,W,66-52,,NR,Q4
+Nov 29,UC Santa Barbara,Neutral,L,74-71,133,NR,Q3
+Dec 3,Puget Sound,Home,W,97-43,,NR,Q4
+Dec 7,UTEP,Home,W,75-68,264,NR,Q4
+Dec 13,Warner Pacific,Home,W,115-60,,NR,Q4
+Dec 17,UC Davis,Away,W,79-78,166,NR,Q3
+Dec 19,Washington,Home,W,70-66,52,NR,Q2
+Dec 22,UTSA,Away,W,71-68,341,NR,Q4
+Dec 28,San Francisco,Home,L,67-59,118,NR,Q3
+Dec 30,Washington State,Home,W,69-55,135,NR,Q3
+Jan 2,Gonzaga,Away,L,80-72,6,NR,Q1
+Jan 4,Saint Mary's (CA),Away,L,93-76,26,NR,Q1
+Jan 8,Oregon State,Away,L,68-55,184,NR,Q3
+Jan 15,San Diego,Home,W,75-64,223,NR,Q4
+Jan 17,Gonzaga,Home,L,71-50,6,NR,Q1
+Jan 21,Loyola Marymount,Home,W,69-59,,NR,Q4
+Jan 24,Pacific,Away,L,56-54,103,NR,Q2
+Jan 28,Washington State,Away,L,70-58,135,NR,Q2
+Feb 4,Pepperdine,Home,W,83-81,284,NR,Q4
+Feb 7,Portland,Away,L,54-53,208,NR,Q3
+Feb 11,Santa Clara,Away,L,84-72,42,NR,Q1
+Feb 15,Oregon State,Home,W,60-50,184,NR,Q4
+Feb 18,Saint Mary's (CA),Home,TBD,,26,NR,Q1
+Feb 21,Portland,Home,TBD,,208,NR,Q4
+Feb 25,Pepperdine,Away,TBD,,284,NR,Q4
+Feb 28,Loyola Marymount,Away,TBD,,,NR,Q4

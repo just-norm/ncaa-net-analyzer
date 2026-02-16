@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Pittsburgh,Away,L,74-59,124,NR,Q2
+Nov 7,Grand Canyon,Away,W,90-81,76,NR,Q2
+Nov 10,Penn State Shenango,Home,W,115-53,,NR,Q4
+Nov 15,St. Bonaventure,Away,L,84-80,145,NR,Q3
+Nov 19,Toledo,Away,L,92-75,172,NR,Q3
+Nov 23,UNC Greensboro,Neutral,L,68-62,294,NR,Q4
+Nov 24,Georgia Southern,Neutral,W,67-61,,NR,Q4
+Nov 28,Chicago State,Home,W,87-64,,NR,Q4
+Dec 3,Wright State,Home,W,69-68,,NR,Q4
+Dec 6,IU Indy,Away,W,78-55,313,NR,Q4
+Dec 14,Thiel,Home,W,103-52,,NR,Q4
+Dec 17,Robert Morris,Away,L,80-77,161,NR,Q3
+Dec 20,South Carolina Upstate,Home,W,74-65,293,NR,Q4
+Dec 29,Detroit Mercy,Home,L,73-68,250,NR,Q4
+Jan 1,Oakland,Home,L,85-83,154,NR,Q3
+Jan 4,Northern Kentucky,Away,L,94-79,199,NR,Q3
+Jan 7,Purdue Fort Wayne,Home,L,71-69,253,NR,Q4
+Jan 9,Bryant & Stratton Ohio,Home,W,99-61,,NR,Q4
+Jan 15,Wright State,Away,L,93-83,,NR,Q4
+Jan 17,Cleveland State,Away,L,80-78,,NR,Q4
+Jan 22,Green Bay,Home,W,88-81,224,NR,Q4
+Jan 24,Milwaukee,Home,L,65-64,246,NR,Q4
+Jan 30,IU Indy,Home,W,85-76,313,NR,Q4
+Feb 4,Purdue Fort Wayne,Away,W,90-61,253,NR,Q4
+Feb 7,Robert Morris,Home,L,72-66,161,NR,Q4
+Feb 12,Oakland,Away,W,86-82,154,NR,Q3
+Feb 15,Detroit Mercy,Away,L,76-70,250,NR,Q4
+Feb 18,Cleveland State,Home,TBD,,,NR,Q4
+Feb 21,Northern Kentucky,Home,TBD,,199,NR,Q4
+Feb 25,Milwaukee,Away,TBD,,246,NR,Q4
+Feb 28,Green Bay,Away,TBD,,224,NR,Q3

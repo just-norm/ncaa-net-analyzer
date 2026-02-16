@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,East-West,Home,W,119-50,,NR,Q4
+Nov 7,UTSA,Away,W,77-60,341,NR,Q4
+Nov 10,Indiana State,Home,L,64-55,218,NR,Q4
+Nov 14,Drake,Away,W,61-59,200,NR,Q3
+Nov 17,Wisconsin,Away,L,94-69,33,NR,Q1
+Nov 21,Air Force,Away,L,77-63,346,NR,Q4
+Nov 23,Alabama State,Neutral,W,83-68,,NR,Q4
+Nov 28,Missouri Baptist University,Home,W,92-55,,NR,Q4
+Dec 2,North Florida,Away,W,72-63,337,NR,Q4
+Dec 6,Western Michigan,Home,L,83-73,,NR,Q4
+Dec 14,Eureka,Home,W,97-54,,NR,Q4
+Dec 18,Eastern Illinois,Away,L,76-72,317,NR,Q4
+Dec 22,Western Illinois,Away,W,66-61,,NR,Q4
+Jan 1,Southern Indiana,Home,W,59-55,,NR,Q4
+Jan 3,Morehead State,Home,L,73-72,,NR,Q4
+Jan 6,Lindenwood,Home,W,66-62,240,NR,Q4
+Jan 8,Little Rock,Home,L,73-70,307,NR,Q4
+Jan 15,Tennessee-Martin,Away,L,65-59,,NR,Q4
+Jan 17,Southeast Missouri State,Away,W,68-55,,NR,Q4
+Jan 22,Tennessee State,Home,W,74-66,235,NR,Q4
+Jan 24,Tennessee Tech,Home,W,62-58,316,NR,Q4
+Jan 29,Morehead State,Away,L,67-65,,NR,Q4
+Jan 31,Southern Indiana,Away,W,58-46,,NR,Q4
+Feb 3,Lindenwood,Away,W,78-72,240,NR,Q3
+Feb 7,Little Rock,Away,W,71-61,307,NR,Q4
+Feb 12,Southeast Missouri State,Home,W,74-56,,NR,Q4
+Feb 14,Tennessee-Martin,Home,L,81-76,,NR,Q4
+Feb 19,Tennessee Tech,Away,TBD,,316,NR,Q4
+Feb 21,Tennessee State,Away,TBD,,235,NR,Q3
+Feb 26,Western Illinois,Home,TBD,,,NR,Q4
+Feb 28,Eastern Illinois,Home,TBD,,317,NR,Q4

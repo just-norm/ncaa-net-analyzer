@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Maryland,Neutral,L,83-61,151,NR,Q3
+Nov 5,La Salle,Away,L,87-59,241,NR,Q4
+Nov 9,James Madison,Away,L,84-70,219,NR,Q3
+Nov 12,South Florida,Away,L,100-50,,NR,Q4
+Nov 14,Central Michigan,Neutral,L,82-59,,NR,Q4
+Nov 15,South Alabama,Neutral,L,72-62,168,NR,Q3
+Nov 18,Central Pennsylvania College,Home,W,103-62,,NR,Q4
+Nov 22,Virginia Commonwealth,Away,L,101-58,,NR,Q4
+Nov 25,Rider,Away,W,68-65,357,NR,Q4
+Nov 30,Loyola (MD),Away,L,95-84,,NR,Q4
+Dec 3,West Virginia,Away,L,91-49,54,NR,Q1
+Dec 6,Liberty,Away,L,92-50,74,NR,Q1
+Dec 9,Saint Joseph's,Away,L,87-65,157,NR,Q3
+Dec 14,Radford,Away,L,107-77,239,NR,Q3
+Dec 19,Navy,Away,L,88-55,150,NR,Q3
+Dec 22,Georgetown,Away,L,97-67,90,NR,Q2
+Dec 29,Maryland-Baltimore County,Home,L,93-59,,NR,Q4
+Jan 3,Delaware State,Away,W,53-51,,NR,Q4
+Jan 10,North Carolina Central,Home,L,88-77,340,NR,Q4
+Jan 12,South Carolina State,Home,L,74-72,358,NR,Q4
+Jan 17,Maryland-Eastern Shore,Away,L,70-67,,NR,Q4
+Jan 24,Norfolk State,Away,L,103-76,309,NR,Q4
+Jan 31,Morgan State,Home,L,89-80,,NR,Q4
+Feb 2,Howard,Home,L,72-53,230,NR,Q4
+Feb 7,Delaware State,Home,W,65-47,,NR,Q4
+Feb 14,North Carolina Central,Away,W,58-56,340,NR,Q4
+Feb 16,South Carolina State,Away,TBD,,358,NR,Q4
+Feb 21,Maryland-Eastern Shore,Home,TBD,,,NR,Q4
+Feb 28,Norfolk State,Home,TBD,,309,NR,Q4
+Mar 2,Howard,Away,TBD,,230,NR,Q3
+Mar 5,Morgan State,Away,TBD,,,NR,Q4

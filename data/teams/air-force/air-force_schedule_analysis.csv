@@ -1,19 +1,32 @@
-date,opponent,location,result,score,net_rank,quadrant
-01/03/2026,(128),Away,L,39-6701,,
-01/10/2026,(44),Home,L,49-9101,,
-01/17/2026,(58),Home,L,66-8101,,
-01/20/2026,(95),Away,L,52-8101,,
-02/03/2026,(76),Away,L,57-8102,,
-02/07/2026,(41),Home,L,54-8802,,
-11/26/2025,(144),Home,L,53-7111,,
-12/03/2025,(104),Home,L,65-8012,,
-12/07/2025,(151),Away,L,56-6112,,
-12/30/2025,(102),Home,L,56-6812,,
-01/31/2026,(137),Home,L,62-7901,,
-02/10/2026,(95),Home,L,74-9102,,
-02/14/2026,(137),Away,L,63-9302,,
-11/19/2025,(314),Home,W,66-6411,,
-11/21/2025,(243),Home,W,77-6311,,
-11/23/2025,(313),Home,W,98-8511,,
-11/29/2025,(277),Neutral,L,63-8011,,
-01/13/2026,(266),Away,L,62-7001,,
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Belmont,Away,L,79-63,55,NR,Q1
+Nov 8,Austin Peay,Home,L,74-54,134,NR,Q3
+Nov 11,Long Island University,Home,L,76-72,195,NR,Q4
+Nov 15,Miami (OH),Home,L,76-61,51,NR,Q2
+Nov 19,Alabama State,Home,W,66-64,,NR,Q4
+Nov 21,Southern Illinois-Edwardsville,Home,W,77-63,,NR,Q4
+Nov 23,IU Indy,Home,W,98-85,313,NR,Q4
+Nov 26,Northern Colorado,Home,L,71-53,,NR,Q4
+Nov 29,South Dakota,Neutral,L,80-63,276,NR,Q4
+Dec 3,Pacific,Home,L,80-65,103,NR,Q3
+Dec 7,Navy,Away,L,61-56,150,NR,Q3
+Dec 17,San Diego State,Away,L,81-58,41,NR,Q1
+Dec 30,Wyoming,Home,L,68-56,101,NR,Q3
+Jan 3,Nevada-Las Vegas,Away,L,67-39,,NR,Q4
+Jan 6,Utah State,Home,L,99-62,23,NR,Q1
+Jan 10,New Mexico,Home,L,91-49,44,NR,Q2
+Jan 13,San Jose State,Away,L,70-62,265,NR,Q4
+Jan 17,Nevada,Home,L,81-66,59,NR,Q2
+Jan 20,Colorado State,Away,L,81-52,95,NR,Q2
+Jan 24,Boise State,Away,L,96-54,60,NR,Q1
+Jan 31,Fresno State,Home,L,79-62,137,NR,Q3
+Feb 3,Grand Canyon,Away,L,81-57,76,NR,Q2
+Feb 7,San Diego State,Home,L,88-54,41,NR,Q2
+Feb 10,Colorado State,Home,L,91-74,95,NR,Q3
+Feb 14,Fresno State,Away,L,93-63,137,NR,Q3
+Feb 17,New Mexico,Away,TBD,,44,NR,Q1
+Feb 21,Nevada-Las Vegas,Home,TBD,,,NR,Q4
+Feb 24,San Jose State,Home,TBD,,265,NR,Q4
+Feb 28,Wyoming,Away,TBD,,101,NR,Q2
+Mar 3,Grand Canyon,Home,TBD,,76,NR,Q3
+Mar 7,Nevada,Away,TBD,,59,NR,Q1

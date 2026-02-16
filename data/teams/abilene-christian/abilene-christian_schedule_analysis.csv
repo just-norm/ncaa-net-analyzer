@@ -1,16 +1,33 @@
-date,opponent,location,result,score,net_rank,quadrant
-11/25/2025,(114),Neutral,L,58-9211,,
-01/01/2026,(158),Home,L,64-7901,,
-01/03/2026,(88),Home,W,85-6801,,
-01/08/2026,(214),Away,W,84-8001,,
-01/10/2026,(159),Away,L,72-8201,,
-01/15/2026,(111),Home,L,58-7401,,
-01/29/2026,(158),Home,L,70-7601,,
-02/12/2026,(159),Home,W,67-6302,,
-11/24/2025,(351),Neutral,W,61-5011,,
-12/02/2025,(284),Away,W,71-6312,,
-12/06/2025,(173),Home,W,77-6912,,
-12/22/2025,(319),Away,W,75-6812,,
-01/17/2026,(283),Away,L,52-7401,,
-01/31/2026,(283),Home,L,76-7901,,
-02/14/2026,(214),Home,W,73-5902,,
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,McMurry,Home,W,92-55,,NR,Q4
+Nov 6,Omaha,Home,W,73-71,249,NR,Q4
+Nov 11,Southwestern Adventist,Home,W,104-63,,NR,Q4
+Nov 14,Stephen F. Austin,Away,L,76-66,,NR,Q4
+Nov 18,Texas State,Away,L,63-49,,NR,Q4
+Nov 24,UTSA,Neutral,W,61-50,341,NR,Q4
+Nov 25,William & Mary,Neutral,L,92-58,114,NR,Q3
+Nov 28,Jarvis Christian,Home,W,87-55,,NR,Q4
+Dec 2,Pepperdine,Away,W,71-63,284,NR,Q4
+Dec 6,New Mexico State,Home,W,77-69,173,NR,Q4
+Dec 16,Arizona,Away,L,96-62,3,NR,Q1
+Dec 19,Brigham Young,Away,L,85-67,20,NR,Q1
+Dec 22,Texas Southern,Away,W,75-68,319,NR,Q4
+Jan 1,Utah Tech,Home,L,79-64,156,NR,Q3
+Jan 3,Utah Valley,Home,W,85-68,88,NR,Q3
+Jan 8,Tarleton State,Away,W,84-80,,NR,Q4
+Jan 10,UT Arlington,Away,L,82-72,158,NR,Q3
+Jan 15,California Baptist,Home,L,74-58,109,NR,Q3
+Jan 17,Southern Utah,Away,L,74-52,282,NR,Q4
+Jan 26,Tarleton State,Away,TBD,,,NR,Q4
+Jan 29,Utah Tech,Home,L,76-70,156,NR,Q3
+Jan 31,Southern Utah,Home,L,79-76,282,NR,Q4
+Feb 5,Utah Valley,Away,L,68-55,88,NR,Q2
+Feb 7,California Baptist,Away,L,65-63,109,NR,Q2
+Feb 12,UT Arlington,Home,W,67-63,158,NR,Q3
+Feb 14,Tarleton State,Home,W,73-59,,NR,Q4
+Feb 16,Tarleton State,Away,TBD,,,NR,Q4
+Feb 21,Southern Utah,Home,TBD,,282,NR,Q4
+Feb 26,Utah Tech,Away,TBD,,156,NR,Q3
+Feb 28,Utah Valley,Away,TBD,,88,NR,Q2
+Mar 5,California Baptist,Away,TBD,,109,NR,Q2
+Mar 7,UT Arlington,Home,TBD,,158,NR,Q3

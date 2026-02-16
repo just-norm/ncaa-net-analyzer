@@ -1,17 +1,32 @@
-date,opponent,location,result,score,net_rank,quadrant
-01/09/2026,(140),Away,W,77-6701,,
-01/20/2026,(177),Away,W,82-6301,,
-01/23/2026,(213),Away,W,86-6501,,
-01/30/2026,(143),Home,W,69-5201,,
-02/03/2026,(226),Away,W,66-6402,,
-11/08/2025,(252),Home,W,104-6911,,
-11/21/2025,(234),Neutral,W,96-7511,,
-11/23/2025,(292),Neutral,W,97-5911,,
-11/29/2025,(251),Home,W,105-8111,,
-12/03/2025,(333),Home,W,97-7712,,
-12/19/2025,(226),Home,W,93-7212,,
-01/06/2026,(291),Home,W,82-6901,,
-01/13/2026,(321),Home,W,87-7701,,
-01/17/2026,(287),Home,W,104-8901,,
-01/27/2026,(172),Home,W,91-8101,,
-02/13/2026,(189),Home,W,99-9202,,
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,James Madison,Home,W,85-71,219,NR,Q4
+Nov 8,Princeton,Home,W,104-69,254,NR,Q4
+Nov 12,Penn State Shenango,Home,W,109-51,,NR,Q4
+Nov 16,Purdue,Away,L,97-79,7,NR,Q1
+Nov 21,Iona,Neutral,W,96-75,237,NR,Q4
+Nov 23,Evansville,Neutral,W,97-59,292,NR,Q4
+Nov 24,Yale,Neutral,L,97-94,65,NR,Q2
+Nov 29,Milwaukee,Home,W,105-81,246,NR,Q4
+Dec 3,Bucknell,Home,W,97-77,333,NR,Q4
+Dec 6,Tulane,Away,W,88-71,190,NR,Q3
+Dec 13,Murray State,Neutral,L,115-100,,NR,Q4
+Dec 19,Eastern Michigan,Home,W,93-72,,NR,Q4
+Dec 29,Concord,Home,W,115-64,,NR,Q4
+Jan 3,Miami (OH),Away,L,76-73,51,NR,Q1
+Jan 6,Central Michigan,Home,W,82-69,,NR,Q4
+Jan 9,Bowling Green,Away,W,77-67,141,NR,Q3
+Jan 13,Ball State,Home,W,87-77,,NR,Q4
+Jan 17,Western Michigan,Home,W,104-89,,NR,Q4
+Jan 20,Buffalo,Away,W,82-63,177,NR,Q3
+Jan 23,Ohio,Away,W,86-65,213,NR,Q3
+Jan 27,Toledo,Home,W,91-81,172,NR,Q4
+Jan 30,Kent State,Home,W,69-52,144,NR,Q3
+Feb 3,Eastern Michigan,Away,W,66-64,,NR,Q4
+Feb 7,Troy,Away,L,79-69,132,NR,Q2
+Feb 13,Massachusetts,Home,W,99-92,191,NR,Q4
+Feb 17,Western Michigan,Away,TBD,,,NR,Q4
+Feb 20,Ball State,Away,TBD,,,NR,Q4
+Feb 24,Buffalo,Home,TBD,,177,NR,Q4
+Feb 28,Kent State,Away,TBD,,144,NR,Q3
+Mar 3,Central Michigan,Away,TBD,,,NR,Q4
+Mar 6,Northern Illinois,Home,TBD,,,NR,Q4

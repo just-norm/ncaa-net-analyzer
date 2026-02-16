@@ -1,18 +1,32 @@
-date,opponent,location,result,score,net_rank,quadrant
-11/13/2025,(5),Home,L,80-8711,,
-11/19/2025,(7),Neutral,W,90-8611,,
-11/24/2025,(6),Neutral,L,85-9511,,
-12/13/2025,(3),Neutral,L,75-9612,,
-01/03/2026,(28),Home,W,89-7401,,
-01/07/2026,(13),Away,L,90-9601,,
-01/17/2026,(68),Away,W,83-8101,,
-01/24/2026,(22),Home,L,73-7901,,
-02/01/2026,(9),Away,L,77-10002,,
-02/07/2026,(34),Away,W,96-9202,,
-12/17/2025,(57),Home,W,104-9312,,
-12/29/2025,(65),Home,W,102-7812,,
-01/10/2026,(37),Home,L,88-9201,,
-01/13/2026,(96),Away,W,97-8201,,
-01/27/2026,(66),Home,W,90-6401,,
-02/04/2026,(43),Home,W,100-9702,,
-02/11/2026,(92),Away,W,93-7402,,
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,North Dakota,Home,W,91-62,274,NR,Q4
+Nov 8,St. John's (NY),Away,W,103-96,24,NR,Q1
+Nov 13,Purdue,Home,L,87-80,7,NR,Q1
+Nov 19,Illinois,Neutral,W,90-86,5,NR,Q1
+Nov 24,Gonzaga,Neutral,L,95-85,6,NR,Q1
+Nov 26,Nevada-Las Vegas,Neutral,W,115-76,,NR,Q4
+Nov 27,Maryland,Neutral,W,105-72,151,NR,Q3
+Dec 3,Clemson,Home,W,90-84,31,NR,Q2
+Dec 7,UTSA,Home,W,97-55,341,NR,Q4
+Dec 13,Arizona,Neutral,L,96-75,3,NR,Q1
+Dec 17,South Florida,Home,W,104-93,,NR,Q4
+Dec 21,Kennesaw State,Neutral,W,92-81,,NR,Q4
+Dec 29,Yale,Home,W,102-78,65,NR,Q2
+Jan 3,Kentucky,Home,W,89-74,28,NR,Q1
+Jan 7,Vanderbilt,Away,L,96-90,13,NR,Q1
+Jan 10,Texas,Home,L,92-88,37,NR,Q2
+Jan 13,Mississippi State,Away,W,97-82,94,NR,Q2
+Jan 17,Oklahoma,Away,W,83-81,68,NR,Q1
+Jan 24,Tennessee,Home,L,79-73,22,NR,Q1
+Jan 27,Missouri,Home,W,90-64,66,NR,Q2
+Feb 1,Florida,Away,L,100-77,9,NR,Q1
+Feb 4,Texas A&M,Home,W,100-97,43,NR,Q2
+Feb 7,Auburn,Away,W,96-92,32,NR,Q1
+Feb 11,Mississippi,Away,W,93-74,92,NR,Q2
+Feb 14,South Carolina,Home,W,89-75,112,NR,Q3
+Feb 18,Arkansas,Home,TBD,,18,NR,Q1
+Feb 21,Louisiana State,Away,TBD,,67,NR,Q1
+Feb 25,Mississippi State,Home,TBD,,94,NR,Q3
+Feb 28,Tennessee,Away,TBD,,22,NR,Q1
+Mar 3,Georgia,Away,TBD,,39,NR,Q1
+Mar 7,Auburn,Home,TBD,,32,NR,Q2

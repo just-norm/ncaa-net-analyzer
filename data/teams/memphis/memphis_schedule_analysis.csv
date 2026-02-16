@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 8,San Francisco,Home,W,76-70,118,NR,Q3
+Nov 11,Mississippi,Away,L,83-77,92,NR,Q2
+Nov 16,Nevada-Las Vegas,Home,L,92-78,,NR,Q4
+Nov 20,Purdue,Neutral,L,80-71,7,NR,Q1
+Nov 21,Wake Forest,Neutral,L,69-68,64,NR,Q2
+Nov 26,Southern Illinois,Home,W,74-58,126,NR,Q3
+Dec 3,New Orleans,Home,W,86-70,222,NR,Q4
+Dec 6,Baylor,Home,W,78-71,47,NR,Q2
+Dec 13,Louisville,Away,L,99-73,12,NR,Q1
+Dec 17,Vanderbilt,Home,L,77-70,13,NR,Q1
+Dec 20,Mississippi State,Away,L,71-66,94,NR,Q2
+Dec 22,Alabama State,Home,W,88-67,,NR,Q4
+Dec 31,North Texas,Home,W,57-48,148,NR,Q3
+Jan 3,Rice,Away,W,76-70,248,NR,Q4
+Jan 11,Florida Atlantic,Away,L,89-78,,NR,Q4
+Jan 14,Temple,Home,W,55-53,162,NR,Q4
+Jan 18,UTSA,Home,W,95-69,341,NR,Q4
+Jan 21,Tulsa,Away,L,83-66,53,NR,Q1
+Jan 24,Wichita State,Away,L,74-59,,NR,Q4
+Jan 29,Florida Atlantic,Home,W,92-65,,NR,Q4
+Feb 1,Tulane,Home,L,78-76,190,NR,Q4
+Feb 5,UAB,Away,W,90-80,119,NR,Q2
+Feb 8,Charlotte,Home,W,77-54,189,NR,Q4
+Feb 12,North Texas,Away,L,76-69,148,NR,Q3
+Feb 14,Utah State,Away,L,99-75,23,NR,Q1
+Feb 19,South Florida,Away,TBD,,,NR,Q4
+Feb 22,UAB,Home,TBD,,119,NR,Q3
+Feb 26,Wichita State,Home,TBD,,,NR,Q4
+Mar 1,East Carolina,Away,TBD,,269,NR,Q4
+Mar 5,South Florida,Home,TBD,,,NR,Q4
+Mar 8,Tulane,Away,TBD,,190,NR,Q3

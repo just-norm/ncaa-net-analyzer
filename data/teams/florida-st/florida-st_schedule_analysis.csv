@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Alcorn State,Home,W,108-76,,NR,Q4
+Nov 7,Alabama State,Home,W,101-64,,NR,Q4
+Nov 11,Florida,Away,L,78-76,9,NR,Q1
+Nov 18,Tennessee-Martin,Home,W,87-73,,NR,Q4
+Nov 21,Georgia Southern,Home,W,98-72,,NR,Q4
+Nov 25,Cal State Bakersfield,Home,W,89-59,,NR,Q4
+Nov 28,Texas A&M,Neutral,L,95-59,43,NR,Q1
+Dec 2,Georgia,Home,L,107-73,39,NR,Q2
+Dec 6,Houston,Neutral,L,82-67,4,NR,Q1
+Dec 13,Massachusetts,Neutral,L,103-95,191,NR,Q3
+Dec 16,Dayton,Away,L,97-69,89,NR,Q2
+Dec 19,Mississippi Valley State,Home,W,96-49,,NR,Q4
+Dec 22,Jacksonville,Home,W,87-63,306,NR,Q4
+Dec 30,North Carolina,Away,L,79-66,25,NR,Q1
+Jan 3,Duke,Home,L,91-87,2,NR,Q1
+Jan 10,NC State,Home,L,113-69,29,NR,Q1
+Jan 13,Syracuse,Away,L,94-86,69,NR,Q1
+Jan 17,Wake Forest,Home,L,69-68,64,NR,Q2
+Jan 20,Miami (FL),Away,W,65-63,35,NR,Q1
+Jan 24,Southern Methodist,Away,L,83-80,36,NR,Q1
+Jan 28,California,Home,W,63-61,61,NR,Q2
+Jan 31,Stanford,Home,W,88-80,70,NR,Q2
+Feb 7,Notre Dame,Away,W,82-79,87,NR,Q2
+Feb 10,Virginia,Home,L,61-58,19,NR,Q1
+Feb 14,Virginia Tech,Away,W,92-69,58,NR,Q1
+Feb 17,Boston College,Home,TBD,,152,NR,Q3
+Feb 21,Clemson,Away,TBD,,31,NR,Q1
+Feb 24,Miami (FL),Home,TBD,,35,NR,Q2
+Feb 28,Georgia Tech,Away,TBD,,165,NR,Q3
+Mar 4,Pittsburgh,Away,TBD,,124,NR,Q2
+Mar 7,Southern Methodist,Home,TBD,,36,NR,Q2

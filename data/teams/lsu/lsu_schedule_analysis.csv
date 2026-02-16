@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 5,Tarleton State,Home,W,96-60,,NR,Q4
+Nov 10,New Orleans,Home,W,93-58,222,NR,Q4
+Nov 13,Florida International,Home,W,98-81,,NR,Q4
+Nov 18,Alcorn State,Home,W,107-81,,NR,Q4
+Nov 21,Omaha,Home,W,99-73,249,NR,Q4
+Nov 28,Drake,Neutral,W,71-62,200,NR,Q3
+Nov 29,DePaul,Neutral,W,96-63,108,NR,Q3
+Dec 3,Boston College,Away,W,78-69,152,NR,Q3
+Dec 7,Texas Tech,Neutral,L,82-58,16,NR,Q1
+Dec 13,Southern Methodist,Neutral,W,89-77,36,NR,Q1
+Dec 19,Southeastern Louisiana,Home,W,78-65,,NR,Q4
+Dec 22,Prairie View,Home,W,104-90,330,NR,Q4
+Dec 29,Southern Mississippi,Home,W,90-62,,NR,Q4
+Jan 3,Texas A&M,Away,L,75-72,43,NR,Q1
+Jan 6,South Carolina,Home,L,78-68,112,NR,Q3
+Jan 10,Vanderbilt,Away,L,84-73,13,NR,Q1
+Jan 14,Kentucky,Home,L,75-74,28,NR,Q1
+Jan 17,Missouri,Home,W,78-70,66,NR,Q2
+Jan 20,Florida,Away,L,79-61,9,NR,Q1
+Jan 24,Arkansas,Away,L,85-81,18,NR,Q1
+Jan 28,Mississippi State,Home,L,80-66,94,NR,Q3
+Jan 31,South Carolina,Away,W,92-87,112,NR,Q2
+Feb 7,Georgia,Home,L,83-71,39,NR,Q2
+Feb 10,Arkansas,Home,L,91-62,18,NR,Q1
+Feb 14,Tennessee,Away,L,73-63,22,NR,Q1
+Feb 17,Texas,Away,TBD,,37,NR,Q1
+Feb 21,Alabama,Home,TBD,,21,NR,Q1
+Feb 25,Mississippi,Away,TBD,,92,NR,Q2
+Feb 28,Oklahoma,Home,TBD,,68,NR,Q2
+Mar 3,Auburn,Away,TBD,,32,NR,Q1
+Mar 7,Texas A&M,Home,TBD,,43,NR,Q2

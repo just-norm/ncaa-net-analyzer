@@ -1,0 +1,32 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Northern State,Home,W,99-75,,NR,Q4
+Nov 8,Cal State Fullerton,Home,W,92-82,,NR,Q4
+Nov 11,Austin Peay,Home,W,79-65,134,NR,Q3
+Nov 15,Portland,Home,W,93-56,208,NR,Q4
+Nov 19,Sam Houston,Away,L,78-70,106,NR,Q2
+Nov 23,Norfolk State,Home,W,75-67,309,NR,Q4
+Nov 26,Denver,Home,W,101-59,233,NR,Q4
+Nov 30,Texas Tech,Away,L,76-72,16,NR,Q1
+Dec 6,Dartmouth,Home,W,93-80,252,NR,Q4
+Dec 9,South Dakota,Home,W,106-79,276,NR,Q4
+Dec 15,South Dakota State,Neutral,W,87-72,204,NR,Q4
+Dec 20,Grand Canyon,Home,L,82-70,76,NR,Q3
+Dec 30,Air Force,Away,W,68-56,346,NR,Q4
+Jan 3,New Mexico,Away,L,78-58,44,NR,Q1
+Jan 6,Nevada-Las Vegas,Home,W,98-66,,NR,Q4
+Jan 10,Nevada,Away,L,92-83,59,NR,Q1
+Jan 14,San Diego State,Home,L,74-57,41,NR,Q2
+Jan 17,Fresno State,Away,L,63-60,137,NR,Q3
+Jan 20,Boise State,Home,L,81-65,60,NR,Q2
+Jan 24,San Jose State,Home,W,66-62,265,NR,Q4
+Jan 28,Utah State,Away,L,94-62,23,NR,Q1
+Jan 31,Colorado State,Home,W,68-57,95,NR,Q3
+Feb 3,San Diego State,Away,L,72-63,41,NR,Q1
+Feb 7,Utah State,Home,L,85-83,23,NR,Q1
+Feb 14,Colorado State,Away,L,79-68,95,NR,Q2
+Feb 17,Fresno State,Home,TBD,,137,NR,Q3
+Feb 21,Grand Canyon,Away,TBD,,76,NR,Q2
+Feb 24,Boise State,Away,TBD,,60,NR,Q1
+Feb 28,Air Force,Home,TBD,,346,NR,Q4
+Mar 3,Nevada,Home,TBD,,59,NR,Q2
+Mar 7,San Jose State,Away,TBD,,265,NR,Q4

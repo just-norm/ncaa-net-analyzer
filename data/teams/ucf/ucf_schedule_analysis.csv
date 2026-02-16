@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 3,Hofstra,Home,W,82-78,102,NR,Q3
+Nov 8,Vanderbilt,Home,L,105-93,13,NR,Q1
+Nov 11,Florida A&M,Home,W,97-60,336,NR,Q4
+Nov 14,Texas A&M,Away,W,86-74,43,NR,Q1
+Nov 17,Oakland,Home,W,87-83,154,NR,Q3
+Nov 20,Pittsburgh,Neutral,W,77-67,124,NR,Q3
+Nov 25,Quinnipiac,Home,W,102-91,202,NR,Q4
+Nov 29,Virginia Military Institute,Home,W,82-57,,NR,Q4
+Dec 7,Towson,Home,W,86-61,176,NR,Q4
+Dec 17,Mercer,Home,W,81-63,153,NR,Q3
+Dec 20,Florida Gulf Coast,Home,W,102-80,257,NR,Q4
+Dec 23,Florida Atlantic,Neutral,W,85-80,,NR,Q4
+Jan 3,Kansas,Home,W,81-75,14,NR,Q1
+Jan 6,Oklahoma State,Away,L,87-76,72,NR,Q1
+Jan 11,Cincinnati,Home,W,73-72,63,NR,Q2
+Jan 14,Kansas State,Away,W,82-73,100,NR,Q2
+Jan 17,Arizona,Home,L,84-77,3,NR,Q1
+Jan 20,Iowa State,Away,L,87-57,8,NR,Q1
+Jan 24,Colorado,Away,W,95-86,73,NR,Q1
+Jan 27,Arizona State,Home,W,79-76,71,NR,Q2
+Jan 31,Texas Tech,Home,W,88-80,16,NR,Q1
+Feb 4,Houston,Away,L,79-55,4,NR,Q1
+Feb 8,Cincinnati,Away,L,92-72,63,NR,Q1
+Feb 14,West Virginia,Home,L,74-67,54,NR,Q2
+Feb 17,TCU,Home,TBD,,45,NR,Q2
+Feb 21,Utah,Away,TBD,,128,NR,Q2
+Feb 24,Brigham Young,Away,TBD,,20,NR,Q1
+Feb 28,Baylor,Home,TBD,,47,NR,Q2
+Mar 3,Oklahoma State,Home,TBD,,72,NR,Q2
+Mar 6,West Virginia,Away,TBD,,54,NR,Q1

@@ -1,0 +1,31 @@
+date,opponent,location,result,score,net_rank,ap_rank,quadrant
+Nov 4,Long Beach State,Home,W,77-45,,NR,Q4
+Nov 9,Idaho State,Home,W,73-57,,NR,Q4
+Nov 18,Troy,Home,L,108-107,132,NR,Q3
+Nov 24,Michigan,Neutral,L,94-54,1,NR,Q1
+Nov 25,Oregon,Neutral,W,97-80,107,NR,Q3
+Nov 26,Baylor,Neutral,L,91-81,47,NR,Q1
+Dec 3,Utah Valley,Home,W,77-66,88,NR,Q3
+Dec 10,Lamar,Home,W,89-71,211,NR,Q4
+Dec 17,Air Force,Home,W,81-58,346,NR,Q4
+Dec 20,Arizona,Neutral,L,68-45,3,NR,Q1
+Dec 22,Whittier,Home,W,121-59,,NR,Q4
+Dec 30,San Jose State,Away,W,81-68,265,NR,Q4
+Jan 3,Boise State,Home,W,110-107,60,NR,Q2
+Jan 6,Nevada,Away,W,73-68,59,NR,Q1
+Jan 10,Fresno State,Home,W,71-52,137,NR,Q3
+Jan 14,Wyoming,Away,W,74-57,101,NR,Q2
+Jan 17,New Mexico,Home,W,83-79,44,NR,Q2
+Jan 21,Grand Canyon,Away,L,70-69,76,NR,Q2
+Jan 24,Nevada-Las Vegas,Away,W,82-71,,NR,Q4
+Jan 28,Colorado State,Home,W,73-50,95,NR,Q3
+Jan 31,Utah State,Away,L,71-66,23,NR,Q1
+Feb 3,Wyoming,Home,W,72-63,101,NR,Q3
+Feb 7,Air Force,Away,W,88-54,346,NR,Q4
+Feb 14,Nevada,Home,W,71-57,59,NR,Q2
+Feb 17,Grand Canyon,Home,TBD,,76,NR,Q3
+Feb 21,Colorado State,Away,TBD,,95,NR,Q2
+Feb 25,Utah State,Home,TBD,,23,NR,Q1
+Feb 28,New Mexico,Away,TBD,,44,NR,Q1
+Mar 3,Boise State,Away,TBD,,60,NR,Q1
+Mar 6,Nevada-Las Vegas,Home,TBD,,,NR,Q4

@@ -236,10 +236,14 @@ def generate_home_page(output_dir='public'):
             padding: 20px 30px;
             background: #f8f9fa;
             border-bottom: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;
         }}
 
         .search-box {{
-            width: 100%;
+            flex: 1;
             max-width: 500px;
             padding: 12px 20px;
             font-size: 1em;
@@ -251,6 +255,28 @@ def generate_home_page(output_dir='public'):
         .search-box:focus {{
             outline: none;
             border-color: #2a5298;
+        }}
+
+        .compare-button {{
+            padding: 12px 30px;
+            font-size: 1em;
+            font-weight: 600;
+            color: white;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            white-space: nowrap;
+        }}
+
+        .compare-button:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(30, 60, 114, 0.3);
+        }}
+
+        .compare-button:active {{
+            transform: translateY(0);
         }}
 
         .content {{
@@ -320,6 +346,7 @@ def generate_home_page(output_dir='public'):
 
         <div class="controls">
             <input type="text" id="searchBox" class="search-box" placeholder="🔍 Search teams...">
+            <button class="compare-button" onclick="window.location.href='compare/'">⚔️ Compare Teams</button>
         </div>
 
         <div class="content">

@@ -36,33 +36,32 @@ def scrape_ap_poll():
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Find all rank items
-        rank_items = soup.find_all('div', class_='rankings-team') or soup.find_all('td', class_='team')
+        # Find the rankings table
+        table = soup.find('table')
+
+        if not table:
+            print("❌ Could not find AP Poll table")
+            return {}
 
         rankings = {}
+        rows = table.find_all('tr')[1:]  # Skip header row
 
-        for item in rank_items:
-            rank_text = item.find('span', class_='rank-number') or item.find('div', class_='rank-number')
-            team_text = item.find('span', class_='team-name') or item.find('a', class_='team-name')
-
-            if rank_text and team_text:
+        for row in rows:
+            cols = row.find_all('td')
+            if len(cols) >= 2:
                 try:
-                    rank = int(rank_text.get_text(strip=True).replace('.', ''))
-                    team = team_text.get_text(strip=True)
+                    # First column is rank
+                    rank_text = cols[0].get_text(strip=True)
+                    rank = int(rank_text)
+
+                    # Second column is school name (may include votes in parentheses)
+                    school_text = cols[1].get_text(strip=True)
+                    # Remove vote count in parentheses if present
+                    team = re.sub(r'\s*\(\d+\)\s*$', '', school_text).strip()
+
                     rankings[team] = rank
-                except ValueError:
+                except (ValueError, IndexError):
                     continue
-            else:
-                # Alternative parsing: Look for rank in text
-                text = item.get_text()
-                rank_match = re.search(r'(\d+)\.?\s+(.+)', text)
-                if rank_match:
-                    try:
-                        rank = int(rank_match.group(1))
-                        team = rank_match.group(2).strip()
-                        rankings[team] = rank
-                    except ValueError:
-                        continue
 
         print(f"✅ Scraped {len(rankings)} teams from AP Poll")
         return rankings

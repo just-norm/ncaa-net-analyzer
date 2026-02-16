@@ -56,7 +56,7 @@
     },
     {
       "name": "UConn",
-      "slug": "uconn",
+      "slug": "connecticut",
       "conference": "Big East",
       "active": true
     },
@@ -139,9 +139,21 @@
       "active": true
     },
     {
+      "name": "St. John's (NY)",
+      "slug": "st-john-s-ny",
+      "conference": "Big East",
+      "active": true
+    },
+    {
       "name": "North Carolina",
       "slug": "north-carolina",
       "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Saint Mary's (CA)",
+      "slug": "saint-mary-s-ca",
+      "conference": "WCC",
       "active": true
     },
     {
@@ -169,285 +181,9 @@
       "active": true
     },
     {
-      "name": "A&M-Corpus Christi",
-      "slug": "a-m-corpus-christi",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Abilene Christian",
-      "slug": "abilene-christian",
-      "conference": "WAC",
-      "active": true
-    },
-    {
-      "name": "Air Force",
-      "slug": "air-force",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "Akron",
-      "slug": "akron",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Alabama A&M",
-      "slug": "alabama-a-m",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Alabama St.",
-      "slug": "alabama-st",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Alcorn",
-      "slug": "alcorn",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "American",
-      "slug": "american",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "App State",
-      "slug": "app-state",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Arizona St.",
-      "slug": "arizona-st",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Ark.-Pine Bluff",
-      "slug": "ark-pine-bluff",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Arkansas St.",
-      "slug": "arkansas-st",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Army West Point",
-      "slug": "army-west-point",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Auburn",
-      "slug": "auburn",
-      "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Austin Peay",
-      "slug": "austin-peay",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Ball St.",
-      "slug": "ball-st",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Baylor",
-      "slug": "baylor",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Bellarmine",
-      "slug": "bellarmine",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Belmont",
-      "slug": "belmont",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "Bethune-Cookman",
-      "slug": "bethune-cookman",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Binghamton",
-      "slug": "binghamton",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "Boise St.",
-      "slug": "boise-st",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "Boston College",
-      "slug": "boston-college",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Boston U.",
-      "slug": "boston-u",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Bowling Green",
-      "slug": "bowling-green",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Bradley",
-      "slug": "bradley",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "Brown",
-      "slug": "brown",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Bryant",
-      "slug": "bryant",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "Bucknell",
-      "slug": "bucknell",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Buffalo",
-      "slug": "buffalo",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Butler",
-      "slug": "butler",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "CSU Bakersfield",
-      "slug": "csu-bakersfield",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "CSUN",
-      "slug": "csun",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "Cal Poly",
-      "slug": "cal-poly",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "Cal St. Fullerton",
-      "slug": "cal-st-fullerton",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "California",
-      "slug": "california",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "California Baptist",
-      "slug": "california-baptist",
-      "conference": "WAC",
-      "active": true
-    },
-    {
-      "name": "Campbell",
-      "slug": "campbell",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Canisius",
-      "slug": "canisius",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Central Ark.",
-      "slug": "central-ark",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Central Conn. St.",
-      "slug": "central-conn-st",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Central Mich.",
-      "slug": "central-mich",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Charleston So.",
-      "slug": "charleston-so",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "Charlotte",
-      "slug": "charlotte",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Chattanooga",
-      "slug": "chattanooga",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "Chicago St.",
-      "slug": "chicago-st",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Cincinnati",
-      "slug": "cincinnati",
-      "conference": "Big 12",
+      "name": "Indiana",
+      "slug": "indiana",
+      "conference": "Big Ten",
       "active": true
     },
     {
@@ -457,627 +193,15 @@
       "active": true
     },
     {
-      "name": "Cleveland St.",
-      "slug": "cleveland-st",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Coastal Carolina",
-      "slug": "coastal-carolina",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Col. of Charleston",
-      "slug": "col-of-charleston",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Colgate",
-      "slug": "colgate",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Colorado",
-      "slug": "colorado",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Colorado St.",
-      "slug": "colorado-st",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "Columbia",
-      "slug": "columbia",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Coppin St.",
-      "slug": "coppin-st",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "Cornell",
-      "slug": "cornell",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Creighton",
-      "slug": "creighton",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "Dartmouth",
-      "slug": "dartmouth",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Davidson",
-      "slug": "davidson",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Dayton",
-      "slug": "dayton",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "DePaul",
-      "slug": "depaul",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "Delaware",
-      "slug": "delaware",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Delaware St.",
-      "slug": "delaware-st",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "Denver",
-      "slug": "denver",
-      "conference": "Summit League",
-      "active": true
-    },
-    {
-      "name": "Detroit Mercy",
-      "slug": "detroit-mercy",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Drake",
-      "slug": "drake",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "Drexel",
-      "slug": "drexel",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Duquesne",
-      "slug": "duquesne",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "ETSU",
-      "slug": "etsu",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "East Carolina",
-      "slug": "east-carolina",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "East Texas A&M",
-      "slug": "east-texas-a-m",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Eastern Ill.",
-      "slug": "eastern-ill",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Eastern Ky.",
-      "slug": "eastern-ky",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Eastern Mich.",
-      "slug": "eastern-mich",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Eastern Wash.",
-      "slug": "eastern-wash",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Elon",
-      "slug": "elon",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Evansville",
-      "slug": "evansville",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "FDU",
-      "slug": "fdu",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "FGCU",
-      "slug": "fgcu",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "FIU",
-      "slug": "fiu",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Fairfield",
-      "slug": "fairfield",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Fla. Atlantic",
-      "slug": "fla-atlantic",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Florida A&M",
-      "slug": "florida-a-m",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Florida St.",
-      "slug": "florida-st",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Fordham",
-      "slug": "fordham",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Fresno St.",
-      "slug": "fresno-st",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "Furman",
-      "slug": "furman",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "Ga. Southern",
-      "slug": "ga-southern",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Gardner-Webb",
-      "slug": "gardner-webb",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "George Mason",
-      "slug": "george-mason",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "George Washington",
-      "slug": "george-washington",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Georgetown",
-      "slug": "georgetown",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "Georgia",
-      "slug": "georgia",
-      "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Georgia St.",
-      "slug": "georgia-st",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Georgia Tech",
-      "slug": "georgia-tech",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Grambling",
-      "slug": "grambling",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Grand Canyon",
-      "slug": "grand-canyon",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "Green Bay",
-      "slug": "green-bay",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Hampton",
-      "slug": "hampton",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Harvard",
-      "slug": "harvard",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Hawaii",
-      "slug": "hawaii",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "High Point",
-      "slug": "high-point",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "Hofstra",
-      "slug": "hofstra",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Holy Cross",
-      "slug": "holy-cross",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Houston Christian",
-      "slug": "houston-christian",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Howard",
-      "slug": "howard",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "IU Indy",
-      "slug": "iu-indy",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Idaho",
-      "slug": "idaho",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Idaho St.",
-      "slug": "idaho-st",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Illinois St.",
-      "slug": "illinois-st",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "Indiana",
-      "slug": "indiana",
+      "name": "Wisconsin",
+      "slug": "wisconsin",
       "conference": "Big Ten",
       "active": true
     },
     {
-      "name": "Indiana St.",
-      "slug": "indiana-st",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "Iona",
-      "slug": "iona",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Jackson St.",
-      "slug": "jackson-st",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Jacksonville",
-      "slug": "jacksonville",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Jacksonville St.",
-      "slug": "jacksonville-st",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "James Madison",
-      "slug": "james-madison",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Kansas City",
-      "slug": "kansas-city",
-      "conference": "Summit League",
-      "active": true
-    },
-    {
-      "name": "Kansas St.",
-      "slug": "kansas-st",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Kennesaw St.",
-      "slug": "kennesaw-st",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Kent St.",
-      "slug": "kent-st",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "LIU",
-      "slug": "liu",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "LMU (CA)",
-      "slug": "lmu-ca",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "LSU",
-      "slug": "lsu",
+      "name": "Auburn",
+      "slug": "auburn",
       "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "La Salle",
-      "slug": "la-salle",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Lafayette",
-      "slug": "lafayette",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Lamar University",
-      "slug": "lamar-university",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Le Moyne",
-      "slug": "le-moyne",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Lehigh",
-      "slug": "lehigh",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Liberty",
-      "slug": "liberty",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Lindenwood",
-      "slug": "lindenwood",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Lipscomb",
-      "slug": "lipscomb",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Little Rock",
-      "slug": "little-rock",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Long Beach St.",
-      "slug": "long-beach-st",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "Longwood",
-      "slug": "longwood",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "Louisiana",
-      "slug": "louisiana",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Louisiana Tech",
-      "slug": "louisiana-tech",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Loyola Chicago",
-      "slug": "loyola-chicago",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Loyola Maryland",
-      "slug": "loyola-maryland",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Maine",
-      "slug": "maine",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "Manhattan",
-      "slug": "manhattan",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Marist",
-      "slug": "marist",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Marquette",
-      "slug": "marquette",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "Marshall",
-      "slug": "marshall",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Maryland",
-      "slug": "maryland",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "Massachusetts",
-      "slug": "massachusetts",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "McNeese",
-      "slug": "mcneese",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Memphis",
-      "slug": "memphis",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Mercer",
-      "slug": "mercer",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "Mercyhurst",
-      "slug": "mercyhurst",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Merrimack",
-      "slug": "merrimack",
-      "conference": "MAAC",
       "active": true
     },
     {
@@ -1087,261 +211,15 @@
       "active": true
     },
     {
-      "name": "Miami (OH)",
-      "slug": "miami-oh",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Middle Tenn.",
-      "slug": "middle-tenn",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Milwaukee",
-      "slug": "milwaukee",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Minnesota",
-      "slug": "minnesota",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "Mississippi St.",
-      "slug": "mississippi-st",
-      "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Mississippi Val.",
-      "slug": "mississippi-val",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Missouri",
-      "slug": "missouri",
-      "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Missouri St.",
-      "slug": "missouri-st",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Monmouth",
-      "slug": "monmouth",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Montana",
-      "slug": "montana",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Montana St.",
-      "slug": "montana-st",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Morehead St.",
-      "slug": "morehead-st",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Morgan St.",
-      "slug": "morgan-st",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "Mount St. Mary's",
-      "slug": "mount-st-mary-s",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Murray St.",
-      "slug": "murray-st",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "N.C. A&T",
-      "slug": "n-c-a-t",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "N.C. Central",
-      "slug": "n-c-central",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "NIU",
-      "slug": "niu",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "NJIT",
-      "slug": "njit",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "Navy",
-      "slug": "navy",
-      "conference": "Patriot",
-      "active": true
-    },
-    {
-      "name": "Nevada",
-      "slug": "nevada",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "New Hampshire",
-      "slug": "new-hampshire",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "New Haven",
-      "slug": "new-haven",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "New Mexico",
-      "slug": "new-mexico",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "New Mexico St.",
-      "slug": "new-mexico-st",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "New Orleans",
-      "slug": "new-orleans",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Niagara",
-      "slug": "niagara",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Nicholls",
-      "slug": "nicholls",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Norfolk St.",
-      "slug": "norfolk-st",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "North Ala.",
-      "slug": "north-ala",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "North Dakota",
-      "slug": "north-dakota",
-      "conference": "Summit League",
-      "active": true
-    },
-    {
-      "name": "North Dakota St.",
-      "slug": "north-dakota-st",
-      "conference": "Summit League",
-      "active": true
-    },
-    {
-      "name": "North Florida",
-      "slug": "north-florida",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "North Texas",
-      "slug": "north-texas",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Northeastern",
-      "slug": "northeastern",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Northern Ariz.",
-      "slug": "northern-ariz",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Northern Colo.",
-      "slug": "northern-colo",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Northern Ky.",
-      "slug": "northern-ky",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Northwestern",
-      "slug": "northwestern",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "Northwestern St.",
-      "slug": "northwestern-st",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "Notre Dame",
-      "slug": "notre-dame",
+      "name": "SMU",
+      "slug": "smu",
       "conference": "ACC",
       "active": true
     },
     {
-      "name": "Oakland",
-      "slug": "oakland",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Ohio",
-      "slug": "ohio",
-      "conference": "MAC",
+      "name": "Texas",
+      "slug": "texas",
+      "conference": "SEC",
       "active": true
     },
     {
@@ -1351,266 +229,20 @@
       "active": true
     },
     {
-      "name": "Oklahoma",
-      "slug": "oklahoma",
+      "name": "Georgia",
+      "slug": "georgia",
       "conference": "SEC",
       "active": true
     },
     {
-      "name": "Oklahoma St.",
-      "slug": "oklahoma-st",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Old Dominion",
-      "slug": "old-dominion",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Ole Miss",
-      "slug": "ole-miss",
-      "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Omaha",
-      "slug": "omaha",
-      "conference": "Summit League",
-      "active": true
-    },
-    {
-      "name": "Oral Roberts",
-      "slug": "oral-roberts",
-      "conference": "Summit League",
-      "active": true
-    },
-    {
-      "name": "Oregon",
-      "slug": "oregon",
+      "name": "UCLA",
+      "slug": "ucla",
       "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "Oregon St.",
-      "slug": "oregon-st",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Pacific",
-      "slug": "pacific",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Penn",
-      "slug": "penn",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Penn St.",
-      "slug": "penn-st",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "Pepperdine",
-      "slug": "pepperdine",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Pittsburgh",
-      "slug": "pittsburgh",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Portland",
-      "slug": "portland",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Portland St.",
-      "slug": "portland-st",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Prairie View",
-      "slug": "prairie-view",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Presbyterian",
-      "slug": "presbyterian",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "Princeton",
-      "slug": "princeton",
-      "conference": "Ivy League",
-      "active": true
-    },
-    {
-      "name": "Providence",
-      "slug": "providence",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "Purdue Fort Wayne",
-      "slug": "purdue-fort-wayne",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Queens (NC)",
-      "slug": "queens-nc",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Quinnipiac",
-      "slug": "quinnipiac",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Radford",
-      "slug": "radford",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "Rhode Island",
-      "slug": "rhode-island",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Rice",
-      "slug": "rice",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Richmond",
-      "slug": "richmond",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Rider",
-      "slug": "rider",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Robert Morris",
-      "slug": "robert-morris",
-      "conference": "Horizon",
-      "active": true
-    },
-    {
-      "name": "Rutgers",
-      "slug": "rutgers",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "SFA",
-      "slug": "sfa",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "SIUE",
-      "slug": "siue",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "SMU",
-      "slug": "smu",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Sacramento St.",
-      "slug": "sacramento-st",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "Sacred Heart",
-      "slug": "sacred-heart",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Saint Francis",
-      "slug": "saint-francis",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Saint Joseph's",
-      "slug": "saint-joseph-s",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "Saint Mary's (CA)",
-      "slug": "saint-mary-s-ca",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Saint Peter's",
-      "slug": "saint-peter-s",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "Sam Houston",
-      "slug": "sam-houston",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Samford",
-      "slug": "samford",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "San Diego",
-      "slug": "san-diego",
-      "conference": "WCC",
       "active": true
     },
     {
       "name": "San Diego St.",
       "slug": "san-diego-st",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "San Francisco",
-      "slug": "san-francisco",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "San Jose St.",
-      "slug": "san-jose-st",
       "conference": "Mountain West",
       "active": true
     },
@@ -1621,69 +253,33 @@
       "active": true
     },
     {
-      "name": "Seattle U",
-      "slug": "seattle-u",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Seton Hall",
-      "slug": "seton-hall",
-      "conference": "Big East",
-      "active": true
-    },
-    {
-      "name": "Siena",
-      "slug": "siena",
-      "conference": "MAAC",
-      "active": true
-    },
-    {
-      "name": "South Alabama",
-      "slug": "south-alabama",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "South Carolina",
-      "slug": "south-carolina",
+      "name": "Texas A&M",
+      "slug": "texas-a-m",
       "conference": "SEC",
       "active": true
     },
     {
-      "name": "South Carolina St.",
-      "slug": "south-carolina-st",
-      "conference": "MEAC",
+      "name": "New Mexico",
+      "slug": "new-mexico",
+      "conference": "Mountain West",
       "active": true
     },
     {
-      "name": "South Dakota",
-      "slug": "south-dakota",
-      "conference": "Summit League",
+      "name": "TCU",
+      "slug": "tcu",
+      "conference": "Big 12",
       "active": true
     },
     {
-      "name": "South Dakota St.",
-      "slug": "south-dakota-st",
-      "conference": "Summit League",
+      "name": "VCU",
+      "slug": "vcu",
+      "conference": "Atlantic 10",
       "active": true
     },
     {
-      "name": "South Fla.",
-      "slug": "south-fla",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Southeast Mo. St.",
-      "slug": "southeast-mo-st",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Southeastern La.",
-      "slug": "southeastern-la",
-      "conference": "Southland",
+      "name": "Baylor",
+      "slug": "baylor",
+      "conference": "Big 12",
       "active": true
     },
     {
@@ -1693,44 +289,368 @@
       "active": true
     },
     {
-      "name": "Southern Ill.",
-      "slug": "southern-ill",
+      "name": "UCF",
+      "slug": "ucf",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "Miami (OH)",
+      "slug": "miami-oh",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Seton Hall",
+      "slug": "seton-hall",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "Tulsa",
+      "slug": "tulsa",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "West Virginia",
+      "slug": "west-virginia",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "McNeese",
+      "slug": "mcneese",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Virginia Tech",
+      "slug": "virginia-tech",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "South Fla.",
+      "slug": "south-fla",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Nevada",
+      "slug": "nevada",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Boise St.",
+      "slug": "boise-st",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "California",
+      "slug": "california",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Belmont",
+      "slug": "belmont",
       "conference": "MVC",
       "active": true
     },
     {
-      "name": "Southern Ind.",
-      "slug": "southern-ind",
-      "conference": "OVC",
+      "name": "Akron",
+      "slug": "akron",
+      "conference": "MAC",
       "active": true
     },
     {
-      "name": "Southern Miss.",
-      "slug": "southern-miss",
-      "conference": "Sun Belt",
+      "name": "Cincinnati",
+      "slug": "cincinnati",
+      "conference": "Big 12",
       "active": true
     },
     {
-      "name": "Southern U.",
-      "slug": "southern-u",
-      "conference": "SWAC",
+      "name": "Wake Forest",
+      "slug": "wake-forest",
+      "conference": "ACC",
       "active": true
     },
     {
-      "name": "Southern Utah",
-      "slug": "southern-utah",
-      "conference": "WAC",
+      "name": "Yale",
+      "slug": "yale",
+      "conference": "Ivy League",
       "active": true
     },
     {
-      "name": "St. Bonaventure",
-      "slug": "st-bonaventure",
+      "name": "Missouri",
+      "slug": "missouri",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "LSU",
+      "slug": "lsu",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "Oklahoma",
+      "slug": "oklahoma",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "Syracuse",
+      "slug": "syracuse",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Stanford",
+      "slug": "stanford",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Arizona St.",
+      "slug": "arizona-st",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "Oklahoma St.",
+      "slug": "oklahoma-st",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "Colorado",
+      "slug": "colorado",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "Butler",
+      "slug": "butler",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "High Point",
+      "slug": "high-point",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Grand Canyon",
+      "slug": "grand-canyon",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Liberty",
+      "slug": "liberty",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Northwestern",
+      "slug": "northwestern",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "SFA",
+      "slug": "sfa",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Providence",
+      "slug": "providence",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Creighton",
+      "slug": "creighton",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Florida St.",
+      "slug": "florida-st",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Illinois St.",
+      "slug": "illinois-st",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "Wichita St.",
+      "slug": "wichita-st",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "George Washington",
+      "slug": "george-washington",
       "conference": "Atlantic 10",
       "active": true
     },
     {
-      "name": "St. John's (NY)",
-      "slug": "st-john-s-ny",
+      "name": "Minnesota",
+      "slug": "minnesota",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "Notre Dame",
+      "slug": "notre-dame",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Utah Valley",
+      "slug": "utah-valley",
+      "conference": "WAC",
+      "active": true
+    },
+    {
+      "name": "UNI",
+      "slug": "uni",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "George Mason",
+      "slug": "george-mason",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Ole Miss",
+      "slug": "ole-miss",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "Dayton",
+      "slug": "dayton",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Murray St.",
+      "slug": "murray-st",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "Colorado St.",
+      "slug": "colorado-st",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Mississippi St.",
+      "slug": "mississippi-st",
+      "conference": "SEC",
+      "active": true
+    },
+    {
+      "name": "UNCW",
+      "slug": "uncw",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "Xavier",
+      "slug": "xavier",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Hawaii",
+      "slug": "hawaii",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Davidson",
+      "slug": "davidson",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Kansas St.",
+      "slug": "kansas-st",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Hofstra",
+      "slug": "hofstra",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "Pacific",
+      "slug": "pacific",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Memphis",
+      "slug": "memphis",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Sam Houston",
+      "slug": "sam-houston",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Oregon",
+      "slug": "oregon",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "DePaul",
+      "slug": "depaul",
+      "conference": "Big East",
+      "active": true
+    },
+    {
+      "name": "Marquette",
+      "slug": "marquette",
       "conference": "Big East",
       "active": true
     },
@@ -1741,398 +661,20 @@
       "active": true
     },
     {
-      "name": "Stanford",
-      "slug": "stanford",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Stetson",
-      "slug": "stetson",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "Stonehill",
-      "slug": "stonehill",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Stony Brook",
-      "slug": "stony-brook",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Syracuse",
-      "slug": "syracuse",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "TCU",
-      "slug": "tcu",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Tarleton St.",
-      "slug": "tarleton-st",
+      "name": "California Baptist",
+      "slug": "california-baptist",
       "conference": "WAC",
       "active": true
     },
     {
-      "name": "Temple",
-      "slug": "temple",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Tennessee St.",
-      "slug": "tennessee-st",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Tennessee Tech",
-      "slug": "tennessee-tech",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Texas",
-      "slug": "texas",
+      "name": "South Carolina",
+      "slug": "south-carolina",
       "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Texas A&M",
-      "slug": "texas-a-m",
-      "conference": "SEC",
-      "active": true
-    },
-    {
-      "name": "Texas Southern",
-      "slug": "texas-southern",
-      "conference": "SWAC",
-      "active": true
-    },
-    {
-      "name": "Texas St.",
-      "slug": "texas-st",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "The Citadel",
-      "slug": "the-citadel",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "Toledo",
-      "slug": "toledo",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Towson",
-      "slug": "towson",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "Troy",
-      "slug": "troy",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "Tulane",
-      "slug": "tulane",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Tulsa",
-      "slug": "tulsa",
-      "conference": "American",
       "active": true
     },
     {
       "name": "UAB",
       "slug": "uab",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "UAlbany",
-      "slug": "ualbany",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "UC Davis",
-      "slug": "uc-davis",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "UC Irvine",
-      "slug": "uc-irvine",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "UC Riverside",
-      "slug": "uc-riverside",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "UC San Diego",
-      "slug": "uc-san-diego",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "UC Santa Barbara",
-      "slug": "uc-santa-barbara",
-      "conference": "Big West",
-      "active": true
-    },
-    {
-      "name": "UCF",
-      "slug": "ucf",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "UCLA",
-      "slug": "ucla",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "UIC",
-      "slug": "uic",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "UIW",
-      "slug": "uiw",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "ULM",
-      "slug": "ulm",
-      "conference": "Sun Belt",
-      "active": true
-    },
-    {
-      "name": "UMBC",
-      "slug": "umbc",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "UMES",
-      "slug": "umes",
-      "conference": "MEAC",
-      "active": true
-    },
-    {
-      "name": "UMass Lowell",
-      "slug": "umass-lowell",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "UNC Asheville",
-      "slug": "unc-asheville",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "UNC Greensboro",
-      "slug": "unc-greensboro",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "UNCW",
-      "slug": "uncw",
-      "conference": "CAA",
-      "active": true
-    },
-    {
-      "name": "UNI",
-      "slug": "uni",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "UNLV",
-      "slug": "unlv",
-      "conference": "Mountain West",
-      "active": true
-    },
-    {
-      "name": "USC Upstate",
-      "slug": "usc-upstate",
-      "conference": "Big South",
-      "active": true
-    },
-    {
-      "name": "UT Arlington",
-      "slug": "ut-arlington",
-      "conference": "WAC",
-      "active": true
-    },
-    {
-      "name": "UT Martin",
-      "slug": "ut-martin",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "UTEP",
-      "slug": "utep",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "UTRGV",
-      "slug": "utrgv",
-      "conference": "Southland",
-      "active": true
-    },
-    {
-      "name": "UTSA",
-      "slug": "utsa",
-      "conference": "American",
-      "active": true
-    },
-    {
-      "name": "Utah",
-      "slug": "utah",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Utah Tech",
-      "slug": "utah-tech",
-      "conference": "WAC",
-      "active": true
-    },
-    {
-      "name": "Utah Valley",
-      "slug": "utah-valley",
-      "conference": "WAC",
-      "active": true
-    },
-    {
-      "name": "VCU",
-      "slug": "vcu",
-      "conference": "Atlantic 10",
-      "active": true
-    },
-    {
-      "name": "VMI",
-      "slug": "vmi",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "Valparaiso",
-      "slug": "valparaiso",
-      "conference": "MVC",
-      "active": true
-    },
-    {
-      "name": "Vermont",
-      "slug": "vermont",
-      "conference": "America East",
-      "active": true
-    },
-    {
-      "name": "Virginia Tech",
-      "slug": "virginia-tech",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Wagner",
-      "slug": "wagner",
-      "conference": "NEC",
-      "active": true
-    },
-    {
-      "name": "Wake Forest",
-      "slug": "wake-forest",
-      "conference": "ACC",
-      "active": true
-    },
-    {
-      "name": "Washington",
-      "slug": "washington",
-      "conference": "Big Ten",
-      "active": true
-    },
-    {
-      "name": "Washington St.",
-      "slug": "washington-st",
-      "conference": "WCC",
-      "active": true
-    },
-    {
-      "name": "Weber St.",
-      "slug": "weber-st",
-      "conference": "Big Sky",
-      "active": true
-    },
-    {
-      "name": "West Ga.",
-      "slug": "west-ga",
-      "conference": "ASUN",
-      "active": true
-    },
-    {
-      "name": "West Virginia",
-      "slug": "west-virginia",
-      "conference": "Big 12",
-      "active": true
-    },
-    {
-      "name": "Western Caro.",
-      "slug": "western-caro",
-      "conference": "SoCon",
-      "active": true
-    },
-    {
-      "name": "Western Ill.",
-      "slug": "western-ill",
-      "conference": "OVC",
-      "active": true
-    },
-    {
-      "name": "Western Ky.",
-      "slug": "western-ky",
-      "conference": "CUSA",
-      "active": true
-    },
-    {
-      "name": "Western Mich.",
-      "slug": "western-mich",
-      "conference": "MAC",
-      "active": true
-    },
-    {
-      "name": "Wichita St.",
-      "slug": "wichita-st",
       "conference": "American",
       "active": true
     },
@@ -2143,21 +685,165 @@
       "active": true
     },
     {
+      "name": "Fla. Atlantic",
+      "slug": "fla-atlantic",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Duquesne",
+      "slug": "duquesne",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Southern Ill.",
+      "slug": "southern-ill",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "Bradley",
+      "slug": "bradley",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "UC Irvine",
+      "slug": "uc-irvine",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Penn St.",
+      "slug": "penn-st",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
       "name": "Winthrop",
       "slug": "winthrop",
       "conference": "Big South",
       "active": true
     },
     {
-      "name": "Wisconsin",
-      "slug": "wisconsin",
-      "conference": "Big Ten",
+      "name": "Pittsburgh",
+      "slug": "pittsburgh",
+      "conference": "ACC",
       "active": true
     },
     {
-      "name": "Wofford",
-      "slug": "wofford",
+      "name": "North Dakota St.",
+      "slug": "north-dakota-st",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "UC San Diego",
+      "slug": "uc-san-diego",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Utah",
+      "slug": "utah",
+      "conference": "Big 12",
+      "active": true
+    },
+    {
+      "name": "ETSU",
+      "slug": "etsu",
       "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "UNLV",
+      "slug": "unlv",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Portland St.",
+      "slug": "portland-st",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Seattle U",
+      "slug": "seattle-u",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "UC Santa Barbara",
+      "slug": "uc-santa-barbara",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "UIC",
+      "slug": "uic",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "Austin Peay",
+      "slug": "austin-peay",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Rhode Island",
+      "slug": "rhode-island",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Washington St.",
+      "slug": "washington-st",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Fresno St.",
+      "slug": "fresno-st",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Montana St.",
+      "slug": "montana-st",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "UTRGV",
+      "slug": "utrgv",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Bowling Green",
+      "slug": "bowling-green",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Richmond",
+      "slug": "richmond",
+      "conference": "Atlantic 10",
       "active": true
     },
     {
@@ -2167,27 +853,1341 @@
       "active": true
     },
     {
-      "name": "Wyoming",
-      "slug": "wyoming",
-      "conference": "Mountain West",
+      "name": "Kent St.",
+      "slug": "kent-st",
+      "conference": "MAC",
       "active": true
     },
     {
-      "name": "Xavier",
-      "slug": "xavier",
-      "conference": "Big East",
+      "name": "Northern Colo.",
+      "slug": "northern-colo",
+      "conference": "Big Sky",
       "active": true
     },
     {
-      "name": "Yale",
-      "slug": "yale",
+      "name": "St. Bonaventure",
+      "slug": "st-bonaventure",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Cornell",
+      "slug": "cornell",
       "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "Arkansas St.",
+      "slug": "arkansas-st",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Oakland",
+      "slug": "oakland",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Maryland",
+      "slug": "maryland",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Navy",
+      "slug": "navy",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "North Texas",
+      "slug": "north-texas",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Boston College",
+      "slug": "boston-college",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Mercer",
+      "slug": "mercer",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "Temple",
+      "slug": "temple",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Saint Joseph's",
+      "slug": "saint-joseph-s",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Marist",
+      "slug": "marist",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Utah Tech",
+      "slug": "utah-tech",
+      "conference": "WAC",
+      "active": true
+    },
+    {
+      "name": "UT Arlington",
+      "slug": "ut-arlington",
+      "conference": "WAC",
+      "active": true
+    },
+    {
+      "name": "Harvard",
+      "slug": "harvard",
+      "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "Middle Tenn.",
+      "slug": "middle-tenn",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Valparaiso",
+      "slug": "valparaiso",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "Georgia Tech",
+      "slug": "georgia-tech",
+      "conference": "ACC",
+      "active": true
+    },
+    {
+      "name": "Charlotte",
+      "slug": "charlotte",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Rutgers",
+      "slug": "rutgers",
+      "conference": "Big Ten",
+      "active": true
+    },
+    {
+      "name": "Idaho",
+      "slug": "idaho",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "UC Davis",
+      "slug": "uc-davis",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Penn",
+      "slug": "penn",
+      "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "South Alabama",
+      "slug": "south-alabama",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Col. of Charleston",
+      "slug": "col-of-charleston",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "LMU (CA)",
+      "slug": "lmu-ca",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Toledo",
+      "slug": "toledo",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "New Mexico St.",
+      "slug": "new-mexico-st",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Towson",
+      "slug": "towson",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "CSUN",
+      "slug": "csun",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Western Ky.",
+      "slug": "western-ky",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Fordham",
+      "slug": "fordham",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "UT Martin",
+      "slug": "ut-martin",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "Central Ark.",
+      "slug": "central-ark",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Montana",
+      "slug": "montana",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "Oregon St.",
+      "slug": "oregon-st",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "App State",
+      "slug": "app-state",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Robert Morris",
+      "slug": "robert-morris",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Lipscomb",
+      "slug": "lipscomb",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Kennesaw St.",
+      "slug": "kennesaw-st",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Merrimack",
+      "slug": "merrimack",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Massachusetts",
+      "slug": "massachusetts",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Elon",
+      "slug": "elon",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "Furman",
+      "slug": "furman",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "Drake",
+      "slug": "drake",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "Siena",
+      "slug": "siena",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Monmouth",
+      "slug": "monmouth",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "LIU",
+      "slug": "liu",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "A&M-Corpus Christi",
+      "slug": "a-m-corpus-christi",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Quinnipiac",
+      "slug": "quinnipiac",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Cal St. Fullerton",
+      "slug": "cal-st-fullerton",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Tulane",
+      "slug": "tulane",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "FIU",
+      "slug": "fiu",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Northern Ky.",
+      "slug": "northern-ky",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Colgate",
+      "slug": "colgate",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "Weber St.",
+      "slug": "weber-st",
+      "conference": "Big Sky",
       "active": true
     },
     {
       "name": "Youngstown St.",
       "slug": "youngstown-st",
       "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "South Dakota St.",
+      "slug": "south-dakota-st",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "Queens (NC)",
+      "slug": "queens-nc",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Campbell",
+      "slug": "campbell",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "Portland",
+      "slug": "portland",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Missouri St.",
+      "slug": "missouri-st",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Samford",
+      "slug": "samford",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "Lamar University",
+      "slug": "lamar-university",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Stony Brook",
+      "slug": "stony-brook",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "Ohio",
+      "slug": "ohio",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Tarleton St.",
+      "slug": "tarleton-st",
+      "conference": "WAC",
+      "active": true
+    },
+    {
+      "name": "Vermont",
+      "slug": "vermont",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Jacksonville St.",
+      "slug": "jacksonville-st",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Indiana St.",
+      "slug": "indiana-st",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "San Diego",
+      "slug": "san-diego",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Drexel",
+      "slug": "drexel",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "James Madison",
+      "slug": "james-madison",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Green Bay",
+      "slug": "green-bay",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Coastal Carolina",
+      "slug": "coastal-carolina",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Eastern Wash.",
+      "slug": "eastern-wash",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "Southeast Mo. St.",
+      "slug": "southeast-mo-st",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "New Orleans",
+      "slug": "new-orleans",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Eastern Mich.",
+      "slug": "eastern-mich",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "UNC Asheville",
+      "slug": "unc-asheville",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Wofford",
+      "slug": "wofford",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "Howard",
+      "slug": "howard",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "Denver",
+      "slug": "denver",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "Idaho St.",
+      "slug": "idaho-st",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "Saint Peter's",
+      "slug": "saint-peter-s",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Abilene Christian",
+      "slug": "abilene-christian",
+      "conference": "WAC",
+      "active": true
+    },
+    {
+      "name": "Iona",
+      "slug": "iona",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Southern Miss.",
+      "slug": "southern-miss",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Tennessee St.",
+      "slug": "tennessee-st",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "Texas St.",
+      "slug": "texas-st",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Cal Poly",
+      "slug": "cal-poly",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Radford",
+      "slug": "radford",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Lindenwood",
+      "slug": "lindenwood",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "La Salle",
+      "slug": "la-salle",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "SIUE",
+      "slug": "siue",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "UMBC",
+      "slug": "umbc",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Charleston So.",
+      "slug": "charleston-so",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Rice",
+      "slug": "rice",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Louisiana Tech",
+      "slug": "louisiana-tech",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Dartmouth",
+      "slug": "dartmouth",
+      "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "Purdue Fort Wayne",
+      "slug": "purdue-fort-wayne",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Bethune-Cookman",
+      "slug": "bethune-cookman",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Milwaukee",
+      "slug": "milwaukee",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Princeton",
+      "slug": "princeton",
+      "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "Old Dominion",
+      "slug": "old-dominion",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Nicholls",
+      "slug": "nicholls",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Omaha",
+      "slug": "omaha",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "Hampton",
+      "slug": "hampton",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "FGCU",
+      "slug": "fgcu",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Detroit Mercy",
+      "slug": "detroit-mercy",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Ga. Southern",
+      "slug": "ga-southern",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Sacramento St.",
+      "slug": "sacramento-st",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "Long Beach St.",
+      "slug": "long-beach-st",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "American",
+      "slug": "american",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "Western Caro.",
+      "slug": "western-caro",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "UTEP",
+      "slug": "utep",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "N.C. A&T",
+      "slug": "n-c-a-t",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "San Jose St.",
+      "slug": "san-jose-st",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Delaware",
+      "slug": "delaware",
+      "conference": "CUSA",
+      "active": true
+    },
+    {
+      "name": "Morehead St.",
+      "slug": "morehead-st",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "East Carolina",
+      "slug": "east-carolina",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Central Conn. St.",
+      "slug": "central-conn-st",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "Presbyterian",
+      "slug": "presbyterian",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Longwood",
+      "slug": "longwood",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Northeastern",
+      "slug": "northeastern",
+      "conference": "CAA",
+      "active": true
+    },
+    {
+      "name": "Eastern Ky.",
+      "slug": "eastern-ky",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "North Dakota",
+      "slug": "north-dakota",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "Grambling",
+      "slug": "grambling",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "South Dakota",
+      "slug": "south-dakota",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "Boston U.",
+      "slug": "boston-u",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "UIW",
+      "slug": "uiw",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Le Moyne",
+      "slug": "le-moyne",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "Southern U.",
+      "slug": "southern-u",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Mercyhurst",
+      "slug": "mercyhurst",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "Southern Utah",
+      "slug": "southern-utah",
+      "conference": "WAC",
+      "active": true
+    },
+    {
+      "name": "Pepperdine",
+      "slug": "pepperdine",
+      "conference": "WCC",
+      "active": true
+    },
+    {
+      "name": "Brown",
+      "slug": "brown",
+      "conference": "Ivy League",
+      "active": true
+    },
+    {
+      "name": "Southeastern La.",
+      "slug": "southeastern-la",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Western Mich.",
+      "slug": "western-mich",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Bellarmine",
+      "slug": "bellarmine",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Georgia St.",
+      "slug": "georgia-st",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "UC Riverside",
+      "slug": "uc-riverside",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Central Mich.",
+      "slug": "central-mich",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Evansville",
+      "slug": "evansville",
+      "conference": "MVC",
+      "active": true
+    },
+    {
+      "name": "USC Upstate",
+      "slug": "usc-upstate",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Sacred Heart",
+      "slug": "sacred-heart",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "UNC Greensboro",
+      "slug": "unc-greensboro",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "Lehigh",
+      "slug": "lehigh",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "East Texas A&M",
+      "slug": "east-texas-a-m",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Houston Christian",
+      "slug": "houston-christian",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Mount St. Mary's",
+      "slug": "mount-st-mary-s",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Chattanooga",
+      "slug": "chattanooga",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "NJIT",
+      "slug": "njit",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Northern Ariz.",
+      "slug": "northern-ariz",
+      "conference": "Big Sky",
+      "active": true
+    },
+    {
+      "name": "Ark.-Pine Bluff",
+      "slug": "ark-pine-bluff",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Northwestern St.",
+      "slug": "northwestern-st",
+      "conference": "Southland",
+      "active": true
+    },
+    {
+      "name": "Cleveland St.",
+      "slug": "cleveland-st",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Jacksonville",
+      "slug": "jacksonville",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Little Rock",
+      "slug": "little-rock",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "West Ga.",
+      "slug": "west-ga",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Norfolk St.",
+      "slug": "norfolk-st",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "Loyola Chicago",
+      "slug": "loyola-chicago",
+      "conference": "Atlantic 10",
+      "active": true
+    },
+    {
+      "name": "Alabama A&M",
+      "slug": "alabama-a-m",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Louisiana",
+      "slug": "louisiana",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "IU Indy",
+      "slug": "iu-indy",
+      "conference": "Horizon",
+      "active": true
+    },
+    {
+      "name": "Alabama St.",
+      "slug": "alabama-st",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Tennessee Tech",
+      "slug": "tennessee-tech",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "Wagner",
+      "slug": "wagner",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "Eastern Ill.",
+      "slug": "eastern-ill",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "CSU Bakersfield",
+      "slug": "csu-bakersfield",
+      "conference": "Big West",
+      "active": true
+    },
+    {
+      "name": "Texas Southern",
+      "slug": "texas-southern",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "NIU",
+      "slug": "niu",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Ball St.",
+      "slug": "ball-st",
+      "conference": "MAC",
+      "active": true
+    },
+    {
+      "name": "Holy Cross",
+      "slug": "holy-cross",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "UMass Lowell",
+      "slug": "umass-lowell",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Manhattan",
+      "slug": "manhattan",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Loyola Maryland",
+      "slug": "loyola-maryland",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "Stetson",
+      "slug": "stetson",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "FDU",
+      "slug": "fdu",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "New Haven",
+      "slug": "new-haven",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "Prairie View",
+      "slug": "prairie-view",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "UAlbany",
+      "slug": "ualbany",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Army West Point",
+      "slug": "army-west-point",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "Bucknell",
+      "slug": "bucknell",
+      "conference": "Patriot",
+      "active": true
+    },
+    {
+      "name": "New Hampshire",
+      "slug": "new-hampshire",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Oral Roberts",
+      "slug": "oral-roberts",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "Florida A&M",
+      "slug": "florida-a-m",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "North Florida",
+      "slug": "north-florida",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Stonehill",
+      "slug": "stonehill",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "N.C. Central",
+      "slug": "n-c-central",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "North Ala.",
+      "slug": "north-ala",
+      "conference": "ASUN",
+      "active": true
+    },
+    {
+      "name": "Maine",
+      "slug": "maine",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Chicago St.",
+      "slug": "chicago-st",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "UMES",
+      "slug": "umes",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "Canisius",
+      "slug": "canisius",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Air Force",
+      "slug": "air-force",
+      "conference": "Mountain West",
+      "active": true
+    },
+    {
+      "name": "Niagara",
+      "slug": "niagara",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "Jackson St.",
+      "slug": "jackson-st",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Alcorn",
+      "slug": "alcorn",
+      "conference": "SWAC",
+      "active": true
+    },
+    {
+      "name": "Southern Ind.",
+      "slug": "southern-ind",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "The Citadel",
+      "slug": "the-citadel",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "UTSA",
+      "slug": "utsa",
+      "conference": "American",
+      "active": true
+    },
+    {
+      "name": "Bryant",
+      "slug": "bryant",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Morgan St.",
+      "slug": "morgan-st",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "Saint Francis",
+      "slug": "saint-francis",
+      "conference": "NEC",
+      "active": true
+    },
+    {
+      "name": "Kansas City",
+      "slug": "kansas-city",
+      "conference": "Summit League",
+      "active": true
+    },
+    {
+      "name": "ULM",
+      "slug": "ulm",
+      "conference": "Sun Belt",
+      "active": true
+    },
+    {
+      "name": "Rider",
+      "slug": "rider",
+      "conference": "MAAC",
+      "active": true
+    },
+    {
+      "name": "South Carolina St.",
+      "slug": "south-carolina-st",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "VMI",
+      "slug": "vmi",
+      "conference": "SoCon",
+      "active": true
+    },
+    {
+      "name": "Delaware St.",
+      "slug": "delaware-st",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "Western Ill.",
+      "slug": "western-ill",
+      "conference": "OVC",
+      "active": true
+    },
+    {
+      "name": "Binghamton",
+      "slug": "binghamton",
+      "conference": "America East",
+      "active": true
+    },
+    {
+      "name": "Gardner-Webb",
+      "slug": "gardner-webb",
+      "conference": "Big South",
+      "active": true
+    },
+    {
+      "name": "Coppin St.",
+      "slug": "coppin-st",
+      "conference": "MEAC",
+      "active": true
+    },
+    {
+      "name": "Mississippi Val.",
+      "slug": "mississippi-val",
+      "conference": "SWAC",
       "active": true
     }
   ]

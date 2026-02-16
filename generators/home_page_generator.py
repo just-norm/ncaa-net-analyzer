@@ -4,6 +4,7 @@ Home page generator - displays all teams with NET rankings and stats
 """
 
 import csv
+import json
 import sys
 from pathlib import Path
 
@@ -85,6 +86,15 @@ def generate_home_page(output_dir='public'):
     """
     print("🏠 Generating home page...")
 
+    # Load teams.json to get correct slugs
+    teams_config_file = Path(__file__).parent.parent / 'config' / 'teams.json'
+    team_slug_map = {}
+    if teams_config_file.exists():
+        with open(teams_config_file, 'r') as f:
+            teams_config = json.load(f)
+            for team in teams_config['teams']:
+                team_slug_map[team['name']] = team['slug']
+
     # Load NET rankings (primary data source - has all 365 teams)
     net_rankings_file = Path(__file__).parent.parent / 'data' / 'net_rankings.csv'
     teams_data = []
@@ -94,9 +104,9 @@ def generate_home_page(output_dir='public'):
         with open(net_rankings_file, 'r') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                # Create team slug from name
+                # Get team slug from teams.json config (correct slugs)
                 team_name = row['Team']
-                team_slug = team_name.lower().replace(' ', '-').replace('.', '').replace("'", '')
+                team_slug = team_slug_map.get(team_name, team_name.lower().replace(' ', '-').replace('.', '').replace("'", ''))
 
                 # Load detailed stats if available
                 summary = load_team_summary(team_slug)

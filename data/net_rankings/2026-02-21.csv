@@ -5,8 +5,8 @@ rank,team,conference,record
 4,Illinois,22-5,Big Ten
 5,Gonzaga,26-2,WCC
 6,Iowa St.,23-3,Big 12
-7,Houston,23-3,Big 12
-8,Purdue,21-5,Big Ten
+7,Purdue,22-5,Big Ten
+8,Houston,23-3,Big 12
 9,Florida,20-6,SEC
 10,UConn,24-3,Big East
 11,Nebraska,22-4,Big Ten
@@ -21,7 +21,7 @@ rank,team,conference,record
 20,Alabama,19-7,SEC
 21,BYU,19-7,Big 12
 22,Utah St.,22-3,Mountain West
-23,Saint Louis,23-2,Atlantic 10
+23,Saint Louis,24-2,Atlantic 10
 24,St. John's (NY),21-5,Big East
 25,Iowa,19-7,Big Ten
 26,NC State,19-8,ACC
@@ -30,12 +30,12 @@ rank,team,conference,record
 29,Villanova,21-5,Big East
 30,Kentucky,17-9,SEC
 31,SMU,18-8,ACC
-32,Indiana,17-9,Big Ten
-33,Clemson,20-7,ACC
-34,Auburn,14-12,SEC
+32,Clemson,20-7,ACC
+33,Auburn,14-12,SEC
+34,Wisconsin,18-8,Big Ten
 35,Texas,16-9,SEC
-36,Wisconsin,18-8,Big Ten
-37,Miami (FL),21-5,ACC
+36,Miami (FL),21-5,ACC
+37,Indiana,17-10,Big Ten
 38,Ohio St.,17-9,Big Ten
 39,Georgia,18-8,SEC
 40,Santa Clara,21-6,WCC
@@ -43,10 +43,10 @@ rank,team,conference,record
 42,New Mexico,19-6,Mountain West
 43,Texas A&M,18-8,SEC
 44,San Diego St.,17-7,Mountain West
-45,VCU,21-6,Atlantic 10
+45,VCU,21-7,Atlantic 10
 46,UCF,18-7,Big 12
 47,TCU,16-10,Big 12
-48,Miami (OH),23-0,MAC
+48,Miami (OH),24-0,MAC
 49,Baylor,12-13,Big 12
 50,Washington,13-13,Big Ten
 51,Seton Hall,18-9,Big East
@@ -58,11 +58,11 @@ rank,team,conference,record
 57,McNeese,20-5,Southland
 58,Wake Forest,14-12,ACC
 59,Missouri,18-8,SEC
-60,Akron,19-5,MAC
-61,West Virginia,16-10,Big 12
-62,California,17-8,ACC
-63,Cincinnati,14-12,Big 12
-64,Yale,18-4,Ivy League
+60,West Virginia,16-10,Big 12
+61,California,17-8,ACC
+62,Cincinnati,14-12,Big 12
+63,Yale,18-4,Ivy League
+64,Akron,20-5,MAC
 65,Boise St.,14-10,Mountain West
 66,LSU,14-12,SEC
 67,Arizona St.,14-12,Big 12
@@ -106,8 +106,8 @@ rank,team,conference,record
 105,Hawaii,16-7,Big West
 106,UIC,14-12,MVC
 107,Marquette,9-18,Big East
-108,Memphis,12-14,American
-109,St. Thomas (MN),18-7,Summit League
+108,St. Thomas (MN),18-7,Summit League
+109,Memphis,12-14,American
 110,South Carolina,11-15,SEC
 111,Pacific,15-12,WCC
 112,California Baptist,19-8,WAC
@@ -122,8 +122,8 @@ rank,team,conference,record
 121,ETSU,18-8,SoCon
 122,Rhode Island,15-11,Atlantic 10
 123,San Francisco,14-14,WCC
-124,Pittsburgh,9-17,ACC
-125,Seattle U,14-12,WCC
+124,Seattle U,14-12,WCC
+125,Pittsburgh,9-17,ACC
 126,Washington St.,11-16,WCC
 127,Duquesne,14-10,Atlantic 10
 128,Southern Ill.,12-15,MVC
@@ -146,30 +146,30 @@ rank,team,conference,record
 145,Cornell,10-11,Ivy League
 146,Marshall,17-10,Sun Belt
 147,Navy,20-6,Patriot
-148,Bowling Green,13-11,MAC
+148,Bowling Green,13-12,MAC
 149,Rutgers,11-15,Big Ten
 150,Maryland,10-16,Big Ten
 151,St. Bonaventure,13-12,Atlantic 10
 152,North Texas,13-12,American
 153,Saint Joseph's,14-10,Atlantic 10
 154,UT Arlington,13-11,WAC
-155,Oakland,13-13,Horizon
-156,Boston College,9-17,ACC
-157,Valparaiso,14-13,MVC
-158,Col. of Charleston,17-10,CAA
-159,Robert Morris,16-10,Horizon
-160,Harvard,13-10,Ivy League
-161,Middle Tenn.,9-14,CUSA
+155,Boston College,9-17,ACC
+156,Valparaiso,14-13,MVC
+157,Col. of Charleston,17-10,CAA
+158,Robert Morris,16-10,Horizon
+159,Harvard,13-10,Ivy League
+160,Middle Tenn.,9-14,CUSA
+161,Oakland,13-14,Horizon
 162,CSUN,15-10,Big West
-163,Utah Tech,13-12,WAC
-164,Temple,14-11,American
+163,Marist,16-10,MAAC
+164,Utah Tech,13-12,WAC
 165,Penn,12-10,Ivy League
-166,Mercer,14-11,SoCon
-167,Toledo,11-13,MAC
-168,Marist,15-10,MAAC
-169,New Mexico St.,9-13,CUSA
-170,Central Ark.,16-10,ASUN
-171,Georgia Tech,11-16,ACC
+166,Temple,14-11,American
+167,Mercer,14-11,SoCon
+168,Toledo,11-13,MAC
+169,Central Ark.,16-10,ASUN
+170,Georgia Tech,11-16,ACC
+171,New Mexico St.,9-13,CUSA
 172,Idaho,11-13,Big Sky
 173,LMU (CA),12-15,WCC
 174,UC Davis,14-11,Big West
@@ -178,23 +178,23 @@ rank,team,conference,record
 177,Western Ky.,13-11,CUSA
 178,Towson,12-13,CAA
 179,Lipscomb,15-11,ASUN
-180,Merrimack,18-9,MAAC
+180,Merrimack,19-9,MAAC
 181,Charlotte,12-13,American
 182,Tulane,15-10,American
 183,Oregon St.,14-14,WCC
 184,App State,16-11,Sun Belt
-185,Montana,11-12,Big Sky
-186,South Alabama,17-9,Sun Belt
+185,South Alabama,17-9,Sun Belt
+186,Montana,11-12,Big Sky
 187,Fordham,12-12,Atlantic 10
-188,Siena,18-9,MAAC
-189,Buffalo,13-11,MAC
+188,Buffalo,13-11,MAC
+189,Massachusetts,14-12,MAC
 190,UT Martin,17-9,OVC
-191,Massachusetts,14-12,MAC
+191,Siena,18-10,MAAC
 192,Elon,12-13,CAA
 193,Northern Ky.,14-11,Horizon
 194,FIU,9-14,CUSA
-195,LIU,19-9,NEC
-196,Monmouth,13-13,CAA
+195,Monmouth,13-13,CAA
+196,LIU,19-9,NEC
 197,Cal St. Fullerton,12-14,Big West
 198,Furman,14-11,SoCon
 199,A&M-Corpus Christi,10-13,Southland
@@ -210,54 +210,54 @@ rank,team,conference,record
 209,Tarleton St.,10-13,WAC
 210,Stony Brook,14-11,CAA
 211,Lamar University,10-15,Southland
-212,James Madison,14-13,Sun Belt
-213,Missouri St.,10-13,CUSA
+212,Green Bay,14-13,Horizon
+213,James Madison,14-13,Sun Belt
 214,Southeast Mo. St.,14-11,OVC
-215,New Orleans,12-15,Southland
-216,Ohio,12-13,MAC
-217,Drexel,13-14,CAA
-218,Eastern Wash.,9-17,Big Sky
-219,Howard,13-10,MEAC
-220,Jacksonville St.,10-13,CUSA
-221,Eastern Mich.,9-17,MAC
-222,Portland,10-16,WCC
-223,Green Bay,13-13,Horizon
+215,Missouri St.,10-13,CUSA
+216,New Orleans,12-15,Southland
+217,Ohio,12-13,MAC
+218,Drexel,13-14,CAA
+219,Eastern Wash.,9-17,Big Sky
+220,Howard,13-10,MEAC
+221,Jacksonville St.,10-13,CUSA
+222,Eastern Mich.,9-17,MAC
+223,Portland,10-16,WCC
 224,Vermont,15-11,America East
 225,San Diego,9-17,WCC
 226,Idaho St.,8-17,Big Sky
 227,Denver,11-15,Summit League
-228,Saint Peter's,14-9,MAAC
-229,Cal Poly,10-16,Big West
-230,Texas St.,16-11,Sun Belt
-231,Coastal Carolina,15-12,Sun Belt
-232,Indiana St.,8-18,MVC
-233,Wofford,16-10,SoCon
-234,Tennessee St.,15-9,OVC
-235,Abilene Christian,9-14,WAC
+228,Cal Poly,10-16,Big West
+229,Texas St.,16-11,Sun Belt
+230,Coastal Carolina,15-12,Sun Belt
+231,Indiana St.,8-18,MVC
+232,Wofford,16-10,SoCon
+233,Tennessee St.,15-9,OVC
+234,Abilene Christian,9-14,WAC
+235,Saint Peter's,14-10,MAAC
 236,UNC Asheville,9-15,Big South
 237,Southern Miss.,12-14,Sun Belt
 238,UMBC,15-8,America East
-239,La Salle,6-19,Atlantic 10
-240,Iona,15-12,MAAC
-241,Radford,12-13,Big South
-242,Louisiana Tech,12-11,CUSA
-243,Rice,9-15,American
-244,Omaha,11-14,Summit League
-245,Fairfield,15-11,MAAC
-246,Detroit Mercy,10-13,Horizon
+239,Iona,16-12,MAAC
+240,La Salle,6-19,Atlantic 10
+241,Detroit Mercy,11-13,Horizon
+242,Radford,12-13,Big South
+243,Louisiana Tech,12-11,CUSA
+244,Fairfield,16-11,MAAC
+245,Omaha,11-14,Summit League
+246,Rice,9-15,American
 247,Lindenwood,13-12,OVC
-248,Milwaukee,10-17,Horizon
+248,Charleston So.,10-15,Big South
 249,San Jose St.,6-19,Mountain West
-250,Charleston So.,10-15,Big South
-251,Old Dominion,9-18,Sun Belt
-252,FGCU,11-15,ASUN
-253,Dartmouth,8-13,Ivy League
-254,Princeton,7-17,Ivy League
-255,American,13-13,Patriot
-256,SIUE,14-11,OVC
-257,Purdue Fort Wayne,12-13,Horizon
+250,Old Dominion,9-18,Sun Belt
+251,Dartmouth,8-13,Ivy League
+252,Milwaukee,10-18,Horizon
+253,FGCU,11-15,ASUN
+254,American,13-13,Patriot
+255,SIUE,14-11,OVC
+256,Purdue Fort Wayne,12-13,Horizon
+257,Ga. Southern,13-13,Sun Belt
 258,Bethune-Cookman,13-13,SWAC
-259,Ga. Southern,13-13,Sun Belt
+259,Princeton,7-18,Ivy League
 260,Nicholls,10-16,Southland
 261,Western Caro.,9-15,SoCon
 262,Long Beach St.,6-19,Big West
@@ -280,11 +280,11 @@ rank,team,conference,record
 279,Grambling,9-14,SWAC
 280,Southern U.,9-14,SWAC
 281,Le Moyne,13-14,NEC
-282,Eastern Ky.,8-18,ASUN
-283,South Dakota,11-14,Summit League
-284,Georgia St.,8-18,Sun Belt
-285,Bellarmine,9-16,ASUN
-286,Brown,6-15,Ivy League
+282,Brown,7-15,Ivy League
+283,Eastern Ky.,8-18,ASUN
+284,South Dakota,11-14,Summit League
+285,Georgia St.,8-18,Sun Belt
+286,Bellarmine,9-16,ASUN
 287,Chattanooga,8-17,SoCon
 288,Mercyhurst,11-15,NEC
 289,East Texas A&M,9-17,Southland
@@ -294,9 +294,9 @@ rank,team,conference,record
 293,USC Upstate,8-17,Big South
 294,Southeastern La.,7-19,Southland
 295,Houston Christian,8-17,Southland
-296,Sacred Heart,11-16,MAAC
+296,Mount St. Mary's,12-15,MAAC
 297,UNC Greensboro,10-16,SoCon
-298,Mount St. Mary's,11-15,MAAC
+298,Sacred Heart,11-17,MAAC
 299,Lehigh,10-16,Patriot
 300,Northwestern St.,6-19,Southland
 301,Northern Ariz.,7-17,Big Sky
@@ -320,10 +320,10 @@ rank,team,conference,record
 319,UMass Lowell,9-15,America East
 320,Eastern Ill.,8-17,OVC
 321,UAlbany,7-17,America East
-322,Manhattan,11-16,MAAC
-323,Ball St.,6-18,MAC
-324,FDU,8-17,NEC
-325,Lafayette,8-19,Patriot
+322,Ball St.,6-19,MAC
+323,FDU,8-17,NEC
+324,Lafayette,8-19,Patriot
+325,Manhattan,11-17,MAAC
 326,CSU Bakersfield,6-19,Big West
 327,New Haven,9-15,NEC
 328,Prairie View,7-16,SWAC
@@ -340,13 +340,13 @@ rank,team,conference,record
 339,Stonehill,7-19,NEC
 340,UTSA,3-21,American
 341,Jackson St.,9-17,SWAC
-342,Niagara,6-19,MAAC
-343,Maine,5-21,America East
-344,N.C. Central,6-15,MEAC
-345,Chicago St.,5-22,NEC
-346,UMES,6-19,MEAC
-347,Southern Ind.,4-21,OVC
-348,Canisius,7-19,MAAC
+342,Maine,5-21,America East
+343,N.C. Central,6-15,MEAC
+344,Niagara,6-20,MAAC
+345,Canisius,8-19,MAAC
+346,Chicago St.,5-22,NEC
+347,UMES,6-19,MEAC
+348,Southern Ind.,4-21,OVC
 349,Air Force,3-23,Mountain West
 350,The Citadel,6-19,SoCon
 351,Alcorn,6-19,SWAC
@@ -355,9 +355,9 @@ rank,team,conference,record
 354,Bryant,6-19,America East
 355,Kansas City,1-23,Summit League
 356,ULM,2-24,Sun Belt
-357,Rider,2-22,MAAC
-358,South Carolina St.,5-18,MEAC
-359,VMI,3-22,SoCon
+357,South Carolina St.,5-18,MEAC
+358,VMI,3-22,SoCon
+359,Rider,2-23,MAAC
 360,Binghamton,3-22,America East
 361,Delaware St.,3-18,MEAC
 362,Western Ill.,2-23,OVC
